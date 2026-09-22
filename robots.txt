@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://frankthewordsmith.github.io/sitemap.xml
+
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
