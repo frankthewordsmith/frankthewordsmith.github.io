@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace YOUR-DOMAIN.example before publishing. Add new source URLs as the archive grows. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/books.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/book-usury.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/research.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/timeline.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/references.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/articles.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/books.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/book-usury.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/central-question.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/research.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/source.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/timeline.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/references.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/articles.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/about.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/contact.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/publication.html</loc></url>
+  <url><loc>https://frankthewordsmith.github.io/synthesis.html</loc></url>
 </urlset>
