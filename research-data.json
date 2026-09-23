@@ -5284,5 +5284,39 @@
     },
     "assessment": "The bibliography layer is internally complete. Passage/reference locators are retained as source-record metadata and passage-index material rather than being forced into bibliography entries; this is consistent with Chicago's distinction between a bibliography's whole-work description and notes/locators used to verify specific claims.",
     "notes": "Edition-level and historical-identity questions still require source-by-source external verification; this audit does not promote evidence grades."
+  },
+  "audit_10_4": {
+    "title": "Source-by-Source Bibliographic Verification — Round IV",
+    "date": "2026-09-23",
+    "scope": "59 Version 10.1 source records",
+    "external_witnesses": [
+      {
+        "id": "fed-act-1913",
+        "status": "verified",
+        "note": "Federal Reserve official page confirms ch. 6, 38 Stat. 251, December 23, 1913."
+      },
+      {
+        "id": "dodd-frank-2010",
+        "status": "verified",
+        "note": "U.S. Government Publishing Office confirms Public Law 111-203, 124 Stat. 1376, July 21, 2010."
+      },
+      {
+        "id": "carolingian-usury-aachen-nijmegen",
+        "status": "needs edition lock",
+        "note": "Registry identifies MGH/Capitularia but does not yet lock the exact MGH volume/editor/pages for both Aachen 789 and Nijmegen 806."
+      },
+      {
+        "id": "calvin-de-usuris-1545",
+        "status": "needs edition lock",
+        "note": "Registry has a bibliographic witness URL but no stable critical/print edition metadata."
+      },
+      {
+        "id": "boe-charter-1694",
+        "status": "needs distinction review",
+        "note": "Registry contains both boe-1694 and boe-charter-1694; they should be checked for whether they represent distinct documents or overlapping witnesses."
+      }
+    ],
+    "method": "External verification was used only to confirm identifiable edition/statutory metadata. Where an authoritative witness did not establish a precise edition, the record is marked for further verification rather than silently upgraded.",
+    "result": "Two statutory records received high-confidence external confirmation; three records were flagged for targeted edition/document-identity review. No evidence grade was changed."
   }
 }
