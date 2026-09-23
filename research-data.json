@@ -5503,5 +5503,25 @@
       "A fresh local ZIP could not be generated in this audit because the runtime could not resolve github.com for a clone.",
       "The Version 10.2 DOI landing record was supplied by the author but has not been independently resolved through the web layer."
     ]
+  },
+  "audit_10_12": {
+    "title": "Final Mobile/Browser QA",
+    "date": "2026-09-23",
+    "scope": "Current main branch after document-structure corrections and responsive-layout review",
+    "checks": {
+      "current_head": "f38a8a30073115cfc2f4295b64b45e97aad7652b",
+      "pages_deployment": "GitHub Pages workflow completed successfully for the QA correction commit; Pages deployment workflow was still in progress at audit capture.",
+      "document_structure": "All 18 public HTML pages were checked for the required responsive viewport declaration; GA4 markup was corrected so affected pages place the Google tag inside the document head rather than before the doctype.",
+      "analytics": "GA4 measurement ID G-55SST9M73R remains present once per public HTML page; analytics initialization is not duplicated in assets/site.js.",
+      "responsive_css": "assets/style.css provides a mobile breakpoint at 800px, collapses the primary grid to one column, converts the footer to a vertical layout, and exposes the mobile navigation control.",
+      "navigation": "Mobile navigation uses aria-expanded state and the shared site.js toggle; tables use overflow scrolling and author imagery is constrained responsively.",
+      "assets": "Author photo exists at assets/author-photo.jpg; shared stylesheet and JavaScript assets are present.",
+      "article_pages": "All three published article pages contain responsive viewport metadata and in-head GA4 markup."
+    },
+    "result": "Repository-level mobile/browser QA corrections completed. The principal structural issue found was GA4 markup appearing before the HTML doctype on several older pages; this was corrected. Responsive CSS and mobile navigation architecture are internally coherent.",
+    "limitations": [
+      "A true device-level visual pass in Chrome/Safari at multiple physical viewport sizes could not be performed through the available retrieval layer.",
+      "The live site itself was not directly renderable through the web retrieval layer during this audit, so visual pixel-level checks, tap-target spacing, font rendering and browser-specific behavior remain unverified."
+    ]
   }
 }
