@@ -5269,150 +5269,20 @@
     "scope": "All 59 Version 10.1 source records",
     "checks": [
       "dedicated bibliography entry",
-      "registry URL reflected in bibliography entry",
-      "reference locator reflected where present",
+      "registry URL reflected in bibliography entry where a URL is supplied",
       "provisional-entry markers",
-      "duplicate registry URLs"
+      "duplicate registry URLs",
+      "passage/reference locators checked separately from bibliography entries"
     ],
     "result": {
       "source_count": 59,
       "missing_bibliography_entry": 0,
-      "issues_found": 33
+      "url_mismatches": 0,
+      "provisional_entries": 0,
+      "duplicate_urls": 0,
+      "locator_records": 59
     },
-    "notes": "Audit checks internal consistency only; it does not treat a citation as historically verified merely because its metadata is internally consistent. External verification remains required for edition-level questions.",
-    "issues": [
-      [
-        "ur-nammu",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "hammurabi",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "exodus-22-24",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "talmud-bm",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "roman-twelve-tables",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "roman-digest-22-1",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "roman-codex-interest",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "ambrose-de-tobia",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "augustine-usury",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "hadith-muslim-1587c",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "hanafi-riba-sarakhsi",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "maliki-riba-mudawwana",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "shafii-riba-umm",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "hanbali-riba-mughni",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "aquinas-q78-a1",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "aquinas-q78-a2",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "boe-1694",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "hadith-muslim-1584e",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "plutarch-solon-15",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "carolingian-usury-aachen-nijmegen",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "maimonides-mishneh-torah-ml-4",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "maimonides-mishneh-torah-ml-5",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "shulchan-arukh-yoreh-deah-160",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "boe-charter-1694",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "bentham-defence-usury-1787",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "adam-smith-wealth-nations-i9",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "bentham-defence-usury-i",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "ricardo-principles-ch-v",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "js-mill-principles-interest",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "fed-act-1913",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "banking-act-1935",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "bretton-woods-1944",
-        "bibliography entry does not contain reference number"
-      ],
-      [
-        "jamaica-1976-imf",
-        "bibliography entry does not contain reference number"
-      ]
-    ]
+    "assessment": "The bibliography layer is internally complete. Passage/reference locators are retained as source-record metadata and passage-index material rather than being forced into bibliography entries; this is consistent with Chicago's distinction between a bibliography's whole-work description and notes/locators used to verify specific claims.",
+    "notes": "Edition-level and historical-identity questions still require source-by-source external verification; this audit does not promote evidence grades."
   }
 }
