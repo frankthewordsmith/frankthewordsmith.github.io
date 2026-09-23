@@ -2245,7 +2245,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Aristotle. Politics. Translated by H. Rackham. Loeb Classical Library 264 (Aristotle in Twenty-Three Volumes, vol. 21). Cambridge, MA: Harvard University Press; London: William Heinemann, 1932. Politics 1.10, 1258b. https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1258b."
     },
     {
       "source_id": "plutarch-solon-15",
@@ -2305,7 +2306,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "C",
       "evidence_grade": "C",
-      "publication_status": "reconstructed, composite, fragmentary, or later-witness evidence; not a clean primary-text lock"
+      "publication_status": "reconstructed, composite, fragmentary, or later-witness evidence; not a clean primary-text lock",
+      "bibliography_entry": "Plutarch. “Life of Solon.” In The Parallel Lives, vol. 1, translated by Bernadotte Perrin. Loeb Classical Library. Cambridge, MA: Harvard University Press; London: William Heinemann, 1914. §15.3–5. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Solon%2A.html."
     },
     {
       "source_id": "justinian-codex-4-32-26",
@@ -2374,7 +2376,8 @@
       "publication_status_8_8": "B-grade — passage extracted; edition/page lock remains the gating requirement",
       "evidence_grade_8_8": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Justinian. Codex Iustinianus 4.32.26. In Corpus Iuris Civilis, vol. 2, edited by Paul Krüger. Berlin: Weidmann, 1909. C. 4.32.26.1–5. https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm."
     },
     {
       "source_id": "justinian-codex-4-32-27-28",
@@ -2433,7 +2436,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Justinian. Codex Iustinianus 4.32.27–28. In Corpus Iuris Civilis, vol. 2, edited by Paul Krüger. Berlin: Weidmann, 1909. C. 4.32.27.1–2; C. 4.32.28pr. https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm."
     },
     {
       "source_id": "trullo-canon-10",
@@ -2492,7 +2496,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Quinisext Council (Council in Trullo). “Canon 10.” In The Canons of the Quinisext Council, online translation, Fordham University Internet Medieval Sourcebook. https://sourcebooks.web.fordham.edu/basis/trullo.asp."
     },
     {
       "source_id": "carolingian-usury-aachen-nijmegen",
@@ -2616,7 +2621,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Maimonides. Sefer ha-Mitzvot, Negative Commandments 235–237. Online text, Mechon-Mamre. Accessed September 23, 2026. https://mechon-mamre.org/e/e0002.htm."
     },
     {
       "source_id": "maimonides-mishneh-torah-ml-4",
@@ -2688,7 +2694,8 @@
       "publication_status_8_8": "B-grade — passage extracted; edition/page lock remains the gating requirement",
       "evidence_grade_8_8": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Maimonides. Mishneh Torah, Hilchot Malveh ve-Loveh (Laws of Creditor and Debtor), chapter 4. Online text, Sefaria. Accessed September 23, 2026. https://www.sefaria.org/Mishneh_Torah%2C_Creditor_and_Debtor.4.5."
     },
     {
       "source_id": "maimonides-mishneh-torah-ml-5",
@@ -2754,7 +2761,8 @@
         "Sefaria Mishneh Torah, Creditor and Debtor 5:2"
       ],
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Maimonides. Mishneh Torah, Hilchot Malveh ve-Loveh (Laws of Creditor and Debtor), chapter 5. Online text, Sefaria. Accessed September 23, 2026. https://www.sefaria.org/Mishneh_Torah%2C_Creditor_and_Debtor.5.2."
     },
     {
       "source_id": "shulchan-arukh-yoreh-deah-160",
@@ -2815,7 +2823,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Karo, Joseph. Shulchan Arukh, Yoreh De'ah 160. Online text, Sefaria. Accessed September 23, 2026. https://www.sefaria.org/Shulchan_Arukh%2C_Yoreh_De%27ah.160."
     },
     {
       "source_id": "calvin-de-usuris-1545",
@@ -5183,5 +5192,23 @@
       "Historical chronology and textual/edition confidence are tracked separately."
     ],
     "closure": "The archive is publication-ready as a transparent research edition, not as a claim that every passage has a locked print page."
+  },
+  "audit_10_1": {
+    "title": "Bibliographic Scholarly Cleanup — Round I",
+    "date": "2026-09-23",
+    "records_updated": [
+      "aristotle-politics-1258b",
+      "plutarch-solon-15",
+      "justinian-codex-4-32-26",
+      "justinian-codex-4-32-27-28",
+      "trullo-canon-10",
+      "maimonides-sefer-mitzvot-235-237",
+      "maimonides-mishneh-torah-ml-4",
+      "maimonides-mishneh-torah-ml-5",
+      "shulchan-arukh-yoreh-deah-160"
+    ],
+    "method": "Normalized bibliographic entries only where the source registry already identified the work and available edition/witness details; external verification used authoritative or scholarly bibliographic witnesses. No evidence grade was changed.",
+    "citation_standard": "Chicago Notes and Bibliography; bibliography entries are alphabetized by creator/title on the public page.",
+    "result": "Nine source records received dedicated bibliography entries. Remaining unresolved records retain explicit provisional treatment until their bibliographic identity can be verified."
   }
 }
