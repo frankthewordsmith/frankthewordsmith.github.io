@@ -5318,5 +5318,56 @@
     ],
     "method": "External verification was used only to confirm identifiable edition/statutory metadata. Where an authoritative witness did not establish a precise edition, the record is marked for further verification rather than silently upgraded.",
     "result": "Two statutory records received high-confidence external confirmation; three records were flagged for targeted edition/document-identity review. No evidence grade was changed."
+  },
+  "audit_10_5": {
+    "title": "Version 10.1 Evidence-Chain Audit — Round V",
+    "date": "2026-09-23",
+    "scope": "All 59 source records",
+    "evidence_grade_distribution": {
+      "C": 4,
+      "B": 46,
+      "A": 8,
+      "D": 1
+    },
+    "checks": [
+      "source record has a dedicated bibliography entry",
+      "source record preserves passage/reference locator information where supplied",
+      "source identity is kept separate from the specific witness/edition used",
+      "evidence grades are not altered by bibliographic verification"
+    ],
+    "result": {
+      "records_audited": 59,
+      "bibliography_complete": true,
+      "records_with_passage_locator": 36,
+      "records_with_reference_number": 59,
+      "evidence_grades_unchanged": true
+    },
+    "targeted_review": [
+      {
+        "id": "carolingian-usury-aachen-nijmegen",
+        "action": "lock exact MGH edition/witness before treating edition metadata as final"
+      },
+      {
+        "id": "calvin-de-usuris-1545",
+        "action": "identify a stable critical/print bibliographic witness"
+      },
+      {
+        "id": "boe-1694",
+        "action": "compare against boe-charter-1694 and resolve whether they are distinct source records or duplicate witnesses"
+      },
+      {
+        "id": "boe-charter-1694",
+        "action": "compare against boe-1694 and resolve document identity"
+      },
+      {
+        "id": "justinian-codex-4-32-26",
+        "action": "verify Krüger edition metadata and exact statutory subdivisions against a scholarly witness"
+      },
+      {
+        "id": "justinian-codex-4-32-27-28",
+        "action": "verify Krüger edition metadata and exact statutory subdivisions against a scholarly witness"
+      }
+    ],
+    "note": "This audit records the evidence chain and outstanding verification targets. It does not infer support merely from citation presence, and it does not change any A/B/C/D grade."
   }
 }
