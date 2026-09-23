@@ -5443,5 +5443,21 @@
       "Augustine CCSL 38 p.372 exact locator remains unconfirmed; a separate direct anti-usury passage is confirmed at Enarratio in Psalmum 129, §6"
     ],
     "grades_changed": false
+  },
+  "audit_10_9": {
+    "title": "Version 10.1 Research-Integrity Structural Audit",
+    "date": "2026-09-23",
+    "scope": "59-record research registry, timeline rendering, research-library rendering, bibliography, passage metadata",
+    "results": {
+      "source_records": 59,
+      "timeline_data_source": "research-data.json; all records rendered dynamically by assets/timeline-page.js",
+      "research_library_data_source": "research-data.json; all records rendered dynamically by assets/research-page.js",
+      "bibliography_entries": 59,
+      "records_with_passage_locators": 36,
+      "records_with_passage_status": 36,
+      "structural_missing_fields": 49
+    },
+    "interpretation": "The public timeline and research library are registry-driven rather than maintaining a second hand-curated list. This audit verifies structural coverage, not the truth of every historical proposition or every quotation.",
+    "next_required": "Proposition-level quotation review remains where individual passage witnesses or exact edition/page claims are still qualified."
   }
 }
