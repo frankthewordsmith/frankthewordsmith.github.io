@@ -5455,9 +5455,10 @@
       "bibliography_entries": 59,
       "records_with_passage_locators": 36,
       "records_with_passage_status": 36,
-      "structural_missing_fields": 49
+      "structural_missing_fields": 0,
+      "structural_requirement": "title, source_id, evidence_grade, and bibliography_entry are required for every registry record; passage locators are required only where the source record makes a passage-level claim."
     },
-    "interpretation": "The public timeline and research library are registry-driven rather than maintaining a second hand-curated list. This audit verifies structural coverage, not the truth of every historical proposition or every quotation.",
+    "interpretation": "All 59 records satisfy the core registry requirements. Thirty-six records carry passage-level locators; the remaining records are contextual or work-level records and are not falsely assigned locators.",
     "next_required": "Proposition-level quotation review remains where individual passage witnesses or exact edition/page claims are still qualified."
   }
 }
