@@ -1,15 +1,15 @@
 cff-version: 1.2.0
 title: "Frank the Wordsmith — Verified Historical Timeline"
-version: "10.1"
+version: "10.2"
 date-released: "2026-09-23"
 type: software
 authors:
   - given-names: Ismail Bin
     family-names: Ebrahim
-doi: "10.5281/zenodo.22914582"
+# DOI to be inserted after Version 10.2 Zenodo publication
 url: "https://frankthewordsmith.github.io/"
 license: "All rights reserved"
-abstract: "Version 10.1 of Frank the Wordsmith, a source-conscious historical research publication website by Ismail Bin Ebrahim. This release includes the verified historical timeline, research library, source records, references, synthesis material, and the associated research dataset."
+abstract: "Version 10.2 of Frank the Wordsmith, a source-conscious historical research publication website by Ismail Bin Ebrahim. This release includes the verified historical timeline, research library, source records, references, synthesis material, and the associated research dataset."
 keywords:
   - historical research
   - historical timeline
@@ -17,4 +17,4 @@ keywords:
   - source criticism
   - evidence
   - history
-message: "If you use Version 10.1 of this publication, please cite the Zenodo record using its DOI."
+message: "If you use Version 10.2 of this publication, please cite the Zenodo record using its DOI."
