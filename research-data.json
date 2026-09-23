@@ -131,13 +131,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Martha T. Roth, Law Collections from Mesopotamia and Asia Minor, 2nd ed. (Atlanta: Scholars Press, 1997), Laws of Ur-Namma, pp. 13–39; compare CDLI composite.",
       "passage_record": {
-        "status": "Passage verified — CDLI transliteration and translation",
-        "locator": "RIME 3/2.01.01.20, composite, lines d036–d041 (Q000947)",
-        "evidence": "The composite explicitly records a 1 gur barley loan with one-year interest of 1 barig 4 ban2, and a 10-shekel silver loan with one-year interest of 2 shekels.",
-        "significance": "Direct primary-text evidence for differentiated annual interest on barley and silver loans in the Ur III legal collection.",
+        "status": "Passage verified — CDLI composite and line-level score",
+        "locator": "RIME 3/2.01.01.20, composite Q000947, lines d036–d041",
+        "evidence": "CDLI's current composite text gives the barley-loan provision at d036–d038 and the silver-loan provision at d039–d041, including the stated one-year interest amounts.",
+        "significance": "Direct primary-text evidence for differentiated annual interest provisions in the Ur-Namma legal collection.",
         "source_url": "https://cdli.earth/inscriptions/2234943",
-        "checked": "2026-09-22",
-        "verification_note": "CDLI marks the text as a composite and the relevant lines are preserved in the online transliteration/translation. The record should still distinguish the composite reconstruction from a single intact tablet witness."
+        "checked": "2026-09-23",
+        "verification_note": "CDLI identifies this as a composite with multiple witnesses; the interest wording is explicitly present at d036–d041. The archive therefore treats the passage as a reconstructed composite text, not as a single intact tablet witness."
       },
       "evidence_grade_6_4": "C",
       "evidence_grade_basis_6_4": "Later witness, reconstruction, or composite text; usable with explicit provenance labeling.",
@@ -301,7 +301,7 @@
         "significance": "Provides secure primary evidence for debt and agricultural-risk regulation while preventing a reconstructed rate passage from being presented as wholly extant.",
         "source_url": "https://avalon.law.yale.edu/ancient/hamcode.asp",
         "checked": "2026-09-22",
-        "verification_note": "Yale/Avalon explicitly marks the missing sequence after §65 and resumes at §100. This supports keeping §88 rate language in a reconstruction category while treating §§48–52 as surviving translated provisions."
+        "verification_note": "Yale/Avalon presents §§48–52 as surviving translated provisions and marks the sequence after §65 as missing before resuming at §100. The familiar §88 rate formulation is therefore retained only as a reconstruction/reference tradition, not as an intact passage in this witness."
       },
       "evidence_grade_6_4": "C",
       "evidence_grade_basis_6_4": "Later witness, reconstruction, or composite text; usable with explicit provenance labeling.",
@@ -1052,7 +1052,8 @@
         "evidence": "Selected passage uses the lender/usurer as a moral example in Ambrose’s sustained critique of usury.",
         "significance": "A directly verified patristic passage rather than a generalized attribution to Ambrose.",
         "source_url": "https://www.tertullian.org/fathers/ambrose_de_tobia_01.htm",
-        "checked": "2026-09-22"
+        "checked": "2026-09-22",
+        "verification_note": "The repository's CSEL page claim was not independently re-established in this pass; the online Tertullian witness is retained, but the CSEL page citation should be treated as requiring edition-level confirmation before being presented as locked."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1137,7 +1138,8 @@
         "evidence": "Selected passage defines the usurer by lending while expecting to receive more than was given, including return in goods rather than money.",
         "significance": "Directly verified Augustinian passage with a narrow textual claim.",
         "source_url": "",
-        "checked": "2026-09-22"
+        "checked": "2026-09-22",
+        "verification_note": "The current New Advent search witness confirms Augustine's anti-usury passage in Enarratio in Psalmum 129, §6, but this is not the same locator as the registry's Enarratio in Psalmum XXXVI 3.6. The repository's specific CCSL 38, p. 372 claim therefore remains a targeted edition-level verification item rather than being silently replaced."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1381,8 +1383,9 @@
         "locator": "Sahih Muslim 1587c",
         "evidence": "Sahih Muslim 1587c reports the six named commodities and requires equal-for-equal exchange within the same class, with hand-to-hand settlement; the online locator is stable and the archive does not treat the web translation as a substitute for a locked print edition.",
         "significance": "Primary hadith evidence for later juristic distinctions between excess and deferment in ribā.",
-        "source_url": "https://sunnah.com/muslim:1587c",
-        "checked": "2026-09-23"
+        "source_url": "https://sunnah.com/muslim/22/102",
+        "checked": "2026-09-23",
+        "verification_note": "Sunnah.com's current Book 22 listing identifies 1587c at Book 22, Hadith 102 in the current numbering presentation; the archive retains the hadith identifier rather than treating web numbering as a substitute for a critical print edition."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1866,7 +1869,8 @@
         "evidence": "Summa theologiae II–II, q.78, a.1 argues that taking payment for the use of money lent is unjust when the charge is made for the loan itself; Aquinas treats money as a consumable good in the relevant transaction.",
         "significance": "Direct scholastic argument concerning the justice of charging usury.",
         "source_url": "https://sourcebooks.web.fordham.edu/source/aquinas-usury.asp",
-        "checked": "2026-09-23"
+        "checked": "2026-09-23",
+        "verification_note": "New Advent's current text identifies Question 78, Article 1 and preserves Aquinas's objection/reply structure. For publication quotations, the archive should cite the article plus objection/reply number where applicable."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1958,7 +1962,8 @@
         "evidence": "Aquinas examines whether something beyond repayment of the principal may lawfully be received in connection with a loan.",
         "significance": "Important qualification: the treatment distinguishes the price of the loan from other causes of compensation.",
         "source_url": "https://www.newadvent.org/summa/3078.htm",
-        "checked": "2026-09-22"
+        "checked": "2026-09-22",
+        "verification_note": "New Advent's current text identifies Question 78, Article 2. The archive retains the article-level locator and requires objection/reply numbering for exact quotations."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -5402,6 +5407,23 @@
         "id": "carolingian-usury-aachen-nijmegen",
         "result": "MGH series confirmed, but exact passage-level witness remains unresolved"
       }
+    ],
+    "grades_changed": false
+  },
+  "audit_10_7": {
+    "title": "Ancient and Medieval Passage Verification — Round VI",
+    "date": "2026-09-23",
+    "scope": "Ur-Nammu, Hammurabi, Justinian, Ambrose, Augustine, hadith, and Aquinas records",
+    "verified": [
+      "Ur-Nammu d036–d041 verified directly against CDLI line-level text",
+      "Hammurabi §§48–52 and the lacuna surrounding traditional §88 verified against Yale/Avalon",
+      "Sahih Muslim 1584e and 1587c locators verified against current Sunnah.com Book 22",
+      "Aquinas II–II q.78 a.1–a.2 verified against current New Advent text",
+      "Justinian edition metadata already corrected in prior audit"
+    ],
+    "qualified": [
+      "Ambrose CSEL 32.2 p.536 requires edition-level recheck",
+      "Augustine CCSL 38 p.372 requires edition-level recheck; current web witness confirms a related anti-usury passage elsewhere"
     ],
     "grades_changed": false
   }
