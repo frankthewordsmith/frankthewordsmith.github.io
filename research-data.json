@@ -5483,5 +5483,25 @@
       "Zenodo's already-published v10.1 record predates subsequent GitHub QA commits; those later commits are not retroactively part of the archived v10.1 snapshot."
     ],
     "result": "Version 10.1 repository QA is complete; remaining operational verification is deployment completion and, separately, GA4 Realtime confirmation."
+  },
+  "audit_10_11": {
+    "title": "Version 10.2 Final Release Audit",
+    "date": "2026-09-23",
+    "scope": "Current main branch after publication of three research articles",
+    "checks": {
+      "current_head": "513b6acf5b5243b571bc1fb00294ab065d95f33b",
+      "pages_deployment": "Successful GitHub Pages deployment for current head",
+      "articles": "Three published article pages present and included in sitemap",
+      "analytics": "GA4 measurement ID G-55SST9M73R appears once in each article and once in the checked public pages; repository search confirms the current pattern",
+      "rights": "Rights & Permissions page remains linked",
+      "seo": "robots.txt and sitemap.xml present; three article URLs added to sitemap",
+      "doi_metadata": "Current main branch references Version 10.2 DOI 10.5281/zenodo.22916145; previous 10.1 DOI retained",
+      "release_tag": "Existing v10.2 Git tag points to 28d04116fd49858ac376599fe03a8924c6f43e83, which predates the three article commits"
+    },
+    "result": "Site deployment is successful and current main is internally coherent after the article publication. The existing Version 10.2 Zenodo/GitHub release snapshot predates the newly published articles; a new archival release is required if the articles are intended to be part of the immutable 10.2 DOI snapshot.",
+    "limitations": [
+      "A fresh local ZIP could not be generated in this audit because the runtime could not resolve github.com for a clone.",
+      "The Version 10.2 DOI landing record was supplied by the author but has not been independently resolved through the web layer."
+    ]
   }
 }
