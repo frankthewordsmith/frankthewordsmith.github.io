@@ -5460,5 +5460,28 @@
     },
     "interpretation": "All 59 records satisfy the core registry requirements. Thirty-six records carry passage-level locators; the remaining records are contextual or work-level records and are not falsely assigned locators.",
     "next_required": "Proposition-level quotation review remains where individual passage witnesses or exact edition/page claims are still qualified."
+  },
+  "audit_10_10": {
+    "title": "Version 10.1 Final Publication QA",
+    "date": "2026-09-23",
+    "scope": "Research integrity, bibliography, navigation, rights, analytics, DOI, SEO metadata, and GitHub Pages deployment configuration",
+    "checks": {
+      "source_registry": "59 records present; evidence distribution A=8, B=46, C=4, D=1",
+      "bibliography": "59/59 records have dedicated bibliography entries",
+      "passage_metadata": "36/59 records carry passage-level locators; qualified records remain explicitly qualified",
+      "timeline_and_library": "Both render dynamically from research-data.json",
+      "analytics": "GA4 tag G-55SST9M73R appears once per public HTML page",
+      "rights": "Rights & Permissions page linked from public pages; 404 now includes rights notice",
+      "doi": "10.5281/zenodo.22914582 present in publication page, README, and CITATION.cff",
+      "seo": "robots.txt and sitemap.xml present and aligned to the GitHub Pages site",
+      "deployment": "Latest Pages workflow triggered from final QA commit; deployment was in progress at audit time",
+      "custom_domain": "No CNAME file present; site remains configured for frankthewordsmith.github.io"
+    },
+    "limitations": [
+      "Live-site visual inspection was not available through the web retrieval layer at audit time.",
+      "Google Analytics receipt of events cannot be established from repository code alone; Realtime in the Analytics property is required.",
+      "Zenodo's already-published v10.1 record predates subsequent GitHub QA commits; those later commits are not retroactively part of the archived v10.1 snapshot."
+    ],
+    "result": "Version 10.1 repository QA is complete; remaining operational verification is deployment completion and, separately, GA4 Realtime confirmation."
   }
 }
