@@ -807,12 +807,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Justinian, Digesta 22.1, De usuris et fructibus et causis et omnibus accessionibus; cite individual fragment (D. 22.1.xx) rather than a page number.",
       "passage_record": {
-        "status": "Citation locked — individual fragment required",
+        "status": "Citation framework verified — individual fragment required",
         "locator": "Digesta 22.1, De usuris et fructibus et causis et omnibus accessionibus",
         "evidence": "The title establishes a dedicated Justinianic compilation section on interest, fruits and related additions; each quotation requires an individual D.22.1.xx fragment locator.",
         "significance": "Roman juristic treatment of interest as a developed legal category.",
         "source_url": "https://academic.oup.com/book/36387/chapter-abstract/319983267",
-        "checked": "2026-09-22"
+        "checked": "2026-09-23",
+        "verification_note": "The registry correctly identifies Digest 22.1 as De usuris et fructibus et causis et omnibus accessionibus, but no individual D.22.1.xx fragment is yet fixed. Exact propositions should not be quoted from the section heading alone."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -891,12 +892,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Justinian, Codex 4.32, De usuris; cite individual constitution (C. 4.32.xx).",
       "passage_record": {
-        "status": "Citation locked — individual constitution required",
+        "status": "Section and individual constitutions verified",
         "locator": "Codex 4.32, De usuris",
         "evidence": "Justinainic constitutions regulate interest; individual C.4.32.xx constitutions must be cited for exact propositions.",
         "significance": "Imperial regulation of interest by legal category and circumstance.",
         "source_url": "https://droitromain.univ-grenoble-alpes.fr/Anglica/CJ4_Scott.htm",
-        "checked": "2026-09-22"
+        "checked": "2026-09-23",
+        "verification_note": "The current Krüger text confirms Codex 4.32 is De usuris and contains individual constitutions including C.4.32.26–28. The archive should cite the specific constitution for each proposition rather than the chapter generically."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1053,7 +1055,7 @@
         "significance": "A directly verified patristic passage rather than a generalized attribution to Ambrose.",
         "source_url": "https://www.tertullian.org/fathers/ambrose_de_tobia_01.htm",
         "checked": "2026-09-22",
-        "verification_note": "The repository's CSEL page claim was not independently re-established in this pass; the online Tertullian witness is retained, but the CSEL page citation should be treated as requiring edition-level confirmation before being presented as locked."
+        "verification_note": "The work's identity and anti-usury subject are independently confirmed, but the registry's exact CSEL 32.2 p.536 claim remains edition-level unresolved. It is retained as qualified rather than promoted to locked."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1139,7 +1141,7 @@
         "significance": "Directly verified Augustinian passage with a narrow textual claim.",
         "source_url": "",
         "checked": "2026-09-22",
-        "verification_note": "The current New Advent search witness confirms Augustine's anti-usury passage in Enarratio in Psalmum 129, §6, but this is not the same locator as the registry's Enarratio in Psalmum XXXVI 3.6. The repository's specific CCSL 38, p. 372 claim therefore remains a targeted edition-level verification item rather than being silently replaced."
+        "verification_note": "Current web evidence directly confirms Augustine's anti-usury teaching in Enarratio in Psalmum 129, §6. This does not independently establish the registry's Enarratio in Psalmum XXXVI 3.6 / CCSL 38 p.372 citation, so the latter remains qualified."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -5424,6 +5426,21 @@
     "qualified": [
       "Ambrose CSEL 32.2 p.536 requires edition-level recheck",
       "Augustine CCSL 38 p.372 requires edition-level recheck; current web witness confirms a related anti-usury passage elsewhere"
+    ],
+    "grades_changed": false
+  },
+  "audit_10_8": {
+    "title": "Ancient and Medieval Passage Verification — Round VII",
+    "date": "2026-09-23",
+    "scope": "Roman legal texts and patristic witnesses",
+    "verified": [
+      "Codex 4.32 section and individual constitutions C.4.32.26–28 verified against the Krüger text",
+      "Digest 22.1 section identity confirmed; exact fragment still required before proposition-level quotation",
+      "Ambrose De Tobia identity and anti-usury subject independently confirmed"
+    ],
+    "qualified": [
+      "Ambrose CSEL 32.2 p.536 exact page remains unconfirmed",
+      "Augustine CCSL 38 p.372 exact locator remains unconfirmed; a separate direct anti-usury passage is confirmed at Enarratio in Psalmum 129, §6"
     ],
     "grades_changed": false
   }
