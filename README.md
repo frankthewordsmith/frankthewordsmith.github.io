@@ -9,14 +9,14 @@ The site is deployed from the `main` branch using GitHub Actions and GitHub Page
 https://frankthewordsmith.github.io/
 
 ## Publication
-**Verified Historical Timeline — Version 10.1**
+**Verified Historical Timeline — Version 10.2**
 
-**DOI:** https://doi.org/10.5281/zenodo.22914582
+**DOI:** Previous Version 10.1 DOI: https://doi.org/10.5281/zenodo.22914582
 
 The timeline UI is deliberately source-conscious: records carry evidence grades and source notes. The publication dataset should only be expanded with records whose supporting evidence has been verified.
 
 ### Citation
 
-Ebrahim, Ismail Bin. *Frank the Wordsmith — Verified Historical Timeline*, Version 10.1 (2026). Zenodo. https://doi.org/10.5281/zenodo.22914582
+Ebrahim, Ismail Bin. *Frank the Wordsmith — Verified Historical Timeline*, Version 10.2 (2026). Zenodo. New Version 10.2 DOI will be inserted after publication. Previous Version 10.1 DOI: https://doi.org/10.5281/zenodo.22914582
 
 © 2026 Ismail Bin Ebrahim. All rights reserved.
