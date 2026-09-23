@@ -2024,7 +2024,7 @@
       ],
       "citation_record": "Bank of England, official institutional history, “History of the Bank”; cite the web page and access date for current web content.",
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
-      "bibliography_entry": "Bank of England, official institutional history, “History of the Bank”; cite the web page and access date for current web content.",
+      "bibliography_entry": "Bank of England. “History.” Bank of England, accessed September 23, 2026. https://www.bankofengland.co.uk/about/history. Institutional history used for the 1694 foundation context; distinct from the 27 July 1694 Royal Charter.",
       "passage_record": {
         "status": "Institutional primary-source locator",
         "locator": "Bank of England foundation charter / official history, 1694",
@@ -2377,7 +2377,7 @@
       "evidence_grade_8_8": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "Justinian. Codex Iustinianus 4.32.26. In Corpus Iuris Civilis, vol. 2, edited by Paul Krüger. Berlin: Weidmann, 1909. C. 4.32.26.1–5. https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm."
+      "bibliography_entry": "Justinian. Codex Iustinianus 4.32.26. In Corpus Iuris Civilis, vol. 2, edited by Paul Krüger. Berlin: Weidmann, 1877. C. 4.32.26.1–5. https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm."
     },
     {
       "source_id": "justinian-codex-4-32-27-28",
@@ -2437,7 +2437,7 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "Justinian. Codex Iustinianus 4.32.27–28. In Corpus Iuris Civilis, vol. 2, edited by Paul Krüger. Berlin: Weidmann, 1909. C. 4.32.27.1–2; C. 4.32.28pr. https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm."
+      "bibliography_entry": "Justinian. Codex Iustinianus 4.32.27–28. In Corpus Iuris Civilis, vol. 2, edited by Paul Krüger. Berlin: Weidmann, 1877. C. 4.32.27.1–2; C. 4.32.28pr. https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm."
     },
     {
       "source_id": "trullo-canon-10",
@@ -2561,7 +2561,7 @@
       "evidence_grade_8_1": "D",
       "evidence_grade": "D",
       "publication_status": "unresolved research target; do not use as a locked passage",
-      "bibliography_entry": "Aachen 789 and Nijmegen 806. “Capitularia” legislation concerning lending and usury. In the Capitularia regum Francorum corpus. Monumenta Germaniae Historica. Edition-specific passage citation remains pending."
+      "bibliography_entry": "Boretius, Alfred, and Victor Krause, eds. Capitularia regum Francorum. Monumenta Germaniae Historica, Legum sectio II, vols. 1–2. Hannoverae: Hahn, 1883–1897. The registry’s Aachen/Nijmegen identification requires a passage-level edition check before a more specific section/page citation is assigned."
     },
     {
       "source_id": "maimonides-sefer-mitzvot-235-237",
@@ -2875,7 +2875,7 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "Calvin, John. De Usuris Responsum. 1545–1546. Letter to Claude de Sachin. Online bibliographic witness: Landesarchiv Baden-Württemberg / Leo-BW. https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/bsz_swb/1507541090/Anlageberatung+mit+Johan+Calvin+sein+de+usuris+responsum+von+1545-46+zwischen+Patristik+und+%C3%96konomik."
+      "bibliography_entry": "Calvin, John. De Usuris Responsum. 1545–1546. Letter to Claude de Sachin. Exact primary-text edition/witness remains to be locked; secondary bibliographic witness: Kristian Hungar, “Anlageberatung mit Johan Calvin sein de usuris responsum von 1545/46 zwischen Patristik und Ökonomik,” 2015, 229–247. https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/bsz_swb/1507541090/Anlageberatung+mit+Johan+Calvin+sein+de+usuris+responsum+von+1545-46+zwischen+Patristik+und+%C3%96konomik."
     },
     {
       "source_id": "henry-viii-usury-act-1545",
@@ -3081,7 +3081,7 @@
       ],
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "England. Bank of England Charter. 27 July 1694. Charter and related archival materials. Bank of England. https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf."
+      "bibliography_entry": "William III and Mary II. “Charter of the Corporation of the Governor and Company of the Bank of England.” 27 July 1694. Bank of England Archives, M6/48. https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf."
     },
     {
       "source_id": "bank-act-1694",
@@ -5340,32 +5340,39 @@
       "bibliography_complete": true,
       "records_with_passage_locator": 36,
       "records_with_reference_number": 59,
-      "evidence_grades_unchanged": true
+      "evidence_grades_unchanged": true,
+      "targeted_review_completed": 6
     },
     "targeted_review": [
       {
         "id": "carolingian-usury-aachen-nijmegen",
-        "action": "lock exact MGH edition/witness before treating edition metadata as final"
+        "status": "bibliographic edition identified",
+        "finding": "Boretius and Krause, Capitularia regum Francorum, MGH Legum sectio II, vols. 1–2, Hannoverae: Hahn, 1883–1897. Passage-level identification remains open."
       },
       {
         "id": "calvin-de-usuris-1545",
-        "action": "identify a stable critical/print bibliographic witness"
+        "status": "qualified",
+        "finding": "The retrieved Leo-BW record is a 2015 secondary article by Kristian Hungar about Calvin's De Usuris Responsum, not the primary text itself. The bibliography now explicitly labels it as a secondary witness."
       },
       {
         "id": "boe-1694",
-        "action": "compare against boe-charter-1694 and resolve whether they are distinct source records or duplicate witnesses"
+        "status": "resolved",
+        "finding": "Institutional history is retained as contextual/institutional evidence."
       },
       {
         "id": "boe-charter-1694",
-        "action": "compare against boe-1694 and resolve document identity"
+        "status": "resolved",
+        "finding": "The 27 July 1694 Royal Charter is treated as a distinct primary document; Bank of England archive record M6/48 confirms the original charter."
       },
       {
         "id": "justinian-codex-4-32-26",
-        "action": "verify Krüger edition metadata and exact statutory subdivisions against a scholarly witness"
+        "status": "corrected",
+        "finding": "Paul Krüger's Codex Iustinianus, Corpus Iuris Civilis vol. II is bibliographically attested as Berlin: Weidmann, 1877; the previous 1909 date was incorrect."
       },
       {
         "id": "justinian-codex-4-32-27-28",
-        "action": "verify Krüger edition metadata and exact statutory subdivisions against a scholarly witness"
+        "status": "corrected",
+        "finding": "Same edition correction: Berlin: Weidmann, 1877."
       }
     ],
     "note": "This audit records the evidence chain and outstanding verification targets. It does not infer support merely from citation presence, and it does not change any A/B/C/D grade."
