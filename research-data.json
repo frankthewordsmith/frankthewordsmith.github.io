@@ -2560,7 +2560,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "D",
       "evidence_grade": "D",
-      "publication_status": "unresolved research target; do not use as a locked passage"
+      "publication_status": "unresolved research target; do not use as a locked passage",
+      "bibliography_entry": "Aachen 789 and Nijmegen 806. “Capitularia” legislation concerning lending and usury. In the Capitularia regum Francorum corpus. Monumenta Germaniae Historica. Edition-specific passage citation remains pending."
     },
     {
       "source_id": "maimonides-sefer-mitzvot-235-237",
@@ -2873,7 +2874,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Calvin, John. De Usuris Responsum. 1545–1546. Letter to Claude de Sachin. Online bibliographic witness: Landesarchiv Baden-Württemberg / Leo-BW. https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/bsz_swb/1507541090/Anlageberatung+mit+Johan+Calvin+sein+de+usuris+responsum+von+1545-46+zwischen+Patristik+und+%C3%96konomik."
     },
     {
       "source_id": "henry-viii-usury-act-1545",
@@ -2922,7 +2924,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "England. Usury Act 1545 (37 Hen. VIII c. 9). Statute of the Realm. Exact historical print edition not yet locked. https://vlex.co.uk/vid/usury-act-1545-861268174."
     },
     {
       "source_id": "elizabeth-usury-act-1571",
@@ -2972,7 +2975,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "England. Usury Act 1571 (13 Eliz. I c. 8). Statute of the Realm. Exact historical print edition not yet locked. https://constitution.org/1-Constitution/tb/tb5.htm."
     },
     {
       "source_id": "james-usury-act-1624",
@@ -3022,7 +3026,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "England. Usury Act 1624 (21 Jac. I c. 17). Statute of the Realm. Exact historical print edition not yet locked. https://constitution.org/1-Constitution/tb/tb5.htm."
     },
     {
       "source_id": "boe-charter-1694",
@@ -3075,7 +3080,8 @@
         "Bank of England related material 10A287/4 pp.5–20"
       ],
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "England. Bank of England Charter. 27 July 1694. Charter and related archival materials. Bank of England. https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf."
     },
     {
       "source_id": "bank-act-1694",
@@ -3130,7 +3136,8 @@
         "Wikimedia Commons point-in-time PDF reproduction"
       ],
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "England. Bank of England Act 1694 (5 & 6 Will. & Mar. c. 20). Statute of the Realm. Exact historical print edition not yet locked. https://statutes.uk/bank-of-england-act-1694."
     },
     {
       "source_id": "bentham-defence-usury-1787",
@@ -3186,7 +3193,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked"
+      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "bibliography_entry": "Bentham, Jeremy. Defence of Usury. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1."
     },
     {
       "source_id": "adam-smith-wealth-nations-i9",
@@ -3227,7 +3235,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked"
+      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "bibliography_entry": "Smith, Adam. An Inquiry into the Nature and Causes of the Wealth of Nations. Edited by R. H. Campbell and A. S. Skinner. Glasgow Edition of the Works and Correspondence of Adam Smith, vol. 2. Oxford: Clarendon Press, 1976. Book I, chapter IX. https://www.adamsmithworks.org/documents/wn-reading-guide-book-i-chapter-ix."
     },
     {
       "source_id": "bentham-defence-usury-i",
@@ -3273,7 +3282,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked"
+      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "bibliography_entry": "Bentham, Jeremy. Defence of Usury. Letter I. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1."
     },
     {
       "source_id": "ricardo-principles-ch-v",
@@ -3314,7 +3324,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked"
+      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "bibliography_entry": "Ricardo, David. On the Principles of Political Economy and Taxation. London: John Murray, 1817. First edition. Chapter V. https://www.gutenberg.org/files/33310/33310-h/33310-h.htm."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -3350,7 +3361,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United Kingdom. Bank Charter Act 1844 (7 & 8 Vict. c. 32). Statute of the Realm. https://www.legislation.gov.uk/ukpga/1844/32/contents."
     },
     {
       "source_id": "usury-laws-repeal-1854",
@@ -3386,7 +3398,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United Kingdom. Usury Laws Repeal Act 1854 (17 & 18 Vict. c. 90). Statute of the Realm. https://www.legislation.gov.uk/ukpga/Vict/17-18/90/pdfs/ukpga_18540090_en.pdf."
     },
     {
       "source_id": "js-mill-principles-interest",
@@ -3425,7 +3438,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Mill, John Stuart. Principles of Political Economy. Book III, chapter XXIII, “Of the Rate of Interest.” Online edition. https://oll-resources.s3.amazonaws.com/titles/243/Mill_0223-03_EBk_v6.0.pdf."
     },
     {
       "source_id": "fed-act-1913",
@@ -3473,7 +3487,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United States. Federal Reserve Act. Pub. L. 63-43, ch. 6, 38 Stat. 251 (1913). Federal Reserve Board historical text. https://www.federalreserve.gov/frrs/statutes/federal-reserve-act.htm."
     },
     {
       "source_id": "banking-act-1933",
@@ -3522,7 +3537,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United States. Banking Act of 1933. Pub. L. 73-66, 48 Stat. 162. Federal Reserve History. https://www.federalreservehistory.org/essays/glass-steagall-act."
     },
     {
       "source_id": "banking-act-1935",
@@ -3572,7 +3588,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United States. Banking Act of 1935. Pub. L. 74-305, 49 Stat. 684. Federal Reserve History. https://www.federalreservehistory.org/essays/banking-act-of-1935."
     },
     {
       "source_id": "bretton-woods-1944",
@@ -3621,7 +3638,8 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked"
+      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "bibliography_entry": "United Nations Monetary and Financial Conference. Final Act and Related Documents of the United Nations Monetary and Financial Conference, Bretton Woods, New Hampshire, July 1–22, 1944. Washington, DC: U.S. Government Printing Office, 1944. Annex A; Articles I–IV (IMF). https://www.imf.org/en/publications/ft/aa/index."
     },
     {
       "source_id": "bretton-woods-act-1945",
@@ -3667,7 +3685,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United States. Bretton Woods Agreements Act. Pub. L. 79-171, 59 Stat. 512 (1945). U.S. Department of State, Office of the Historian. https://history.state.gov/historicaldocuments/frus1946v01/d716."
     },
     {
       "source_id": "nixon-1971",
@@ -3714,7 +3733,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "Nixon, Richard. “Address to the Nation Outlining a New Economic Policy.” August 15, 1971. The American Presidency Project. https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace."
     },
     {
       "source_id": "jamaica-1976-imf",
@@ -3765,7 +3785,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "International Monetary Fund. “Second Amendment of the Articles of Agreement of the International Monetary Fund,” 1976–1978. Article IV. IMF eLibrary. https://www.elibrary.imf.org/display/book/9781451931068/ch037.xml."
     },
     {
       "source_id": "dodd-frank-2010",
@@ -3813,7 +3834,8 @@
       "conversion_status_8_1": "Reviewed — retain existing grade; A-grade promotion not yet earned.",
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open"
+      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "bibliography_entry": "United States. Dodd-Frank Wall Street Reform and Consumer Protection Act. Pub. L. 111-203, 124 Stat. 1376 (2010). U.S. Government Publishing Office. https://www.govinfo.gov/app/details/PLAW-111publ203."
     },
     {
       "source_id": "uk-bretton-woods-act-1945",
@@ -5210,5 +5232,35 @@
     "method": "Normalized bibliographic entries only where the source registry already identified the work and available edition/witness details; external verification used authoritative or scholarly bibliographic witnesses. No evidence grade was changed.",
     "citation_standard": "Chicago Notes and Bibliography; bibliography entries are alphabetized by creator/title on the public page.",
     "result": "Nine source records received dedicated bibliography entries. Remaining unresolved records retain explicit provisional treatment until their bibliographic identity can be verified."
+  },
+  "audit_10_2": {
+    "title": "Bibliographic Scholarly Cleanup — Round II",
+    "date": "2026-09-23",
+    "records_updated": [
+      "carolingian-usury-aachen-nijmegen",
+      "calvin-de-usuris-1545",
+      "henry-viii-usury-act-1545",
+      "elizabeth-usury-act-1571",
+      "james-usury-act-1624",
+      "boe-charter-1694",
+      "bank-act-1694",
+      "bentham-defence-usury-1787",
+      "bentham-defence-usury-i",
+      "adam-smith-wealth-nations-i9",
+      "ricardo-principles-ch-v",
+      "bank-charter-act-1844",
+      "usury-laws-repeal-1854",
+      "js-mill-principles-interest",
+      "fed-act-1913",
+      "banking-act-1933",
+      "banking-act-1935",
+      "bretton-woods-1944",
+      "bretton-woods-act-1945",
+      "nixon-1971",
+      "jamaica-1976-imf",
+      "dodd-frank-2010"
+    ],
+    "method": "Normalized the remaining identifiable bibliography records using the metadata already present in the Version 10.1 source registry. Statutes and institutional documents retain their formal identifiers; records without a locked historical print edition remain explicitly qualified.",
+    "result": "Twenty-two additional source records received dedicated bibliography entries. No evidence grade or historical claim was changed."
   }
 }
