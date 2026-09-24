@@ -118,7 +118,7 @@ function apply(k){
  if(lang==='bn'){document.querySelectorAll('body *').forEach(el=>{
    if(el.children.length===0){
      const t=(el.textContent||'').trim();
-     if(t&&page[t])el.textContent=page[t];
+     if(t&&page[t]){const v=page[t];if(v.includes('<')&&v.includes('>'))el.innerHTML=v;else el.textContent=v;}
    }
  });
  if(TITLES[pageName()])document.title=TITLES[pageName()];
