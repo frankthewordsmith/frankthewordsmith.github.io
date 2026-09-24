@@ -116,9 +116,11 @@ function apply(k){
  document.querySelectorAll('nav a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.nav[h])a.textContent=l.nav[h]});
  document.querySelectorAll('footer a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.foot[h])a.textContent=l.foot[h]});
  if(lang==='bn'){document.querySelectorAll('body *').forEach(el=>{
-   if(el.children.length===0){
-     const t=(el.textContent||'').trim();
-     if(t&&page[t]){const v=page[t];if(v.includes('<')&&v.includes('>'))el.innerHTML=v;else el.textContent=v;}
+   const t=(el.textContent||'').trim();
+   if(t&&page[t]){
+     const v=page[t];
+     if(v.includes('<')&&v.includes('>'))el.innerHTML=v;
+     else if(el.children.length===0)el.textContent=v;
    }
  });
  if(TITLES[pageName()])document.title=TITLES[pageName()];
