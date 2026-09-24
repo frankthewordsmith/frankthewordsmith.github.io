@@ -103,6 +103,9 @@ const ARTICLE_BODY={
 }
 };
 function pageName(){return location.pathname.split('/').pop()||'index.html'}
+const TITLES={'index.html':'ফ্র্যাঙ্ক দ্য ওয়ার্ডস্মিথ | বই, ধারণা ও গবেষণা','about.html':'পরিচিতি ও পদ্ধতি | FranktheWordsmith','books.html':'বই | FranktheWordsmith','contact.html':'যোগাযোগ | FranktheWordsmith','articles.html':'প্রবন্ধ | FranktheWordsmith','book-usury.html':'কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে? | FranktheWordsmith','central-question.html':'কেন্দ্রীয় প্রশ্ন | FranktheWordsmith','research.html':'গবেষণা-সংগ্রহ | FranktheWordsmith','timeline.html':'৪,০০০ বছরের উদ্ধৃতি-ভিত্তিক কালপঞ্জি | FranktheWordsmith','references.html':'গ্রন্থপঞ্জি ও রেফারেন্স | FranktheWordsmith','source.html':'উৎস | FranktheWordsmith','synthesis.html':'৪,০০০ বছরের উদ্ধৃতি-ভিত্তিক সংশ্লেষণ — সংস্করণ ১০.২','publication.html':'প্রকাশনা সংস্করণ | FranktheWordsmith','rights.html':'অধিকার ও অনুমতি | FranktheWordsmith','article-4000-year-history.html':'সুদের ৪,০০০ বছরের ইতিহাস | FranktheWordsmith','article-hammurabi.html':'হাম্মুরাবি আসলে কী নিয়ন্ত্রণ করেছিলেন | FranktheWordsmith','article-language-of-war.html':'যুদ্ধের ভাষা কেন? | FranktheWordsmith','404.html':'পৃষ্ঠা পাওয়া যায়নি | FranktheWordsmith'};
+const ATTR={'research.html':{'Search the research library':'গবেষণা-সংগ্রহে খুঁজুন','Search sources, terms, civilizations…':'উৎস, পরিভাষা, সভ্যতা খুঁজুন…'}};
+window.FTW_I18N={isBangla:()=>((localStorage.getItem(K)||'en')==='bn')};
 function apply(k){
  const lang=k==='bn'?'bn':'en', l=NAV[lang], page=P[pageName()]||{};
  document.documentElement.lang=lang; document.documentElement.dir='ltr';
@@ -117,14 +120,9 @@ function apply(k){
      if(t&&page[t])el.textContent=page[t];
    }
  });
- const titles={'article-4000-year-history.html':'সুদের ৪,০০০ বছরের ইতিহাস | FranktheWordsmith','article-hammurabi.html':'হাম্মুরাবি আসলে কী নিয়ন্ত্রণ করেছিলেন | FranktheWordsmith','article-language-of-war.html':'যুদ্ধের ভাষা কেন? | FranktheWordsmith','404.html':'পৃষ্ঠা পাওয়া যায়নি | FranktheWordsmith'};
- if(titles[pageName()])document.title=titles[pageName()];
- }
-   if(page['Why Only Usury Invokes Allah\\'s War?'])document.title='কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে? | FranktheWordsmith';
-   else if(page['Books'])document.title='বই | FranktheWordsmith';
-   else if(page['Contact'])document.title='যোগাযোগ | FranktheWordsmith';
-   else if(page['Articles'])document.title='প্রবন্ধ | FranktheWordsmith';
-   else if(page['Central Question'])document.title='কেন্দ্রীয় প্রশ্ন | FranktheWordsmith';
+ if(TITLES[pageName()])document.title=TITLES[pageName()];
+  const attrs=ATTR[pageName()]||{};
+  document.querySelectorAll('input[aria-label],input[placeholder],button[aria-label]').forEach(el=>['aria-label','placeholder'].forEach(a=>{const v=el.getAttribute(a);if(v&&attrs[v])el.setAttribute(a,attrs[v])}));
  }
 }
 function init(){
