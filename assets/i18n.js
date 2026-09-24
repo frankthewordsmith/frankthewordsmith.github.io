@@ -20,7 +20,7 @@ const ARTICLES={
 'article-hammurabi.html':{'Home':'হোম','Articles':'প্রবন্ধ','What Hammurabi Actually Regulated':'হাম্মুরাবি আসলে কী নিয়ন্ত্রণ করেছিলেন','Primary-Source Essay · 23 September 2026':'প্রাথমিক-উৎস প্রবন্ধ · ২৩ সেপ্টেম্বর ২০২৬','A close look at debt, agricultural failure and interest in the Code of Hammurabi—and at the difference between surviving text and reconstruction.':'হাম্মুরাবির বিধিসংহিতায় ঋণ, কৃষি-ব্যর্থতা ও সুদের নিবিড় পর্যালোচনা—এবং টিকে থাকা পাঠ্য ও পুনর্গঠনের পার্থক্য।','The first question is what survives':'প্রথম প্রশ্ন হলো কী টিকে আছে','Section 48 and agricultural risk':'ধারা ৪৮ ও কৃষিগত ঝুঁকি','What about 20% and 33⅓%?':'২০% ও ৩৩⅓% সম্পর্কে কী বলা যায়?','Law is not the same thing as every transaction':'আইন মানেই প্রতিটি লেনদেন নয়','Why this matters':'এটি কেন গুরুত্বপূর্ণ'},
 'article-language-of-war.html':{'Home':'হোম','Articles':'প্রবন্ধ','Why the Language of War?':'যুদ্ধের ভাষা কেন?','Textual Essay · 23 September 2026':'পাঠ্যভিত্তিক প্রবন্ধ · ২৩ সেপ্টেম্বর ২০২৬','Qur’an 2:275–279 contains some of the strongest language in the Qur’anic discussion of ribā. What does the passage itself say?':'কুরআন ২:২৭৫–২৭৯-এ রিবা নিয়ে কুরআনিক আলোচনার সবচেয়ে শক্তিশালী ভাষাগুলোর কিছু রয়েছে। উদ্ধৃতিটি নিজে কী বলে?','Begin with the passage':'উদ্ধৃতি দিয়ে শুরু করুন','Text before interpretation':'ব্যাখ্যার আগে পাঠ্য','What the passage does not settle by itself':'উদ্ধৃতিটি নিজে যা নির্ধারণ করে না','Why the language matters':'এই ভাষা কেন গুরুত্বপূর্ণ','Read the evidence':'প্রমাণ পড়ুন','source record':'উৎস-রেকর্ড','references':'রেফারেন্স'}
 };
-const P={
+const P={'404.html':{'Page not found.':'পৃষ্ঠা পাওয়া যায়নি।','The page you requested does not exist.':'আপনার অনুরোধ করা পৃষ্ঠাটি বিদ্যমান নেই।','Return to FranktheWordsmith':'FranktheWordsmith-এ ফিরে যান'},
 'index.html':{
 'Source-first research':'উৎস-প্রথম গবেষণা',
 'Books, ideas, and the questions behind them.':'বই, ধারণা এবং সেগুলোর অন্তর্নিহিত প্রশ্ন।',
@@ -111,13 +111,15 @@ function apply(k){
  const lab=document.querySelector('.language-selector label'); if(lab)lab.textContent=l.label;
  document.querySelectorAll('nav a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.nav[h])a.textContent=l.nav[h]});
  document.querySelectorAll('footer a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.foot[h])a.textContent=l.foot[h]});
- if(lang==='bn')document.querySelectorAll('body *').forEach(el=>{
+ if(lang==='bn'){document.querySelectorAll('body *').forEach(el=>{
    if(el.children.length===0){
      const t=(el.textContent||'').trim();
      if(t&&page[t])el.textContent=page[t];
    }
  });
- if(lang==='bn'){
+ const titles={'article-4000-year-history.html':'সুদের ৪,০০০ বছরের ইতিহাস | FranktheWordsmith','article-hammurabi.html':'হাম্মুরাবি আসলে কী নিয়ন্ত্রণ করেছিলেন | FranktheWordsmith','article-language-of-war.html':'যুদ্ধের ভাষা কেন? | FranktheWordsmith','404.html':'পৃষ্ঠা পাওয়া যায়নি | FranktheWordsmith'};
+ if(titles[pageName()])document.title=titles[pageName()];
+ }
    if(page['Why Only Usury Invokes Allah\\'s War?'])document.title='কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে? | FranktheWordsmith';
    else if(page['Books'])document.title='বই | FranktheWordsmith';
    else if(page['Contact'])document.title='যোগাযোগ | FranktheWordsmith';
