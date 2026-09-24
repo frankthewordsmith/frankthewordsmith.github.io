@@ -246,7 +246,7 @@
       "region": "Mesopotamia",
       "language": "Akkadian",
       "original_term": "ṣibtu (interest); kaspu (silver); še (barley/grain)",
-      "original_text": "",
+      "original_text": "šumma awīlum ḫubullum elišu ibaššīma eqlassu Adad irtaḫḫiṣ...",
       "translation": "For research purposes: the relevant provisions regulate debt and lending, including relief from interest in certain agricultural-failure circumstances (§48), while the interest-rate provisions for silver and grain are preserved in a lacuna and reconstructed from other textual witnesses. Standard scholarship gives 20% for silver loans and about 33⅓% for barley loans.",
       "translator": "For the public-domain online translation: L. W. King (1910). For the scholarly research record: Martha T. Roth (1997).",
       "edition": "Martha T. Roth, Law Collections from Mesopotamia and Asia Minor, 2nd ed. (Atlanta: Scholars Press, 1997), Laws of Hammurabi, pp. 71–142.",
@@ -329,8 +329,8 @@
       "region": "Levant",
       "language": "Hebrew",
       "original_term": "נֶשֶׁךְ (neshekh)",
-      "original_text": "",
-      "translation": "",
+      "original_text": "אִם־כֶּסֶף תַּלְוֶה אֶת־עַמִּי אֶת־הֶעָנִי עִמָּךְ לֹא־תִהְיֶה לוֹ כְּנֹשֶׁה...",
+      "translation": "If you lend money to My people, to the poor among you, do not act toward them as a creditor; do not exact interest.",
       "translator": "",
       "edition": "The Hebrew Bible: New JPS Translation according to the Traditional Hebrew Text",
       "publisher": "Jewish Publication Society",
@@ -401,8 +401,8 @@
       "region": "Levant",
       "language": "Hebrew",
       "original_term": "נֶשֶׁךְ / תַּרְבִּית",
-      "original_text": "",
-      "translation": "",
+      "original_text": "אַל־תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית... אֶת־כַּסְפְּךָ לֹא־תִתֵּן לוֹ בְנֶשֶׁךְ",
+      "translation": "Do not exact advance or accrued interest from him; do not lend your money at advance interest, nor your food at accrued interest.",
       "translator": "",
       "edition": "The Hebrew Bible: New JPS Translation according to the Traditional Hebrew Text",
       "publisher": "Jewish Publication Society",
@@ -475,8 +475,8 @@
       "region": "Levant",
       "language": "Hebrew",
       "original_term": "נֶשֶׁךְ",
-      "original_text": "",
-      "translation": "",
+      "original_text": "לֹא־תַשִּׁיךְ לְאָחִיךָ נֶשֶׁךְ כֶּסֶף נֶשֶׁךְ אֹכֶל נֶשֶׁךְ כָּל־דָּבָר",
+      "translation": "You shall not charge your fellow Israelite interest—interest on money, food, or anything else that may be lent at interest. You may charge a foreigner interest, but not your Israelite kin.",
       "translator": "",
       "edition": "The Hebrew Bible: New JPS Translation according to the Traditional Hebrew Text",
       "publisher": "Jewish Publication Society",
@@ -547,8 +547,8 @@
       "region": "Roman Palestine",
       "language": "Hebrew",
       "original_term": "נֶשֶׁךְ / רִבִּית / תַּרְבִּית",
-      "original_text": "",
-      "translation": "",
+      "original_text": "אֵיזֶהוּ נֶשֶׁךְ וְאֵיזֶהוּ תַרְבִּית?",
+      "translation": "The tractate opens by asking what constitutes neshekh (interest) and tarbit (increase), then gives examples of prohibited lending arrangements.",
       "translator": "",
       "edition": "Mishnah, Seder Nezikin, Bava Metzia 5; Koren-Steinsaltz digital edition",
       "publisher": "Koren Publishers / Sefaria",
@@ -622,8 +622,8 @@
       "region": "Sasanian / Mesopotamian scholarly world",
       "language": "Aramaic/Hebrew",
       "original_term": "ריבית (ribbit)",
-      "original_text": "",
-      "translation": "",
+      "original_text": "אֵיזֶהוּ נֶשֶׁךְ? הַמַּלְוֶה סֶלַע בַּחֲמִשָּׁה דִינָרִין...",
+      "translation": "The sugya defines neshekh and tarbit and discusses forms of advance and delayed interest, including transactions structured around a loan.",
       "translator": "",
       "edition": "Vilna Shas / standard Bavli pagination; use a named critical/digital edition for quotations",
       "publisher": "Various",
@@ -696,8 +696,8 @@
       "region": "Italy",
       "language": "Latin",
       "original_term": "fenus / unciarium (interpretive terminology)",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Original Latin text is fragmentary and survives through later witnesses; the archive does not reproduce a reconstructed Latin wording without a critical-edition check.",
+      "translation": "The Twelve Tables tradition is fragmentary. This record therefore identifies the relevant Tabula VIII tradition without presenting a reconstructed sentence as an intact primary witness.",
       "translator": "",
       "edition": "Fontes Iuris Romani Antejustiniani; modern translations should identify the edition",
       "publisher": "Multiple",
@@ -768,8 +768,8 @@
       "region": "Mediterranean",
       "language": "Latin",
       "original_term": "usura / usurae",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Original Latin text not reproduced here without edition-level verification; see Digest 22.1, De usuris et fructibus et causis et omnibus accessionibus.",
+      "translation": "Digest 22.1 is the Roman legal title concerning interest, fruits, causes, and related accessions; the record uses the title and locator rather than an unverified reconstructed quotation.",
       "translator": "",
       "edition": "Corpus Iuris Civilis, Digesta; Mommsen/Krueger editions or a named modern translation",
       "publisher": "Multiple",
@@ -851,8 +851,8 @@
       "region": "Constantinople / Mediterranean",
       "language": "Latin",
       "original_term": "usura",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Original Latin text not reproduced here without edition-level verification; see Codex Justinianus 4.32, De usuris.",
+      "translation": "Codex 4.32 is the Justinianic title De usuris, concerning interest.",
       "translator": "",
       "edition": "Corpus Iuris Civilis, Codex 4.32",
       "publisher": "Multiple",
@@ -926,8 +926,8 @@
       "region": "Nicaea / Roman Empire",
       "language": "Greek (translated traditions)",
       "original_term": "τόκος / usury",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Greek original not reproduced here because the current source record points to a translated tradition rather than a verified critical Greek text.",
+      "translation": "Canon 17 prohibits clergy from receiving usury and specifies deposition as the ecclesiastical penalty.",
       "translator": "",
       "edition": "Decrees of the Ecumenical Councils; NPNF translation for public-domain English",
       "publisher": "Multiple",
@@ -998,8 +998,8 @@
       "region": "Milan / Roman Empire",
       "language": "Latin",
       "original_term": "fenus / usura",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Latin original not reproduced here without edition-level verification.",
+      "translation": "Ambrose states that money should not be lent at usury and contrasts charitable lending with demanding repayment beyond principal.",
       "translator": "",
       "edition": "Ambrosius Mediolanensis, De Tobia, ed. Karl Schenkl, Corpus Scriptorum Ecclesiasticorum Latinorum 32.2 (Prague/Vienna/Leipzig: Hoelder-Pichler-Tempsky, 1897), pp. 519–573.",
       "publisher": "Hoelder-Pichler-Tempsky / CSEL",
@@ -1084,8 +1084,8 @@
       "region": "North Africa",
       "language": "Latin",
       "original_term": "usura / mutuum",
-      "original_text": "",
-      "translation": "",
+      "original_text": "No exact Latin passage has yet been selected and edition-verified for this record; no original-language quotation is supplied.",
+      "translation": "No exact passage has yet been selected and edition-verified for this record; no translation is supplied.",
       "translator": "",
       "edition": "Latin critical-text baseline locked to CSEL/CCSL for the individual Augustinian work selected; English baseline locked to The Works of Saint Augustine: A Translation for the 21st Century (New City Press, 1990–2019), edited by John E. Rotelle et al. Individual work/volume must be selected before quotation.",
       "publisher": "CSEL / CCSL; New City Press",
@@ -1169,8 +1169,8 @@
       "region": "Arabia",
       "language": "Arabic",
       "original_term": "رِبَا (ribā)",
-      "original_text": "",
-      "translation": "",
+      "original_text": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ...",
+      "translation": "Those who consume ribā are contrasted with trade; the passage says God has permitted trade and forbidden ribā, and 2:279 says that after repentance the principal remains.",
       "translator": "",
       "edition": "Primary English translation locked to M. A. S. Abdel Haleem, The Qur’an, Oxford World’s Classics (Oxford: Oxford University Press, 2004). Comparative: Nasr et al., The Study Quran, 1st ed. (New York: HarperOne, 2015).",
       "publisher": "Oxford University Press",
@@ -1252,8 +1252,8 @@
       "region": "Arabia",
       "language": "Arabic",
       "original_term": "أَضْعَافًا مُضَاعَفَةً / ribā",
-      "original_text": "",
-      "translation": "",
+      "original_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً...",
+      "translation": "O you who believe, do not consume ribā, multiplied and compounded; fear God so that you may prosper.",
       "translator": "",
       "edition": "Primary English translation locked to M. A. S. Abdel Haleem, The Qur’an, Oxford World’s Classics (Oxford: Oxford University Press, 2004). Comparative: Nasr et al., The Study Quran, 1st ed. (New York: HarperOne, 2015).",
       "publisher": "Oxford University Press",
@@ -1337,8 +1337,8 @@
       "region": "Hijaz / Iraq scholarly transmission",
       "language": "Arabic",
       "original_term": "الرِّبَا",
-      "original_text": "",
-      "translation": "",
+      "original_text": "الذَّهَبُ بِالذَّهَبِ وَالْفِضَّةُ بِالْفِضَّةِ وَالْبُرُّ بِالْبُرِّ وَالشَّعِيرُ بِالشَّعِيرِ...",
+      "translation": "Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, and salt for salt, like for like and equal for equal, hand to hand; when the classes differ, sell as you wish if payment is hand to hand.",
       "translator": "",
       "edition": "Muslim ibn al-Hajjaj, Sahih Muslim, ed. Muhammad Fuʾad ʿAbd al-Baqi, Cairo: Dar Ihya al-Kutub al-ʿArabiyyah, 1374 AH/1954–1955 CE, 5 vols.; later Beirut reprints reproduce this baseline.",
       "publisher": "Dar Ihya al-Kutub al-ʿArabiyyah, Cairo",
@@ -1415,8 +1415,8 @@
       "region": "Hijaz / Iraq scholarly transmission",
       "language": "Arabic",
       "original_term": "gold, silver, wheat, barley, dates, salt / ribā",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Original Arabic text not reproduced here without edition-level verification of the cited numbering.",
+      "translation": "The hadith concerns the six commodities and the conditions of equal, immediate exchange that prevent ribā in barter.",
       "translator": "",
       "edition": "Muslim ibn al-Hajjaj, Sahih Muslim, ed. Muhammad Fuʾad ʿAbd al-Baqi, Cairo: Dar Ihya al-Kutub al-ʿArabiyyah, 1374 AH/1954–1955 CE, 5 vols.; later Beirut reprints reproduce this baseline.",
       "publisher": "Dar Ihya al-Kutub al-ʿArabiyyah, Cairo",
@@ -1501,8 +1501,8 @@
       "region": "Transoxiana / Central Asia",
       "language": "Arabic",
       "original_term": "ribā / bayʿ / qard",
-      "original_text": "",
-      "translation": "",
+      "original_text": "No exact Arabic passage has yet been selected and edition-verified for the 2001 edition; no reconstructed quotation is supplied.",
+      "translation": "This record identifies al-Sarakhsi's treatment of ribā in al-Mabsut; an exact translated passage is withheld until the cited edition and page are verified.",
       "translator": "",
       "edition": "al-Sarakhsi, al-Mabsut, ed. Abu Abd Allah Muhammad Hasan Ismaʿil al-Shafiʿi, Beirut: Dar al-Kutub al-ʿIlmiyyah, 2001, 31 vols.",
       "publisher": "Dar al-Kutub al-ʿIlmiyyah, Beirut",
@@ -1591,8 +1591,8 @@
       "region": "North Africa",
       "language": "Arabic",
       "original_term": "ribā / bayʿ / qard",
-      "original_text": "",
-      "translation": "",
+      "original_text": "No exact Arabic passage has yet been selected and edition-verified for the cited five-volume edition.",
+      "translation": "This record identifies the relevant al-Mudawwana discussion of ribā; an exact translation is withheld until the edition and page are verified.",
       "translator": "",
       "edition": "Sahnun, al-Mudawwana al-Kubra, ed. Ahmad ʿAbd al-Salam, Beirut: Dar al-Kutub al-ʿIlmiyyah, 1st ed., 1415 AH/1994 CE, 5 vols.",
       "publisher": "Dar al-Kutub al-ʿIlmiyyah, Beirut",
@@ -1669,8 +1669,8 @@
       "region": "Egypt / Iraq scholarly transmission",
       "language": "Arabic",
       "original_term": "ribā / ṣarf / qard",
-      "original_text": "",
-      "translation": "",
+      "original_text": "No exact Arabic passage has yet been selected and edition-verified for the cited Dar al-Wafaʾ edition.",
+      "translation": "This record identifies al-Umm's discussion of ribā; an exact translation is withheld until the edition and page are verified.",
       "translator": "",
       "edition": "al-Shafiʿi, al-Umm, ed. Rifat Fawzi ʿAbd al-Muttalib, al-Mansurah: Dar al-Wafaʾ, 1st ed., 1422 AH/2001 CE, 11 vols.",
       "publisher": "Dar al-Wafaʾ, al-Mansurah",
@@ -1748,8 +1748,8 @@
       "region": "Syria / Levant",
       "language": "Arabic",
       "original_term": "ribā / ṣarf / qard",
-      "original_text": "",
-      "translation": "",
+      "original_text": "No exact Arabic passage has yet been selected and edition-verified for the cited third edition.",
+      "translation": "This record identifies Ibn Qudama's treatment of ribā in al-Mughni; an exact translation is withheld until the edition and page are verified.",
       "translator": "",
       "edition": "Ibn Qudama, al-Mughni, ed. ʿAbd Allah ibn ʿAbd al-Muhsin al-Turki and ʿAbd al-Fattah Muhammad al-Hulu, Riyadh: Dar ʿAlam al-Kutub, 3rd ed., 1417 AH/1997 CE, 15 vols.",
       "publisher": "Dar ʿAlam al-Kutub, Riyadh",
@@ -1827,8 +1827,8 @@
       "region": "Western Europe",
       "language": "Latin",
       "original_term": "usura",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Original Latin text not reproduced here without checking the critical Latin edition.",
+      "translation": "Aquinas argues that taking usury for money lent is unjust because it treats the use of a consumable thing as something separately sold; the cited source preserves the English translation.",
       "translator": "",
       "edition": "Summa Theologiae, Latin critical edition (Leonine); use Dominican English translation for web quotation",
       "publisher": "Leonine Commission / English Dominican translation",
@@ -1918,8 +1918,8 @@
       "region": "Western Europe",
       "language": "Latin",
       "original_term": "usura / mutuum",
-      "original_text": "",
-      "translation": "",
+      "original_text": "Original Latin text not reproduced here without checking the critical Latin edition.",
+      "translation": "Aquinas considers whether a lender may lawfully receive other compensation for a loan and distinguishes compensation for actual loss from payment for the use of money.",
       "translator": "",
       "edition": "Summa Theologiae, Leonine critical edition; English Dominican translation",
       "publisher": "Leonine Commission / English Dominican translation",
@@ -1995,8 +1995,8 @@
       "region": "England",
       "language": "English",
       "original_term": "interest / public debt / bank credit",
-      "original_text": "",
-      "translation": "",
+      "original_text": "English primary-source record: Bank of England history identifies 27 July 1694 as its founding date.",
+      "translation": "English original; no separate translation is required. The Bank's official history states that the original charter described the purpose as promoting the public good and benefit of the people.",
       "translator": "",
       "edition": "Bank of England historical archive",
       "publisher": "Bank of England",
@@ -2066,7 +2066,7 @@
       "region": "Arabian Peninsula / Islamic world",
       "language": "Arabic",
       "original_term": "ribā",
-      "original_text": "",
+      "original_text": "Original Arabic text not reproduced here without edition-level verification of the cited numbering.",
       "translation": "The report requires like-for-like exchange of gold, silver, wheat, barley, dates, and salt with hand-to-hand settlement; an addition is treated as ribā.",
       "translator": "Web translation; not used as a substitute for the locked print edition",
       "edition": "Sahih Muslim, stable hadith numbering",
@@ -2135,7 +2135,7 @@
       "region": "al-Andalus",
       "language": "Arabic",
       "original_term": "ribā",
-      "original_text": "",
+      "original_text": "Original Arabic text not reproduced here without edition-level verification of the cited page.",
       "translation": "Ibn Rushd distinguishes ribā in established liabilities from ribā in sales and summarizes the juristic dispute over excess and deferment.",
       "translator": "Web translation; print edition pending",
       "edition": "Online text locator",
@@ -2882,7 +2882,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "Calvin, John. De Usuris Responsum. 1545–1546. Letter to Claude de Sachin. Exact primary-text edition/witness remains to be locked; secondary bibliographic witness: Kristian Hungar, “Anlageberatung mit Johan Calvin sein de usuris responsum von 1545/46 zwischen Patristik und Ökonomik,” 2015, 229–247. https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/bsz_swb/1507541090/Anlageberatung+mit+Johan+Calvin+sein+de+usuris+responsum+von+1545-46+zwischen+Patristik+und+%C3%96konomik."
+      "bibliography_entry": "Calvin, John. De Usuris Responsum. 1545–1546. Letter to Claude de Sachin. Exact primary-text edition/witness remains to be locked; secondary bibliographic witness: Kristian Hungar, “Anlageberatung mit Johan Calvin sein de usuris responsum von 1545/46 zwischen Patristik und Ökonomik,” 2015, 229–247. https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/bsz_swb/1507541090/Anlageberatung+mit+Johan+Calvin+sein+de+usuris+responsum+von+1545-46+zwischen+Patristik+und+%C3%96konomik.",
+      "original_text": "No exact Latin passage has yet been selected and edition-verified for the letter to Claude de Sachin.",
+      "translation": "The record identifies Calvin's De Usuris Responsum and its discussion of lending at interest; an exact translation is withheld pending edition-level passage verification."
     },
     {
       "source_id": "henry-viii-usury-act-1545",
@@ -2932,7 +2934,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "England. Usury Act 1545 (37 Hen. VIII c. 9). Statute of the Realm. Exact historical print edition not yet locked. https://vlex.co.uk/vid/usury-act-1545-861268174."
+      "bibliography_entry": "England. Usury Act 1545 (37 Hen. VIII c. 9). Statute of the Realm. Exact historical print edition not yet locked. https://vlex.co.uk/vid/usury-act-1545-861268174.",
+      "original_text": "English primary text: 37 Hen. VIII c. 9, commonly titled the Usury Act 1545.",
+      "translation": "English original; no separate translation is required. The Act regulated usury and the taking of interest under Tudor legislation."
     },
     {
       "source_id": "elizabeth-usury-act-1571",
@@ -2983,7 +2987,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "England. Usury Act 1571 (13 Eliz. I c. 8). Statute of the Realm. Exact historical print edition not yet locked. https://constitution.org/1-Constitution/tb/tb5.htm."
+      "bibliography_entry": "England. Usury Act 1571 (13 Eliz. I c. 8). Statute of the Realm. Exact historical print edition not yet locked. https://constitution.org/1-Constitution/tb/tb5.htm.",
+      "original_text": "English primary text: 13 Eliz. I c. 8, the Elizabethan usury statute.",
+      "translation": "English original; no separate translation is required. The statute re-established regulation of interest after the Tudor repeal and set a statutory framework for usury."
     },
     {
       "source_id": "james-usury-act-1624",
@@ -3034,7 +3040,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "England. Usury Act 1624 (21 Jac. I c. 17). Statute of the Realm. Exact historical print edition not yet locked. https://constitution.org/1-Constitution/tb/tb5.htm."
+      "bibliography_entry": "England. Usury Act 1624 (21 Jac. I c. 17). Statute of the Realm. Exact historical print edition not yet locked. https://constitution.org/1-Constitution/tb/tb5.htm.",
+      "original_text": "English primary text: 21 Jac. I c. 17, the 1624 usury statute.",
+      "translation": "English original; no separate translation is required. The statute reduced the legally permitted rate of interest and continued statutory regulation of usury."
     },
     {
       "source_id": "boe-charter-1694",
@@ -3088,7 +3096,9 @@
       ],
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "William III and Mary II. “Charter of the Corporation of the Governor and Company of the Bank of England.” 27 July 1694. Bank of England Archive, M6/48; printed transcript in 10A287/4, pp. 5–20. https://www.bankofengland.co.uk/CalmView/Record.aspx?id=M6%2F48."
+      "bibliography_entry": "William III and Mary II. “Charter of the Corporation of the Governor and Company of the Bank of England.” 27 July 1694. Bank of England Archive, M6/48; printed transcript in 10A287/4, pp. 5–20. https://www.bankofengland.co.uk/CalmView/Record.aspx?id=M6%2F48.",
+      "original_text": "English primary text: Royal Charter of 27 July 1694 establishing the Bank of England.",
+      "translation": "English original; no separate translation is required. The charter is the founding constitutional instrument for the Bank created in 1694."
     },
     {
       "source_id": "bank-act-1694",
@@ -3144,7 +3154,9 @@
       ],
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "England. Bank of England Act 1694 (5 & 6 Will. & Mar. c. 20). Statute of the Realm. Exact historical print edition not yet locked. https://statutes.uk/bank-of-england-act-1694."
+      "bibliography_entry": "England. Bank of England Act 1694 (5 & 6 Will. & Mar. c. 20). Statute of the Realm. Exact historical print edition not yet locked. https://statutes.uk/bank-of-england-act-1694.",
+      "original_text": "English primary text: 5 & 6 Will. & Mar. c. 20, Bank of England Act 1694.",
+      "translation": "English original; no separate translation is required. The Act authorized the legal framework associated with the establishment of the Bank of England."
     },
     {
       "source_id": "bentham-defence-usury-1787",
@@ -3201,7 +3213,9 @@
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
       "publication_status": "edition/page or equivalent authoritative locator locked",
-      "bibliography_entry": "Bentham, Jeremy. Defence of Usury. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1."
+      "bibliography_entry": "Bentham, Jeremy. Defence of Usury. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1.",
+      "original_text": "Among the various species or modifications of liberty...",
+      "translation": "Bentham opens by arguing for liberty of contract in money bargains and against preventing a competent adult from making a voluntary loan bargain."
     },
     {
       "source_id": "adam-smith-wealth-nations-i9",
@@ -3243,7 +3257,9 @@
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
       "publication_status": "edition/page or equivalent authoritative locator locked",
-      "bibliography_entry": "Smith, Adam. An Inquiry into the Nature and Causes of the Wealth of Nations. Edited by R. H. Campbell and A. S. Skinner. Glasgow Edition of the Works and Correspondence of Adam Smith, vol. 2. Oxford: Clarendon Press, 1976. Book I, chapter IX. https://www.adamsmithworks.org/documents/wn-reading-guide-book-i-chapter-ix."
+      "bibliography_entry": "Smith, Adam. An Inquiry into the Nature and Causes of the Wealth of Nations. Edited by R. H. Campbell and A. S. Skinner. Glasgow Edition of the Works and Correspondence of Adam Smith, vol. 2. Oxford: Clarendon Press, 1976. Book I, chapter IX. https://www.adamsmithworks.org/documents/wn-reading-guide-book-i-chapter-ix.",
+      "original_text": "In the greater part of our colonies... both the legal and the market rate of interest...",
+      "translation": "Smith discusses how profits and the legal and market rates of interest vary with economic conditions, including colonial credit markets."
     },
     {
       "source_id": "bentham-defence-usury-i",
@@ -3290,7 +3306,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "A",
       "publication_status": "edition/page or equivalent authoritative locator locked",
-      "bibliography_entry": "Bentham, Jeremy. Defence of Usury. Letter I. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1."
+      "bibliography_entry": "Bentham, Jeremy. Defence of Usury. Letter I. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1.",
+      "original_text": "no man of ripe years and of sound mind, acting freely, and with his eyes open...",
+      "translation": "Bentham's Letter I argues that voluntary borrowers and lenders should generally be free to make their own money bargains."
     },
     {
       "source_id": "ricardo-principles-ch-v",
@@ -3332,7 +3350,9 @@
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
       "publication_status": "edition/page or equivalent authoritative locator locked",
-      "bibliography_entry": "Ricardo, David. On the Principles of Political Economy and Taxation. London: John Murray, 1817. First edition. Chapter V. https://www.gutenberg.org/files/33310/33310-h/33310-h.htm."
+      "bibliography_entry": "Ricardo, David. On the Principles of Political Economy and Taxation. London: John Murray, 1817. First edition. Chapter V. https://www.gutenberg.org/files/33310/33310-h/33310-h.htm.",
+      "original_text": "English primary text: Chapter V, On Profits, first-edition text.",
+      "translation": "English original; no separate translation is required. Ricardo's chapter discusses the relation between profits, capital, and the return to capital."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -3369,7 +3389,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United Kingdom. Bank Charter Act 1844 (7 & 8 Vict. c. 32). Statute of the Realm. https://www.legislation.gov.uk/ukpga/1844/32/contents."
+      "bibliography_entry": "United Kingdom. Bank Charter Act 1844 (7 & 8 Vict. c. 32). Statute of the Realm. https://www.legislation.gov.uk/ukpga/1844/32/contents.",
+      "original_text": "English primary text: 7 & 8 Vict. c. 32, Bank Charter Act 1844.",
+      "translation": "English original; no separate translation is required. The Act reorganized the issue of banknotes and established statutory rules governing the Bank of England's note issue."
     },
     {
       "source_id": "usury-laws-repeal-1854",
@@ -3406,7 +3428,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United Kingdom. Usury Laws Repeal Act 1854 (17 & 18 Vict. c. 90). Statute of the Realm. https://www.legislation.gov.uk/ukpga/Vict/17-18/90/pdfs/ukpga_18540090_en.pdf."
+      "bibliography_entry": "United Kingdom. Usury Laws Repeal Act 1854 (17 & 18 Vict. c. 90). Statute of the Realm. https://www.legislation.gov.uk/ukpga/Vict/17-18/90/pdfs/ukpga_18540090_en.pdf.",
+      "original_text": "An Act to repeal the Laws relating to Usury and to the Enrolment of Annuities.",
+      "translation": "The 1854 Act repealed the existing laws against usury, subject to transitional protections for earlier rights, contracts, and liabilities."
     },
     {
       "source_id": "js-mill-principles-interest",
@@ -3446,7 +3470,9 @@
       "evidence_grade_8_1": "A",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "Mill, John Stuart. Principles of Political Economy. Book III, chapter XXIII, “Of the Rate of Interest.” Online edition. https://oll-resources.s3.amazonaws.com/titles/243/Mill_0223-03_EBk_v6.0.pdf."
+      "bibliography_entry": "Mill, John Stuart. Principles of Political Economy. Book III, chapter XXIII, “Of the Rate of Interest.” Online edition. https://oll-resources.s3.amazonaws.com/titles/243/Mill_0223-03_EBk_v6.0.pdf.",
+      "original_text": "English primary text: Book III, Chapter XXIII, Of the Rate of Interest.",
+      "translation": "English original; no separate translation is required. Mill's chapter examines the determination and variation of the rate of interest."
     },
     {
       "source_id": "fed-act-1913",
@@ -3495,7 +3521,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United States. Federal Reserve Act. Pub. L. 63-43, ch. 6, 38 Stat. 251 (1913). Federal Reserve Board historical text. https://www.federalreserve.gov/frrs/statutes/federal-reserve-act.htm."
+      "bibliography_entry": "United States. Federal Reserve Act. Pub. L. 63-43, ch. 6, 38 Stat. 251 (1913). Federal Reserve Board historical text. https://www.federalreserve.gov/frrs/statutes/federal-reserve-act.htm.",
+      "original_text": "English primary text: Federal Reserve Act, ch. 6, 38 Stat. 251 (23 December 1913).",
+      "translation": "English original; no separate translation is required. The Act established the Federal Reserve System and its statutory structure."
     },
     {
       "source_id": "banking-act-1933",
@@ -3545,7 +3573,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United States. Banking Act of 1933. Pub. L. 73-66, 48 Stat. 162. Federal Reserve History. https://www.federalreservehistory.org/essays/glass-steagall-act."
+      "bibliography_entry": "United States. Banking Act of 1933. Pub. L. 73-66, 48 Stat. 162. Federal Reserve History. https://www.federalreservehistory.org/essays/glass-steagall-act.",
+      "original_text": "English primary text: Banking Act of 1933, including the provisions commonly known as Glass-Steagall.",
+      "translation": "English original; no separate translation is required. The Act introduced major banking reforms, including separation of commercial banking and securities activities under its relevant provisions."
     },
     {
       "source_id": "banking-act-1935",
@@ -3596,7 +3626,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United States. Banking Act of 1935. Pub. L. 74-305, 49 Stat. 684. Federal Reserve History. https://www.federalreservehistory.org/essays/banking-act-of-1935."
+      "bibliography_entry": "United States. Banking Act of 1935. Pub. L. 74-305, 49 Stat. 684. Federal Reserve History. https://www.federalreservehistory.org/essays/banking-act-of-1935.",
+      "original_text": "English primary text: Banking Act of 1935; Federal Reserve Act §12A as amended.",
+      "translation": "English original; no separate translation is required. The 1935 Act reorganized Federal Reserve governance and strengthened the Federal Open Market Committee structure."
     },
     {
       "source_id": "bretton-woods-1944",
@@ -3646,7 +3678,9 @@
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
       "publication_status": "edition/page or equivalent authoritative locator locked",
-      "bibliography_entry": "United Nations Monetary and Financial Conference. Final Act and Related Documents of the United Nations Monetary and Financial Conference, Bretton Woods, New Hampshire, July 1–22, 1944. Washington, DC: U.S. Government Printing Office, 1944. Annex A; Articles I–IV (IMF). https://www.imf.org/en/publications/ft/aa/index."
+      "bibliography_entry": "United Nations Monetary and Financial Conference. Final Act and Related Documents of the United Nations Monetary and Financial Conference, Bretton Woods, New Hampshire, July 1–22, 1944. Washington, DC: U.S. Government Printing Office, 1944. Annex A; Articles I–IV (IMF). https://www.imf.org/en/publications/ft/aa/index.",
+      "original_text": "English primary text: IMF Articles of Agreement, adopted at Bretton Woods on 22 July 1944.",
+      "translation": "English original; no separate translation is required. The Articles establish the IMF's purposes, institutional structure, and member obligations."
     },
     {
       "source_id": "bretton-woods-act-1945",
@@ -3693,7 +3727,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United States. Bretton Woods Agreements Act. Pub. L. 79-171, 59 Stat. 512 (1945). U.S. Department of State, Office of the Historian. https://history.state.gov/historicaldocuments/frus1946v01/d716."
+      "bibliography_entry": "United States. Bretton Woods Agreements Act. Pub. L. 79-171, 59 Stat. 512 (1945). U.S. Department of State, Office of the Historian. https://history.state.gov/historicaldocuments/frus1946v01/d716.",
+      "original_text": "English primary text: Bretton Woods Agreements Act, 59 Stat. 512.",
+      "translation": "English original; no separate translation is required. The Act provided the U.S. statutory framework for participation in the Bretton Woods institutions."
     },
     {
       "source_id": "nixon-1971",
@@ -3741,7 +3777,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "Nixon, Richard. “Address to the Nation Outlining a New Economic Policy.” August 15, 1971. The American Presidency Project. https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace."
+      "bibliography_entry": "Nixon, Richard. “Address to the Nation Outlining a New Economic Policy.” August 15, 1971. The American Presidency Project. https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace.",
+      "original_text": "The time has come for a new economic policy for the United States.",
+      "translation": "Nixon announced a new economic policy including measures directed at employment, prices, and the international monetary position; the cited address is the primary source."
     },
     {
       "source_id": "jamaica-1976-imf",
@@ -3793,7 +3831,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "International Monetary Fund. “Second Amendment of the Articles of Agreement of the International Monetary Fund,” 1976–1978. Article IV. IMF eLibrary. https://www.elibrary.imf.org/display/book/9781451931068/ch037.xml."
+      "bibliography_entry": "International Monetary Fund. “Second Amendment of the Articles of Agreement of the International Monetary Fund,” 1976–1978. Article IV. IMF eLibrary. https://www.elibrary.imf.org/display/book/9781451931068/ch037.xml.",
+      "original_text": "English primary text: IMF Second Amendment to the Articles of Agreement, including Article IV.",
+      "translation": "English original; no separate translation is required. The Second Amendment revised the IMF framework for exchange arrangements and related obligations."
     },
     {
       "source_id": "dodd-frank-2010",
@@ -3842,7 +3882,9 @@
       "evidence_grade_8_1": "B",
       "evidence_grade": "B",
       "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
-      "bibliography_entry": "United States. Dodd-Frank Wall Street Reform and Consumer Protection Act. Pub. L. 111-203, 124 Stat. 1376 (2010). U.S. Government Publishing Office. https://www.govinfo.gov/app/details/PLAW-111publ203."
+      "bibliography_entry": "United States. Dodd-Frank Wall Street Reform and Consumer Protection Act. Pub. L. 111-203, 124 Stat. 1376 (2010). U.S. Government Publishing Office. https://www.govinfo.gov/app/details/PLAW-111publ203.",
+      "original_text": "An Act to promote the financial stability of the United States by improving accountability and transparency in the financial system...",
+      "translation": "English original; no separate translation is required. Dodd-Frank is the 2010 U.S. financial-reform statute identified by Public Law 111-203."
     },
     {
       "source_id": "uk-bretton-woods-act-1945",
@@ -3898,7 +3940,9 @@
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
       "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked"
+      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "original_text": "English primary text: 9 & 10 Geo. 6 c. 19, Bretton Woods Agreements Act 1945.",
+      "translation": "English original; no separate translation is required. The Act provided the United Kingdom's statutory implementation of the Bretton Woods arrangements."
     }
   ],
   "audit_5_4": {
