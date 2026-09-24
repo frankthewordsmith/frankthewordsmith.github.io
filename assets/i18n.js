@@ -69,7 +69,7 @@ function apply(k){
  const lab=document.querySelector('.language-selector label'); if(lab)lab.textContent=l.label;
  document.querySelectorAll('nav a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.nav[h])a.textContent=l.nav[h]});
  document.querySelectorAll('footer a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.foot[h])a.textContent=l.foot[h]});
- document.querySelectorAll('body *').forEach(el=>{
+ if(lang==='bn')document.querySelectorAll('body *').forEach(el=>{
    if(el.children.length===0){
      const t=(el.textContent||'').trim();
      if(t&&page[t])el.textContent=page[t];
