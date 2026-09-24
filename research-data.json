@@ -1,6 +1,6 @@
 {
   "site": "FranktheWordsmith",
-  "version": "10.0",
+  "version": "10.2",
   "architecture": {
     "umbrella": "Author platform",
     "books": [
