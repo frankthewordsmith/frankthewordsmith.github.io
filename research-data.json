@@ -164,7 +164,8 @@
       "bn_context": "সংরক্ষিত আইনসংকলনটি অসম্পূর্ণ। CDLI-তে ভাঙা পঙ্‌ক্তিসহ একটি যৌগিক পাঠ আছে এবং সুদের বিধানগুলো প্রচলিতভাবে পুনর্গঠিত। উর তৃতীয় রাজবংশের ঋণ-নথিও ঋণদানের প্রথা স্বাধীনভাবে প্রমাণ করে; তাই আইনগত বিধানগুলো দলিলগত প্রমাণের সঙ্গে পড়তে হবে।",
       "bn_interpretation": "নিয়ন্ত্রিত ঋণের কালানুক্রমে উর-নাম্মু গুরুত্বপূর্ণ, কারণ এখানে সুদের হার-সংক্রান্ত বিধান এশনুন্না ও হাম্মুরাবির আগের। প্রমাণে ঋণপ্রতিষ্ঠানের ধারাবাহিকতা দেখা যায়, কিন্তু প্রতিটি ঋণে একই হার ছিল—এমন সিদ্ধান্ত দেওয়া যায় না।",
       "bn_notes": "CDLI RIME 3/2.01.01.20, d036–d041-এর সঙ্গে যাচাই করা হয়েছে। একটি অক্ষত ফলক পুরো যৌগিক পাঠ সংরক্ষণ করেছে—এমন ধারণা করা যাবে না।",
-      "bn_verification_status": "Passage verified — composite text"
+      "bn_verification_status": "Passage verified — composite text",
+      "book": "book-1"
     },
     {
       "source_id": "eshnunna",
@@ -251,7 +252,8 @@
       "bn_context": "এটি খ্রিস্টপূর্ব দ্বিতীয় সহস্রাব্দের শুরুর দিকের আক্কাদীয় আইনপাঠ। পাণ্ডুলিপিগুলোর সুনির্দিষ্ট তারিখ ও পারস্পরিক সম্পর্ক বিশেষজ্ঞ আলোচনার বিষয়; CDLI যৌগিক পাঠ ও লিপ্যন্তর দেয়।",
       "bn_interpretation": "হাম্মুরাবির আগে রৌপ্য ও শস্যঋণের সুদের একটি স্পষ্ট সংখ্যাগত তুলনা দেয় বলে এশনুন্না গবেষণায় বিশেষ মূল্যবান। ২০%/৩৩% ধাঁচটি হাম্মুরাবি সৃষ্টি করেছিলেন—এমন দাবির বিরুদ্ধে এটি একটি নিয়ন্ত্রণ-প্রমাণ।",
       "bn_notes": "CDLI RIME 4.05.19.add03, ধারা 18a, পঙ্‌ক্তি 62–63-এর সঙ্গে যাচাই করা হয়েছে। ২০% ও ৩৩% এই আইনি বিধানের নির্ধারিত হার; সর্বজনীন বাজারহার হিসেবে লিখবেন না।",
-      "bn_verification_status": "Passage verified — composite text"
+      "bn_verification_status": "Passage verified — composite text",
+      "book": "book-1"
     },
     {
       "source_id": "hammurabi",
@@ -340,7 +342,8 @@
       "bn_context": "হাম্মুরাবি পুরাতন ব্যাবিলনীয় যুগে ব্যাবিলন শাসন করেন। §48 কৃষি-ব্যর্থতার সঙ্গে ঋণপরিশোধকে যুক্ত করে এবং ক্ষতিগ্রস্ত বছরের সুদ স্থগিত করে। প্রচলিত সুদের হার-সংক্রান্ত অংশটি সংরক্ষিত স্তম্ভে একটি lacuna-র মধ্যে পড়ে এবং অন্য অনুলিপি/ফলক থেকে পুনর্গঠিত; উৎসসমালোচনার জন্য এই পার্থক্য গুরুত্বপূর্ণ।",
       "bn_interpretation": "পাঠটি দেখায় যে ঋণ, দেনা, সুদ ও কৃষি-ঝুঁকি আইনগত নিয়ন্ত্রণের বিষয় ছিল। এটিকে আধুনিক ব্যাংকিং আইন বা সব ঋণে একই হার ছিল—এমন প্রমাণ হিসেবে ব্যবহার করা উচিত নয়; ঋণনথিতে ভিন্নতা আছে।",
       "bn_notes": "Yale/Avalon উপস্থাপনার সঙ্গে যাচাই করা হয়েছে। §§48–52-কে নিরাপদভাবে সংরক্ষিত দেনা/ফসল-ব্যর্থতার অংশ হিসেবে রাখুন; সংস্করণভিত্তিক পাঠ-সমর্থন ছাড়া §88-কে অক্ষত ধারাবাহিক পাঠ হিসেবে উপস্থাপন করবেন না।",
-      "bn_verification_status": "Passage verified — debt provisions; rate passage reconstructed"
+      "bn_verification_status": "Passage verified — debt provisions; rate passage reconstructed",
+      "book": "book-1"
     },
     {
       "source_id": "exodus-22-24",
@@ -418,7 +421,8 @@
       "bn_context": "এই বিধানটি সমাজের দরিদ্র ও দুর্বল সদস্যদের প্রতি আচরণসংক্রান্ত আইনের অংশ।",
       "bn_interpretation": "এটি নির্দিষ্ট এক শ্রেণির ঋণের ওপর নিষেধাজ্ঞার প্রমাণ; সব ধরনের ঋণ সম্পর্কে পূর্ণাঙ্গ প্রাচীন ইসরায়েলীয় তত্ত্ব হিসেবে একে সাধারণীকরণ করা উচিত নয়।",
       "bn_notes": "ঋণদানের নিষেধাজ্ঞার সঠিক আধুনিক নম্বর Exodus 22:25; পুরোনো নম্বরপদ্ধতিতে পার্থক্য থাকতে পারে।",
-      "bn_verification_status": "Primary passage verified — verse locator corrected"
+      "bn_verification_status": "Primary passage verified — verse locator corrected",
+      "book": "book-1"
     },
     {
       "source_id": "leviticus-25-35-37",
@@ -498,7 +502,8 @@
       "bn_context": "জুবিলি-সংক্রান্ত আইন ও দরিদ্র ইসরায়েলীয়ের সহায়তার বিধানের মধ্যে এই অংশটি রয়েছে।",
       "bn_interpretation": "জোড়া পরিভাষা পরবর্তী রাব্বিনিক সুদ-বিষয়ক আলোচনায় গুরুত্বপূর্ণ হয়ে ওঠে।",
       "bn_notes": "মূল পাঠের locator অপরিবর্তিত রাখুন এবং পরবর্তী রাব্বিনিক ব্যাখ্যাকে আলাদা প্রমাণস্তর হিসেবে দেখান।",
-      "bn_verification_status": "Citation locked — primary/source locator recorded"
+      "bn_verification_status": "Citation locked — primary/source locator recorded",
+      "book": "book-1"
     },
     {
       "source_id": "deuteronomy-23-20-21",
@@ -576,7 +581,8 @@
       "bn_context": "দেউটারোনমি-র এই বিধান সাম্প্রদায়িক জীবন ও অর্থনৈতিক দায়বদ্ধতা নিয়ন্ত্রণকারী আইনের অংশ।",
       "bn_interpretation": "এটি গুরুত্বপূর্ণ প্রাথমিক পাঠ, কারণ এটি এমন সরলীকরণকে জটিল করে যে বাইবেলীয় আইন সব ব্যক্তি ও সব পরিস্থিতিতে সব সুদ নিষিদ্ধ করেছিল।",
       "bn_notes": "ইসরায়েলীয় সহোদর ও বিদেশির ক্ষেত্রে বিধানের পার্থক্যটি অনুবাদ ও ব্যাখ্যায় স্পষ্ট রাখুন।",
-      "bn_verification_status": "Citation locked — primary/source locator recorded"
+      "bn_verification_status": "Citation locked — primary/source locator recorded",
+      "book": "book-1"
     },
     {
       "source_id": "mishnah-bm-5",
@@ -657,7 +663,8 @@
       "bn_context": "মিশনা বাইবেলীয় নিষেধাজ্ঞাকে বিস্তারিত লেনদেনভিত্তিক শ্রেণিতে রূপ দেয়।",
       "bn_interpretation": "কীভাবে একটি নিষেধাজ্ঞা প্রযুক্তিগত আইনি মতবাদে পরিণত হয়, এই রেকর্ড তা দেখায়; অর্থ, পণ্য, ভাড়া, উপহার ও সুবিধা—বিভিন্ন বিন্যাস আলাদা করা হয়।",
       "bn_notes": "সরাসরি উদাহরণগুলোকে মিশনার পাঠ হিসেবে রাখুন এবং পরবর্তী গেমারা-ভিত্তিক ব্যাখ্যা আলাদা করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "talmud-bm",
@@ -737,7 +744,8 @@
       "bn_context": "গেমারায় নামযুক্ত রাব্বি ও বেনামী redactor-দের স্তরযুক্ত আলোচনা রয়েছে; এটি একক সমসাময়িক code নয়।",
       "bn_interpretation": "তালমুদ রিব্বিত/সুদ নিয়ে আইনি যুক্তির প্রমাণ, কেবল অর্থনৈতিক আচরণের তালিকা নয়।",
       "bn_notes": "প্রকাশনার জন্য একটি নির্দিষ্ট সংস্করণ নির্বাচন করে tractate, daf এবং সংস্করণ/পৃষ্ঠা দিন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "roman-twelve-tables",
@@ -815,7 +823,8 @@
       "bn_context": "Twelve Tables পূর্ণ মূল পাণ্ডুলিপি হিসেবে টিকে নেই; পরবর্তী উদ্ধৃতি ও paraphrase-এর মাধ্যমে এর পাঠ জানা যায়।",
       "bn_interpretation": "এটি এমন প্রমাণের উদাহরণ যেখানে প্রত্যয়িত পাঠ ও পরবর্তী reconstruction আলাদা রাখতে হয়।",
       "bn_notes": "unc(i)arium হারকে নিশ্চিত বার্ষিক সর্বোচ্চ সুদ হিসেবে লিখবেন না, যতক্ষণ না খণ্ডিত প্রমাণের বিতর্ক ব্যাখ্যা করা হয়।",
-      "bn_verification_status": "Citation framework locked — exact edition/page still required before publication quotation"
+      "bn_verification_status": "Citation framework locked — exact edition/page still required before publication quotation",
+      "book": "book-1"
     },
     {
       "source_id": "roman-digest-22-1",
@@ -904,7 +913,8 @@
       "bn_context": "Digest-টি Justinian-এর অধীনে আগের রোমান jurist-দের রচনা সংকলন করে।",
       "bn_interpretation": "এটি দেখায় যে রোমান আইনে ‘সুদ নেই’ এমন একক চিরস্থায়ী নিয়ম ছিল না; যুগ, লেনদেন ও মর্যাদা অনুযায়ী নিয়ন্ত্রণ ভিন্ন হয়েছে।",
       "bn_notes": "শিরোনামমাত্রের ওপর কোনো proposition উদ্ধৃত করবেন না; প্রতিটি উদ্ধৃতির জন্য নির্দিষ্ট D.22.1.xx fragment locator দিন।",
-      "bn_verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used"
+      "bn_verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used",
+      "book": "book-1"
     },
     {
       "source_id": "roman-codex-interest",
@@ -985,7 +995,8 @@
       "bn_context": "Justinian-এর আইনসংকলন আগের সাম্রাজ্যিক আইনকে একত্র করে এবং কিছু ক্ষেত্রে পরিবর্তন করে।",
       "bn_interpretation": "এটি নিষেধাজ্ঞা বনাম অনুমতির সরল দ্বৈততার বদলে পরিস্থিতি ও আইনি শ্রেণিভিত্তিক নিয়ন্ত্রণ দেখাতে সহায়ক।",
       "bn_notes": "C.4.32-এর নির্দিষ্ট constitution প্রতিটি দাবির জন্য উদ্ধৃত করুন; অধ্যায়ের সাধারণ শিরোনাম যথেষ্ট নয়।",
-      "bn_verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used"
+      "bn_verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used",
+      "book": "book-1"
     },
     {
       "source_id": "nicaea-canon-17",
@@ -1063,7 +1074,8 @@
       "bn_context": "এই canon সাধারণ নাগরিক banking statute নয়; এটি clergy discipline নিয়ে।",
       "bn_interpretation": "চতুর্থ শতকে ধর্মযাজকদের usury গ্রহণের বিরুদ্ধে খ্রিস্টীয় প্রাতিষ্ঠানিক শৃঙ্খলার সরাসরি প্রমাণ।",
       "bn_notes": "Canon 17-এর পাঠ ও locator যাচাই করা হয়েছে; critical edition-এর পৃষ্ঠা ব্যবহার করলে সংস্করণটি আলাদা করে লক করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "ambrose-de-tobia",
@@ -1155,7 +1167,8 @@
       "bn_context": "চতুর্থ শতকের শেষভাগের খ্রিস্টীয় লেখকেরা সুদখোর ঋণকে লোভ, শোষণ ও দরিদ্রের প্রতি অবহেলার সঙ্গে যুক্ত করেছেন।",
       "bn_interpretation": "এটি অর্থনৈতিক বাস্তবতার সরাসরি রেকর্ড নয়; ধর্মতাত্ত্বিক ও নৈতিক যুক্তির প্রমাণ।",
       "bn_notes": "CSEL 32.2-কে baseline হিসেবে রাখুন এবং অধ্যায়/section-এর সঙ্গে সংস্করণ-পৃষ্ঠা দিন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "augustine-usury",
@@ -1246,7 +1259,8 @@
       "bn_context": "Augustine-এর আলোচনা একক usury treatise-এ কেন্দ্রীভূত নয়; বিভিন্ন রচনায় ছড়িয়ে আছে।",
       "bn_interpretation": "নির্দিষ্ট পাঠ ছাড়া পরবর্তী scholastic মতবাদ সরাসরি Augustine-এর নামে আরোপ করা উচিত নয়।",
       "bn_notes": "‘Augustine’ নামে সাধারণ উদ্ধৃতি নয়; নির্দিষ্ট sermon, letter বা treatise নির্বাচন করে CSEL/CCSL ও সংশ্লিষ্ট সংস্করণ নথিভুক্ত করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "quran-2-275-279",
@@ -1335,7 +1349,8 @@
       "bn_context": "এই আয়াতগুলো ribā নিয়ে পরবর্তী মুসলিম আইন ও ধর্মতত্ত্বের কেন্দ্রীয় পাঠগুলোর মধ্যে রয়েছে।",
       "bn_interpretation": "প্রথমে কুরআনের নিজস্ব ভাষ্য হিসেবে পাঠটি উপস্থাপন করতে হবে; ribā-এর পরবর্তী সংজ্ঞা tafsir ও fiqh-এর নামে আলাদাভাবে দিতে হবে।",
       "bn_notes": "আরবি পাঠকে primary evidence এবং Abdel Haleem-কে default English translation হিসেবে রাখুন; The Study Quran তুলনামূলক commentary/translation হিসেবে চিহ্নিত করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "quran-3-130",
@@ -1426,7 +1441,8 @@
       "bn_context": "প্রচলিত মুসলিম chronology-তে এই আয়াত 2:275–279-এর দীর্ঘ অংশের আগের; chronology নিজেই গবেষণার বিষয়।",
       "bn_interpretation": "‘বহুগুণ বৃদ্ধি’ কথাটি গুরুত্বপূর্ণ পাঠগত প্রমাণ, কিন্তু এটিকে সব ক্ষেত্রে ribā-এর পূর্ণ সংজ্ঞা হিসেবে ধরে নেওয়া উচিত নয়।",
       "bn_notes": "আরবি পাঠ ও Abdel Haleem-এর অনুবাদকে মূল baseline রাখুন; The Study Quran তুলনামূলক ব্যাখ্যার জন্য।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "hadith-muslim-1587c",
@@ -1510,7 +1526,8 @@
       "bn_context": "এই বর্ণনা পরবর্তী ribā al-fadl ও ribā al-nasiʾa মতবাদের গুরুত্বপূর্ণ ভিত্তি।",
       "bn_interpretation": "এটি নির্দিষ্ট পণ্যের বিনিময় নিয়ে; পরবর্তী সব monetary-loan doctrine-এর সঙ্গে সরাসরি এক করে দেখা যাবে না।",
       "bn_notes": "al-Baqi numbering-কে স্থিতিশীল public locator হিসেবে রাখুন; পৃষ্ঠা দিলে ব্যবহৃত print edition যাচাই করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "hadith-muslim-1597",
@@ -1602,7 +1619,8 @@
       "bn_context": "এই বর্ণনা barter ও exchange-এ ribā নিয়ে পরবর্তী fiqh আলোচনার প্রধান পাঠগত ভিত্তিগুলোর একটি।",
       "bn_interpretation": "হাদিসটি নিজে পরবর্তী school-specific analogical principles দেয় না; সেগুলো fiqh-এ বিকশিত হয়েছে।",
       "bn_notes": "al-Baqi numbering স্থিতিশীল locator হিসেবে ব্যবহার করুন এবং print page কেবল ব্যবহৃত কপি যাচাইয়ের পর দিন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "hanafi-riba-sarakhsi",
@@ -1698,7 +1716,8 @@
       "bn_context": "পরবর্তী হানাফি manual-গুলো আগের juristic reasoning-কে পদ্ধতিগতভাবে সাজায়।",
       "bn_interpretation": "এটি school-specific legal doctrine হিসেবে পড়তে হবে; কুরআন বা হাদিসের সরাসরি উদ্ধৃতি হিসেবে নয়।",
       "bn_notes": "নির্দিষ্ট Dar al-Kutub al-ʿIlmiyyah edition 31 volumes হিসেবে নথিভুক্ত; অন্য edition-এর page number স্থানান্তর করবেন না।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "maliki-riba-mudawwana",
@@ -1782,7 +1801,8 @@
       "bn_context": "Mudawwana সحنুনের compilation-এর মাধ্যমে সংরক্ষিত মালিকি legal doctrine-এর একটি প্রধান corpus।",
       "bn_interpretation": "কোন layer উদ্ধৃত হচ্ছে তা স্পষ্ট করতে হবে; compilation-কে একক অষ্টম শতকের লেখকের verbatim statement হিসেবে দেখানো যাবে না।",
       "bn_notes": "নির্বাচিত edition 1415/1994, 5 volumes; locked edition যাচাই না হওয়া পর্যন্ত page number দেবেন না।",
-      "bn_verification_status": "Passage-level record established; locked-print pagination pending"
+      "bn_verification_status": "Passage-level record established; locked-print pagination pending",
+      "book": "book-1"
     },
     {
       "source_id": "shafii-riba-umm",
@@ -1867,7 +1887,8 @@
       "bn_context": "al-Umm পরবর্তী শাফেয়ি school-এর foundational work।",
       "bn_interpretation": "আল-শাফেয়ির নিজস্ব formulation ও পরবর্তী শাফেয়ি manuals-এর summary আলাদা রাখতে হবে।",
       "bn_notes": "Dar al-Wafa edition, 1422 AH/2001 CE, 11 volumes baseline; নির্দিষ্ট passage-এর page lock না হওয়া পর্যন্ত B রাখুন।",
-      "bn_verification_status": "Passage-level record established; locked-print pagination pending"
+      "bn_verification_status": "Passage-level record established; locked-print pagination pending",
+      "book": "book-1"
     },
     {
       "source_id": "hanbali-riba-mughni",
@@ -1952,7 +1973,8 @@
       "bn_context": "Mughni একটি পরবর্তী হানবলি compendium; এটি প্রাথমিক hadith collection নয়।",
       "bn_interpretation": "মধ্যযুগীয় হানবলি doctrine তুলনা করতে এটি উপযোগী, তবে প্রাথমিক revelation বা hadith-এর বিকল্প নয়।",
       "bn_notes": "নির্দিষ্ট edition ও passage locator ব্যবহার করুন; school summary ও primary-text quotation আলাদা রাখুন।",
-      "bn_verification_status": "Passage-level record established; locked-print pagination pending"
+      "bn_verification_status": "Passage-level record established; locked-print pagination pending",
+      "book": "book-1"
     },
     {
       "source_id": "aquinas-q78-a1",
@@ -2049,7 +2071,8 @@
       "bn_context": "Aquinas-এর প্রশ্নটি loan ও usury-কে ন্যায়সংগত বিনিময়ের ধারণার সঙ্গে বিশ্লেষণ করে।",
       "bn_interpretation": "এটি মধ্যযুগীয় scholastic moral reasoning-এর সরাসরি উদাহরণ; আধুনিক banking বা সব ঋণের empirical description নয়।",
       "bn_notes": "II–II q.78 a.1-এর নির্দিষ্ট article/objection/response locator ব্যবহার করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "aquinas-q78-a2",
@@ -2132,7 +2155,8 @@
       "bn_context": "q.78-এর দ্বিতীয় article loan-এর বাইরে অন্য compensation দাবি নিয়ে আলোচনা করে।",
       "bn_interpretation": "ঋণ ও অতিরিক্ত প্রতিদানের নৈতিক যুক্তিকে আলাদা করে দেখাতে এটি গুরুত্বপূর্ণ।",
       "bn_notes": "q.78 a.2-এর নির্দিষ্ট response ও objection locator উদ্ধৃত করুন।",
-      "bn_verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used"
+      "bn_verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used",
+      "book": "book-1"
     },
     {
       "source_id": "boe-1694",
@@ -2209,7 +2233,8 @@
       "bn_context": "ব্যক্তিগত পুঁজি, সরকারি অর্থায়ন ও banking-কে যুক্ত করে নতুন প্রাতিষ্ঠানিক রূপের উদ্ভব ঘটে।",
       "bn_interpretation": "আধুনিক banking ও sovereign credit market-এর দিকে regulated private lending থেকে যাওয়ার একটি গুরুত্বপূর্ণ institutional bridge।",
       "bn_notes": "Bank of England-এর archival history-কে contextual evidence হিসেবে রাখুন এবং charter-এর মূল দলিল আলাদা record হিসেবে উদ্ধৃত করুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "hadith-muslim-1584e",
@@ -2284,7 +2309,8 @@
       "bn_context": "বর্ণনাটি নির্দিষ্ট পণ্যের সমান ও তাৎক্ষণিক বিনিময় এবং ribā-সংক্রান্ত নিয়ম নিয়ে।",
       "bn_interpretation": "এটি exchange doctrine-এর primary hadith evidence; সব পরবর্তী loan doctrine-এর সঙ্গে সরাসরি এক করা উচিত নয়।",
       "bn_notes": "বর্তমান stable locator ব্যবহার করুন এবং print edition-এর page lock আলাদা রাখুন।",
-      "bn_verification_status": "Passage-level record established"
+      "bn_verification_status": "Passage-level record established",
+      "book": "book-1"
     },
     {
       "source_id": "ibn-rushd-bidayat-riba",
@@ -2360,7 +2386,8 @@
       "bn_context": "Bidāyat al-Mujtahid বিভিন্ন madhhab-এর legal reasoning তুলনা করে।",
       "bn_interpretation": "এটি পরবর্তী comparative fiqh-এর গুরুত্বপূর্ণ evidence; কুরআন বা হাদিসের সরাসরি substitute নয়।",
       "bn_notes": "নির্দিষ্ট chapter/edition locator দিয়ে school differences উদ্ধৃত করুন।",
-      "bn_verification_status": "Passage-level record established online; print edition pending"
+      "bn_verification_status": "Passage-level record established online; print edition pending",
+      "book": "book-1"
     },
     {
       "source_id": "aristotle-politics-1258b",
@@ -2427,7 +2454,8 @@
       "bn_context": "Aristotle Politics-এর এই অংশে অর্থ, বিনিময় ও chrematistics নিয়ে আলোচনা আছে।",
       "bn_interpretation": "এটি পরবর্তী usury ধারণার সরাসরি equivalent নয়; অর্থ ও অর্থ-উৎপাদনের প্রাচীন দার্শনিক সমালোচনার প্রমাণ হিসেবে রাখা উচিত।",
       "bn_notes": "Bekker number 1258b-কে স্থিতিশীল locator হিসেবে রাখুন।",
-      "bn_verification_status": "Passage verified"
+      "bn_verification_status": "Passage verified",
+      "book": "book-1"
     },
     {
       "source_id": "plutarch-solon-15",
@@ -2494,7 +2522,8 @@
       "bn_context": "Plutarch-এর Solon জীবনীতে ঋণ, সামাজিক সংকট ও Solon-এর সংস্কারের প্রসঙ্গ আসে।",
       "bn_interpretation": "এটি পরবর্তী জীবনীমূলক witness; সমসাময়িক Solonian statute-এর সরাসরি বিকল্প নয়।",
       "bn_notes": "Plutarch-এর chapter/section locator এবং ব্যবহৃত edition আলাদা করে দিন।",
-      "bn_verification_status": "Secondary/witness evidence"
+      "bn_verification_status": "Secondary/witness evidence",
+      "book": "book-1"
     },
     {
       "source_id": "justinian-codex-4-32-26",
@@ -2570,7 +2599,8 @@
       "bn_context": "Justinian-এর 528 সালের interest reform-এর পরবর্তী constitution-গুলোর একটি।",
       "bn_interpretation": "রোমান সাম্রাজ্যে সুদের নিয়ন্ত্রণ কীভাবে বিস্তারিত আইনি শ্রেণিতে বিভক্ত হয় তা দেখায়।",
       "bn_notes": "C.4.32.26-এর primary locator বজায় রাখুন; edition/page lock না থাকলে B রাখুন।",
-      "bn_verification_status": "Passage verified"
+      "bn_verification_status": "Passage verified",
+      "book": "book-1"
     },
     {
       "source_id": "justinian-codex-4-32-27-28",
@@ -2636,7 +2666,8 @@
       "bn_context": "এগুলো Justinian-এর 528 সালের interest reform-এর অনুসরণকারী constitution।",
       "bn_interpretation": "সরল নিষেধাজ্ঞা/অনুমতির বদলে বিস্তারিত আইনি নিয়ন্ত্রণের প্রমাণ।",
       "bn_notes": "C.4.32.27–28-এর primary locator বজায় রাখুন; medieval canon-law record থেকে আলাদা রাখুন।",
-      "bn_verification_status": "Passage verified"
+      "bn_verification_status": "Passage verified",
+      "book": "book-1"
     },
     {
       "source_id": "trullo-canon-10",
@@ -2702,7 +2733,8 @@
       "bn_context": "Quinisext Council পূর্বাঞ্চলীয় চার্চের disciplinary canons সম্পূরক করে।",
       "bn_interpretation": "এটি clerical/eccelesiastical discipline-এর প্রমাণ; সাধারণ civil prohibition নয়।",
       "bn_notes": "ধর্মীয় ও নাগরিক আইনস্তর আলাদা রাখুন।",
-      "bn_verification_status": "Passage verified"
+      "bn_verification_status": "Passage verified",
+      "book": "book-1"
     },
     {
       "source_id": "carolingian-usury-aachen-nijmegen",
@@ -2772,7 +2804,8 @@
       "bn_context": "প্রাচীন খ্রিস্টীয় canon law থেকে বৃহত্তর Carolingian legislation-এর দিকে পশ্চিম ইউরোপীয় পরিবর্তনের অংশ।",
       "bn_interpretation": "গুরুত্বপূর্ণ সেতু, কিন্তু critical edition যাচাই না হওয়া পর্যন্ত publication-grade passage evidence নয়।",
       "bn_notes": "critical edition না দেখে ‘more demanded than given’ ধরনের প্রচলিত wording উদ্ধৃত করবেন না।",
-      "bn_verification_status": "Research target — critical edition pending"
+      "bn_verification_status": "Research target — critical edition pending",
+      "book": "book-1"
     },
     {
       "source_id": "maimonides-sefer-mitzvot-235-237",
@@ -2840,7 +2873,8 @@
       "bn_context": "এটি দ্বাদশ শতকে আগের biblical ও rabbinic law-এর codification; Maimonides-এর নতুন আবিষ্কৃত prohibition নয়।",
       "bn_interpretation": "অংশটি দেখায় মধ্যযুগীয় Jewish law কীভাবে prohibition-এ অংশগ্রহণকারী বিভিন্ন পক্ষকে formalize করেছে।",
       "bn_notes": "Maimonides-এর 12th-century CE chronology বজায় রাখুন; online locator stable হলেও print-page lock pending।",
-      "bn_verification_status": "Passage verified — stable online locator; print-edition page pending"
+      "bn_verification_status": "Passage verified — stable online locator; print-edition page pending",
+      "book": "book-1"
     },
     {
       "source_id": "maimonides-mishneh-torah-ml-4",
@@ -2919,7 +2953,8 @@
       "bn_context": "অধ্যায়টি biblical ও Talmudic rules-কে একটি comprehensive medieval legal code-এ সাজায়।",
       "bn_interpretation": "এটি direct interest থেকে derivative বা circumventional forms পর্যন্ত mature legal taxonomy দেখায়।",
       "bn_notes": "Sefaria-এর Creditor and Debtor 4:1–10 locator stable; print edition/page lock না হওয়া পর্যন্ত B রাখুন।",
-      "bn_verification_status": "Passage verified — stable online locator; print-edition page pending"
+      "bn_verification_status": "Passage verified — stable online locator; print-edition page pending",
+      "book": "book-1"
     },
     {
       "source_id": "maimonides-mishneh-torah-ml-5",
@@ -2992,7 +3027,8 @@
       "bn_context": "এই অংশ Deuteronomy 23:20–21-কে সরাসরি ব্যাখ্যা করে এবং আগের rabbinic distinctions-কে medieval code-এ রূপ দেয়।",
       "bn_interpretation": "biblical brother/foreigner distinction কীভাবে medieval Jewish commercial law-এ কার্যকর করা হয় তা অনুসরণে এটি গুরুত্বপূর্ণ।",
       "bn_notes": "Sefaria-এর stable locator ব্যবহার করুন; নির্বাচিত scholarly print edition-এর page lock এখনও অসম্পূর্ণ।",
-      "bn_verification_status": "Passage verified — stable online locator; print-edition page pending"
+      "bn_verification_status": "Passage verified — stable online locator; print-edition page pending",
+      "book": "book-1"
     },
     {
       "source_id": "shulchan-arukh-yoreh-deah-160",
@@ -3060,7 +3096,8 @@
       "bn_context": "Shulchan Arukh আগের Sephardic ও Ashkenazic legal traditions একত্র করে; Rema-এর glosses Ashkenazic rulings যোগ করে।",
       "bn_interpretation": "মধ্যযুগীয় doctrine থেকে early-modern commercial law-এ যাওয়ার সেতু এবং permissible investment structuring-এর পরবর্তী ব্যবস্থার প্রেক্ষাপট।",
       "bn_notes": "এটিকে সরাসরি medieval নয়, early-modern transition হিসেবে চিহ্নিত করুন; heter iska আলাদা record হিসেবে রাখুন।",
-      "bn_verification_status": "Primary passage directly verified online; edition-page verification pending"
+      "bn_verification_status": "Primary passage directly verified online; edition-page verification pending",
+      "book": "book-1"
     },
     {
       "source_id": "calvin-de-usuris-1545",
@@ -3118,7 +3155,8 @@
       "bn_context": "এটি lending ও interest নিয়ে বাস্তব প্রশ্নের Reformation-era response।",
       "bn_interpretation": "ঐতিহ্যগত categorical usury language থেকে case-based ethical evaluation-এর দিকে পরিবর্তনের গুরুত্বপূর্ণ evidence।",
       "bn_notes": "ভুল Bentham URL ব্যবহার করবেন না। 1545/46 De Usuris Responsum-এর secondary witness-কে primary text হিসেবে উপস্থাপন করবেন না।",
-      "bn_verification_status": "Passage verified — stable secondary reproduction of primary text; critical/early edition lock pending"
+      "bn_verification_status": "Passage verified — stable secondary reproduction of primary text; critical/early edition lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "henry-viii-usury-act-1545",
@@ -3176,7 +3214,8 @@
       "bn_context": "মধ্য-Tudor যুগে money lending-এর আইনি treatment পরিবর্তনের একটি গুরুত্বপূর্ণ statute।",
       "bn_interpretation": "মধ্যযুগীয় ধর্মীয় condemnation ও ক্রমবর্ধমান rate-based statutory regulation-এর মধ্যে সেতু হিসেবে কাজ করে।",
       "bn_notes": "37 Hen. VIII c.9 citation বজায় রাখুন এবং quotation authoritative statute-book scan-এর সঙ্গে lock করুন।",
-      "bn_verification_status": "Primary statute verified — stable transcription; statute-book page lock pending"
+      "bn_verification_status": "Primary statute verified — stable transcription; statute-book page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "elizabeth-usury-act-1571",
@@ -3235,7 +3274,8 @@
       "bn_context": "আগের Tudor reversals-এর পর Elizabethan যুগে lending regulation-এর পুনর্বিন্যাস।",
       "bn_interpretation": "moral/religious condemnation ও numerical legal ceiling একই statutory framework-এ সহাবস্থান করতে পারে—এটি তার প্রমাণ।",
       "bn_notes": "13 Eliz. I c.8 citation বজায় রাখুন; exact quotation scanned statute-book edition-এ lock করুন।",
-      "bn_verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending"
+      "bn_verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "james-usury-act-1624",
@@ -3294,7 +3334,8 @@
       "bn_context": "প্রারম্ভিক Stuart যুগে legal rate পরিবর্তনের statute।",
       "bn_interpretation": "ধর্মীয় condemnation বজায় রেখেও প্রশাসনিকভাবে নির্ধারিত rate-এর দিকে অগ্রসর হওয়ার প্রমাণ।",
       "bn_notes": "21 Jac. I c.17 ও 8% ceiling-এর citation বজায় রাখুন; historical print/scan pagination lock করুন।",
-      "bn_verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending"
+      "bn_verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "boe-charter-1694",
@@ -3356,7 +3397,8 @@
       "bn_context": "নতুন banking institution গড়ে ওঠে, যা private capital, government finance ও banking-কে যুক্ত করে।",
       "bn_interpretation": "sovereign credit ও modern banking-এর দিকে institutional transition বোঝাতে গুরুত্বপূর্ণ primary document।",
       "bn_notes": "27 July 1694 Charter-এর Bank of England archival witness ব্যবহার করুন; archival/printed citation পুরোপুরি lock না হওয়া পর্যন্ত B রাখুন।",
-      "bn_verification_status": "Primary document verified — official Bank of England transcript"
+      "bn_verification_status": "Primary document verified — official Bank of England transcript",
+      "book": "book-1"
     },
     {
       "source_id": "bank-act-1694",
@@ -3420,7 +3462,8 @@
       "bn_context": "Bank Charter-এর আগে subscription/loan arrangement-কে statutory foundation দেওয়া হয়।",
       "bn_interpretation": "taxation ও subscribers-এর promised return-এর মাধ্যমে public credit institutionalize হওয়ার প্রমাণ।",
       "bn_notes": "5 & 6 Will. & Mar. c.20 citation বজায় রাখুন; Royal Charter 27 July 1694-এর সঙ্গে গুলিয়ে ফেলবেন না।",
-      "bn_verification_status": "Primary statute identified and citation corrected; exact passage/page lock pending"
+      "bn_verification_status": "Primary statute identified and citation corrected; exact passage/page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "bentham-defence-usury-1787",
@@ -3485,7 +3528,8 @@
       "bn_context": "অষ্টাদশ শতকের শেষভাগে statutory interest restriction-এর বিরুদ্ধে দার্শনিক-অর্থনৈতিক সমালোচনা।",
       "bn_interpretation": "contractual liberty ও economic analysis-এর দিকে স্পষ্ট পরিবর্তনের গুরুত্বপূর্ণ evidence।",
       "bn_notes": "1787 first edition, T. Payne and Son, 206 pages-এর baseline বজায় রাখুন; first-edition page-ই publication locator।",
-      "bn_verification_status": "A-grade — first-edition bibliographic record and first-edition page lock verified"
+      "bn_verification_status": "A-grade — first-edition bibliographic record and first-edition page lock verified",
+      "book": "book-1"
     },
     {
       "source_id": "adam-smith-wealth-nations-i9",
@@ -3535,7 +3579,8 @@
       "bn_context": "Smith interest-কে stock-এর returns-এর distribution-এর অংশ হিসেবে এবং legal ceiling ও evasion-এর সঙ্গে আলোচনা করেন।",
       "bn_interpretation": "classical political economy-তে interest ও credit-market reasoning-এর গুরুত্বপূর্ণ formulation।",
       "bn_notes": "Glasgow Edition-এর Book I, Chapter IX এবং p.105 baseline বজায় রাখুন।",
-      "bn_verification_status": "A-grade — named scholarly edition and page lock verified"
+      "bn_verification_status": "A-grade — named scholarly edition and page lock verified",
+      "book": "book-1"
     },
     {
       "source_id": "bentham-defence-usury-i",
@@ -3590,7 +3635,8 @@
       "bn_context": "এটি legislation নয়; philosophical/economic argument।",
       "bn_interpretation": "Bentham-এর contractual liberty ও usury regulation-বিরোধী reasoning-এর প্রাথমিক অংশ।",
       "bn_notes": "প্রথম edition-এর Letter I, p.1 baseline হিসেবে রাখুন।",
-      "bn_verification_status": "A-grade — first-edition bibliographic record and first-edition page lock verified"
+      "bn_verification_status": "A-grade — first-edition bibliographic record and first-edition page lock verified",
+      "book": "book-1"
     },
     {
       "source_id": "ricardo-principles-ch-v",
@@ -3640,7 +3686,8 @@
       "bn_context": "Ricardo-র distribution ও profits তত্ত্বের অংশ।",
       "bn_interpretation": "interest, wages ও profits-এর classical political economy সম্পর্ক অনুসরণে গুরুত্বপূর্ণ।",
       "bn_notes": "প্রথম edition-এর duplicate Chapter V—V* ‘On Profits’—p.116 locator বজায় রাখুন; পরবর্তী edition-এর numbering স্থানান্তর করবেন না।",
-      "bn_verification_status": "A-grade — first-edition chapter numbering and page lock verified"
+      "bn_verification_status": "A-grade — first-edition chapter numbering and page lock verified",
+      "book": "book-1"
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -3685,7 +3732,8 @@
       "bn_context": "এটি usury law নয়; monetary ও banking statute।",
       "bn_interpretation": "interest ceiling-এর বদলে monetary architecture ও banking regulation-এর বিকাশ বোঝাতে গুরুত্বপূর্ণ।",
       "bn_notes": "7 & 8 Vict. c.32 বজায় রাখুন; publication quotation-এর জন্য section-level original verification সম্পূর্ণ করুন।",
-      "bn_verification_status": "GREEN — statute identified; original section-level verification required for publication quotation"
+      "bn_verification_status": "GREEN — statute identified; original section-level verification required for publication quotation",
+      "book": "book-1"
     },
     {
       "source_id": "usury-laws-repeal-1854",
@@ -3730,7 +3778,8 @@
       "bn_context": "ইংল্যান্ডে interest ceiling-এর আইনি treatment-এ বড় statutory পরিবর্তন।",
       "bn_interpretation": "নির্দিষ্ট legal maximum থেকে অধিক contractual freedom-এর দিকে পরিবর্তনের গুরুত্বপূর্ণ evidence।",
       "bn_notes": "17 & 18 Vict. c.90 primary statute হিসেবে রাখুন এবং project-standard page lock সম্পূর্ণ করুন।",
-      "bn_verification_status": "GREEN — primary statute text verified"
+      "bn_verification_status": "GREEN — primary statute text verified",
+      "book": "book-1"
     },
     {
       "source_id": "js-mill-principles-interest",
@@ -3778,7 +3827,8 @@
       "bn_context": "Mill interest ও credit-market theory-কে classical political economy-এর পরিণত পর্যায়ে আলোচনা করেন।",
       "bn_interpretation": "ঋণ, পুঁজি ও সুদের অর্থনৈতিক যুক্তি অনুসরণে গুরুত্বপূর্ণ পরবর্তী classical formulation।",
       "bn_notes": "Book III, Chapter XXIII locator বজায় রাখুন; edition-page lock না হওয়া পর্যন্ত GREEN/B অবস্থান রাখুন।",
-      "bn_verification_status": "GREEN — primary passage online verified; edition-page lock pending"
+      "bn_verification_status": "GREEN — primary passage online verified; edition-page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "fed-act-1913",
@@ -3835,7 +3885,8 @@
       "bn_context": "1907-এর banking panic ও পরবর্তী reform debate-এর পর আইনটি আসে।",
       "bn_interpretation": "Federal Reserve প্রতিষ্ঠার primary evidence; এটিকে পরবর্তী FOMC বা dual-mandate arrangements-এর সঙ্গে গুলিয়ে ফেলা যাবে না।",
       "bn_notes": "Federal Reserve Act, ch.6, 38 Stat. 251 baseline রাখুন; printed Statutes at Large page lock বাকি।",
-      "bn_verification_status": "GREEN — official statutory text identified; section-level citations locked to the Act"
+      "bn_verification_status": "GREEN — official statutory text identified; section-level citations locked to the Act",
+      "book": "book-1"
     },
     {
       "source_id": "banking-act-1933",
@@ -3893,7 +3944,8 @@
       "bn_context": "1933 সালের banking crisis-এর সময় আইনটি প্রণীত হয়।",
       "bn_interpretation": "banking separation, deposit insurance ও national open-market governance-এর বিকাশে গুরুত্বপূর্ণ; পরবর্তী amendments অনেক বিধান বদলেছে।",
       "bn_notes": "Federal Reserve History-এর summary-কে statutory text-এর বিকল্প করবেন না; final quotation-এর জন্য statute ব্যবহার করুন।",
-      "bn_verification_status": "Primary statute identified; section-level passage verified through official historical record; print/statute page lock pending"
+      "bn_verification_status": "Primary statute identified; section-level passage verified through official historical record; print/statute page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "banking-act-1935",
@@ -3952,7 +4004,8 @@
       "bn_context": "1933-এর emergency banking reforms-এর পরে এই আইন national open-market policy আরও কেন্দ্রীভূত করে।",
       "bn_interpretation": "decentralized early Federal Reserve থেকে modern FOMC structure-এর দিকে গুরুত্বপূর্ণ statutory bridge।",
       "bn_notes": "Federal Reserve Act §12A-সহ 1935 Act-এর statutory text ব্যবহার করুন; printed page lock অসম্পূর্ণ।",
-      "bn_verification_status": "Primary statute identified; section-level passage verified through official historical record; print/statute page lock pending"
+      "bn_verification_status": "Primary statute identified; section-level passage verified through official historical record; print/statute page lock pending",
+      "book": "book-1"
     },
     {
       "source_id": "bretton-woods-1944",
@@ -4010,7 +4063,8 @@
       "bn_context": "1–22 July 1944-এর United Nations Monetary and Financial Conference-এ agreements গৃহীত হয়।",
       "bn_interpretation": "এটি postwar international monetary order-এর primary treaty/institutional evidence।",
       "bn_notes": "1944 Final Act-কে IMF/IBRD Articles-এর official baseline রাখুন; 1945 domestic implementing Acts-এর সঙ্গে গুলিয়ে ফেলবেন না।",
-      "bn_verification_status": "A-grade — primary Final Act and government-print edition/page lock verified"
+      "bn_verification_status": "A-grade — primary Final Act and government-print edition/page lock verified",
+      "book": "book-1"
     },
     {
       "source_id": "bretton-woods-act-1945",
@@ -4065,7 +4119,8 @@
       "bn_context": "এই আইন international agreements-কে U.S. domestic legal authority-তে রূপ দেয়।",
       "bn_interpretation": "international treaty text ও domestic implementation আলাদা রাখার জন্য গুরুত্বপূর্ণ।",
       "bn_notes": "U.S. implementing statute-কে 1944 Final Act ও UK 1945 Act থেকে আলাদা রাখুন; printed-page lock pending।",
-      "bn_verification_status": "GREEN/YELLOW — official historical locator verified; section quotation pending locked statute text"
+      "bn_verification_status": "GREEN/YELLOW — official historical locator verified; section quotation pending locked statute text",
+      "book": "book-1"
     },
     {
       "source_id": "nixon-1971",
@@ -4121,7 +4176,8 @@
       "bn_context": "1971 সালের 15 August ঘোষণা আন্তর্জাতিক monetary pressure-এর মধ্যে হয় এবং পরে exchange-rate negotiations আসে।",
       "bn_interpretation": "August 1971 policy decision-এর primary evidence; পরবর্তী legal/international changes আলাদা documents দিয়ে অনুসরণ করতে হবে।",
       "bn_notes": "15 August 1971 presidential address primary public statement হিসেবে রাখুন; exact passage-এর official transcript/print locator lock করুন।",
-      "bn_verification_status": "GREEN — primary speech verified"
+      "bn_verification_status": "GREEN — primary speech verified",
+      "book": "book-1"
     },
     {
       "source_id": "jamaica-1976-imf",
@@ -4181,7 +4237,8 @@
       "bn_context": "1971 সালে dollar convertibility ভাঙার পর flexible exchange arrangements-এর দিকে আলোচনার ধারাবাহিকতায় reform আসে।",
       "bn_interpretation": "1976 political agreement ও 1978 legal entry into force আলাদা documentary events।",
       "bn_notes": "IMF records অনুযায়ী Proposed Second Amendment 30 April 1976 approved এবং 1 April 1978 effective; timeline-এ দুটো আলাদা রাখুন।",
-      "bn_verification_status": "Primary institutional record verified — 1976 agreement distinguished from 1978 legal entry into force"
+      "bn_verification_status": "Primary institutional record verified — 1976 agreement distinguished from 1978 legal entry into force",
+      "book": "book-1"
     },
     {
       "source_id": "dodd-frank-2010",
@@ -4238,7 +4295,8 @@
       "bn_context": "2007–2009 financial crisis-এর পরে আইনটি প্রণীত হয়।",
       "bn_interpretation": "modern regulatory timeline-এর একটি endpoint; ancient usury law-এর সরাসরি continuation হিসেবে দেখা উচিত নয়।",
       "bn_notes": "Pub. L. 111-203 primary statutory witness; ব্যবহৃত passage-এর জন্য exact Statutes at Large page lock বাকি।",
-      "bn_verification_status": "GREEN — official statute record verified"
+      "bn_verification_status": "GREEN — official statute record verified",
+      "book": "book-1"
     },
     {
       "source_id": "uk-bretton-woods-act-1945",
@@ -4302,7 +4360,8 @@
       "bn_context": "1944 international Final Act ও U.S. 1945 Act থেকে UK domestic implementation আইনগতভাবে পৃথক।",
       "bn_interpretation": "একটি প্রধান অংশগ্রহণকারী রাষ্ট্র কীভাবে international monetary agreements-কে domestic law-এ রূপ দিল তা অনুসরণে উপযোগী।",
       "bn_notes": "9 & 10 Geo. 6 c.19, 20 Dec. 1945 এবং official legislation.gov.uk scan-এর printed pages বজায় রাখুন।",
-      "bn_verification_status": "A-grade — official legislation.gov.uk scan and exact chapter/date/page lock verified"
+      "bn_verification_status": "A-grade — official legislation.gov.uk scan and exact chapter/date/page lock verified",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
