@@ -89,8 +89,15 @@
     const hs=[...document.querySelectorAll('.prose h2')]; hs.forEach((e,i)=>{if(H[i])e.textContent=H[i]});
     const ps=[...document.querySelectorAll('.prose p')];
     ps.forEach((e,i)=>{if(P[i+1])e.textContent=P[i+1]});
-    const cells=[...document.querySelectorAll('.prose table th,.prose table td')];
-    cells.forEach((e,i)=>{if(T[i])e.textContent=T[i]});
+    const table=document.querySelector('.prose table');
+    if(table){
+      const th=[...table.querySelectorAll('thead th')];
+      th.forEach((e,i)=>{if(T[i])e.textContent=T[i]});
+      [...table.querySelectorAll('tbody tr')].forEach((r,i)=>{
+        if(r.cells[1]&&T[3+i*2])r.cells[1].textContent=T[3+i*2];
+        if(r.cells[2]&&T[4+i*2])r.cells[2].textContent=T[4+i*2];
+      });
+    }
     const links=[...document.querySelectorAll('.prose ul li')];
     const L=['Federal Reserve History — যুক্তরাষ্ট্রের দ্বিতীয় ব্যাংক','U.S. Senate — প্রেসিডেন্ট জ্যাকসনের তিরস্কার','Library of Congress — জ্যাকসনের ১৮৩২ সালের ব্যাংক ভেটো','Supreme Court — McCulloch v. Maryland','American Economic Association — জ্যাকসন ও দ্বিতীয় ব্যাংক নিয়ে গবেষণা','Journal of Economic History — জ্যাকসনীয় মুদ্রানীতি ও ১৮৩৭ সালের আর্থিক আতঙ্ক'];
     links.forEach((e,i)=>{if(L[i])e.querySelector('a')?.replaceChildren(document.createTextNode(L[i]))});
