@@ -143,7 +143,7 @@ function apply(k){
  document.querySelectorAll('nav a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.nav[h])a.textContent=l.nav[h]});
  document.querySelectorAll('footer a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.foot[h])a.textContent=l.foot[h]});
  if(lang==='bn'){
-  const normalize=t=>String(t||'').replace(/<[^>]*>/g,'').replace(/[’‘]/g,"'").replace(/[“”]/g,'"').replace(/[–—]/g,'-').replace(/\\s+/g,' ').trim();
+  const normalize=t=>String(t||'').replace(/<[^>]*>/g,'').replace(/[’‘]/g,"'").replace(/[“”]/g,'"').replace(/[–—]/g,'-').replace(/\s+/g,' ').trim();
   const translatedKeys=Object.keys(page);
   document.querySelectorAll('body *').forEach(el=>{
    const t=(el.textContent||'').trim();
