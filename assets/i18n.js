@@ -115,14 +115,20 @@ function apply(k){
  const lab=document.querySelector('.language-selector label'); if(lab)lab.textContent=l.label; const ls=document.querySelector('[data-language-select]'); if(ls)ls.setAttribute('aria-label',lang==='bn'?'ভাষা নির্বাচন করুন':'Select language');
  document.querySelectorAll('nav a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.nav[h])a.textContent=l.nav[h]});
  document.querySelectorAll('footer a').forEach(a=>{const h=(a.getAttribute('href')||'').split('#')[0];if(l.foot[h])a.textContent=l.foot[h]});
- if(lang==='bn'){document.querySelectorAll('body *').forEach(el=>{
+ if(lang==='bn'){
+  const normalize=t=>String(t||'').replace(/<[^>]*>/g,'').replace(/[’‘]/g,"'").replace(/[“”]/g,'"').replace(/[–—]/g,'-').replace(/\\s+/g,' ').trim();
+  const translatedKeys=Object.keys(page);
+  document.querySelectorAll('body *').forEach(el=>{
    const t=(el.textContent||'').trim();
-   if(t&&page[t]){
-     const v=page[t];
+   if(!t)return;
+   let key=page[t]?t:null;
+   if(!key){const n=normalize(t);key=translatedKeys.find(k=>normalize(k)===n)||null;}
+   if(key){
+     const v=page[key];
      if(v.includes('<')&&v.includes('>'))el.innerHTML=v;
      else if(el.children.length===0)el.textContent=v;
    }
- });
+  });
  if(TITLES[pageName()])document.title=TITLES[pageName()];
   if(BN_DESCRIPTIONS[pageName()]){const m=document.querySelector('meta[name="description"]');if(m)m.setAttribute('content',BN_DESCRIPTIONS[pageName()]);}
   const attrs=ATTR[pageName()]||{};
