@@ -103,6 +103,7 @@ const ARTICLE_BODY={
 }
 };
 function pageName(){return location.pathname.split('/').pop()||'index.html'}
+const BOOK_COMMON={'Book Two · Coming soon':'বই দুই · শীঘ্রই','Book Three · Coming soon':'বই তিন · শীঘ্রই','Book Two':'বই দুই','Book Three':'বই তিন','Book One':'বই এক','Book One · Why Only Usury Invokes Allah\'s War?':'বই এক · কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে?'};
 const BOOK_UI={
 'books.html':{
  'Book architecture':'বইভিত্তিক স্থাপত্য',
