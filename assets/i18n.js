@@ -177,5 +177,9 @@ function init(){
  if(s)s.addEventListener('change',()=>{localStorage.setItem(K,s.value);location.reload()});
  apply(localStorage.getItem(K)||'en');
 }
-document.addEventListener('DOMContentLoaded',init);
+function watchDynamicContent(){
+ const obs=new MutationObserver(()=>{if((localStorage.getItem(K)||'en')==='bn')apply('bn');});
+ obs.observe(document.body,{childList:true,subtree:true});
+}
+document.addEventListener('DOMContentLoaded',()=>{init();watchDynamicContent();});
 })();
