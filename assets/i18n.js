@@ -103,6 +103,31 @@ const ARTICLE_BODY={
 }
 };
 function pageName(){return location.pathname.split('/').pop()||'index.html'}
+const BOOK_UI={
+'books.html':{
+ 'Book architecture':'বইভিত্তিক স্থাপত্য',
+ 'Each book is treated as a distinct research and publication environment. Shared author-level infrastructure connects them without merging their evidence, articles or editions.':'প্রতিটি বইকে পৃথক গবেষণা ও প্রকাশনা-পরিবেশ হিসেবে বিবেচনা করা হয়। লেখক-স্তরের অভিন্ন অবকাঠামো তাদের সংযুক্ত রাখে, কিন্তু তাদের প্রমাণ, প্রবন্ধ বা সংস্করণ একীভূত করে না।',
+ 'Book One':'বই এক','Book Two':'বই দুই','Book Three':'বই তিন',
+ 'Future project · Research / Articles / Publication reserved':'ভবিষ্যৎ প্রকল্প · গবেষণা / প্রবন্ধ / প্রকাশনা সংরক্ষিত',
+ 'Research':'গবেষণা','Articles':'প্রবন্ধ','Publication':'প্রকাশনা'
+},
+'research.html':{
+ 'Research scope':'গবেষণার পরিধি',
+ 'Book One · Why Only Usury Invokes Allah\'s War?':'বই এক · কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে?',
+ 'This research library currently contains the 59 source records assigned to Book One. Future books will have their own source sets while sharing the author-wide infrastructure.':'এই গবেষণা-সংগ্রহে বর্তমানে বই একের জন্য নির্ধারিত ৫৯টি উৎস-রেকর্ড রয়েছে। ভবিষ্যৎ বইগুলোর নিজস্ব উৎস-সমষ্টি থাকবে, তবে লেখক-স্তরের অবকাঠামো অভিন্ন থাকবে।',
+ 'Book One website':'বই একের ওয়েবসাইট','Book Two · Coming soon':'বই দুই · শীঘ্রই','Book Three · Coming soon':'বই তিন · শীঘ্রই',
+ 'Synthesis':'সংশ্লেষণ'
+},
+'articles.html':{
+ 'Article catalogue':'প্রবন্ধের তালিকা',
+ 'The published essays below belong to Book One. New books will receive separate article sections rather than being mixed into this catalogue.':'নিচের প্রকাশিত প্রবন্ধগুলো বই একের অন্তর্ভুক্ত। নতুন বইয়ের প্রবন্ধ আলাদা বিভাগে থাকবে; এই তালিকার সঙ্গে সেগুলো মিশবে না।',
+ 'Book Two':'বই দুই','Book Three':'বই তিন'
+},
+'publication.html':{
+ 'Publication scope':'প্রকাশনার পরিধি',
+ 'Book One · Version 10.2':'বই এক · সংস্করণ ১০.২',
+ 'This publication edition belongs to Book One. Each future book can carry its own version history, research inventory and archival record.':'এই প্রকাশনা সংস্করণটি বই একের অন্তর্ভুক্ত। ভবিষ্যতের প্রতিটি বইয়ের নিজস্ব সংস্করণ-ইতিহাস, গবেষণা-তালিকা ও আর্কাইভ রেকর্ড থাকতে পারে।'
+}};
 const TITLES={'index.html':'ফ্র্যাঙ্ক দ্য ওয়ার্ডস্মিথ | বই, ধারণা ও গবেষণা','about.html':'পরিচিতি ও পদ্ধতি | FranktheWordsmith','books.html':'বই | FranktheWordsmith','contact.html':'যোগাযোগ | FranktheWordsmith','articles.html':'প্রবন্ধ | FranktheWordsmith','book-usury.html':'কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে? | FranktheWordsmith','central-question.html':'কেন্দ্রীয় প্রশ্ন | FranktheWordsmith','research.html':'গবেষণা-সংগ্রহ | FranktheWordsmith','timeline.html':'৪,০০০ বছরের উদ্ধৃতি-ভিত্তিক কালপঞ্জি | FranktheWordsmith','references.html':'গ্রন্থপঞ্জি ও রেফারেন্স | FranktheWordsmith','source.html':'উৎস | FranktheWordsmith','synthesis.html':'৪,০০০ বছরের উদ্ধৃতি-ভিত্তিক সংশ্লেষণ — সংস্করণ ১০.২','publication.html':'প্রকাশনা সংস্করণ | FranktheWordsmith','rights.html':'অধিকার ও অনুমতি | FranktheWordsmith','article-4000-year-history.html':'সুদের ৪,০০০ বছরের ইতিহাস | FranktheWordsmith','article-hammurabi.html':'হাম্মুরাবি আসলে কী নিয়ন্ত্রণ করেছিলেন | FranktheWordsmith','article-language-of-war.html':'যুদ্ধের ভাষা কেন? | FranktheWordsmith','404.html':'পৃষ্ঠা পাওয়া যায়নি | FranktheWordsmith'};
 const ATTR={'research.html':{'Search the research library':'গবেষণা-সংগ্রহে খুঁজুন','Search sources, terms, civilizations…':'উৎস, পরিভাষা, সভ্যতা খুঁজুন…'}};
 const BN_DESCRIPTIONS={'index.html':'FranktheWordsmith: বই, ধারণা এবং ঋণ, সুদ, রিবা, আইন, ধর্ম, ব্যাংকিং ও মুদ্রাব্যবস্থা নিয়ে উৎস-ভিত্তিক গবেষণা-সংগ্রহ।','about.html':'Ismail Bin Ebrahim এবং FranktheWordsmith-এর উৎস-প্রথম গবেষণা-পদ্ধতি সম্পর্কে।','books.html':'FranktheWordsmith-এর অধীনে Ismail Bin Ebrahim-এর বই ও প্রধান গবেষণা-প্রকল্পসমূহ।','contact.html':'চিঠিপত্র, গবেষণা-পরামর্শ, সংশোধন, বক্তৃতা বা বই-সংক্রান্ত প্রশ্নের জন্য FranktheWordsmith-এর সঙ্গে যোগাযোগ করুন।','articles.html':'ইতিহাস, প্রাথমিক উৎস, ঋণ, সুদ ও রিবা নিয়ে FranktheWordsmith-এর প্রকাশিত প্রবন্ধ ও গবেষণা-নোট।','book-usury.html':'বই এক, কেন শুধু সুদই আল্লাহর যুদ্ধ ডেকে আনে? — এর কেন্দ্রীয় প্রশ্ন, গবেষণা-পরিবেশ ও উৎস-ভিত্তিক অনুসন্ধান।','central-question.html':'বই একের কেন্দ্রীয় গবেষণা-প্রশ্ন: রিবার নিষেধাজ্ঞায় কুরআন কেন যুদ্ধের ভাষা ব্যবহার করে?','research.html':'FranktheWordsmith-এর উৎস-প্রথম গবেষণা-সংগ্রহ: প্রাথমিক পাঠ্য, আইনগত ঐতিহ্য, ধর্মীয় পাঠ্য ও গবেষণাধর্মী রেফারেন্স।','timeline.html':'ঋণ, ঋণদান, সুদ ও রিবার চার হাজার বছরের উদ্ধৃতি-ভিত্তিক কালপঞ্জি।','references.html':'FranktheWordsmith সংস্করণ ১০.২-এর গবেষণাধর্মী গ্রন্থপঞ্জি, উৎস-উদ্ধৃতি ও উদ্ধৃতি-সূচি।','source.html':'FranktheWordsmith গবেষণা-সংগ্রহের একটি উৎস-রেকর্ড, যেখানে উদ্ধৃতি, প্রমাণ, ব্যাখ্যা ও সূত্রের বিবরণ রয়েছে।','synthesis.html':'চার হাজার বছর জুড়ে রিবা, সুদ, ঋণ, ঋণদান, ব্যাংকিং ও মুদ্রাব্যবস্থার উদ্ধৃতি-ভিত্তিক কালানুক্রমিক সংশ্লেষণ।','publication.html':'FranktheWordsmith-এর উৎস-ভিত্তিক গবেষণা-সংগ্রহের সংস্করণ ১০.২ ওয়েব প্রকাশনা সংস্করণ।','rights.html':'FranktheWordsmith এবং Ismail Bin Ebrahim-এর কপিরাইট, সংরক্ষিত অধিকার ও অনুমতি সংক্রান্ত তথ্য।','article-4000-year-history.html':'মেসোপটেমীয় আইনসংকলন থেকে আধুনিক অর্থব্যবস্থা পর্যন্ত চার হাজার বছরের নিয়ন্ত্রিত ঋণ, ঋণদান ও সুদের উৎস-সচেতন পর্যালোচনা।','article-hammurabi.html':'হাম্মুরাবির বিধিসংহিতায় ঋণ, ফসলহানি ও সুদের উৎস-ভিত্তিক পরীক্ষা, যেখানে টিকে থাকা পাঠ্য ও পুনর্গঠনের পার্থক্য স্পষ্ট করা হয়েছে।','article-language-of-war.html':'কুরআন ২:২৭৫–২৭৯ এবং রিবা-সংক্রান্ত যুদ্ধের সতর্কভাষার পাঠ্যভিত্তিক পরীক্ষা, যেখানে কুরআনিক শব্দচয়নকে পরবর্তী আইনগত ব্যাখ্যা থেকে পৃথক রাখা হয়েছে।'};
