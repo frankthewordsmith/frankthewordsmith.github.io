@@ -237,8 +237,7 @@ function init(){
     s.dataset.ftwBound='1';
     s.addEventListener('change',()=>{
       localStorage.setItem(K,s.value);
-      apply(s.value);
-      window.dispatchEvent(new CustomEvent('ftw:language-change',{detail:{language:s.value}}));
+      location.reload();
     });
   }
   apply(localStorage.getItem(K)||'en');
