@@ -20,4 +20,5 @@ function render(q=''){
 render();
 window.FTW_I18N?.apply?.(localStorage.getItem('ftw-language')||'en');
 input?.addEventListener('input',e=>{render(e.target.value);window.FTW_I18N?.apply?.(localStorage.getItem('ftw-language')||'en');});
+window.addEventListener('ftw:language-change',()=>{render(input?.value||'');});
 })();
