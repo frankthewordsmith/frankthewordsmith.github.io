@@ -143,7 +143,7 @@ window.FTW_I18N={
 };
 
 function normalize(t){
-  return String(t||'').replace(/<[^>]*>/g,'').replace(/[’‘]/g,"'").replace(/[“”]/g,'"').replace(/[–—]/g,'-').replace(/\\s+/g,' ').trim();
+  return String(t||'').replace(/<[^>]*>/g,'').replace(/[’‘]/g,"'").replace(/[“”]/g,'"').replace(/[–—]/g,'-').replace(/\s+/g,' ').trim();
 }
 
 function translateAttributes(name){
