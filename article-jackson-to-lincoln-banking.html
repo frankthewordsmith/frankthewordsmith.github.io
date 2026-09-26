@@ -149,6 +149,23 @@
 <footer><div class="wrap foot"><div><strong>FranktheWordsmith</strong><p class="muted">Source-first research</p></div><div><a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="rights.html">Rights &amp; Permissions</a></div></div><div class="wrap" style="padding:12px 0 18px"><p class="muted small">© 2026 Ismail Bin Ebrahim. All rights reserved. <a href="rights.html">Rights &amp; Permissions</a></p></div></footer>
 <script>
 (function(){
+  function syncTitle(){
+    const bn=localStorage.getItem('ftw-language')==='bn';
+    const title=document.querySelector('.pagehead h1');
+    if(title){
+      title.textContent=bn
+        ? 'জ্যাকসনের ব্যাংক যুদ্ধ থেকে লিংকনের জাতীয় ব্যাংকিং ব্যবস্থা: আমেরিকার অর্থ ও ব্যাংকিংয়ের রূপান্তর, ১৮১৬–১৮৬৪'
+        : 'From Jackson’s Bank War to Lincoln’s National Banking System: The Transformation of American Money and Banking, 1816–1864';
+    }
+    document.title=bn
+      ? 'জ্যাকসনের ব্যাংক যুদ্ধ থেকে লিংকনের জাতীয় ব্যাংকিং ব্যবস্থা | FranktheWordsmith'
+      : 'From Jackson’s Bank War to Lincoln’s National Banking System | FranktheWordsmith';
+  }
+  syncTitle();
+  window.addEventListener('storage',syncTitle);
+  window.addEventListener('ftw:language-change',syncTitle);
+})();
+</script><script>(function(){
   const BN = `<div class="wrap prose">
 <h2>ভূমিকা: ত্রিশ বছরের প্রাতিষ্ঠানিক রূপান্তর</h2>
 <p>অ্যান্ড্রু জ্যাকসনের দ্বিতীয় ব্যাংক অব দ্য ইউনাইটেড স্টেটস ধ্বংস করা থেকে আব্রাহাম লিংকনের যুদ্ধকালীন মুদ্রা ও ব্যাংকিং সংস্কার পর্যন্ত ইতিহাসকে একজন প্রেসিডেন্ট ব্যাংক ধ্বংস করলেন এবং আরেকজন সেটি প্রতিস্থাপন করলেন—এভাবে সরলভাবে বলা যায় না। ১৮১৬ থেকে ১৮৬৪ সালের মধ্যে যুক্তরাষ্ট্র বিভিন্ন আর্থিক ব্যবস্থার মধ্য দিয়ে যায়: ফেডারেল সনদপ্রাপ্ত জাতীয় ব্যাংক, বিকেন্দ্রীভূত রাজ্য ব্যাংকিং, Independent Treasury-এর পরীক্ষা, একের পর এক আর্থিক সংকট, গৃহযুদ্ধের ঋণগ্রহণ, ফেডারেল কাগুজে মুদ্রা এবং শেষ পর্যন্ত জাতীয় সনদপ্রাপ্ত ব্যাংকিং ব্যবস্থা।</p>
@@ -288,5 +305,5 @@
   window.addEventListener('storage',sync);
   window.addEventListener('ftw:language-change',sync);
 })();
-</script><script src="assets/site.js"></script><script src="assets/i18n.js?v=20260927-7"></script>
+</script><script src="assets/site.js"></script><script src="assets/i18n.js?v=20260927-8"></script>
 </body></html>
