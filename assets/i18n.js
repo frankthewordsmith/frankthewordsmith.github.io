@@ -204,31 +204,42 @@ function apply(k){
 
   if(lang!=='bn')return;
 
-  // First translate complete elements whose mapping intentionally contains HTML.
+  // Translate article/research content at the element level first.
+  // This handles paragraphs/headings/cells containing links, <em>, <strong>, etc.
+  // The normalized source text is matched against the page's Bangla dictionary,
+  // while translated values containing HTML preserve the original inline structure.
+  const targets=document.querySelectorAll(
+    '.prose h1,.prose h2,.prose h3,.prose h4,.prose p,.prose li,.prose td,.prose th,.prose blockquote,.prose figcaption,'+
+    'main .pagehead h1,main .pagehead h2,main .pagehead h3,main .pagehead p'
+  );
+  const exactAll=new Map();
   Object.keys(page).forEach(key=>{
+    const normalized=normalize(key);
+    if(normalized && !exactAll.has(normalized))exactAll.set(normalized,key);
+  });
+  targets.forEach(el=>{
+    const key=exactAll.get(normalize(el.textContent));
+    if(!key)return;
     const value=page[key];
-    if(!(value.includes('<')&&value.includes('>')))return;
-    document.querySelectorAll('body *').forEach(el=>{
-      if(el.children.length===0)return;
-      const t=normalize(el.textContent);
-      if(t===normalize(key))el.innerHTML=value;
-    });
+    if(typeof value!=='string')return;
+    if(value.includes('<')&&value.includes('>'))el.innerHTML=value;
+    else el.textContent=value;
   });
 
-  // Then translate individual text nodes. This preserves links, emphasis and other inline markup.
+  // Translate remaining standalone text nodes, including navigation and footer text.
   const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
   const nodes=[];
   let node;
   while((node=walker.nextNode()))nodes.push(node);
-  const keys=Object.keys(page).filter(key=>!(page[key].includes('<')&&page[key].includes('>')));
-  const exact=new Map(keys.map(key=>[normalize(key),key]));
   nodes.forEach(n=>{
+    if(n.parentElement && n.parentElement.closest('.prose'))return;
     const raw=n.nodeValue||'';
     const trimmed=raw.trim();
     if(!trimmed)return;
-    const key=exact.get(normalize(trimmed));
+    const key=exactAll.get(normalize(trimmed));
     if(!key)return;
     const value=page[key];
+    if(typeof value!=='string')return;
     const start=raw.indexOf(trimmed);
     n.nodeValue=raw.slice(0,start)+value+raw.slice(start+trimmed.length);
   });
