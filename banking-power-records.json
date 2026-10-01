@@ -143,12 +143,12 @@
       "title": "Financial crisis of 1825–1826 and Bank of England branches",
       "date_label": "1825–1826",
       "historical_claim": "The Bank of England's historical records describe the 1825–1826 crisis, in which many country and provincial banks failed, as a reason for establishing Bank of England branches from 1826.",
-      "verification_status": "Primary-source / archival record located",
-      "evidence_grade": "B",
-      "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=DS%2FUK%2F99&pos=1&src=CalmView.Persons",
+      "verification_status": "Primary-source verified — Country Bankers Act 1826",
+      "evidence_grade": "A",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
       "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
       "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
-      "notes": "The Bank of England archive identifies the 1826 Country Bankers Act (7 Geo IV c.46, s.15) and the branch-bank decision following the 1825 crisis. The Act's original text should be locked before Grade A."
+      "notes": "The original 1826 Act text authorizes the Bank of England to establish banking business at places in England through committees/agents and provides for issuing Bank notes and other securities. This is the primary statutory evidence for the post-1825 branch response."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -291,12 +291,12 @@
       "title": "Great Depression, 1929–1933",
       "date_label": "1929–1933",
       "historical_claim": "The Great Depression became a global economic and financial crisis, exposing severe weaknesses in banking and monetary systems and prompting major institutional changes.",
-      "verification_status": "Institutional record located; primary passage pending",
-      "evidence_grade": "B",
-      "source_url": "https://www.federalreservehistory.org/essays/great-depression",
+      "verification_status": "Primary contemporary official record verified — Federal Reserve Board Annual Report 1933",
+      "evidence_grade": "A",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1933-2491/fulltext",
       "bn_title": "মহামন্দা, ১৯২৯–১৯৩৩",
       "bn_historical_claim": "১৯২৯–১৯৩৩ সালের মহামন্দা বৈশ্বিক অর্থনৈতিক ও আর্থিক সংকটে পরিণত হয় এবং ব্যাংকিং ও মুদ্রাব্যবস্থার গুরুতর দুর্বলতা প্রকাশ করে; এর পর বড় ধরনের প্রাতিষ্ঠানিক পরিবর্তন আসে।",
-      "notes": "The Federal Reserve historical record documents the Depression and banking failures, but the present source is a retrospective institutional history. Contemporary government or central-bank documents still need to be locked before Grade A."
+      "notes": "The contemporary 1933 Federal Reserve Board Annual Report records successive banking difficulties from 1930 through March 1933 and states that nearly 5,500 banks suspended operations between December 1929 and February 1933. The report provides direct contemporary evidence for the banking-crisis phase of the Great Depression."
     },
     {
       "source_id": "bis-1930",
