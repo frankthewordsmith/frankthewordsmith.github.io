@@ -20,7 +20,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through books.google.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Ordinance of the City of Amsterdam establishing the Wisselbank, 31 January 1609; contemporary municipal ordinance, reproduced in documentary collections of Amsterdam municipal records.; publisher/authority: City of Amsterdam; Amsterdam municipal records; year: 1609.",
+      "edition": "Ordinance of the City of Amsterdam establishing the Wisselbank, 31 January 1609; contemporary municipal ordinance, reproduced in documentary collections of Amsterdam municipal records.",
+      "publisher": "City of Amsterdam; Amsterdam municipal records",
+      "publication_year": 1609
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -40,7 +43,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.riksdagen.se; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Royal privilege of 30 November 1656 granted to Johan Palmstruch to establish loan banks in Stockholm; contemporary Swedish royal privilege.; publisher/authority: Kingdom of Sweden; Swedish Riksdag historical records; year: 1656.",
+      "edition": "Royal privilege of 30 November 1656 granted to Johan Palmstruch to establish loan banks in Stockholm; contemporary Swedish royal privilege.",
+      "publisher": "Kingdom of Sweden; Swedish Riksdag historical records",
+      "publication_year": 1656
     },
     {
       "source_id": "riksbank-1668",
@@ -60,7 +66,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through alvin-portal.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh, Växel- och Lånebanken i Stockholm, 1668.; publisher/authority: Swedish Riksdag / Kingdom of Sweden; year: 1668.",
+      "edition": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh, Växel- och Lånebanken i Stockholm, 1668.",
+      "publisher": "Swedish Riksdag / Kingdom of Sweden",
+      "publication_year": 1668
     },
     {
       "source_id": "boe-1694",
@@ -130,7 +139,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through catalog.folger.edu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "The Schemes of the South Sea Company and the Bank of England as Propos'd to the Parliament for the Reducing of the National Debts, London, 1720; contemporary printed proposal.; publisher/authority: South Sea Company; Parliament of Great Britain; year: 1720.",
+      "edition": "The Schemes of the South Sea Company and the Bank of England as Propos'd to the Parliament for the Reducing of the National Debts, London, 1720; contemporary printed proposal.",
+      "publisher": "South Sea Company; Parliament of Great Britain",
+      "publication_year": 1720
     },
     {
       "source_id": "first-bank-us-1791",
