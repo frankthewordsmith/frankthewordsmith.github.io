@@ -22,3 +22,5 @@ html[lang="bn"] body{line-height:1.78}
 .map-visuals{margin-bottom:1.5rem}.map-visuals h2{margin:.25rem 0 .4rem}.map-visual-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1rem;margin-top:1rem}.map-card{border:1px solid rgba(127,127,127,.28);border-radius:12px;padding:1rem;overflow:hidden;background:inherit}.map-card-head{display:flex;align-items:center;justify-content:space-between;gap:.75rem}.map-card-head h3{margin:0;font-size:1.05rem}.research-map{display:block;width:100%;height:auto;margin-top:.7rem;overflow:visible}.map-axis{stroke:currentColor;stroke-width:1;opacity:.35}.map-tick{stroke:currentColor;stroke-width:1;opacity:.25}.map-dot{fill:currentColor}.map-label{font:12px sans-serif;fill:currentColor}.map-year{font:11px sans-serif;fill:currentColor;opacity:.65}@media(max-width:600px){.map-label{font-size:10px}.map-card{padding:.75rem}}
 
 .map-point{cursor:pointer}.map-point:hover .map-dot,.map-point:focus .map-dot{transform:scale(1.45);transform-origin:center;outline:none}.source-grid .card:target{outline:2px solid currentColor;outline-offset:3px;scroll-margin-top:6rem}
+
+.passage-status{font-weight:600;opacity:.78}
