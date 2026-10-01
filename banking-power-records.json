@@ -19,7 +19,8 @@
       "passage_source_url": "https://books.google.com/books?id=5w5VAAAAcAAJ",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through books.google.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -38,7 +39,8 @@
       "passage_source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.riksdagen.se; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "riksbank-1668",
@@ -57,7 +59,8 @@
       "passage_source_url": "https://alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A356430",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through alvin-portal.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "boe-1694",
@@ -78,7 +81,8 @@
       "passage_source_url": "https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.bankofengland.co.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bank-scotland-1695",
@@ -99,7 +103,8 @@
       "passage_source_url": "https://catalog.folger.edu/record/147972",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through catalog.folger.edu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -118,7 +123,8 @@
       "passage_source_url": "https://catalog.folger.edu/record/741221",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through catalog.folger.edu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "first-bank-us-1791",
@@ -137,7 +143,8 @@
       "passage_source_url": "https://www.loc.gov/item/2020769609/",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.loc.gov; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "banque-france-1800",
@@ -156,7 +163,8 @@
       "passage_source_url": "https://francearchives.gouv.fr/fr/commemo/recueil-2000/39467",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through francearchives.gouv.fr; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "banque-france-1806",
@@ -175,7 +183,8 @@
       "passage_source_url": "https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Loi-du-22-avril-1806-cut-from-doc.pdf",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through ypfsresourcelibrary.blob.core.windows.net; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -194,7 +203,8 @@
       "passage_source_url": "https://searcharchives.bl.uk/catalog/040-001999322",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through searcharchives.bl.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
@@ -213,7 +223,8 @@
       "passage_source_url": "https://www.christies.com/lot/lot-6247795",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.christies.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bank-of-england-crisis-1825",
@@ -232,7 +243,8 @@
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.legislation.gov.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -251,7 +263,8 @@
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Vict/7-8/32",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.legislation.gov.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "banque-france-note-monopoly-1848",
@@ -270,7 +283,8 @@
       "passage_source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.bourseducollectionneur.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "overend-gurney-crisis-1866",
@@ -289,7 +303,8 @@
       "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1866/may/11/suspension-of-the-bank-charter-act",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through api.parliament.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "panic-1873",
@@ -310,7 +325,8 @@
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through fraser.stlouisfed.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bank-japan-1882",
@@ -329,7 +345,8 @@
       "passage_source_url": "https://www.archives.go.jp/ayumi/kobetsu/m15_1882_01.html",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.archives.go.jp; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "baring-crisis-1890",
@@ -348,7 +365,8 @@
       "passage_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Economist_1890-11-22-_Vol_48_Iss_2465_%28IA_sim_economist_1890-11-22_48_2465%29.pdf",
       "passage_type": "contemporary-printed-reproduction",
       "language": "English (contemporary printed reproduction)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through upload.wikimedia.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "panic-1907",
@@ -369,7 +387,8 @@
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through fraser.stlouisfed.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "jekyll-island-1910",
@@ -388,7 +407,8 @@
       "passage_source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
       "passage_type": "retrospective-firsthand-account",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.saturdayeveningpost.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "federal-reserve-act-1913",
@@ -407,7 +427,8 @@
       "passage_source_url": "https://www.govinfo.gov/content/pkg/COMPS-270/pdf/COMPS-270.pdf",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.govinfo.gov; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "wwi-central-bank-war-finance-1914",
@@ -426,7 +447,8 @@
       "passage_source_url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/0736c995-a08f-443b-ae3e-494420f9a4f1/ChancellorOfExchequerSStatement",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through hansard.parliament.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -445,7 +467,8 @@
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/29/pdfs/ukpga_19250029_en.pdf",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.legislation.gov.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "great-depression-1929-33",
@@ -464,7 +487,8 @@
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1933-2491/fulltext",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through fraser.stlouisfed.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bis-1930",
@@ -483,7 +507,8 @@
       "passage_source_url": "https://treaties.un.org/doc/Publication/UNTS/LON/Volume%20104/v104.pdf",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through treaties.un.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bretton-woods-1944",
@@ -502,7 +527,8 @@
       "passage_source_url": "https://www.imf.org/en/publications/ft/aa/index",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.imf.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "banque-france-nationalized-1945",
@@ -521,7 +547,8 @@
       "passage_source_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000313937/",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.legifrance.gouv.fr; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
@@ -540,7 +567,8 @@
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/contents",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.legislation.gov.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "nixon-gold-window-1971",
@@ -559,7 +587,8 @@
       "passage_source_url": "https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.presidency.ucsb.edu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "basel-committee-1974",
@@ -578,7 +607,8 @@
       "passage_source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.bis.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "plaza-accord-1985",
@@ -597,7 +627,8 @@
       "passage_source_url": "https://g7.utoronto.ca/finance/fm850922.htm",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through g7.utoronto.ca; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -616,7 +647,8 @@
       "passage_source_url": "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.bis.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "asian-crisis-1997",
@@ -635,7 +667,8 @@
       "passage_source_url": "https://www.imf.org/external/np/loi/081497.HTM",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.imf.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "ecb-established-1998",
@@ -654,7 +687,8 @@
       "passage_source_url": "https://www.ecb.europa.eu/pub/pdf/annrep/ar1998en.pdf",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through www.ecb.europa.eu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     },
     {
       "source_id": "global-financial-crisis-2008",
@@ -673,7 +707,8 @@
       "passage_source_url": "https://home.treasury.gov/news/press-releases/hp1206",
       "passage_type": "english-primary-text",
       "language": "English",
-      "last_verified": "2026-10-01"
+      "last_verified": "2026-10-01",
+      "source_identity": "Primary-source record identified through home.treasury.gov; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
