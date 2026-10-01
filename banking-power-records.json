@@ -465,14 +465,14 @@
       "historical_claim": "On 15 August 1971, President Richard Nixon announced the suspension of the dollar's convertibility into gold for foreign central banks and other reserve holders, marking a decisive break in the Bretton Woods monetary arrangement.",
       "bn_title": "নিক্সন গোল্ড উইন্ডো বন্ধ করেন",
       "bn_historical_claim": "১৫ আগস্ট ১৯৭১ প্রেসিডেন্ট রিচার্ড নিক্সন বিদেশি কেন্দ্রীয় ব্যাংক ও অন্যান্য রিজার্ভ ধারকদের জন্য ডলারের স্বর্ণে রূপান্তরযোগ্যতা স্থগিত করার ঘোষণা দেন, যা ব্রেটন উডস মুদ্রাব্যবস্থার একটি निर्णায়ক বিচ্ছেদ ঘটায়।",
-      "source_url": "https://www.presidency.ucsb.edu/documents/third-annual-report-the-congress-united-states-foreign-policy",
+      "source_url": "https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace",
       "verification_status": "Primary-source verified",
       "evidence_grade": "A",
-      "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful.",
+      "notes": "The passage is directly verified in President Nixon's 15 August 1971 Address to the Nation, the primary presidential speech in which he announced the temporary suspension of dollar convertibility into gold or other reserve assets. The previous source URL pointed to an unrelated later report and has been corrected.",
       "primary_passage": "I have directed the Secretary of the Treasury to suspend temporarily the convertibility of the dollar into gold or other reserve assets",
       "passage_locator": "President Richard Nixon, Address to the Nation Outlining a New Economic Policy, 15 August 1971; directive announcing temporary suspension of dollar convertibility.",
       "passage_status": "Passage locked — contemporary presidential record",
-      "passage_source_url": "https://www.presidency.ucsb.edu/documents/third-annual-report-the-congress-united-states-foreign-policy"
+      "passage_source_url": "https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace"
     },
     {
       "source_id": "basel-committee-1974",
@@ -548,11 +548,11 @@
       "source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/1998/html/is980609.el.html",
       "verification_status": "Primary-source / official contemporary record verified",
       "evidence_grade": "A",
-      "notes": "The ECB's 9 June 1998 contemporary introductory statement records that the Executive Board members were appointed effective 1 June 1998, which constituted the date of establishment of the ECB and ESCB. This is a contemporary official institutional record.",
+      "notes": "The exact quoted wording is directly present in the ECB Annual Report 1998, section I, 'The establishment of the ECB', p. 129. The prior 9 June 1998 press-conference URL independently supports the date but did not match the stated passage locator as directly as the Annual Report; the passage source has therefore been aligned to the quoted document.",
       "primary_passage": "the ECB was established on 1 June 1998",
       "passage_locator": "ECB Annual Report 1998, section I, “The establishment of the ECB.”",
       "passage_status": "Passage locked — contemporary official record",
-      "passage_source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/1998/html/is980609.el.html"
+      "passage_source_url": "https://www.ecb.europa.eu/pub/pdf/annrep/ar1998en.pdf"
     },
     {
       "source_id": "global-financial-crisis-2008",
