@@ -1,0 +1,90 @@
+{
+  "book": "book-1",
+  "source_note": "Initial event-by-event conversion from the uploaded GLOBAL BANKING POWER TIMELINE, 1600–2026. These are qualified institutional-history records; direct primary passages remain a later verification stage.",
+  "sources": [
+    {
+      "source_id": "wisselbank-1609",
+      "title": "Amsterdam Wisselbank, 1609",
+      "date_label": "1609",
+      "historical_claim": "The Amsterdam Wisselbank institutionalized reliable payment settlement and monetary exchange in a multi-currency commercial environment before modern central banking.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.amsterdam.nl/stadsarchief/canon-amsterdam-2008/1609-wisselbank/",
+      "bn_title": "আমস্টারডাম উইসেলব্যাংক, ১৬০৯",
+      "bn_historical_claim": "১৬০৯ সালে প্রতিষ্ঠিত আমস্টারডাম উইসেলব্যাংক বহু-মুদ্রাভিত্তিক বাণিজ্যিক পরিবেশে নির্ভরযোগ্য পেমেন্ট সেটেলমেন্ট ও মুদ্রা বিনিময়কে প্রাতিষ্ঠানিক রূপ দেয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "stockholms-banco-1656",
+      "title": "Stockholms Banco, 1656",
+      "date_label": "1656",
+      "historical_claim": "Stockholms Banco provides an early documented case connecting banknote issuance, confidence, redemption pressure and bank failure.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1600-1699/swedens-first-bank/",
+      "bn_title": "স্টকহোমস ব্যাংকো, ১৬৫৬",
+      "bn_historical_claim": "স্টকহোমস ব্যাংকোর ইতিহাস ব্যাংকনোট ইস্যু, জনবিশ্বাস, নোট ভাঙানোর চাপ ও ব্যাংক-ব্যর্থতার প্রাথমিক সংযোগ দেখায়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "riksbank-1668",
+      "title": "Sveriges Riksbank, 1668",
+      "date_label": "1668",
+      "historical_claim": "Riksens Ständers Bank was established in 1668 from the remains of Stockholms Banco and became the institution now known as Sveriges Riksbank.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1600-1699/sveriges-riksbank-is-founded/",
+      "bn_title": "স্ভেরিয়েস রিক্সব্যাংক, ১৬৬৮",
+      "bn_historical_claim": "১৬৬৮ সালে স্টকহোমস ব্যাংকোর ধ্বংসাবশেষ থেকে রিক্সেনস স্ট্যান্ডার্স ব্যাংক প্রতিষ্ঠিত হয়, যা পরবর্তীতে স্ভেরিয়েস রিক্সব্যাংক নামে পরিচিত হয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "boe-1694",
+      "title": "Bank of England, 1694",
+      "date_label": "1694",
+      "historical_claim": "The Bank of England began as a private bank acting as banker to the government and was founded to help fund the war against France.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "bn_title": "ব্যাংক অব ইংল্যান্ড, ১৬৯৪",
+      "bn_historical_claim": "১৬৯৪ সালে ব্যাংক অব ইংল্যান্ড সরকারকে ব্যাংকিং সেবা দেওয়া এবং ফ্রান্সের বিরুদ্ধে যুদ্ধের অর্থায়নে সহায়তার উদ্দেশ্যে একটি বেসরকারি ব্যাংক হিসেবে প্রতিষ্ঠিত হয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "bank-scotland-1695",
+      "title": "Bank of Scotland, 1695",
+      "date_label": "1695",
+      "historical_claim": "The Bank of Scotland was created by an Act of the Scottish Parliament in 1695, with 172 original shareholders drawn mainly from political and merchant elites.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofscotland.co.uk/about-us/our-heritage.html",
+      "bn_title": "ব্যাংক অব স্কটল্যান্ড, ১৬৯৫",
+      "bn_historical_claim": "১৭ জুলাই ১৬৯৫ সালে স্কটিশ পার্লামেন্টের আইনের মাধ্যমে ব্যাংক অব স্কটল্যান্ড প্রতিষ্ঠিত হয়; এর ১৭২ জন প্রাথমিক শেয়ারহোল্ডারের বড় অংশ ছিল রাজনৈতিক ও বণিক শ্রেণি থেকে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "south-sea-bubble-1720",
+      "title": "South Sea Bubble, 1720",
+      "date_label": "1720",
+      "historical_claim": "The South Sea Bubble linked government debt, corporate privilege and speculative securities markets in a major eighteenth-century financial crisis.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "bn_title": "সাউথ সি বাবল, ১৭২০",
+      "bn_historical_claim": "১৭২০ সালের সাউথ সি বাবল সরকারি ঋণ, কর্পোরেট সুবিধা ও সিকিউরিটিজ জল্পনাকে একটি বড় আর্থিক সংকটে যুক্ত করেছিল।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "first-bank-us-1791",
+      "title": "First Bank of the United States, 1791",
+      "date_label": "1791",
+      "historical_claim": "The First Bank of the United States combined federal government participation with private capital and shareholder governance in a national banking institution.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://fraser.stlouisfed.org/title/historical-beginnings-federal-reserve-8939/fulltext",
+      "bn_title": "ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস, ১৭৯১",
+      "bn_historical_claim": "১৭৯১ সালের ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস ফেডারেল সরকারের অংশগ্রহণ ও ব্যক্তিগত মূলধনকে একত্র করে একটি জাতীয় ব্যাংকিং কাঠামো তৈরি করে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    }
+  ]
+}
