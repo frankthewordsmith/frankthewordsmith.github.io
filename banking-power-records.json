@@ -179,12 +179,12 @@
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
       "historical_claim": "The failure of Overend Gurney in 1866 produced a major financial panic and contributed to policy debate that shaped the Bank of England's lender-of-last-resort role.",
-      "verification_status": "Primary-source / archival record verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2016/the-demise-of-overend-gurney.pdf",
+      "verification_status": "Contemporary parliamentary record and surviving Bank of England archival record verified",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1866-05-11/debates/1c1ca1c2-87f5-4ebb-a7bd-6c7201c68f06/SuspensionOfTheBankCharterAct%E2%80%94Question",
       "bn_title": "ওভারেন্ড গার্নি সংকট, ১৮৬৬",
       "bn_historical_claim": "১৮৬৬ সালে ওভারেন্ড গার্নির পতন একটি বড় আর্থিক আতঙ্ক সৃষ্টি করে এবং ব্যাংক অব ইংল্যান্ডের শেষ আশ্রয়ের ঋণদাতা হিসেবে ভূমিকা গঠনের নীতিগত বিতর্ককে প্রভাবিত করে।",
-      "notes": "The Bank of England study uses and reproduces archival 1866 correspondence and accounts, but the current linked source is a later historical study rather than the underlying archival documents themselves. Retain Grade B until the relevant original correspondence/account passage is directly linked or extracted."
+      "notes": "The 11 May 1866 Hansard debate records the Government's contemporary response to the monetary panic, including the Bank of England's extraordinary expansion of loans and discounts, the sharp fall in its reserves, and the Government's decision to authorize action beyond the statutory Issue Department limits if necessary. The Bank of England archive separately preserves the Court of Directors minutes for 11 April 1866–4 April 1867, explicitly noting the Overend and Gurney collapse (G4/89). This provides direct contemporary parliamentary evidence plus a surviving institutional archival record. The broader later interpretation of the episode as shaping the lender-of-last-resort role should remain identified as historical interpretation rather than a direct 1866 statement."
     },
     {
       "source_id": "panic-1873",
