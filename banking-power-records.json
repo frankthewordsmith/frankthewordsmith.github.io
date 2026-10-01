@@ -338,7 +338,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through fraser.stlouisfed.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, Office of the Comptroller of the Currency, issued 28 November 1873; section “The Panic of 1873,” p. XXVI.; publisher/authority: U.S. Department of the Treasury, Office of the Comptroller of the Currency; year: 1873.",
+      "edition": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, Office of the Comptroller of the Currency, issued 28 November 1873; section “The Panic of 1873,” p. XXVI.",
+      "publisher": "U.S. Department of the Treasury, Office of the Comptroller of the Currency",
+      "publication_year": 1873
     },
     {
       "source_id": "bank-japan-1882",
@@ -358,7 +361,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.archives.go.jp; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Bank of Japan founding ordinance, 1882; National Archives of Japan historical record of the founding of the Bank of Japan.; publisher/authority: Government of Japan; National Archives of Japan; year: 1882.",
+      "edition": "Bank of Japan founding ordinance, 1882; National Archives of Japan historical record of the founding of the Bank of Japan.",
+      "publisher": "Government of Japan; National Archives of Japan",
+      "publication_year": 1882
     },
     {
       "source_id": "baring-crisis-1890",
@@ -463,7 +469,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through hansard.parliament.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "House of Commons Parliamentary Debates (Hansard), 17 November 1914, war loan statement.; publisher/authority: Parliament of the United Kingdom; Hansard; year: 1914.",
+      "edition": "House of Commons Parliamentary Debates (Hansard), 17 November 1914, war loan statement.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1914
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -506,7 +515,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through fraser.stlouisfed.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Annual Report of the Board of Governors of the Federal Reserve System for 1933, Federal Reserve Board, Washington, 1934; discussion of bank suspensions, 1933.; publisher/authority: Federal Reserve Board; year: 1934.",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System for 1933, Federal Reserve Board, Washington, 1934; discussion of bank suspensions, 1933.",
+      "publisher": "Federal Reserve Board",
+      "publication_year": 1934
     },
     {
       "source_id": "bis-1930",
