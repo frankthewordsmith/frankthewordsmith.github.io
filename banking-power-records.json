@@ -271,7 +271,8 @@
       "notes": "Japan's National Archives identifies the surviving file '日本銀行創立ノ件' (The Founding of the Bank of Japan), with document photographs and full-text access. The National Archives description states that the Bank of Japan Ordinance was promulgated in June 1882 and that the Bank opened in October 1882 as a joint-stock company with 10 million yen capital; it identifies the published materials as the approval document for the founding and the Bank of Japan Ordinance. The Bank of Japan's official history independently records promulgation in June and commencement of operations on 10 October 1882. This directly supports Grade A.",
       "primary_passage": "銀行条例第一条: 日本銀行ハ国立銀行トシテ設立ス",
       "passage_locator": "Bank of Japan founding ordinance, 1882; National Archives of Japan founding file, 日本銀行創立ノ件.",
-      "passage_status": "Passage locked — primary founding document"
+      "passage_status": "Passage locked — primary founding document",
+      "passage_source_url": "https://www.archives.go.jp/ayumi/kobetsu/m15_1882_01.html"
     },
     {
       "source_id": "baring-crisis-1890",
@@ -286,7 +287,8 @@
       "notes": "Bank of England archive G15/189 identifies the original crisis file: Currie and Greene's report on Barings' solvency, the assets/liabilities statement, the partners' undertaking placing their property at the Bank's disposal, and correspondence reporting the guarantee operation's success. These are direct surviving 1890 documents supporting the guarantee-fund claim.",
       "primary_passage": "the Bank of England guarantee of the liabilities of Baring Brothers and Co.",
       "passage_locator": "Bank of England archive, Baring Brothers & Co Crisis, 1890, G15/189; guarantee-fund records and report to the Governor.",
-      "passage_status": "Passage locked — primary archival record"
+      "passage_status": "Passage locked — primary archival record",
+      "passage_source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog"
     },
     {
       "source_id": "panic-1907",
@@ -303,7 +305,8 @@
       "status": "Primary-source verified",
       "primary_passage": "the New York Clearing House then offered these banks loans that were eventually exchanged for clearing house loan certificates",
       "passage_locator": "Federal Reserve History, Panic of 1907, contemporary-event reconstruction citing the New York Clearing House response.",
-      "passage_status": "Passage locked — official historical record"
+      "passage_status": "Passage locked — official historical record",
+      "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext"
     },
     {
       "source_id": "jekyll-island-1910",
@@ -398,7 +401,8 @@
       "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
       "primary_passage": "Whereas the Powers signatory to the Hague Agreement of January, 1930, have adopted a Plan which contemplates the founding ... of an International Bank to be called the Bank for International Settlements",
       "passage_locator": "Constituent Charter of the Bank for International Settlements, 20 January 1930, opening recital.",
-      "passage_status": "Passage locked — primary charter"
+      "passage_status": "Passage locked — primary charter",
+      "passage_source_url": "https://treaties.un.org/doc/Publication/UNTS/LON/Volume%20104/v104.pdf"
     },
     {
       "source_id": "bretton-woods-1944",
@@ -429,7 +433,8 @@
       "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
       "primary_passage": "Les banques d'émission sont nationalisées",
       "passage_locator": "French Law No. 45-15, 2 December 1945, nationalization provisions concerning banks of issue.",
-      "passage_status": "Passage locked — primary legislation"
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006103745"
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
@@ -460,7 +465,8 @@
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful.",
       "primary_passage": "I have directed the Secretary of the Treasury to suspend temporarily the convertibility of the dollar into gold or other reserve assets",
       "passage_locator": "President Richard Nixon, Address to the Nation Outlining a New Economic Policy, 15 August 1971; directive announcing temporary suspension of dollar convertibility.",
-      "passage_status": "Passage locked — contemporary presidential record"
+      "passage_status": "Passage locked — contemporary presidential record",
+      "passage_source_url": "https://www.presidency.ucsb.edu/documents/third-annual-report-the-congress-united-states-foreign-policy"
     },
     {
       "source_id": "basel-committee-1974",
@@ -491,7 +497,8 @@
       "notes": "The 22 September 1985 Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States is preserved as the contemporary Plaza statement. The text directly records the meeting, the five participating governments, and the agreed policy direction, including that further orderly appreciation of major nondollar currencies against the dollar was desirable and that the participants would cooperate to encourage it. The Federal Reserve's historical archive independently documents the Plaza Agreement and its subsequent foreign-exchange operations.",
       "primary_passage": "further orderly appreciation of the major non-dollar currencies against the dollar is desirable",
       "passage_locator": "Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States, 22 September 1985.",
-      "passage_status": "Passage locked — contemporary official statement"
+      "passage_status": "Passage locked — contemporary official statement",
+      "passage_source_url": "https://g7.utoronto.ca/finance/fm850922.htm"
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -506,7 +513,8 @@
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful.",
       "primary_passage": "the total capital ratio must be no lower than 8% of risk-weighted assets",
       "passage_locator": "International Convergence of Capital Measurement and Capital Standards, Basel Committee on Banking Supervision, July 1988; capital standard section.",
-      "passage_status": "Passage locked — primary institutional standard"
+      "passage_status": "Passage locked — primary institutional standard",
+      "passage_source_url": "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards"
     },
     {
       "source_id": "asian-crisis-1997",
@@ -521,7 +529,8 @@
       "notes": "The 14 August 1997 Thailand Memorandum on Economic Policies, submitted in connection with the IMF-supported program, records the currency attacks, depletion of Bank of Thailand reserves, suspension of finance companies, and the float of the baht on 2 July 1997. The IMF's contemporaneous 2 July 1997 News Brief independently records Thailand's change to a managed float effective that date. The 20 August 1997 IMF approval release documents the subsequent stand-by arrangement and describes the spread of financial stress. These contemporary official records support the crisis-origin and international-assistance claims; broader claims about the crisis spreading across Asia should be treated as regional consequences rather than inferred solely from the Thai documents.",
       "primary_passage": "the combination of a fixed exchange rate, an increasingly open capital account, and high domestic interest rates to combat inflation, attracted short-term capital flows that left the economy vulnerable to sudden shifts in market sentiment and external shocks.",
       "passage_locator": "Thailand Memorandum on Economic Policies, 14 August 1997, section I, paragraph 1.",
-      "passage_status": "Passage locked — contemporary government record"
+      "passage_status": "Passage locked — contemporary government record",
+      "passage_source_url": "https://www.imf.org/external/np/loi/081497.HTM"
     },
     {
       "source_id": "ecb-established-1998",
@@ -536,7 +545,8 @@
       "notes": "The ECB's 9 June 1998 contemporary introductory statement records that the Executive Board members were appointed effective 1 June 1998, which constituted the date of establishment of the ECB and ESCB. This is a contemporary official institutional record.",
       "primary_passage": "the ECB was established on 1 June 1998",
       "passage_locator": "ECB Annual Report 1998, section I, “The establishment of the ECB.”",
-      "passage_status": "Passage locked — contemporary official record"
+      "passage_status": "Passage locked — contemporary official record",
+      "passage_source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/1998/html/is980609.el.html"
     },
     {
       "source_id": "global-financial-crisis-2008",
@@ -551,7 +561,8 @@
       "notes": "The ECB Executive Board member's 15 September 2009 contemporary speech explicitly records that Lehman Brothers filed for bankruptcy protection a year earlier and describes the severe global downturn and extraordinary government and central-bank response. This is a contemporary official institutional record.",
       "primary_passage": "Today we are taking decisive actions to protect the U.S. economy, to strengthen public confidence in our financial institutions, and to foster the robust functioning of our credit markets.",
       "passage_locator": "Joint Statement by Treasury, Federal Reserve, and FDIC, 14 October 2008; opening statement on coordinated crisis measures.",
-      "passage_status": "Passage locked — contemporary official record"
+      "passage_status": "Passage locked — contemporary official record",
+      "passage_source_url": "https://www.ecb.europa.eu/press/key/date/2009/html/sp090915.es.html"
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
