@@ -85,6 +85,66 @@
       "bn_title": "ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস, ১৭৯১",
       "bn_historical_claim": "১৭৯১ সালের ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস ফেডারেল সরকারের অংশগ্রহণ ও ব্যক্তিগত মূলধনকে একত্র করে একটি জাতীয় ব্যাংকিং কাঠামো তৈরি করে।",
       "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "banque-france-1800",
+      "title": "Banque de France, 1800",
+      "date_label": "1800",
+      "historical_claim": "The Banque de France was founded on 18 January 1800 by a group of bankers at Napoleon Bonaparte's instigation, initially as a private company performing public banking functions.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france",
+      "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
+      "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "banque-france-1806",
+      "title": "Banque de France state influence, 1806",
+      "date_label": "1806",
+      "historical_claim": "After the 1805 financial crisis, the Banque de France's governance was changed so that a Governor and two Deputy Governors were appointed by the head of state, strengthening state influence while private shareholding remained.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.banque-france.fr/en/governors-interventions/governing-banque-de-france-two-lessons-history-uncertain-world",
+      "bn_title": "ব্যাংক দ্য ফ্রঁসে রাষ্ট্রীয় প্রভাব বৃদ্ধি, ১৮০৬",
+      "bn_historical_claim": "১৮০৫ সালের আর্থিক সংকটের পর ব্যাংক দ্য ফ্রঁসের শাসনব্যবস্থায় পরিবর্তন এনে রাষ্ট্রপ্রধান কর্তৃক গভর্নর ও দুই ডেপুটি গভর্নর নিয়োগের ব্যবস্থা করা হয়; এতে ব্যক্তিগত শেয়ার মালিকানা বজায় রেখেও রাষ্ট্রীয় প্রভাব বাড়ে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "rothschild-waterloo-1814-15",
+      "title": "Rothschild and the Waterloo commission, 1814–1815",
+      "date_label": "1814–1815",
+      "historical_claim": "The Rothschild Archive documents Nathan Rothschild's commission from the British government to obtain and supply gold for Wellington's forces during the closing years of the Napoleonic Wars.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.rothschildarchive.org/business/n_m_rothschild_and_sons_london/rothschild_and_gold",
+      "bn_title": "রথসচাইল্ড ও ওয়াটারলু কমিশন, ১৮১৪–১৮১৫",
+      "bn_historical_claim": "রথসচাইল্ড আর্কাইভের নথি অনুযায়ী, নেপোলিয়নিক যুদ্ধের শেষ পর্যায়ে ওয়েলিংটনের বাহিনীর জন্য সোনা সংগ্রহ ও সরবরাহের দায়িত্ব ব্রিটিশ সরকার নাথান রথসচাইল্ডকে দেয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "rothschild-prussian-loan-1818",
+      "title": "Rothschild Prussian Loan, 1818",
+      "date_label": "1818",
+      "historical_claim": "The Rothschild Archive identifies Nathan Rothschild's 1818 Prussian loan as an important development in the nineteenth-century international capital market and sovereign borrowing.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.rothschildarchive.org/exhibitions/timeline/",
+      "bn_title": "প্রুশিয়ান ঋণ, ১৮১৮",
+      "bn_historical_claim": "রথসচাইল্ড আর্কাইভ ১৮১৮ সালের নাথান রথসচাইল্ডের প্রুশিয়ান ঋণকে উনিশ শতকের আন্তর্জাতিক মূলধন বাজার ও সরকারি ঋণগ্রহণের বিকাশের একটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে চিহ্নিত করে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "bank-of-england-crisis-1825",
+      "title": "Financial crisis of 1825–1826 and Bank of England branches",
+      "date_label": "1825–1826",
+      "historical_claim": "The Bank of England's historical records describe the 1825–1826 crisis, in which many country and provincial banks failed, as a reason for establishing Bank of England branches from 1826.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
+      "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
     }
   ]
 }
