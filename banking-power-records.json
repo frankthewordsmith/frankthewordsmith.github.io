@@ -265,6 +265,66 @@
       "bn_title": "প্রথম বিশ্বযুদ্ধ ও কেন্দ্রীয় ব্যাংকের যুদ্ধ অর্থায়ন, ১৯১৪",
       "bn_historical_claim": "প্রথম বিশ্বযুদ্ধের শুরুতে কেন্দ্রীয় ব্যাংক ও সরকারি ঋণের সম্পর্ক আরও ঘনিষ্ঠ হয়; ব্যাংক অব ইংল্যান্ড ১৯১৪ সালের ওয়ার স্টকসহ বিভিন্ন কার্যক্রমের মাধ্যমে ব্রিটিশ যুদ্ধ প্রচেষ্টার অর্থায়নে সহায়তা করে।",
       "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "uk-return-gold-1925",
+      "title": "United Kingdom returns to gold, 1925",
+      "date_label": "1925",
+      "historical_claim": "The United Kingdom restored the gold standard in 1925 at the prewar parity, an attempt to restore the pre-1914 monetary regime.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/knowledgebank/why-did-britain-return-to-the-gold-standard-in-1925",
+      "bn_title": "যুক্তরাজ্যের স্বর্ণমান ব্যবস্থায় প্রত্যাবর্তন, ১৯২৫",
+      "bn_historical_claim": "১৯২৫ সালে যুক্তরাজ্য যুদ্ধ-পূর্ব বিনিময় হারে স্বর্ণমান পুনঃপ্রবর্তন করে; এটি ১৯১৪-পূর্ব মুদ্রাব্যবস্থা পুনঃস্থাপনের একটি প্রচেষ্টা ছিল।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "great-depression-1929-33",
+      "title": "Great Depression, 1929–1933",
+      "date_label": "1929–1933",
+      "historical_claim": "The Great Depression became a global economic and financial crisis, exposing severe weaknesses in banking and monetary systems and prompting major institutional changes.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.federalreservehistory.org/essays/great-depression",
+      "bn_title": "মহামন্দা, ১৯২৯–১৯৩৩",
+      "bn_historical_claim": "১৯২৯–১৯৩৩ সালের মহামন্দা বৈশ্বিক অর্থনৈতিক ও আর্থিক সংকটে পরিণত হয় এবং ব্যাংকিং ও মুদ্রাব্যবস্থার গুরুতর দুর্বলতা প্রকাশ করে; এর পর বড় ধরনের প্রাতিষ্ঠানিক পরিবর্তন আসে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "bis-1930",
+      "title": "Bank for International Settlements, 1930",
+      "date_label": "1930",
+      "historical_claim": "The Bank for International Settlements was established in 1930 under the Hague Agreements, combining an original role in German reparations settlements with a broader mandate to promote central-bank cooperation.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bis.org/about/history/overview",
+      "bn_title": "ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস, ১৯৩০",
+      "bn_historical_claim": "১৯৩০ সালে হেগ চুক্তির অধীনে ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস প্রতিষ্ঠিত হয়; জার্মান ক্ষতিপূরণ নিষ্পত্তির প্রাথমিক ভূমিকার পাশাপাশি কেন্দ্রীয় ব্যাংকগুলোর সহযোগিতা বাড়ানোও এর উদ্দেশ্যের অংশ ছিল।",
+      "notes": "Qualified record; BIS historical documentation is available, but direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "bretton-woods-1944",
+      "title": "Bretton Woods Conference, 1944",
+      "date_label": "1944",
+      "historical_claim": "Delegates from 44 countries met at Bretton Woods in July 1944 and produced the Articles of Agreement for the International Monetary Fund and the International Bank for Reconstruction and Development, establishing the framework for the postwar international monetary order.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.worldbank.org/en/archive/history",
+      "bn_title": "ব্রেটন উডস সম্মেলন, ১৯৪৪",
+      "bn_historical_claim": "জুলাই ১৯৪৪ সালে ৪৪টি দেশের প্রতিনিধিরা ব্রেটন উডসে বৈঠক করেন এবং আন্তর্জাতিক মুদ্রা তহবিল ও আন্তর্জাতিক পুনর্গঠন ও উন্নয়ন ব্যাংকের জন্য চুক্তিপত্র প্রণয়ন করেন, যা যুদ্ধ-পরবর্তী আন্তর্জাতিক মুদ্রাব্যবস্থার কাঠামো গড়ে তোলে।",
+      "notes": "Qualified record; the conference documents are primary-source material, but a specific passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "banque-france-nationalized-1945",
+      "title": "Banque de France nationalized, 1945",
+      "date_label": "1945",
+      "historical_claim": "The French state nationalized the Banque de France in 1945, changing its ownership from a private shareholder structure to state ownership.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france",
+      "bn_title": "ব্যাংক দ্য ফ্রঁস জাতীয়করণ, ১৯৪৫",
+      "bn_historical_claim": "১৯৪৫ সালে ফরাসি রাষ্ট্র ব্যাংক দ্য ফ্রঁসকে জাতীয়করণ করে এবং এর মালিকানা বেসরকারি শেয়ারহোল্ডার কাঠামো থেকে রাষ্ট্রের মালিকানায় পরিবর্তিত হয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
     }
   ]
 }
