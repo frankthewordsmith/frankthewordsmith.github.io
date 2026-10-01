@@ -633,7 +633,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.presidency.ucsb.edu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Address to the Nation Outlining a New Economic Policy: The Challenge of Peace, 15 August 1971; contemporary presidential address, reproduced in the Papers of Richard M. Nixon and FRASER.; publisher/authority: Office of the President of the United States; Nixon Presidential Materials; FRASER; year: 1971.",
+      "edition": "Address to the Nation Outlining a New Economic Policy: The Challenge of Peace, 15 August 1971; contemporary presidential address, reproduced in the Papers of Richard M. Nixon and FRASER.",
+      "publisher": "Office of the President of the United States; Nixon Presidential Materials; FRASER",
+      "publication_year": 1971
     },
     {
       "source_id": "basel-committee-1974",
@@ -722,7 +725,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.imf.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Measures for Economic Recovery and Restructuring, Memorandum of Understanding between the Government of Thailand and the IMF, 14 August 1997; contemporary official IMF program document.; publisher/authority: Government of Thailand; International Monetary Fund; year: 1997.",
+      "edition": "Measures for Economic Recovery and Restructuring, Memorandum of Understanding between the Government of Thailand and the IMF, 14 August 1997; contemporary official IMF program document.",
+      "publisher": "Government of Thailand; International Monetary Fund",
+      "publication_year": 1997
     },
     {
       "source_id": "ecb-established-1998",
@@ -765,7 +771,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through home.treasury.gov; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Joint Statement by Treasury, Federal Reserve and FDIC, 14 October 2008, announcing coordinated emergency measures to strengthen financial markets and institutions.; publisher/authority: U.S. Department of the Treasury; Federal Reserve; FDIC; year: 2008.",
+      "edition": "Joint Statement by Treasury, Federal Reserve and FDIC, 14 October 2008, announcing coordinated emergency measures to strengthen financial markets and institutions.",
+      "publisher": "U.S. Department of the Treasury; Federal Reserve; FDIC",
+      "publication_year": 2008
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
