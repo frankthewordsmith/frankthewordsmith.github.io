@@ -61,6 +61,10 @@
       "related_banking_power_records": [
         "wisselbank-1609",
         "riksbank-1668"
+      ],
+      "scholarly_references": [
+        "Sveriges Riksbank, *Stockholms Banco* historical documentation, including the bank's 1656 establishment and subsequent development.",
+        "Sveriges Riksbank, *The Riksbank and the History of Swedish Banking*, historical series on Johan Palmstruch and Stockholms Banco."
       ]
     },
     {
@@ -90,6 +94,10 @@
       "related_banking_power_records": [
         "stockholms-banco-1656",
         "boe-1694"
+      ],
+      "scholarly_references": [
+        "Sveriges Riksbank, *Sveriges Riksbank 350 år* (historical anniversary publications), documenting the establishment of Riksens Ständers Bank in 1668.",
+        "Kurt Åmark, *Sveriges Riksbank 1668–1968* (historical study of the Riksbank)."
       ]
     },
     {
@@ -122,6 +130,10 @@
         "riksbank-1668",
         "bank-scotland-1695",
         "bank-charter-act-1844"
+      ],
+      "scholarly_references": [
+        "Richard Roberts and David Kynaston (eds.), *The Bank of England: Money, Power and Influence 1694–1994* (Oxford University Press, 1995).",
+        "John Clapham, *The Bank of England: A History*, Vol. I (Cambridge University Press, 1944)."
       ]
     },
     {
@@ -153,6 +165,9 @@
       "related_banking_power_records": [
         "boe-1694",
         "south-sea-bubble-1720"
+      ],
+      "scholarly_references": [
+        "William R. Scott, *The Constitution and Finance of English, Scottish and Irish Joint-Stock Companies to 1720*, Vol. II (Cambridge University Press, 1912)."
       ]
     },
     {
@@ -243,6 +258,10 @@
       "related_banking_power_records": [
         "first-bank-us-1791",
         "banque-france-1806"
+      ],
+      "scholarly_references": [
+        "Michael D. Bordo and Eugene N. White, studies on the Banque de France and French monetary institutions in the nineteenth century.",
+        "Banque de France, historical archives and institutional history of the founding of the Banque de France in 1800."
       ]
     },
     {
