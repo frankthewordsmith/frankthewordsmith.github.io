@@ -436,11 +436,11 @@
       "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006103745",
       "bn_title": "ব্যাংক দ্য ফ্রঁস জাতীয়করণ, ১৯৪৫",
       "bn_historical_claim": "২ ডিসেম্বর ১৯৪৫-এর ফরাসি আইন নং ৪৫-১৫-এর ১ নম্বর অনুচ্ছেদে ১ জানুয়ারি ১৯৪৬ থেকে ব্যাংক দ্য ফ্রঁস জাতীয়করণ এবং এর শেয়ার রাষ্ট্রের মালিকানায় হস্তান্তরের বিধান করা হয়।",
-      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
-      "primary_passage": "Les banques d'émission sont nationalisées",
-      "passage_locator": "French Law No. 45-15, 2 December 1945, nationalization provisions concerning banks of issue.",
+      "notes": "Passage/source alignment strengthened against the initial official Journal officiel text reproduced by Légifrance. Article 1 expressly states that the Banque de France is nationalized from 1 January 1946 and that its shares are transferred to the State. The earlier phrase 'Les banques d'émission sont nationalisées' was too general for this record's specific historical claim and has been replaced.",
+      "primary_passage": "A compter du 1er janvier 1946, la Banque de France est nationalisée.",
+      "passage_locator": "French Law No. 45-15 of 2 December 1945, Article 1, initial text; the law provides that nationalization takes effect 1 January 1946.",
       "passage_status": "Passage locked — primary legislation",
-      "passage_source_url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006103745"
+      "passage_source_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000313937/"
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
