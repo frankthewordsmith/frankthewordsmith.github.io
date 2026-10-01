@@ -325,6 +325,54 @@
       "bn_title": "ব্যাংক দ্য ফ্রঁস জাতীয়করণ, ১৯৪৫",
       "bn_historical_claim": "২ ডিসেম্বর ১৯৪৫-এর ফরাসি আইন নং ৪৫-১৫-এর ১ নম্বর অনুচ্ছেদে ১ জানুয়ারি ১৯৪৬ থেকে ব্যাংক দ্য ফ্রঁস জাতীয়করণ এবং এর শেয়ার রাষ্ট্রের মালিকানায় হস্তান্তরের বিধান করা হয়।",
       "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context."
+    },
+    {
+      "source_id": "bank-of-england-nationalized-1946",
+      "title": "Bank of England nationalized",
+      "date_label": "1946",
+      "historical_claim": "The Bank of England Act 1946 provided for the transfer of Bank stock to the Treasury and changed the Bank's ownership structure from private stockholding to state ownership.",
+      "bn_title": "ব্যাংক অব ইংল্যান্ড জাতীয়করণ",
+      "bn_historical_claim": "ব্যাংক অব ইংল্যান্ড অ্যাক্ট ১৯৪৬ ব্যাংকের শেয়ার ট্রেজারিতে হস্তান্তরের বিধান করে এবং ব্যক্তিমালিকানাধীন শেয়ারহোল্ডিং থেকে রাষ্ট্রীয় মালিকানায় মালিকানা কাঠামো পরিবর্তন করে।",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/contents",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
+    },
+    {
+      "source_id": "nixon-gold-window-1971",
+      "title": "Nixon closes the gold window",
+      "date_label": "1971",
+      "historical_claim": "On 15 August 1971, President Richard Nixon announced the suspension of the dollar's convertibility into gold for foreign central banks and other reserve holders, marking a decisive break in the Bretton Woods monetary arrangement.",
+      "bn_title": "নিক্সন গোল্ড উইন্ডো বন্ধ করেন",
+      "bn_historical_claim": "১৫ আগস্ট ১৯৭১ প্রেসিডেন্ট রিচার্ড নিক্সন বিদেশি কেন্দ্রীয় ব্যাংক ও অন্যান্য রিজার্ভ ধারকদের জন্য ডলারের স্বর্ণে রূপান্তরযোগ্যতা স্থগিত করার ঘোষণা দেন, যা ব্রেটন উডস মুদ্রাব্যবস্থার একটি निर्णায়ক বিচ্ছেদ ঘটায়।",
+      "source_url": "https://www.presidency.ucsb.edu/documents/third-annual-report-the-congress-united-states-foreign-policy",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
+    },
+    {
+      "source_id": "basel-committee-1974",
+      "title": "Basel Committee established",
+      "date_label": "1974",
+      "historical_claim": "In December 1974, the G10 central-bank Governors established the Committee on Banking Regulations and Supervisory Practices after major international banking and currency disturbances, creating the institution that became the Basel Committee on Banking Supervision.",
+      "bn_title": "বাসেল কমিটি প্রতিষ্ঠিত",
+      "bn_historical_claim": "১৯৭৪ সালের ডিসেম্বরে আন্তর্জাতিক ব্যাংকিং ও মুদ্রাবাজারের গুরুতর অস্থিরতার পর G10 কেন্দ্রীয় ব্যাংকের গভর্নররা Committee on Banking Regulations and Supervisory Practices প্রতিষ্ঠা করেন, যা পরবর্তীতে Basel Committee on Banking Supervision হয়।",
+      "source_url": "https://www.bis.org/committees/bcbs/history",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
+    },
+    {
+      "source_id": "basel-capital-accord-1988",
+      "title": "Basel I Capital Accord",
+      "date_label": "1988",
+      "historical_claim": "In July 1988, the G10 Governors approved the Basel Capital Accord, establishing an internationally coordinated framework for measuring bank capital and setting a target minimum capital ratio of 8% of risk-weighted assets for internationally active banks.",
+      "bn_title": "বাসেল I ক্যাপিটাল অ্যাকর্ড",
+      "bn_historical_claim": "জুলাই ১৯৮৮-তে G10 গভর্নররা Basel Capital Accord অনুমোদন করেন, যা আন্তর্জাতিকভাবে সক্রিয় ব্যাংকগুলোর মূলধন পরিমাপের একটি সমন্বিত কাঠামো এবং ঝুঁকি-ওজনযুক্ত সম্পদের ৮% ন্যূনতম মূলধন অনুপাত নির্ধারণ করে।",
+      "source_url": "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
     }
   ]
 }
