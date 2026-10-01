@@ -452,6 +452,10 @@
       "related_banking_power_records": [
         "bank-charter-act-1844",
         "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Banque de France, institutional history of the 1848 absorption of the departmental banks and nationwide note-issue monopoly.",
+        "Richard S. S. Armknecht, historical studies of French banking and the Banque de France in the nineteenth century."
       ]
     },
     {
@@ -518,6 +522,10 @@
       "related_banking_power_records": [
         "overend-gurney-crisis-1866",
         "bank-japan-1882"
+      ],
+      "scholarly_references": [
+        "Charles P. Kindleberger, *Manias, Panics, and Crashes: A History of Financial Crises* (Wiley, later editions), discussion of the 1873 crisis.",
+        "Michael D. Bordo, “The Lender of Last Resort: Alternative Views and Historical Experience,” Federal Reserve Bank of Richmond *Economic Review* 84 (1998), historical discussion of nineteenth-century banking crises."
       ]
     },
     {
@@ -547,6 +555,10 @@
       "related_banking_power_records": [
         "panic-1873",
         "baring-crisis-1890"
+      ],
+      "scholarly_references": [
+        "Bank of Japan, *The Hundred-Year History of the Bank of Japan* (1982–1986), six-volume institutional history covering 1882–1982.",
+        "William G. Beasley, *The Meiji Restoration* (Stanford University Press, 1972), background on the monetary and institutional reforms surrounding the establishment of the Bank of Japan."
       ]
     },
     {
@@ -577,6 +589,10 @@
         "bank-japan-1882",
         "panic-1907",
         "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Kris James Mitchener and Marc D. Weidenmier, “The Baring Crisis and the Great Latin American Meltdown of the 1890s,” *Journal of Economic History* 68 (2008).",
+        "Jan Körnert, “The Barings crises of 1890 and 1995: causes, courses, consequences and the danger of domino effects,” *Journal of International Financial Markets, Institutions and Money* 13 (2003), 187–209, DOI 10.1016/S1042-4431(02)00044-6."
       ]
     },
     {
@@ -609,6 +625,10 @@
         "baring-crisis-1890",
         "jekyll-island-1910",
         "federal-reserve-act-1913"
+      ],
+      "scholarly_references": [
+        "Ellis W. Tallman, “The Panic of 1907,” Federal Reserve Bank of Cleveland Working Paper 12-28 (2012), DOI 10.26509/frbc-wp-201228.",
+        "Jon R. Moen and Ellis W. Tallman, “The Panic of 1907: The Role of the Trust Companies,” *Journal of Economic History* 60 (2000), 611–633."
       ]
     },
     {
