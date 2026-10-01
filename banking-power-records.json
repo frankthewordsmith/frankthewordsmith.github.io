@@ -587,7 +587,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.legifrance.gouv.fr; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Loi n° 45-15 du 2 décembre 1945 relative à la nationalisation de la Banque de France et des grandes banques et à l'organisation du crédit, version initiale, Journal officiel de la République française, 3 December 1945.; publisher/authority: République française; Journal officiel; year: 1945.",
+      "edition": "Loi n° 45-15 du 2 décembre 1945 relative à la nationalisation de la Banque de France et des grandes banques et à l'organisation du crédit, version initiale, Journal officiel de la République française, 3 December 1945.",
+      "publisher": "République française; Journal officiel",
+      "publication_year": 1945
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
