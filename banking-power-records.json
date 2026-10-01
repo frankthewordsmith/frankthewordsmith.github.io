@@ -44,14 +44,13 @@
       "date_label": "1694",
       "historical_claim": "The Bank of England began as a private bank acting as banker to the government and was founded to help fund the war against France.",
       "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
+      "evidence_grade": "A",
       "source_url": "https://www.bankofengland.co.uk/about/history",
       "bn_title": "ব্যাংক অব ইংল্যান্ড, ১৬৯৪",
       "bn_historical_claim": "১৬৯৪ সালে ব্যাংক অব ইংল্যান্ড সরকারকে ব্যাংকিং সেবা দেওয়া এবং ফ্রান্সের বিরুদ্ধে যুদ্ধের অর্থায়নে সহায়তার উদ্দেশ্যে একটি বেসরকারি ব্যাংক হিসেবে প্রতিষ্ঠিত হয়।",
       "notes": "The Bank of England archive identifies the original 27 July 1694 Charter incorporating the Governor and Company of the Bank of England and records its relationship to the Tonnage Act 1694. The archive also provides the charter transcript reference.",
       "url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=M6%2F48&src=CalmView.Catalog",
-      "status": "Primary-source verified",
-      "grade": "A"
+      "status": "Primary-source verified"
     },
     {
       "source_id": "bank-scotland-1695",
@@ -59,14 +58,13 @@
       "date_label": "1695",
       "historical_claim": "The Bank of Scotland was created by an Act of the Scottish Parliament in 1695, with 172 original shareholders drawn mainly from political and merchant elites.",
       "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
+      "evidence_grade": "A",
       "source_url": "https://www.bankofscotland.co.uk/about-us/our-heritage.html",
       "bn_title": "ব্যাংক অব স্কটল্যান্ড, ১৬৯৫",
       "bn_historical_claim": "১৭ জুলাই ১৬৯৫ সালে স্কটিশ পার্লামেন্টের আইনের মাধ্যমে ব্যাংক অব স্কটল্যান্ড প্রতিষ্ঠিত হয়; এর ১৭২ জন প্রাথমিক শেয়ারহোল্ডারের বড় অংশ ছিল রাজনৈতিক ও বণিক শ্রেণি থেকে।",
       "notes": "The official legislation record identifies the original Scottish Parliament Act of 17 July 1695, titled An Act of Parliament for Erecting a Bank in Scotland, and states that it incorporated the Governor and Company of the Bank of Scotland.",
       "url": "https://www.legislation.gov.uk/ukla/2006/1/enacted",
-      "status": "Primary-source verified",
-      "grade": "A"
+      "status": "Primary-source verified"
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -194,14 +192,13 @@
       "date_label": "1873",
       "historical_claim": "The 1873 crisis spread across financial markets and banking systems, with railroad investment, securities losses and banking failures contributing to a wider international financial disruption.",
       "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
+      "evidence_grade": "A",
       "source_url": "https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age",
       "bn_title": "১৮৭৩ সালের আর্থিক আতঙ্ক",
       "bn_historical_claim": "১৮৭৩ সালের সংকট আর্থিক বাজার ও ব্যাংকিং ব্যবস্থায় ছড়িয়ে পড়ে; রেলপথ বিনিয়োগ, সিকিউরিটিজের ক্ষতি ও ব্যাংক-ব্যর্থতা বৃহত্তর আন্তর্জাতিক আর্থিক অস্থিরতায় ভূমিকা রাখে।",
       "notes": "The 1873 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record and contains a dedicated section, The Panic of 1873, describing the September failures and banking disruption.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
-      "status": "Primary-source verified",
-      "grade": "A"
+      "status": "Primary-source verified"
     },
     {
       "source_id": "bank-japan-1882",
@@ -233,14 +230,13 @@
       "date_label": "1907",
       "historical_claim": "The 1907 U.S. financial panic exposed limits of private and clearing-house crisis mechanisms and became a major catalyst for monetary reform leading to the Federal Reserve.",
       "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
+      "evidence_grade": "A",
       "source_url": "https://www.federalreservehistory.org/essays/panic-of-1907",
       "bn_title": "১৯০৭ সালের আর্থিক আতঙ্ক",
       "bn_historical_claim": "১৯০৭ সালের মার্কিন আর্থিক আতঙ্ক বেসরকারি ও ক্লিয়ারিং-হাউস ভিত্তিক সংকট-ব্যবস্থাপনার সীমাবদ্ধতা প্রকাশ করে এবং ফেডারেল রিজার্ভ প্রতিষ্ঠার দিকে নিয়ে যাওয়া মুদ্রানীতি সংস্কারের গুরুত্বপূর্ণ অনুঘটক হয়ে ওঠে।",
       "notes": "The 1907 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record describing the October–November 1907 banking panic, currency shortage, reserve strain and the case for a more elastic reserve system.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
-      "status": "Primary-source verified",
-      "grade": "A"
+      "status": "Primary-source verified"
     },
     {
       "source_id": "jekyll-island-1910",
