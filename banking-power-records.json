@@ -365,10 +365,10 @@
       "historical_claim": "In December 1974, the G10 central-bank Governors established the Committee on Banking Regulations and Supervisory Practices after major international banking and currency disturbances, creating the institution that became the Basel Committee on Banking Supervision.",
       "bn_title": "বাসেল কমিটি প্রতিষ্ঠিত",
       "bn_historical_claim": "১৯৭৪ সালের ডিসেম্বরে আন্তর্জাতিক ব্যাংকিং ও মুদ্রাবাজারের গুরুতর অস্থিরতার পর G10 কেন্দ্রীয় ব্যাংকের গভর্নররা Committee on Banking Regulations and Supervisory Practices প্রতিষ্ঠা করেন, যা পরবর্তীতে Basel Committee on Banking Supervision হয়।",
-      "source_url": "https://www.bis.org/committees/bcbs/history",
-      "verification_status": "Primary-source verified",
-      "evidence_grade": "B",
-      "notes": "The BIS history confirms the Committee's establishment by the G10 Governors at the end of 1974, but the current linked page is a later institutional history rather than the original 1974 communiqué or Governors' record. Retain Grade B until the founding document itself is directly locked."
+      "source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts",
+      "verification_status": "Contemporary BIS release and official later institutional record verified",
+      "evidence_grade": "A",
+      "notes": "The BIS's 12 February 1975 contemporary media release records that the central-bank Governors of the Group of Ten countries and Switzerland had established a standing committee of experts on banking and foreign-exchange regulations and supervisory practices, under George Blunden. The BIS historical record dates the Governors' decision to December 1974, and the 1975 release is a near-contemporary official institutional record of the committee's establishment. This supports Grade A for the establishment claim, while the database should distinguish the December 1974 Governors' decision from the February 1975 public confirmation."
     },
     {
       "source_id": "plaza-accord-1985",
