@@ -229,6 +229,11 @@
       "related_banking_power_records": [
         "south-sea-bubble-1720",
         "banque-france-1800"
+      ],
+      "scholarly_references": [
+        "David J. Cowen, *The Origins and Economic Impact of the First Bank of the United States, 1791–1797* (Garland Publishing, 2000).",
+        "Bray Hammond, *Banks and Politics in America from the Revolution to the Civil War* (Princeton University Press, 1957).",
+        "Robert E. Wright and David J. Cowen, *Financial Founding Fathers: The Men Who Made America Rich* (University of Chicago Press, 2006)."
       ]
     },
     {
@@ -323,6 +328,10 @@
       "related_banking_power_records": [
         "banque-france-1806",
         "rothschild-prussian-loan-1818"
+      ],
+      "scholarly_references": [
+        "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999).",
+        "The Rothschild Archive, historical documentation of Nathan Mayer Rothschild's 1814–1815 Waterloo Commission and bullion supply to Wellington."
       ]
     },
     {
@@ -1029,6 +1038,10 @@
         "basel-committee-1974",
         "basel-capital-accord-1988",
         "nixon-gold-window-1971"
+      ],
+      "scholarly_references": [
+        "C. Fred Bergsten, *The Plaza Accord and Its Aftermath*, Peterson Institute for International Economics, historical analysis of the 1985 agreement.",
+        "Jeffrey Frankel, “The Plaza Accord 30 Years Later,” Peterson Institute for International Economics, historical assessment of the agreement and exchange-rate coordination."
       ]
     },
     {
@@ -1060,6 +1073,10 @@
         "asian-crisis-1997",
         "basel-committee-1974",
         "global-financial-crisis-2008"
+      ],
+      "scholarly_references": [
+        "Charles Goodhart, *The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997* (Cambridge University Press, 2011), ch. 6, “Capital adequacy and the Basel Accord of 1988.”",
+        "Bank for International Settlements, *History of the Basel Committee and its Membership* and BCBS historical materials on the 1988 Capital Accord."
       ]
     },
     {
@@ -1089,6 +1106,10 @@
       "related_banking_power_records": [
         "basel-capital-accord-1988",
         "ecb-established-1998"
+      ],
+      "scholarly_references": [
+        "Giancarlo Corsetti, Paolo Pesenti and Nouriel Roubini, “What Caused the Asian Currency and Financial Crisis?” *Japan and the World Economy* 11 (1999), 305–373.",
+        "International Monetary Fund, *The Asian Crisis: Causes and Cures* (Finance & Development, June 1998)."
       ]
     },
     {
@@ -1118,6 +1139,10 @@
       "related_banking_power_records": [
         "asian-crisis-1997",
         "global-financial-crisis-2008"
+      ],
+      "scholarly_references": [
+        "David Howarth and Peter Loedel, *The European Central Bank: The New European Leviathan?* (Palgrave Macmillan, 2003).",
+        "European Central Bank, *The European Central Bank (1998–present)*, institutional history and archive."
       ]
     },
     {
@@ -1148,6 +1173,11 @@
         "ecb-established-1998",
         "basel-capital-accord-1988",
         "asian-crisis-1997"
+      ],
+      "scholarly_references": [
+        "Michael D. Bordo, “An Historical Perspective on the Crisis of 2007–2008,” NBER Working Paper 14569 (2008).",
+        "Eric Helleiner, “Understanding the 2007–2008 Global Financial Crisis: Lessons for Scholars of International Political Economy,” *Annual Review of Political Science* 14 (2011), 67–87.",
+        "Youssef Cassis, “The Global Financial Crisis of 2008: Memory, History, Legacy,” in *History, Memory, and the Return of Financial Crises after Bretton Woods* (Oxford University Press, 2026), pp. 214–229."
       ]
     }
   ],
