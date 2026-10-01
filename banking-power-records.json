@@ -465,10 +465,11 @@
       "source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts",
       "verification_status": "Primary-source / contemporary official record verified",
       "evidence_grade": "A",
-      "notes": "The BIS's 12 February 1975 contemporary media release records that the central-bank Governors of the Group of Ten countries and Switzerland had established a standing committee of experts on banking and foreign-exchange regulations and supervisory practices, under George Blunden. The BIS historical record dates the Governors' decision to December 1974, and the 1975 release is a near-contemporary official institutional record of the committee's establishment. This supports Grade A for the establishment claim, while the database should distinguish the December 1974 Governors' decision from the February 1975 public confirmation.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "notes": "The BIS's 12 February 1975 contemporary media release records that the central-bank Governors of the Group of Ten countries and Switzerland had established a standing committee of experts on banking and foreign-exchange regulations and supervisory practices, under George Blunden. The BIS historical record dates the Governors' decision to December 1974, and the 1975 release is a near-contemporary official institutional record of the committee's establishment. This supports Grade A for the establishment claim, while the database should distinguish the December 1974 Governors' decision from the February 1975 public confirmation. The BIS's 12 February 1975 contemporary release directly confirms the committee's establishment; BIS history dates the Governors' decision to the end of 1974.",
+      "primary_passage": "have established a standing committee of experts on banking and foreign exchange regulations and supervisory practices",
+      "passage_locator": "BIS media release, 12 February 1975, confirming the standing committee established by the Group-of-Ten central-bank Governors.",
+      "passage_status": "Passage locked — contemporary official record",
+      "passage_source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts"
     },
     {
       "source_id": "plaza-accord-1985",
