@@ -231,7 +231,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through searcharchives.bl.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "J. C. Herries and Nathan Mayer Rothschild financial memorandum, 1815, British Library Add MS 57383, ff. 65–66; archival manuscript.; publisher/authority: British Library, Western Manuscripts, Herries Papers; year: 1815.",
+      "edition": "J. C. Herries and Nathan Mayer Rothschild financial memorandum, 1815, British Library Add MS 57383, ff. 65–66; archival manuscript.",
+      "publisher": "British Library, Western Manuscripts, Herries Papers",
+      "publication_year": "1815"
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
@@ -251,7 +254,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.christies.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Prospectus and subscription records for the Prussian Government 5% Loan of 1818; Rothschild Archive, RAL VI/10/5.; publisher/authority: The Rothschild Archive; year: 1818.",
+      "edition": "Prospectus and subscription records for the Prussian Government 5% Loan of 1818; Rothschild Archive, RAL VI/10/5.",
+      "publisher": "The Rothschild Archive",
+      "publication_year": "1818"
     },
     {
       "source_id": "bank-of-england-crisis-1825",
@@ -411,7 +417,10 @@
       "passage_type": "contemporary-printed-reproduction",
       "language": "English (contemporary printed reproduction)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through upload.wikimedia.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Bank of England Secretary's Files, G15/189, Baring Brothers & Co crisis, 1890; including the Governor's file and Guarantee Fund documentation.; publisher/authority: Bank of England Archive; year: 1890.",
+      "edition": "Bank of England Secretary's Files, G15/189, Baring Brothers & Co crisis, 1890; including the Governor's file and Guarantee Fund documentation.",
+      "publisher": "Bank of England Archive",
+      "publication_year": "1890"
     },
     {
       "source_id": "panic-1907",
@@ -433,7 +442,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through fraser.stlouisfed.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Annual Report of the Comptroller of the Currency to the First Session of the Sixtieth Congress, 1907, Treasury Department Document No. 2473; discussion of the October–November 1907 panic.; publisher/authority: U.S. Department of the Treasury, Office of the Comptroller of the Currency; year: 1907.",
+      "edition": "Annual Report of the Comptroller of the Currency to the First Session of the Sixtieth Congress, 1907, Treasury Department Document No. 2473; discussion of the October–November 1907 panic.",
+      "publisher": "U.S. Department of the Treasury, Office of the Comptroller of the Currency",
+      "publication_year": "1907"
     },
     {
       "source_id": "jekyll-island-1910",
@@ -453,7 +465,10 @@
       "passage_type": "retrospective-firsthand-account",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.saturdayeveningpost.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Frank A. Vanderlip, “From Farm Boy to Financier,” Saturday Evening Post, 9 February 1935; retrospective firsthand account referring to the late-1910 Jekyll Island meeting.; publisher/authority: Saturday Evening Post; Frank A. Vanderlip; year: 1935.",
+      "edition": "Frank A. Vanderlip, “From Farm Boy to Financier,” Saturday Evening Post, 9 February 1935; retrospective firsthand account referring to the late-1910 Jekyll Island meeting.",
+      "publisher": "Saturday Evening Post; Frank A. Vanderlip",
+      "publication_year": "1935"
     },
     {
       "source_id": "federal-reserve-act-1913",
