@@ -290,11 +290,11 @@
       "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog",
       "bn_title": "বারিং সংকট, ১৮৯০",
       "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
-      "notes": "The Bank of England archive directly identifies the surviving 1890 guarantee-fund documents and their folio locations. The former database phrase was catalogue-level wording rather than a demonstrated verbatim transcription of the manuscript, so it has been removed until exact archival wording is verified.",
-      "primary_passage": "",
-      "passage_locator": "Bank of England archive, G15/189, Baring Brothers & Co Crisis, 1890: fol. 3 Currie and Greene report to the Governor on Barings' solvency; fols. 5–12 statement of liabilities and assets; fol. 13 partners' undertaking; fol. 22a correspondence reporting the guarantee operation's success.",
-      "passage_status": "Passage pending — primary archival event verified, but exact manuscript wording not yet transcribed from the archival item",
-      "passage_source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog"
+      "notes": "The sole passage holdout is now resolved using a contemporary primary-period printed source. The Economist, 22 November 1890, pp.1465–1466, reproduces the Guarantee Fund terms headed 'Bank of England, November, 1890.' The Bank of England archive G15/189 independently identifies the underlying guarantee documentation: fol.3 records the Currie/Greene report on Barings' solvency on the basis of which the Guarantee Fund was established; fols.5–12 contain the liabilities/assets statement; fol.13 the partners' undertaking; and fol.22a correspondence reporting the operation's success. The quotation is therefore no longer dependent on a modern transcription, while the archival locator remains available for the underlying file.",
+      "primary_passage": "In consideration of advances which the Bank of England have agreed to make to Messrs Baring Brothers and Co. to enable them to discharge at maturity their liabilities existing on the night of the 15th November, 1890, or arising out of business initiated on or prior to the 15th November, 1890.",
+      "passage_locator": "The Economist, 22 November 1890, “The liquidation of the Barings,” pp. 1465–1466; contemporary printed reproduction of the Guarantee Fund terms, headed “Bank of England, November, 1890.”",
+      "passage_status": "Passage locked — contemporary printed reproduction of the 1890 Guarantee Fund",
+      "passage_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Economist_1890-11-22-_Vol_48_Iss_2465_%28IA_sim_economist_1890-11-22_48_2465%29.pdf"
     },
     {
       "source_id": "panic-1907",
