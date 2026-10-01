@@ -482,9 +482,9 @@
       "verification_status": "Primary-source statement verified",
       "evidence_grade": "A",
       "notes": "The 22 September 1985 Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States is preserved as the contemporary Plaza statement. The text directly records the meeting, the five participating governments, and the agreed policy direction, including that further orderly appreciation of major nondollar currencies against the dollar was desirable and that the participants would cooperate to encourage it. The Federal Reserve's historical archive independently documents the Plaza Agreement and its subsequent foreign-exchange operations.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "further orderly appreciation of the major non-dollar currencies against the dollar is desirable",
+      "passage_locator": "Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States, 22 September 1985.",
+      "passage_status": "Passage locked — contemporary official statement"
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -497,9 +497,9 @@
       "verification_status": "Primary-source verified",
       "evidence_grade": "A",
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the total capital ratio must be no lower than 8% of risk-weighted assets",
+      "passage_locator": "International Convergence of Capital Measurement and Capital Standards, Basel Committee on Banking Supervision, July 1988; capital standard section.",
+      "passage_status": "Passage locked — primary institutional standard"
     },
     {
       "source_id": "asian-crisis-1997",
@@ -512,9 +512,9 @@
       "verification_status": "Primary-source contemporary official record verified",
       "evidence_grade": "A",
       "notes": "The 14 August 1997 Thailand Memorandum on Economic Policies, submitted in connection with the IMF-supported program, records the currency attacks, depletion of Bank of Thailand reserves, suspension of finance companies, and the float of the baht on 2 July 1997. The IMF's contemporaneous 2 July 1997 News Brief independently records Thailand's change to a managed float effective that date. The 20 August 1997 IMF approval release documents the subsequent stand-by arrangement and describes the spread of financial stress. These contemporary official records support the crisis-origin and international-assistance claims; broader claims about the crisis spreading across Asia should be treated as regional consequences rather than inferred solely from the Thai documents.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the combination of a fixed exchange rate, an increasingly open capital account, and high domestic interest rates to combat inflation, attracted short-term capital flows that left the economy vulnerable to sudden shifts in market sentiment and external shocks.",
+      "passage_locator": "Thailand Memorandum on Economic Policies, 14 August 1997, section I, paragraph 1.",
+      "passage_status": "Passage locked — contemporary government record"
     },
     {
       "source_id": "ecb-established-1998",
