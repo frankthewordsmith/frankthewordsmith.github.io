@@ -95,12 +95,12 @@
       "title": "Banque de France, 1800",
       "date_label": "1800",
       "historical_claim": "The Banque de France was founded on 18 January 1800 by a group of bankers at Napoleon Bonaparte's instigation, initially as a private company performing public banking functions.",
-      "verification_status": "Primary-source / official contemporary record located",
-      "evidence_grade": "B",
-      "source_url": "https://www.banque-france.fr/en/actualites/depuis-225-ans-au-service-de-la-france-et-des-francais",
+      "verification_status": "Primary-source verified — Consular arrêté of 28 Nivôse An VIII",
+      "evidence_grade": "A",
+      "source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
       "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
-      "notes": "Banque de France identifies the 18 January 1800 founding decree signed by First Consul Napoleon Bonaparte. The official page identifies the decree but does not yet expose its full original text; retain Grade B pending passage extraction."
+      "notes": "The digitized contemporary arrêté extracted from the Registers of the Deliberations of the Consuls is dated 28 Nivôse An VIII (18 January 1800), signed by First Consul Bonaparte. Article 1 directs that all funds received by the Caisse d'Amortissement be paid into the Banque de France; Articles 2–4 establish related funding and recovery arrangements. This directly verifies the January 1800 state act connecting the newly established Banque de France to public funds."
     },
     {
       "source_id": "banque-france-1806",
