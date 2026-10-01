@@ -107,7 +107,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through catalog.folger.edu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Act of Parliament for erecting a bank in Scotland, Edinburgh, 17 July 1695 (Acts. 1695.c.88); contemporary printed edition catalogued by the Folger Shakespeare Library, with the King's Printer edition identified in later parliamentary records.; publisher/authority: Convention of Estates of Scotland; King's Printer edition of the Acts of the Parliament of Scotland; year: 1695.",
+      "edition": "Act of Parliament for erecting a bank in Scotland, Edinburgh, 17 July 1695 (Acts. 1695.c.88); contemporary printed edition catalogued by the Folger Shakespeare Library, with the King's Printer edition identified in later parliamentary records.",
+      "publisher": "Convention of Estates of Scotland; King's Printer edition of the Acts of the Parliament of Scotland",
+      "publication_year": 1695
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -446,9 +449,9 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Federal Reserve Act, Act of 23 December 1913, ch. 6, 38 Stat. 251, original enactment.; publisher/authority: United States Congress; year: 1913.",
-      "edition": "Federal Reserve Act, Act of 23 December 1913, ch. 6, 38 Stat. 251, original enactment.",
-      "publisher": "United States Congress",
+      "source_identity": "Federal Reserve Act, Act of 23 December 1913, ch. 6, 38 Stat. 251, original enactment; National Archives primary-source record and Federal Reserve statutory record.; publisher/authority: United States Congress; National Archives; Federal Reserve System; year: 1913.",
+      "edition": "Federal Reserve Act, Act of 23 December 1913, ch. 6, 38 Stat. 251, original enactment; National Archives primary-source record and Federal Reserve statutory record.",
+      "publisher": "United States Congress; National Archives; Federal Reserve System",
       "publication_year": 1913
     },
     {
