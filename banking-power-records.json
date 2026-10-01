@@ -270,13 +270,13 @@
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
-      "historical_claim": "The United Kingdom restored the gold standard in 1925 at the prewar parity, an attempt to restore the pre-1914 monetary regime.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.bankofengland.co.uk/knowledgebank/why-did-britain-return-to-the-gold-standard-in-1925",
+      "historical_claim": "The Gold Standard Act 1925 was enacted to facilitate the return to a gold standard and required the Bank of England, subject to the Act's provisions, to exchange its notes for gold bullion at the statutory framework established by the Act.",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/29/pdfs/ukpga_19250029_en.pdf",
       "bn_title": "যুক্তরাজ্যের স্বর্ণমান ব্যবস্থায় প্রত্যাবর্তন, ১৯২৫",
-      "bn_historical_claim": "১৯২৫ সালে যুক্তরাজ্য যুদ্ধ-পূর্ব বিনিময় হারে স্বর্ণমান পুনঃপ্রবর্তন করে; এটি ১৯১৪-পূর্ব মুদ্রাব্যবস্থা পুনঃস্থাপনের একটি প্রচেষ্টা ছিল।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "bn_historical_claim": "গোল্ড স্ট্যান্ডার্ড অ্যাক্ট ১৯২৫ স্বর্ণমান ব্যবস্থায় প্রত্যাবর্তনের পথ তৈরি করে এবং আইনের নির্ধারিত কাঠামোর অধীনে ব্যাংক অব ইংল্যান্ডের নোটের বিপরীতে স্বর্ণের বিনিময় ব্যবস্থাকে পুনঃপ্রতিষ্ঠা করে।",
+      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context."
     },
     {
       "source_id": "great-depression-1929-33",
@@ -294,37 +294,37 @@
       "source_id": "bis-1930",
       "title": "Bank for International Settlements, 1930",
       "date_label": "1930",
-      "historical_claim": "The Bank for International Settlements was established in 1930 under the Hague Agreements, combining an original role in German reparations settlements with a broader mandate to promote central-bank cooperation.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.bis.org/about/history/overview",
+      "historical_claim": "The 20 January 1930 Constituent Charter established the Bank for International Settlements and recorded its founding by the central banks of Belgium, France, Germany, Great Britain, Italy and Japan together with a US banking group.",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://treaties.un.org/doc/Publication/UNTS/LON/Volume%20104/v104.pdf",
       "bn_title": "ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস, ১৯৩০",
-      "bn_historical_claim": "১৯৩০ সালে হেগ চুক্তির অধীনে ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস প্রতিষ্ঠিত হয়; জার্মান ক্ষতিপূরণ নিষ্পত্তির প্রাথমিক ভূমিকার পাশাপাশি কেন্দ্রীয় ব্যাংকগুলোর সহযোগিতা বাড়ানোও এর উদ্দেশ্যের অংশ ছিল।",
-      "notes": "Qualified record; BIS historical documentation is available, but direct primary passage should be locked before upgrading the evidence grade."
+      "bn_historical_claim": "২০ জানুয়ারি ১৯৩০-এর কনস্টিটুয়েন্ট চার্টার ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস প্রতিষ্ঠা করে এবং বেলজিয়াম, ফ্রান্স, জার্মানি, গ্রেট ব্রিটেন, ইতালি ও জাপানের কেন্দ্রীয় ব্যাংকগুলোর সঙ্গে একটি মার্কিন ব্যাংকিং গোষ্ঠীর প্রতিষ্ঠায় অংশগ্রহণ নথিবদ্ধ করে।",
+      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context."
     },
     {
       "source_id": "bretton-woods-1944",
       "title": "Bretton Woods Conference, 1944",
       "date_label": "1944",
-      "historical_claim": "Delegates from 44 countries met at Bretton Woods in July 1944 and produced the Articles of Agreement for the International Monetary Fund and the International Bank for Reconstruction and Development, establishing the framework for the postwar international monetary order.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.worldbank.org/en/archive/history",
+      "historical_claim": "The Articles of Agreement of the International Monetary Fund were adopted at the United Nations Monetary and Financial Conference at Bretton Woods on 22 July 1944, forming part of the Final Act of the conference.",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.elibrary.imf.org/display/book/9781451972511/ch008.xml",
       "bn_title": "ব্রেটন উডস সম্মেলন, ১৯৪৪",
-      "bn_historical_claim": "জুলাই ১৯৪৪ সালে ৪৪টি দেশের প্রতিনিধিরা ব্রেটন উডসে বৈঠক করেন এবং আন্তর্জাতিক মুদ্রা তহবিল ও আন্তর্জাতিক পুনর্গঠন ও উন্নয়ন ব্যাংকের জন্য চুক্তিপত্র প্রণয়ন করেন, যা যুদ্ধ-পরবর্তী আন্তর্জাতিক মুদ্রাব্যবস্থার কাঠামো গড়ে তোলে।",
-      "notes": "Qualified record; the conference documents are primary-source material, but a specific passage should be locked before upgrading the evidence grade."
+      "bn_historical_claim": "২২ জুলাই ১৯৪৪ ব্রেটন উডস সম্মেলনে আন্তর্জাতিক মুদ্রা তহবিলের Articles of Agreement গৃহীত হয় এবং তা সম্মেলনের Final Act-এর অংশ হয়।",
+      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context."
     },
     {
       "source_id": "banque-france-nationalized-1945",
       "title": "Banque de France nationalized, 1945",
       "date_label": "1945",
-      "historical_claim": "The French state nationalized the Banque de France in 1945, changing its ownership from a private shareholder structure to state ownership.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france",
+      "historical_claim": "Article 1 of France's Law No. 45-15 of 2 December 1945 provided that the Banque de France would be nationalized from 1 January 1946, with its shares transferred to the state.",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006103745",
       "bn_title": "ব্যাংক দ্য ফ্রঁস জাতীয়করণ, ১৯৪৫",
-      "bn_historical_claim": "১৯৪৫ সালে ফরাসি রাষ্ট্র ব্যাংক দ্য ফ্রঁসকে জাতীয়করণ করে এবং এর মালিকানা বেসরকারি শেয়ারহোল্ডার কাঠামো থেকে রাষ্ট্রের মালিকানায় পরিবর্তিত হয়।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "bn_historical_claim": "২ ডিসেম্বর ১৯৪৫-এর ফরাসি আইন নং ৪৫-১৫-এর ১ নম্বর অনুচ্ছেদে ১ জানুয়ারি ১৯৪৬ থেকে ব্যাংক দ্য ফ্রঁস জাতীয়করণ এবং এর শেয়ার রাষ্ট্রের মালিকানায় হস্তান্তরের বিধান করা হয়।",
+      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context."
     }
   ]
 }
