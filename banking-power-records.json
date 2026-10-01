@@ -180,11 +180,11 @@
       "date_label": "1866",
       "historical_claim": "The failure of Overend Gurney in 1866 produced a major financial panic and contributed to policy debate that shaped the Bank of England's lender-of-last-resort role.",
       "verification_status": "Primary-source / archival record verified",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2016/the-demise-of-overend-gurney.pdf",
       "bn_title": "ওভারেন্ড গার্নি সংকট, ১৮৬৬",
       "bn_historical_claim": "১৮৬৬ সালে ওভারেন্ড গার্নির পতন একটি বড় আর্থিক আতঙ্ক সৃষ্টি করে এবং ব্যাংক অব ইংল্যান্ডের শেষ আশ্রয়ের ঋণদাতা হিসেবে ভূমিকা গঠনের নীতিগত বিতর্ককে প্রভাবিত করে।",
-      "notes": "The Bank of England study reproduces and analyzes archival 1866 correspondence and daily accounts, including the crisis response and suspension of the Bank Charter Act; this provides a direct archival evidence trail for the record."
+      "notes": "The Bank of England study uses and reproduces archival 1866 correspondence and accounts, but the current linked source is a later historical study rather than the underlying archival documents themselves. Retain Grade B until the relevant original correspondence/account passage is directly linked or extracted."
     },
     {
       "source_id": "panic-1873",
@@ -193,10 +193,10 @@
       "historical_claim": "The 1873 crisis spread across financial markets and banking systems, with railroad investment, securities losses and banking failures contributing to a wider international financial disruption.",
       "verification_status": "Institutional-history verified",
       "evidence_grade": "A",
-      "source_url": "https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
       "bn_title": "১৮৭৩ সালের আর্থিক আতঙ্ক",
       "bn_historical_claim": "১৮৭৩ সালের সংকট আর্থিক বাজার ও ব্যাংকিং ব্যবস্থায় ছড়িয়ে পড়ে; রেলপথ বিনিয়োগ, সিকিউরিটিজের ক্ষতি ও ব্যাংক-ব্যর্থতা বৃহত্তর আন্তর্জাতিক আর্থিক অস্থিরতায় ভূমিকা রাখে।",
-      "notes": "The 1873 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record and contains a dedicated section, The Panic of 1873, describing the September failures and banking disruption.",
+      "notes": "The 1873 Annual Report of the Comptroller of the Currency is the contemporary U.S. government record and contains a dedicated section, 'The Panic of 1873,' describing the September failures, banking disruption and spread of the panic. This direct primary report replaces the former secondary Federal Reserve History link.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
       "status": "Primary-source verified"
     },
@@ -206,11 +206,11 @@
       "date_label": "1882",
       "historical_claim": "The Bank of Japan was established under the Bank of Japan Act of 1882 and began operations on 10 October 1882 as Japan's central bank.",
       "verification_status": "Primary-source / official contemporary record verified",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.boj.or.jp/en/about/outline/history/",
       "bn_title": "ব্যাংক অব জাপান, ১৮৮২",
       "bn_historical_claim": "১৮৮২ সালের ব্যাংক অব জাপান আইনের অধীনে ব্যাংক অব জাপান প্রতিষ্ঠিত হয় এবং ১০ অক্টোবর ১৮৮২ তারিখে জাপানের কেন্দ্রীয় ব্যাংক হিসেবে কার্যক্রম শুরু করে।",
-      "notes": "The Bank of Japan's official historical record identifies the June 1882 Bank of Japan Act and the 10 October 1882 commencement; the original Japanese law can be added later if an archival text is required."
+      "notes": "The Bank of Japan's official history verifies that the Bank of Japan Act was promulgated in June 1882 and operations began on 10 October 1882, but the current linked page is an institutional history rather than the original 1882 law. Retain Grade B until the original Japanese law/Official Gazette passage is directly locked."
     },
     {
       "source_id": "baring-crisis-1890",
@@ -231,10 +231,10 @@
       "historical_claim": "The 1907 U.S. financial panic exposed limits of private and clearing-house crisis mechanisms and became a major catalyst for monetary reform leading to the Federal Reserve.",
       "verification_status": "Institutional-history verified",
       "evidence_grade": "A",
-      "source_url": "https://www.federalreservehistory.org/essays/panic-of-1907",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
       "bn_title": "১৯০৭ সালের আর্থিক আতঙ্ক",
       "bn_historical_claim": "১৯০৭ সালের মার্কিন আর্থিক আতঙ্ক বেসরকারি ও ক্লিয়ারিং-হাউস ভিত্তিক সংকট-ব্যবস্থাপনার সীমাবদ্ধতা প্রকাশ করে এবং ফেডারেল রিজার্ভ প্রতিষ্ঠার দিকে নিয়ে যাওয়া মুদ্রানীতি সংস্কারের গুরুত্বপূর্ণ অনুঘটক হয়ে ওঠে।",
-      "notes": "The 1907 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record describing the October–November 1907 banking panic, currency shortage, reserve strain and the case for a more elastic reserve system.",
+      "notes": "The 1907 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record describing the October–November 1907 banking panic, currency shortage and reserve strain, and discussing the proposed remedy of a central bank. This direct primary report replaces the former secondary Federal Reserve History link.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
       "status": "Primary-source verified"
     },
@@ -248,7 +248,7 @@
       "source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
       "bn_title": "জেকিল আইল্যান্ড বৈঠক, ১৯১০",
       "bn_historical_claim": "১৯১০ সালের নভেম্বরে ছয়জন আর্থিক ও রাজনৈতিক ব্যক্তি জেকিল আইল্যান্ডে ব্যাংকিং সংস্কারের একটি পরিকল্পনা তৈরির জন্য বৈঠক করেন; সেই পরিকল্পনা পরবর্তী ফেডারেল রিজার্ভ ব্যবস্থার ভিত্তি গঠনে ভূমিকা রাখে।",
-      "notes": "Frank A. Vanderlip, a participant in the 1910 Jekyll Island meeting, published a first-hand account in 1935 describing the secret expedition, the participants' work at Jekyll Island, and the drafting of a banking bill that became the Aldrich Plan. Because this is a retrospective memoir rather than a contemporaneous 1910 document, the record should explicitly identify the source as a participant's later recollection and avoid treating every detail as independently contemporaneous."
+      "notes": "Frank A. Vanderlip, a participant in the 1910 meeting, published a first-hand retrospective account in 1935 describing the secret expedition, participants and work at Jekyll Island. Grade A is retained for the existence of the participant recollection, with the limitation that it is retrospective rather than contemporaneous."
     },
     {
       "source_id": "federal-reserve-act-1913",
@@ -367,8 +367,8 @@
       "bn_historical_claim": "১৯৭৪ সালের ডিসেম্বরে আন্তর্জাতিক ব্যাংকিং ও মুদ্রাবাজারের গুরুতর অস্থিরতার পর G10 কেন্দ্রীয় ব্যাংকের গভর্নররা Committee on Banking Regulations and Supervisory Practices প্রতিষ্ঠা করেন, যা পরবর্তীতে Basel Committee on Banking Supervision হয়।",
       "source_url": "https://www.bis.org/committees/bcbs/history",
       "verification_status": "Primary-source verified",
-      "evidence_grade": "A",
-      "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
+      "evidence_grade": "B",
+      "notes": "The BIS history confirms the Committee's establishment by the G10 Governors at the end of 1974, but the current linked page is a later institutional history rather than the original 1974 communiqué or Governors' record. Retain Grade B until the founding document itself is directly locked."
     },
     {
       "source_id": "plaza-accord-1985",
@@ -379,8 +379,8 @@
       "bn_historical_claim": "ফ্রান্স, জাপান, যুক্তরাজ্য, যুক্তরাষ্ট্র ও পশ্চিম জার্মানির অর্থমন্ত্রীরা এবং কেন্দ্রীয় ব্যাংকের গভর্নররা সেপ্টেম্বর ১৯৮৫-তে নিউইয়র্কের প্লাজা হোটেলে প্রধান মুদ্রাগুলোর বিপরীতে মার্কিন ডলারের সুশৃঙ্খল অবমূল্যায়ন/অন্যান্য মুদ্রার মূল্যবৃদ্ধিতে সহযোগিতার জন্য একমত হন।",
       "source_url": "https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm",
       "verification_status": "Primary-source / official contemporary record verified",
-      "evidence_grade": "A",
-      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+      "evidence_grade": "B",
+      "notes": "The current IMF-linked source is an institutional retrospective rather than the original 22 September 1985 Plaza statement. A later-released Federal Reserve FOMC memorandum also reproduces the announcement, but for strict Grade A the original 1985 communiqué should be directly locked."
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -403,8 +403,8 @@
       "bn_historical_claim": "১৯৯৭ সালের জুলাইয়ে থাইল্যান্ডে বাত ভাসমান করার পর এশীয় আর্থিক সংকট শুরু হয় এবং অঞ্চলজুড়ে ছড়িয়ে পড়ে; এতে গুরুতর আর্থিক ও অর্থনৈতিক অস্থিরতা সৃষ্টি হয় এবং আন্তর্জাতিক সহায়তা কর্মসূচির প্রয়োজন হয়।",
       "source_url": "https://www.imf.org/external/pubs/ft/op/opfinsec/index.htm",
       "verification_status": "Primary-source / official contemporary record verified",
-      "evidence_grade": "A",
-      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+      "evidence_grade": "B",
+      "notes": "The current IMF source is an institutional analysis rather than a contemporaneous primary government/central-bank document. Retain Grade B until a contemporaneous official statement, program document, or other primary record is directly locked."
     },
     {
       "source_id": "ecb-established-1998",
@@ -413,10 +413,10 @@
       "historical_claim": "The European Central Bank was founded on 1 June 1998, replacing the European Monetary Institute and becoming the central institution of the Eurosystem and European System of Central Banks.",
       "bn_title": "ইউরোপীয় কেন্দ্রীয় ব্যাংক প্রতিষ্ঠিত",
       "bn_historical_claim": "১ জুন ১৯৯৮ ইউরোপীয় কেন্দ্রীয় ব্যাংক প্রতিষ্ঠিত হয়; এটি European Monetary Institute-এর স্থলাভিষিক্ত হয়ে ইউরোপীয় কেন্দ্রীয় ব্যাংকিং ব্যবস্থার কেন্দ্রীয় প্রতিষ্ঠান হয়।",
-      "source_url": "https://www.ecb.europa.eu/ecb/history-arts-culture/archives/european/html/index.en.html",
+      "source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/1998/html/is980609.el.html",
       "verification_status": "Primary-source / official contemporary record verified",
       "evidence_grade": "A",
-      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+      "notes": "The ECB's 9 June 1998 contemporary introductory statement records that the Executive Board members were appointed effective 1 June 1998, which constituted the date of establishment of the ECB and ESCB. This is a contemporary official institutional record."
     },
     {
       "source_id": "global-financial-crisis-2008",
@@ -425,10 +425,10 @@
       "historical_claim": "The 2008 financial crisis became a global financial panic after the failure of Lehman Brothers in September 2008, prompting extraordinary central-bank liquidity and monetary-policy responses.",
       "bn_title": "বিশ্বব্যাপী আর্থিক সংকট",
       "bn_historical_claim": "সেপ্টেম্বর ২০০৮-এ Lehman Brothers-এর পতনের পর ২০০৮ সালের আর্থিক সংকট একটি বৈশ্বিক আর্থিক আতঙ্কে রূপ নেয় এবং কেন্দ্রীয় ব্যাংকগুলোকে অস্বাভাবিক তারল্য ও মুদ্রানীতিগত ব্যবস্থা নিতে হয়।",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2009/html/sp091123_1.en.html",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2009/html/sp090915.es.html",
       "verification_status": "Primary-source / official contemporary record verified",
       "evidence_grade": "A",
-      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+      "notes": "The ECB Executive Board member's 15 September 2009 contemporary speech explicitly records that Lehman Brothers filed for bankruptcy protection a year earlier and describes the severe global downturn and extraordinary government and central-bank response. This is a contemporary official institutional record."
     }
   ]
 }
