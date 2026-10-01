@@ -192,9 +192,9 @@
       "source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
       "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
       "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
-      "notes": "The original 1826 Act text authorizes the Bank of England to establish banking business at places in England through committees/agents and provides for issuing Bank notes and other securities. This is the primary statutory evidence for the post-1825 branch response. Exact wording checked against the original 1826 Act PDF; this locks the statutory branch/banking-response component, not every aspect of the wider 1825 crisis.",
-      "primary_passage": "it shall and may be lawful for any Bodies Politic or Corporate erected for the Purposes of Banking",
-      "passage_locator": "Country Bankers Act 1826, 7 Geo. IV c.46; provision permitting banking bodies/corporations to conduct banking business in England beyond 65 miles from London.",
+      "notes": "The earlier quotation came from the Act's separate joint-stock-banking provision and did not directly evidence the branch response described by this record. It has been replaced with the section 15 branch-authorisation wording. The Bank of England archive independently identifies section 15 as the legislative approval for branches established in response to the 1825 crisis.",
+      "primary_passage": "the Governor and Company of the Bank of England may establish Branches or Offices of the said Governor and Company in any City or Town in Great Britain",
+      "passage_locator": "Country Bankers Act 1826, 7 Geo. IV c.46, section 15, provision authorising the Bank of England to establish branches/offices.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf"
     },
