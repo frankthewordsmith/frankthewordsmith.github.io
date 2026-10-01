@@ -78,13 +78,13 @@
       "source_url": "https://www.bankofscotland.co.uk/about-us/our-heritage.html",
       "bn_title": "ব্যাংক অব স্কটল্যান্ড, ১৬৯৫",
       "bn_historical_claim": "১৭ জুলাই ১৬৯৫ সালে স্কটিশ পার্লামেন্টের আইনের মাধ্যমে ব্যাংক অব স্কটল্যান্ড প্রতিষ্ঠিত হয়; এর ১৭২ জন প্রাথমিক শেয়ারহোল্ডারের বড় অংশ ছিল রাজনৈতিক ও বণিক শ্রেণি থেকে।",
-      "notes": "The official legislation record identifies the original Scottish Parliament Act of 17 July 1695, titled An Act of Parliament for Erecting a Bank in Scotland, and states that it incorporated the Governor and Company of the Bank of Scotland. Passage wording and locator recorded separately from the existing Grade-A verification.",
+      "notes": "The previous passage was only the Act title. It has been replaced by operative statutory wording. Folger catalogs a 1695 printed reproduction of the original Act; the 2006 UK Parliament bill independently reproduces the wording and identifies the 1695 Act.",
       "url": "https://www.legislation.gov.uk/ukla/2006/1/enacted",
       "status": "Primary-source verified",
-      "primary_passage": "An Act for erecting a bank in Scotland to be called the Bank of Scotland",
-      "passage_locator": "Act of the Parliament of Scotland, 17 July 1695; printed Acts of the Parliaments of Scotland, vol. IX, p. 494.",
-      "passage_status": "Passage locked — primary legislation",
-      "passage_source_url": "https://catalogue.nrscotland.gov.uk/nrsonlinecatalogue/details.aspx?reference=PA7%2F15"
+      "primary_passage": "for the carrying on and managing of a publick bank",
+      "passage_locator": "Act of the Parliament of Scotland, 17 July 1695, for Erecting a Bank in Scotland; wording preserved in the parliamentary reproduction of the Act and identified as the 1695 incorporation provision.",
+      "passage_status": "Passage locked — primary legislation, contemporary printed reproduction",
+      "passage_source_url": "https://catalog.folger.edu/record/147972"
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -128,11 +128,11 @@
       "source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
       "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
-      "notes": "The digitized contemporary arrêté extracted from the Registers of the Deliberations of the Consuls is dated 28 Nivôse An VIII (18 January 1800), signed by First Consul Bonaparte. Article 1 directs that all funds received by the Caisse d'Amortissement be paid into the Banque de France; Articles 2–4 establish related funding and recovery arrangements. This directly verifies the January 1800 state act connecting the newly established Banque de France to public funds. Passage wording and locator recorded separately from the existing Grade-A verification.",
-      "primary_passage": "La Banque de France fut constituée ... le 28 nivôse an VIII (18 janvier 1800)",
-      "passage_locator": "Founding record; Banque de France historical archive identifies the creation decree of 18 January 1800.",
-      "passage_status": "Passage locked — official contemporary/historical record",
-      "passage_source_url": "https://archives-historiques.banque-france.fr/fr"
+      "notes": "The previous quotation was too close to a later descriptive formulation. It has been replaced with the wording FranceArchives explicitly identifies as extracted from the primitive statutes dated 28 nivôse an VIII (18 January 1800).",
+      "primary_passage": "il sera établi une Banque publique sous la dénomination de Banque de France",
+      "passage_locator": "Statuts primitifs de la Banque de France, 28 nivôse an VIII (18 January 1800), founding provision reproduced by FranceArchives from the original founding statutes.",
+      "passage_status": "Passage locked — contemporary founding statutes reproduced by official archival authority",
+      "passage_source_url": "https://francearchives.gouv.fr/fr/commemo/recueil-2000/39467"
     },
     {
       "source_id": "banque-france-1806",
@@ -144,11 +144,11 @@
       "source_url": "https://elischolar.library.yale.edu/ypfs-documents2/994/",
       "bn_title": "ব্যাংক দ্য ফ্রঁসে রাষ্ট্রীয় প্রভাব বৃদ্ধি, ১৮০৬",
       "bn_historical_claim": "১৮০৫ সালের আর্থিক সংকটের পর ব্যাংক দ্য ফ্রঁসের শাসনব্যবস্থায় পরিবর্তন এনে রাষ্ট্রপ্রধান কর্তৃক গভর্নর ও দুই ডেপুটি গভর্নর নিয়োগের ব্যবস্থা করা হয়; এতে ব্যক্তিগত শেয়ার মালিকানা বজায় রেখেও রাষ্ট্রীয় প্রভাব বাড়ে।",
-      "notes": "Yale's document archive hosts the Government of France Law of 22 April 1806 as a digitized statute. It directly supports the change to a Governor and two Deputy Governors appointed by the head of state, along with changes to capital and the bank privilege.",
-      "primary_passage": "La loi du 22 Avril 1806, qui ordonne l'institution d'un Gouverneur et de deux Sous-Gouverneurs de la Banque de France",
-      "passage_locator": "M. Crétet, Discours prononcé à l'Assemblée générale de la Régence de la Banque de France, 13 May 1806; discussion of the law of 22 April 1806.",
-      "passage_status": "Passage locked — contemporary official institutional record",
-      "passage_source_url": "https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Banque-de-France-1805-Compte-Rendu.pdf"
+      "notes": "Quotation has been aligned to the actual 22 April 1806 statute rather than the May 1806 speech discussing it. Article 10 establishes the Governor's direction of the Bank; Article 12 specifies appointment by the Emperor.",
+      "primary_passage": "La direction de toutes les affaires de la Banque, déléguée à son Comité central par la Loi du 24 germinal an XI, sera désormais exercée par un Gouverneur de la Banque de France.",
+      "passage_locator": "Law of 22 April 1806, Article 10, in the contemporary printed text; Article 12 provides that the Governor and two deputies are appointed by the Emperor.",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Loi-du-22-avril-1806-cut-from-doc.pdf"
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
