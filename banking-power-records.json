@@ -440,7 +440,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.govinfo.gov; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Federal Reserve Act, Act of 23 December 1913, ch. 6, 38 Stat. 251, original enactment.; publisher/authority: United States Congress; year: 1913.",
+      "edition": "Federal Reserve Act, Act of 23 December 1913, ch. 6, 38 Stat. 251, original enactment.",
+      "publisher": "United States Congress",
+      "publication_year": 1913
     },
     {
       "source_id": "wwi-central-bank-war-finance-1914",
@@ -589,7 +592,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.legislation.gov.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Bank of England Act 1946, 9 & 10 Geo. 6 c. 27, original enactment, Royal Assent 14 February 1946.; publisher/authority: Parliament of the United Kingdom; year: 1946.",
+      "edition": "Bank of England Act 1946, 9 & 10 Geo. 6 c. 27, original enactment, Royal Assent 14 February 1946.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1946
     },
     {
       "source_id": "nixon-gold-window-1971",
