@@ -400,10 +400,11 @@
       "source_url": "https://www.elibrary.imf.org/display/book/9781451972511/ch008.xml",
       "bn_title": "ব্রেটন উডস সম্মেলন, ১৯৪৪",
       "bn_historical_claim": "২২ জুলাই ১৯৪৪ ব্রেটন উডস সম্মেলনে আন্তর্জাতিক মুদ্রা তহবিলের Articles of Agreement গৃহীত হয় এবং তা সম্মেলনের Final Act-এর অংশ হয়।",
-      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context. Passage verified against the IMF's published Articles of Agreement; the IMF Archives also catalogs the 1944 Final Act containing the Articles.",
+      "primary_passage": "The International Monetary Fund is established and shall operate in accordance with the following provisions.",
+      "passage_locator": "Articles of Agreement of the International Monetary Fund, Introductory Article, adopted 22 July 1944.",
+      "passage_status": "Passage locked — primary international agreement",
+      "passage_source_url": "https://www.imf.org/en/publications/ft/aa/index"
     },
     {
       "source_id": "banque-france-nationalized-1945",
