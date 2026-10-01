@@ -185,7 +185,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through francearchives.gouv.fr; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Primitive statutes of the Banque de France, 24 pluviôse an VIII (13 February 1800), as preserved in contemporary legal and institutional records.; publisher/authority: Banque de France; French state legal records; year: 1800.",
+      "edition": "Primitive statutes of the Banque de France, 24 pluviôse an VIII (13 February 1800), as preserved in contemporary legal and institutional records.",
+      "publisher": "Banque de France; French state legal records",
+      "publication_year": 1800
     },
     {
       "source_id": "banque-france-1806",
@@ -205,7 +208,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through ypfsresourcelibrary.blob.core.windows.net; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Law of 22 April 1806 modifying the statutes of the Banque de France and establishing the Governor and two Deputy Governors.; publisher/authority: French state; Banque de France; year: 1806.",
+      "edition": "Law of 22 April 1806 modifying the statutes of the Banque de France and establishing the Governor and two Deputy Governors.",
+      "publisher": "French state; Banque de France",
+      "publication_year": 1806
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -311,7 +317,10 @@
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.bourseducollectionneur.com; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Provisional Government decree of 27 April 1848 concerning the Banque de France and the banks of Rouen, Nantes, Lyon, Marseille and Lille; original decree.; publisher/authority: French Provisional Government; Journal officiel; year: 1848.",
+      "edition": "Provisional Government decree of 27 April 1848 concerning the Banque de France and the banks of Rouen, Nantes, Lyon, Marseille and Lille; original decree.",
+      "publisher": "French Provisional Government; Journal officiel",
+      "publication_year": 1848
     },
     {
       "source_id": "overend-gurney-crisis-1866",
@@ -331,7 +340,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through api.parliament.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "House of Commons Parliamentary Debates (Hansard), 11 May 1866, discussion of suspension of the Bank Charter Act and Bank of England advances during the crisis.; publisher/authority: Parliament of the United Kingdom; Hansard; year: 1866.",
+      "edition": "House of Commons Parliamentary Debates (Hansard), 11 May 1866, discussion of suspension of the Bank Charter Act and Bank of England advances during the crisis.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1866
     },
     {
       "source_id": "panic-1873",
