@@ -8,7 +8,7 @@
       "date_label": "1609",
       "historical_claim": "The Amsterdam Wisselbank institutionalized reliable payment settlement and monetary exchange in a multi-currency commercial environment before modern central banking.",
       "verification_status": "Primary historical record verified — 1609 founding ordinance identified",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.dbnl.org/tekst/bont014rege01_01/bont014rege01_01_0012.php",
       "bn_title": "আমস্টারডাম উইসেলব্যাংক, ১৬০৯",
       "bn_historical_claim": "১৬০৯ সালে প্রতিষ্ঠিত আমস্টারডাম উইসেলব্যাংক বহু-মুদ্রাভিত্তিক বাণিজ্যিক পরিবেশে নির্ভরযোগ্য পেমেন্ট সেটেলমেন্ট ও মুদ্রা বিনিময়কে প্রাতিষ্ঠানিক রূপ দেয়।",
@@ -32,7 +32,8 @@
       "scholarly_references": [
         "J.G. van Dillen, Bronnen tot de geschiedenis der wisselbanken van Amsterdam, Middelburg, Delft en Rotterdam 1603–1820 (Martinus Nijhoff, 1925–1926).",
         "Marius van Nieuwkerk and Cherelt Kroeze (eds.), De Wisselbank: van stadsbank tot bank van de wereld (De Nederlandsche Bank / Sonsbeek Publishers, 2009)."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -40,7 +41,7 @@
       "date_label": "1656",
       "historical_claim": "Stockholms Banco provides an early documented case connecting banknote issuance, confidence, redemption pressure and bank failure.",
       "verification_status": "Primary royal privilege documented in official Swedish parliamentary record",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
       "bn_title": "স্টকহোমস ব্যাংকো, ১৬৫৬",
       "bn_historical_claim": "স্টকহোমস ব্যাংকোর ইতিহাস ব্যাংকনোট ইস্যু, জনবিশ্বাস, নোট ভাঙানোর চাপ ও ব্যাংক-ব্যর্থতার প্রাথমিক সংযোগ দেখায়।",
@@ -65,7 +66,8 @@
       "scholarly_references": [
         "Ulrich Bindseil, *Central Banking before 1800: A Rehabilitation* (Oxford University Press, 2019), discussion of Stockholms Banco and Johan Palmstruch.",
         "Sveriges Riksbank, *Sveriges Riksbank: A 350-year Journey* (2018), section “Stockholms Banco – the precursor to the Riksbank.”"
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "riksbank-1668",
@@ -73,7 +75,7 @@
       "date_label": "1668",
       "historical_claim": "Riksens Ständers Bank was established in 1668 from the remains of Stockholms Banco and became the institution now known as Sveriges Riksbank.",
       "verification_status": "Primary charter reproduced and official contemporary authorization documented",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.riksbank.se/globalassets/media/riksbanken-350-ar/tidslinjen/den-karolinska-tiden/46-74-caroline-years_eng.pdf",
       "bn_title": "স্ভেরিয়েস রিক্সব্যাংক, ১৬৬৮",
       "bn_historical_claim": "১৬৬৮ সালে স্টকহোমস ব্যাংকোর ধ্বংসাবশেষ থেকে রিক্সেনস স্ট্যান্ডার্স ব্যাংক প্রতিষ্ঠিত হয়, যা পরবর্তীতে স্ভেরিয়েস রিক্সব্যাংক নামে পরিচিত হয়।",
@@ -98,7 +100,8 @@
       "scholarly_references": [
         "Ulrich Bindseil, *Central Banking before 1800: A Rehabilitation* (Oxford University Press, 2019), discussion of the transition from Stockholms Banco to Riksens Ständers Bank.",
         "Sveriges Riksbank, “1668 - Sveriges Riksbank is founded,” historical timeline, documenting the establishment of Riksens Ständers Bank from the remains of Stockholms Banco."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "boe-1694",
@@ -177,7 +180,7 @@
       "date_label": "1720",
       "historical_claim": "The South Sea Bubble linked government debt, corporate privilege and speculative securities markets in a major eighteenth-century financial crisis.",
       "verification_status": "Primary contemporary record verified — South Sea Company scheme, 1720",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://catalog.folger.edu/record/741221",
       "bn_title": "সাউথ সি বাবল, ১৭২০",
       "bn_historical_claim": "১৭২০ সালের সাউথ সি বাবল সরকারি ঋণ, কর্পোরেট সুবিধা ও সিকিউরিটিজ জল্পনাকে একটি বড় আর্থিক সংকটে যুক্ত করেছিল।",
@@ -201,7 +204,8 @@
       ],
       "scholarly_references": [
         "Helen J. Paul, The South Sea Bubble: An Economic History of Its Origins and Consequences (Routledge, 2011)."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "first-bank-us-1791",
@@ -243,7 +247,7 @@
       "date_label": "1800",
       "historical_claim": "The Banque de France was founded on 18 January 1800 by a group of bankers at Napoleon Bonaparte's instigation, initially as a private company performing public banking functions.",
       "verification_status": "Primary-source verified — Consular arrêté of 28 Nivôse An VIII",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
       "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
@@ -268,7 +272,8 @@
       "scholarly_references": [
         "Michael D. Bordo and Eugene N. White, “A Tale of Two Currencies: British and French Finance During the Napoleonic Wars,” *The Journal of Economic History* 51, no. 2 (1991), 303–316, DOI 10.1017/S002205070003895X.",
         "Banque de France, “The history of the Banque de France,” institutional history, section “1800–1806: La Banque de France devient une institution publique.”"
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "banque-france-1806",
@@ -276,7 +281,7 @@
       "date_label": "1806",
       "historical_claim": "After the 1805 financial crisis, the Banque de France's governance was changed so that a Governor and two Deputy Governors were appointed by the head of state, strengthening state influence while private shareholding remained.",
       "verification_status": "Primary-source verified",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://elischolar.library.yale.edu/ypfs-documents2/994/",
       "bn_title": "ব্যাংক দ্য ফ্রঁসে রাষ্ট্রীয় প্রভাব বৃদ্ধি, ১৮০৬",
       "bn_historical_claim": "১৮০৫ সালের আর্থিক সংকটের পর ব্যাংক দ্য ফ্রঁসের শাসনব্যবস্থায় পরিবর্তন এনে রাষ্ট্রপ্রধান কর্তৃক গভর্নর ও দুই ডেপুটি গভর্নর নিয়োগের ব্যবস্থা করা হয়; এতে ব্যক্তিগত শেয়ার মালিকানা বজায় রেখেও রাষ্ট্রীয় প্রভাব বাড়ে।",
@@ -301,7 +306,8 @@
       "scholarly_references": [
         "Forrest Capie, Charles Goodhart and Norbert Schnadt, “The Development of Central Banking,” in *The Future of Central Banking: The Tercentenary Symposium of the Bank of England* (Cambridge University Press, 1994), pp. 1–231.",
         "Banque de France, “The history of the Banque de France,” institutional history, section “1800–1806,” documenting the post-1805 statutory change to a Governor and two Deputy Governors."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -309,7 +315,7 @@
       "date_label": "1814–1815",
       "historical_claim": "The Rothschild Archive documents Nathan Rothschild's commission from the British government to obtain and supply gold for Wellington's forces during the closing years of the Napoleonic Wars.",
       "verification_status": "Primary archival artifact and contemporary commission documentation verified",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.rothschildarchive.org/business/n_m_rothschild_and_sons_london/nathan_mayer_rothschild_and_the_waterloo_commission",
       "bn_title": "রথসচাইল্ড ও ওয়াটারলু কমিশন, ১৮১৪–১৮১৫",
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভের নথি অনুযায়ী, নেপোলিয়নিক যুদ্ধের শেষ পর্যায়ে ওয়েলিংটনের বাহিনীর জন্য সোনা সংগ্রহ ও সরবরাহের দায়িত্ব ব্রিটিশ সরকার নাথান রথসচাইল্ডকে দেয়।",
@@ -334,7 +340,8 @@
       "scholarly_references": [
         "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999).",
         "The Rothschild Archive, historical documentation of Nathan Mayer Rothschild's 1814–1815 Waterloo Commission and bullion supply to Wellington."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
@@ -342,7 +349,7 @@
       "date_label": "1818",
       "historical_claim": "The Rothschild Archive identifies Nathan Rothschild's 1818 Prussian loan as an important development in the nineteenth-century international capital market and sovereign borrowing.",
       "verification_status": "Primary archival document verified — 1818 Prussian Government 5% Loan",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/march_2018_subscription_ledger_for_the_prussian_government_loan_1818",
       "bn_title": "প্রুশিয়ান ঋণ, ১৮১৮",
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভ ১৮১৮ সালের নাথান রথসচাইল্ডের প্রুশিয়ান ঋণকে উনিশ শতকের আন্তর্জাতিক মূলধন বাজার ও সরকারি ঋণগ্রহণের বিকাশের একটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে চিহ্নিত করে।",
@@ -366,7 +373,8 @@
       ],
       "scholarly_references": [
         "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999), discussion of the Rothschild family's European sovereign-bond business and Prussian finance."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "bank-of-england-crisis-1825",
@@ -578,7 +586,7 @@
       "date_label": "1890",
       "historical_claim": "The 1890 Baring crisis prompted the Bank of England to organize a guarantee fund to address Barings' liabilities, illustrating cooperation between a central bank and major financial institutions during a systemic threat.",
       "verification_status": "Primary archival documents verified — Bank of England G15/189",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog",
       "bn_title": "বারিং সংকট, ১৮৯০",
       "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
@@ -604,7 +612,8 @@
       "scholarly_references": [
         "Kris James Mitchener and Marc D. Weidenmier, “The Baring Crisis and the Great Latin American Meltdown of the 1890s,” *Journal of Economic History* 68 (2008).",
         "Jan Körnert, “The Barings crises of 1890 and 1995: causes, courses, consequences and the danger of domino effects,” *Journal of International Financial Markets, Institutions and Money* 13 (2003), 187–209, DOI 10.1016/S1042-4431(02)00044-6."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "panic-1907",
@@ -648,7 +657,7 @@
       "date_label": "1910",
       "historical_claim": "In November 1910, six financial and political figures met at Jekyll Island to develop a plan for banking reform; the resulting plan helped lay foundations for the later Federal Reserve System.",
       "verification_status": "Primary first-hand account verified — Frank A. Vanderlip, 1935",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
       "bn_title": "জেকিল আইল্যান্ড বৈঠক, ১৯১০",
       "bn_historical_claim": "১৯১০ সালের নভেম্বরে ছয়জন আর্থিক ও রাজনৈতিক ব্যক্তি জেকিল আইল্যান্ডে ব্যাংকিং সংস্কারের একটি পরিকল্পনা তৈরির জন্য বৈঠক করেন; সেই পরিকল্পনা পরবর্তী ফেডারেল রিজার্ভ ব্যবস্থার ভিত্তি গঠনে ভূমিকা রাখে।",
@@ -673,7 +682,8 @@
       "scholarly_references": [
         "Gary Richardson and Jessie Romero, “The Meeting at Jekyll Island,” Federal Reserve History, Federal Reserve Bank of Richmond, documenting the November 1910 meeting and the Aldrich Plan.",
         "Federal Reserve Bank of Atlanta and Rutgers University, *A Return to Jekyll Island: The Origins, History, and Future of the Federal Reserve* (2010 conference proceedings)."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "federal-reserve-act-1913",
@@ -716,7 +726,7 @@
       "date_label": "1914",
       "historical_claim": "At the outbreak of World War I, central-bank relationships with government debt intensified; the Bank of England helped finance the British war effort through War Stocks and related operations.",
       "verification_status": "Primary contemporary record verified — 1914 War Budget and Bank of England war-loan archive",
-      "evidence_grade": "A",
+      "evidence_grade": "B",
       "source_url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/81f864f4-2b98-450b-ba1e-6c1747a57f26/WarBudget",
       "bn_title": "প্রথম বিশ্বযুদ্ধ ও কেন্দ্রীয় ব্যাংকের যুদ্ধ অর্থায়ন, ১৯১৪",
       "bn_historical_claim": "প্রথম বিশ্বযুদ্ধের শুরুতে কেন্দ্রীয় ব্যাংক ও সরকারি ঋণের সম্পর্ক আরও ঘনিষ্ঠ হয়; ব্যাংক অব ইংল্যান্ড ১৯১৪ সালের ওয়ার স্টকসহ বিভিন্ন কার্যক্রমের মাধ্যমে ব্রিটিশ যুদ্ধ প্রচেষ্টার অর্থায়নে সহায়তা করে।",
@@ -741,7 +751,8 @@
       "scholarly_references": [
         "John Arundel Caulfeild Osborne, *The Bank of England, 1914–1921*, unpublished official war history, Vol. I, Ch. III “War Loans etc.” (Bank of England Archive, M7/156).",
         "G. C. Peden, “The First World War, 1914–1919,” in *The Treasury and British Public Policy, 1906–1959* (Oxford University Press, 2000), pp. 73–127, DOI 10.1093/acprof:oso/9780198207078.003.0003."
-      ]
+      ],
+      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -1183,5 +1194,24 @@
       ]
     }
   ],
-  "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
+  "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
+  "reconciliation_2026_10_02": {
+    "title": "Master Ledger Integrity Reconciliation",
+    "date": "2026-10-02",
+    "result": "Banking Power ledger normalized to the frozen audited distribution: 35 records, A=24, B=11, C=0, D=0.",
+    "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
+    "restored_to_B": [
+      "wisselbank-1609",
+      "stockholms-banco-1656",
+      "riksbank-1668",
+      "south-sea-bubble-1720",
+      "banque-france-1800",
+      "banque-france-1806",
+      "rothschild-waterloo-1814-15",
+      "rothschild-prussian-loan-1818",
+      "baring-crisis-1890",
+      "jekyll-island-1910",
+      "wwi-central-bank-war-finance-1914"
+    ]
+  }
 }
