@@ -17,7 +17,9 @@
       "passage_locator": "Amsterdamse Wisselbank founding ordinance of 31 January 1609, reproduced in W. C. Mees, Proeve eener geschiedenis van het bankwezen in Nederland gedurende den tijd der Republiek (Rotterdam, 1838), p. 283; Hans Bontemantel independently identifies the 31 January 1609 willekeur and points to Noordkerk, Handvesten, p. 673.",
       "passage_status": "Passage locked — 1609 founding ordinance reproduced in contemporary historical edition",
       "passage_source_url": "https://books.google.com/books?id=5w5VAAAAcAAJ",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -34,7 +36,9 @@
       "passage_locator": "Sveriges riksdag, Konstitutions-Utskottets Utlåtande N:o 5, historical overview; paragraph beginning “Sveriges Riksbank leder, som bekant, sitt ursprung…”.",
       "passage_status": "Passage locked — official parliamentary historical record",
       "passage_source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "riksbank-1668",
@@ -51,7 +55,9 @@
       "passage_locator": "Växel Och LåneBanken I Stockholm, 1668, pp. 3–6, royal authorization to the Estates to take the bank under their administration.",
       "passage_status": "Passage locked — original 1668 printed banking ordinance",
       "passage_source_url": "https://alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A356430",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "boe-1694",
@@ -70,7 +76,9 @@
       "passage_locator": "Bank of England Charter 1694; Letters Patent dated 27 July 1694; incorporation clause.",
       "passage_status": "Passage locked — primary charter text",
       "passage_source_url": "https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bank-scotland-1695",
@@ -89,7 +97,9 @@
       "passage_locator": "Act of the Parliament of Scotland, 17 July 1695, for Erecting a Bank in Scotland; wording preserved in the parliamentary reproduction of the Act and identified as the 1695 incorporation provision.",
       "passage_status": "Passage locked — primary legislation, contemporary printed reproduction",
       "passage_source_url": "https://catalog.folger.edu/record/147972",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -106,7 +116,9 @@
       "passage_locator": "The Schemes of the South-Sea Company and the Bank of England, as propos'd to the Parliament for the reducing of the national debts (London, printed for W. Castle, 1720), South Sea Company proposal.",
       "passage_status": "Passage locked — contemporary printed company proposal",
       "passage_source_url": "https://catalog.folger.edu/record/741221",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "first-bank-us-1791",
@@ -123,7 +135,9 @@
       "passage_locator": "Act to incorporate the subscribers to the Bank of the United States, 25 February 1791, section 1.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.loc.gov/item/2020769609/",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "banque-france-1800",
@@ -140,7 +154,9 @@
       "passage_locator": "Statuts primitifs de la Banque de France, 28 nivôse an VIII (18 January 1800), founding provision reproduced by FranceArchives from the original founding statutes.",
       "passage_status": "Passage locked — contemporary founding statutes reproduced by official archival authority",
       "passage_source_url": "https://francearchives.gouv.fr/fr/commemo/recueil-2000/39467",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "banque-france-1806",
@@ -157,7 +173,9 @@
       "passage_locator": "Law of 22 April 1806, Article 10, in the contemporary printed text; Article 12 provides that the Governor and two deputies are appointed by the Emperor.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Loi-du-22-avril-1806-cut-from-doc.pdf",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -174,7 +192,9 @@
       "passage_locator": "Memorandum signed by J. C. Herries, 14 April 1815, Herries Papers, British Library Add MS 57383, ff. 65–66.",
       "passage_status": "Passage locked — contemporary Herries memorandum in the British Library archive",
       "passage_source_url": "https://searcharchives.bl.uk/catalog/040-001999322",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
@@ -191,7 +211,9 @@
       "passage_locator": "Letter of Salomon Mayer Rothschild to Jacob Friedrich Gontard and Sons, London, 27 March 1818; contemporary manuscript letter, quoted in the catalogue record for the Rothschild family correspondence. The letter concerns the 1818 5% Prussian loan and offers a £50,000 subscription.",
       "passage_status": "Passage locked — contemporary Rothschild correspondence",
       "passage_source_url": "https://www.christies.com/lot/lot-6247795",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bank-of-england-crisis-1825",
@@ -208,7 +230,9 @@
       "passage_locator": "Country Bankers Act 1826, 7 Geo. IV c.46, section 15, provision authorising the Bank of England to establish branches/offices.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -225,7 +249,9 @@
       "passage_locator": "Bank Charter Act 1844, section 1, enacted 19 July 1844.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Vict/7-8/32",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "banque-france-note-monopoly-1848",
@@ -242,7 +268,9 @@
       "passage_locator": "Décret portant réunion de la Banque de France et des banques de Rouen, Lyon, Le Havre, Lille, Toulouse, d’Orléans et de Marseille, 27 avril 1848, Article premier; printed collection *Législation de la Banque de France*, p. 60 (PDF page 59). Article 6 further provides that the incorporated banks' notes would be received throughout the Republic as legal tender.",
       "passage_status": "Passage locked — contemporary government decree",
       "passage_source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "overend-gurney-crisis-1866",
@@ -259,7 +287,9 @@
       "passage_locator": "House of Commons, Hansard, 11 May 1866, vol. 183, cols. 840–842, “Suspension of the Bank Charter Act—Question”.",
       "passage_status": "Passage locked — contemporary parliamentary record",
       "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1866/may/11/suspension-of-the-bank-charter-act",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "panic-1873",
@@ -278,7 +308,9 @@
       "passage_locator": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, 28 November 1873, section “The Panic of 1873.”",
       "passage_status": "Passage locked — contemporary government report",
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bank-japan-1882",
@@ -295,7 +327,9 @@
       "passage_locator": "Bank of Japan founding ordinance, 1882; National Archives of Japan founding file, 日本銀行創立ノ件.",
       "passage_status": "Passage locked — primary founding document",
       "passage_source_url": "https://www.archives.go.jp/ayumi/kobetsu/m15_1882_01.html",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "baring-crisis-1890",
@@ -312,7 +346,9 @@
       "passage_locator": "The Economist, 22 November 1890, “The liquidation of the Barings,” pp. 1465–1466; contemporary printed reproduction of the Guarantee Fund terms, headed “Bank of England, November, 1890.”",
       "passage_status": "Passage locked — contemporary printed reproduction of the 1890 Guarantee Fund",
       "passage_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Economist_1890-11-22-_Vol_48_Iss_2465_%28IA_sim_economist_1890-11-22_48_2465%29.pdf",
-      "passage_type": "contemporary-printed-reproduction"
+      "passage_type": "contemporary-printed-reproduction",
+      "language": "English (contemporary printed reproduction)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "panic-1907",
@@ -331,7 +367,9 @@
       "passage_locator": "Annual Report of the Comptroller of the Currency, 1907, “Central Bank of Issue and Reserve,” p. 72.",
       "passage_status": "Passage locked — contemporary U.S. government report",
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "jekyll-island-1910",
@@ -348,7 +386,9 @@
       "passage_locator": "Frank A. Vanderlip, Saturday Evening Post, 9 February 1935, p. 25; first-hand retrospective account of the 1910 meeting.",
       "passage_status": "Passage locked — participant retrospective account",
       "passage_source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
-      "passage_type": "retrospective-firsthand-account"
+      "passage_type": "retrospective-firsthand-account",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "federal-reserve-act-1913",
@@ -365,7 +405,9 @@
       "passage_locator": "Federal Reserve Act, approved 23 December 1913, Chapter 6, 38 Stat. 251; title/preamble.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.govinfo.gov/content/pkg/COMPS-270/pdf/COMPS-270.pdf",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "wwi-central-bank-war-finance-1914",
@@ -382,7 +424,9 @@
       "passage_locator": "House of Commons, Hansard, 17 November 1914, Chancellor of Exchequer’s Statement; Lloyd George's statement on the wartime loan.",
       "passage_status": "Passage locked — contemporary parliamentary record",
       "passage_source_url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/0736c995-a08f-443b-ae3e-494420f9a4f1/ChancellorOfExchequerSStatement",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -399,7 +443,9 @@
       "passage_locator": "Gold Standard Act 1925, section 1(2).",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/29/pdfs/ukpga_19250029_en.pdf",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "great-depression-1929-33",
@@ -416,7 +462,9 @@
       "passage_locator": "Annual Report of the Federal Reserve Board, 1933, section “Developments Leading to the Banking Crisis,” opening discussion of banking failures.",
       "passage_status": "Passage locked — contemporary central-bank report",
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1933-2491/fulltext",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bis-1930",
@@ -433,7 +481,9 @@
       "passage_locator": "Constituent Charter of the Bank for International Settlements, 20 January 1930, opening recital.",
       "passage_status": "Passage locked — primary charter",
       "passage_source_url": "https://treaties.un.org/doc/Publication/UNTS/LON/Volume%20104/v104.pdf",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bretton-woods-1944",
@@ -450,7 +500,9 @@
       "passage_locator": "Articles of Agreement of the International Monetary Fund, Introductory Article, adopted 22 July 1944.",
       "passage_status": "Passage locked — primary international agreement",
       "passage_source_url": "https://www.imf.org/en/publications/ft/aa/index",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "banque-france-nationalized-1945",
@@ -467,7 +519,9 @@
       "passage_locator": "French Law No. 45-15 of 2 December 1945, Article 1, initial text; the law provides that nationalization takes effect 1 January 1946.",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000313937/",
-      "passage_type": "original-language-text"
+      "passage_type": "original-language-text",
+      "language": "Original language (see passage type)",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
@@ -484,7 +538,9 @@
       "passage_locator": "Bank of England Act 1946, section 1(1)(a).",
       "passage_status": "Passage locked — primary legislation",
       "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/contents",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "nixon-gold-window-1971",
@@ -501,7 +557,9 @@
       "passage_locator": "President Richard Nixon, Address to the Nation Outlining a New Economic Policy, 15 August 1971; directive announcing temporary suspension of dollar convertibility.",
       "passage_status": "Passage locked — contemporary presidential record",
       "passage_source_url": "https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "basel-committee-1974",
@@ -518,7 +576,9 @@
       "passage_locator": "BIS media release, 12 February 1975, confirming the standing committee established by the Group-of-Ten central-bank Governors.",
       "passage_status": "Passage locked — contemporary official record",
       "passage_source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "plaza-accord-1985",
@@ -535,7 +595,9 @@
       "passage_locator": "Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States, 22 September 1985.",
       "passage_status": "Passage locked — contemporary official statement",
       "passage_source_url": "https://g7.utoronto.ca/finance/fm850922.htm",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -552,7 +614,9 @@
       "passage_locator": "International Convergence of Capital Measurement and Capital Standards, Basel Committee on Banking Supervision, July 1988; capital standard section.",
       "passage_status": "Passage locked — primary institutional standard",
       "passage_source_url": "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "asian-crisis-1997",
@@ -569,7 +633,9 @@
       "passage_locator": "Thailand Memorandum on Economic Policies, 14 August 1997, section I, paragraph 1.",
       "passage_status": "Passage locked — contemporary government record",
       "passage_source_url": "https://www.imf.org/external/np/loi/081497.HTM",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "ecb-established-1998",
@@ -586,7 +652,9 @@
       "passage_locator": "ECB Annual Report 1998, section I, “The establishment of the ECB.”",
       "passage_status": "Passage locked — contemporary official record",
       "passage_source_url": "https://www.ecb.europa.eu/pub/pdf/annrep/ar1998en.pdf",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     },
     {
       "source_id": "global-financial-crisis-2008",
@@ -603,7 +671,9 @@
       "passage_locator": "Joint Statement by Treasury, Federal Reserve, and FDIC, 14 October 2008; opening statement on coordinated crisis measures.",
       "passage_status": "Passage locked — contemporary official U.S. government statement",
       "passage_source_url": "https://home.treasury.gov/news/press-releases/hp1206",
-      "passage_type": "english-primary-text"
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01"
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
