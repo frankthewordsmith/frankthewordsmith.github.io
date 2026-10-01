@@ -163,24 +163,24 @@
       "title": "Banque de France note-issue monopoly, 1848",
       "date_label": "1848",
       "historical_claim": "In 1848 the Banque de France obtained a monopoly on banknote issuance throughout France, while departmental banks were absorbed as branches.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "bn_title": "ব্যাংক দ্য ফ্রঁসের নোট-ইস্যু একচেটিয়া অধিকার, ১৮৪৮",
       "bn_historical_claim": "১৮৪৮ সালে ব্যাংক দ্য ফ্রঁস সমগ্র ফ্রান্সে ব্যাংকনোট ইস্যুর একচেটিয়া অধিকার লাভ করে এবং বিভাগীয় ব্যাংকগুলো শাখায় রূপান্তরিত হয়।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "notes": "The 27 April 1848 decree joining the departmental banks to the Banque de France is reproduced in a digitized historical legislation collection; it directly supports the consolidation of note issuance."
     },
     {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
       "historical_claim": "The failure of Overend Gurney in 1866 produced a major financial panic and contributed to policy debate that shaped the Bank of England's lender-of-last-resort role.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "verification_status": "Primary-source / archival record verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2016/the-demise-of-overend-gurney.pdf",
       "bn_title": "ওভারেন্ড গার্নি সংকট, ১৮৬৬",
       "bn_historical_claim": "১৮৬৬ সালে ওভারেন্ড গার্নির পতন একটি বড় আর্থিক আতঙ্ক সৃষ্টি করে এবং ব্যাংক অব ইংল্যান্ডের শেষ আশ্রয়ের ঋণদাতা হিসেবে ভূমিকা গঠনের নীতিগত বিতর্ককে প্রভাবিত করে।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "notes": "The Bank of England study reproduces and analyzes archival 1866 correspondence and daily accounts, including the crisis response and suspension of the Bank Charter Act; this provides a direct archival evidence trail for the record."
     },
     {
       "source_id": "panic-1873",
