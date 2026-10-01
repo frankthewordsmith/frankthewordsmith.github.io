@@ -291,6 +291,9 @@
       "related_banking_power_records": [
         "banque-france-1800",
         "rothschild-waterloo-1814-15"
+      ],
+      "scholarly_references": [
+        "Banque de France, institutional history of governance changes after the 1805 financial crisis and the 1806 appointment of the Governor and Deputy Governors."
       ]
     },
     {
@@ -349,6 +352,9 @@
       "related_banking_power_records": [
         "rothschild-waterloo-1814-15",
         "bank-of-england-crisis-1825"
+      ],
+      "scholarly_references": [
+        "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999), discussion of the Rothschild family's European sovereign-bond business and Prussian finance."
       ]
     },
     {
@@ -378,6 +384,10 @@
       "related_banking_power_records": [
         "rothschild-prussian-loan-1818",
         "bank-charter-act-1844"
+      ],
+      "scholarly_references": [
+        "Richard Roberts, *The Bank of England: Money, Power and Influence 1694–1994* (Oxford University Press, 1995), discussion of nineteenth-century crises and the Bank's evolving role.",
+        "Michael Collins, *Banks and Industrial Finance in Britain, 1800–1939* (Macmillan, 1991), discussion of British banking structure and nineteenth-century crises."
       ]
     },
     {
@@ -409,6 +419,10 @@
         "banque-france-note-monopoly-1848",
         "boe-1694",
         "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Iain Frame, “Between the ‘Bank Screw’ and ‘Affording Assistance’: Rules, Standards, and the Bank Charter Act of 1844,” *The Modern Law Review* 83 (2020), 64–90, DOI 10.1111/1468-2230.12467.",
+        "Dieter Ziegler, “Die Peelsche Bankakte und die Stabilität der Finanzmärkte in England, 1844–1890,” *Rechtsgeschichte – Legal History* 28 (2020), 183–198, DOI 10.12946/rg28/183-198."
       ]
     },
     {
@@ -469,6 +483,10 @@
         "panic-1873",
         "bank-charter-act-1844",
         "baring-crisis-1890"
+      ],
+      "scholarly_references": [
+        "Sabine Schneider, “The politics of last resort lending and the Overend & Gurney crisis of 1866,” *The Economic History Review* 75 (2022), 579–600, DOI 10.1111/ehr.13113.",
+        "Marc Flandreau and Stefano Ugolini, “The Crisis of 1866,” in Nicholas Dimsdale and Anthony Hotson (eds.), *British Financial Crises since 1825* (Oxford University Press, 2014), pp. 76–93."
       ]
     },
     {
