@@ -352,9 +352,10 @@
       "bn_title": "যুক্তরাজ্যের স্বর্ণমান ব্যবস্থায় প্রত্যাবর্তন, ১৯২৫",
       "bn_historical_claim": "গোল্ড স্ট্যান্ডার্ড অ্যাক্ট ১৯২৫ স্বর্ণমান ব্যবস্থায় প্রত্যাবর্তনের পথ তৈরি করে এবং আইনের নির্ধারিত কাঠামোর অধীনে ব্যাংক অব ইংল্যান্ডের নোটের বিপরীতে স্বর্ণের বিনিময় ব্যবস্থাকে পুনঃপ্রতিষ্ঠা করে।",
       "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the Bank of England shall be bound to sell to any person who makes a demand in that behalf ... gold bullion at the price of three pounds, seventeen shillings and tenpence halfpenny per ounce troy",
+      "passage_locator": "Gold Standard Act 1925, section 1(2).",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/29/pdfs/ukpga_19250029_en.pdf"
     },
     {
       "source_id": "great-depression-1929-33",
@@ -427,9 +428,10 @@
       "verification_status": "Primary-source verified",
       "evidence_grade": "A",
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the whole of the existing capital stock of the Bank ... shall, by virtue of this section, be transferred ... to such person as the Treasury may by order nominate, to be held by that person on behalf of the Treasury",
+      "passage_locator": "Bank of England Act 1946, section 1(1)(a).",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/contents"
     },
     {
       "source_id": "nixon-gold-window-1971",
