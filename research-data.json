@@ -1117,9 +1117,9 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage-level record established",
+      "verification_status": "Passage identified — critical-edition locator corroborated; direct edition lock pending",
       "last_verified": "2026-09-22",
-      "notes": "Critical Latin baseline fixed to CSEL 32.2. Cite chapter/section plus CSEL page.",
+      "notes": "CSEL 32.2 and De Tobia 9.33, p. 536 are bibliographically identified, and the passage is corroborated in scholarly citation. Retain B until the critical-edition witness itself is directly checked.",
       "web_sources": [
         "https://www.biblindex.org/en/work-editions/de-tobia/corpus-scriptorum-ecclesiasticorum-latinorum-32-2",
         "https://www.deutsche-digitale-bibliothek.de/item/5K2FFSKRCE3ZQWUO3S4ZPYCGTL2BG4V3"
@@ -1160,8 +1160,8 @@
       "publication_status_7_5": "A-grade — retained; no downgrade in 7.5 ancient/late-antique audit",
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
-      "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "evidence_grade": "B",
+      "publication_status": "B-grade — passage identified and edition/page cited; direct critical-edition lock remains open.",
       "bn_title": "অ্যামব্রোস, De Tobia — খ্রিস্টীয় সুদ-নিন্দা",
       "bn_historical_claim": "অ্যামব্রোস বাইবেলীয় ও সামাজিক যুক্তি ব্যবহার করে সুদের বিরুদ্ধে একটি সুসংবদ্ধ নৈতিক সমালোচনা গড়ে তোলেন।",
       "bn_context": "চতুর্থ শতকের শেষভাগের খ্রিস্টীয় লেখকেরা সুদখোর ঋণকে লোভ, শোষণ ও দরিদ্রের প্রতি অবহেলার সঙ্গে যুক্ত করেছেন।",
@@ -1667,7 +1667,7 @@
       ],
       "verification_status": "Passage-level record established",
       "last_verified": "2026-09-22",
-      "notes": "The supplied description said 30 vols.; the edited Dar al-Kutub al-ʿIlmiyyah printing identified by the named editor is documented as 31 volumes. Do not transfer page numbers from the Dar al-Maʿrifa printing.",
+      "notes": "The 2001 Beirut printing is identified as 31 volumes and a vol. 12, pp. 110–111 locator is recorded, but the archive lacks a stable passage source URL/direct edition witness in this record. Do not promote to A until the exact printed passage is independently locked.",
       "web_sources": [
         "https://aljam3.com/ar/34167/64652/1",
         "https://jisarchive.cis-ca.org/_media/pdf/2012/2/A_imiaaoealsefhka.pdf"
@@ -1709,8 +1709,8 @@
       "publication_status_7_6": "A-grade — retained; exact edition/page lock already established.",
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "A",
-      "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "evidence_grade": "B",
+      "publication_status": "B-grade — strong primary doctrinal source; exact 2001 edition passage lock remains open.",
       "bn_title": "হানাফি ফিকহ — আল-সারাখসি ও রিবা",
       "bn_historical_claim": "হানাফি মতবাদ হাদিস, কিয়াস ও আইনগত শ্রেণিবিন্যাসের মাধ্যমে বিনিময় ও ঋণে রিবার বিস্তারিত নিয়ম গড়ে তোলে।",
       "bn_context": "পরবর্তী হানাফি manual-গুলো আগের juristic reasoning-কে পদ্ধতিগতভাবে সাজায়।",
@@ -3529,7 +3529,16 @@
       "bn_interpretation": "contractual liberty ও economic analysis-এর দিকে স্পষ্ট পরিবর্তনের গুরুত্বপূর্ণ evidence।",
       "bn_notes": "1787 first edition, T. Payne and Son, 206 pages-এর baseline বজায় রাখুন; first-edition page-ই publication locator।",
       "bn_verification_status": "A-grade — first-edition bibliographic record and first-edition page lock verified",
-      "book": "book-1"
+      "book": "book-1",
+      "primary_passage": "that no man of ripe years and of sound mind, acting freely, and with his eyes open, ought to be hindered",
+      "passage_locator": "Defence of Usury, Letter I, Introduction, first edition (London: T. Payne and Son, 1787), p. 1.",
+      "passage_status": "Passage locked — first-edition page and Letter I identified",
+      "passage_source_url": "https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1",
+      "source_identity": "Jeremy Bentham, Defence of Usury, Letter I, Introduction; first edition, London: T. Payne and Son, 1787.",
+      "publisher": "T. Payne and Son",
+      "publication_year": 1787,
+      "what_passage_establishes": "Bentham states the central liberty-of-contract proposition with which Letter I begins.",
+      "evidence_limits": "The cited passage establishes Bentham's stated position in Letter I; it does not by itself establish the legal status of usury in 1787."
     },
     {
       "source_id": "adam-smith-wealth-nations-i9",
@@ -3580,7 +3589,16 @@
       "bn_interpretation": "classical political economy-তে interest ও credit-market reasoning-এর গুরুত্বপূর্ণ formulation।",
       "bn_notes": "Glasgow Edition-এর Book I, Chapter IX এবং p.105 baseline বজায় রাখুন।",
       "bn_verification_status": "A-grade — named scholarly edition and page lock verified",
-      "book": "book-1"
+      "book": "book-1",
+      "primary_passage": "The rise and fall in the profits of stock depend upon the same causes with the rise and fall in the wages of labour",
+      "passage_locator": "Glasgow Edition, vol. 2, Book I, Chapter IX, “Of the Profits of Stock,” p. 105.",
+      "passage_status": "Passage locked — named Glasgow edition chapter opening/page identified",
+      "passage_source_url": "https://www.adamsmithworks.org/documents/wn-reading-guide-book-i-chapter-ix",
+      "source_identity": "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations, ed. R. H. Campbell and A. S. Skinner, Glasgow Edition, vol. 2, Book I, Chapter IX.",
+      "publisher": "Clarendon Press",
+      "publication_year": 1976,
+      "what_passage_establishes": "The chapter opening states Smith's general proposition concerning the causes of movements in profits of stock.",
+      "evidence_limits": "The passage establishes Smith's argument in Book I, Chapter IX; it does not by itself establish a modern empirical law of interest or profit."
     },
     {
       "source_id": "bentham-defence-usury-i",
@@ -3615,7 +3633,7 @@
       "edition": "Jeremy Bentham, Defence of Usury (London: T. Payne and Son, 1787), first edition.",
       "page": "1 (Letter I begins)",
       "last_verified": "2026-09-23",
-      "notes": "Aligned to the first-edition lock established for the main Bentham record; Letter I begins on p. 1.",
+      "notes": "This remains a separate Letter I record from bentham-defence-usury-1787. The first-edition bibliographic lock is shared, but this record does not independently carry the exact primary passage/status fields required for A.",
       "evidence_grade_7_3": "A",
       "publication_status_7_3": "A-grade — frozen for publication",
       "evidence_grade_7_5": "A",
@@ -3625,8 +3643,8 @@
       "evidence_grade_basis_8_0": "Duplicate representation of the same first-edition Letter I passage as bentham-defence-usury-1787; retained as a traceability alias rather than counted as a separate A-grade source.",
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
-      "evidence_grade": "A",
-      "publication_status": "edition/page or equivalent authoritative locator locked",
+      "evidence_grade": "B",
+      "publication_status": "B-grade — duplicate/secondary record retained separately; primary passage lock not independently recorded in this record.",
       "bibliography_entry": "Bentham, Jeremy. Defence of Usury. Letter I. London: T. Payne and Son, 1787. First edition. https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1.",
       "original_text": "no man of ripe years and of sound mind, acting freely, and with his eyes open...",
       "translation": "Bentham's Letter I argues that voluntary borrowers and lenders should generally be free to make their own money bargains.",
@@ -3687,7 +3705,16 @@
       "bn_interpretation": "interest, wages ও profits-এর classical political economy সম্পর্ক অনুসরণে গুরুত্বপূর্ণ।",
       "bn_notes": "প্রথম edition-এর duplicate Chapter V—V* ‘On Profits’—p.116 locator বজায় রাখুন; পরবর্তী edition-এর numbering স্থানান্তর করবেন না।",
       "bn_verification_status": "A-grade — first-edition chapter numbering and page lock verified",
-      "book": "book-1"
+      "book": "book-1",
+      "primary_passage": "The profits of stock in different employments, having been shewn to bear a proportion to each other",
+      "passage_locator": "On the Principles of Political Economy and Taxation, first edition (London: John Murray, 1817), Chapter V* / “On Profits,” p. 116.",
+      "passage_status": "Passage locked — first-edition chapter and page identified",
+      "passage_source_url": "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm",
+      "source_identity": "David Ricardo, On the Principles of Political Economy and Taxation, first edition, Chapter V* (“On Profits”), London: John Murray, 1817.",
+      "publisher": "John Murray",
+      "publication_year": 1817,
+      "what_passage_establishes": "The chapter opens Ricardo's discussion of profits and their relation to variations in the rate of interest.",
+      "evidence_limits": "This is a theoretical economic argument, not positive law or evidence that a particular legal interest rate prevailed."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -4086,7 +4113,16 @@
       "bn_interpretation": "এটি postwar international monetary order-এর primary treaty/institutional evidence।",
       "bn_notes": "1944 Final Act-কে IMF/IBRD Articles-এর official baseline রাখুন; 1945 domestic implementing Acts-এর সঙ্গে গুলিয়ে ফেলবেন না।",
       "bn_verification_status": "A-grade — primary Final Act and government-print edition/page lock verified",
-      "book": "book-1"
+      "book": "book-1",
+      "primary_passage": "Articles of Agreement of the International Monetary Fund, which are attached hereto as Annex A.",
+      "passage_locator": "Final Act of the United Nations Monetary and Financial Conference, Bretton Woods, 22 July 1944, Annex A; government-print reproduction, Annex A beginning p. 19.",
+      "passage_status": "Passage locked — Final Act/Annex A and government-print page identified",
+      "passage_source_url": "https://paperspast.natlib.govt.nz/parliamentary/AJHR1944-I.2.1.2.7",
+      "source_identity": "United Nations Monetary and Financial Conference, Final Act and Related Documents, Bretton Woods, 1–22 July 1944; Annex A, Articles of Agreement of the International Monetary Fund.",
+      "publisher": "U.S. Government Printing Office / contemporary government reproductions",
+      "publication_year": 1944,
+      "what_passage_establishes": "The Final Act identifies the IMF Articles of Agreement as Annex A and thereby anchors the institutional agreement in the conference's primary documentary record.",
+      "evidence_limits": "The cited passage establishes the documentary placement and existence of the IMF Articles in Annex A; it does not by itself establish every later institutional development."
     },
     {
       "source_id": "bretton-woods-act-1945",
@@ -4389,7 +4425,17 @@
       "bn_interpretation": "একটি প্রধান অংশগ্রহণকারী রাষ্ট্র কীভাবে international monetary agreements-কে domestic law-এ রূপ দিল তা অনুসরণে উপযোগী।",
       "bn_notes": "9 & 10 Geo. 6 c.19, 20 Dec. 1945 এবং official legislation.gov.uk scan-এর printed pages বজায় রাখুন।",
       "bn_verification_status": "A-grade — official legislation.gov.uk scan and exact chapter/date/page lock verified",
-      "book": "book-1"
+      "book": "book-1",
+      "edition": "Bretton Woods Agreements Act 1945, 9 & 10 Geo. 6 c. 19, Chapter 19, official legislation.gov.uk scan.",
+      "publisher": "UK Parliament / The National Archives",
+      "publication_year": 1945,
+      "primary_passage": "An Act to enable effect to be given to certain international agreements for the establishment and operation of an International Monetary Fund and an International Bank for Reconstruction and Development",
+      "passage_locator": "Bretton Woods Agreements Act 1945, 9 & 10 Geo. 6 c. 19, Chapter 19, printed p. I; 20 December 1945.",
+      "passage_status": "Passage locked — official statutory scan and printed page I",
+      "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo6/9-10/19/pdfs/ukpga_19450019_en.pdf",
+      "source_identity": "Bretton Woods Agreements Act 1945, 9 & 10 Geo. 6 c. 19, Chapter 19; United Kingdom statute enacted 20 December 1945.",
+      "what_passage_establishes": "The Act's title and opening provisions establish its purpose of giving domestic effect to the IMF and IBRD agreements.",
+      "evidence_limits": "The opening page establishes the statute's purpose and documentary identity; later sections must be cited separately for specific operative powers or obligations."
     }
   ],
   "audit_5_4": {
