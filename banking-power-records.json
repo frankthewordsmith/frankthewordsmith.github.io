@@ -7,36 +7,36 @@
       "title": "Amsterdam Wisselbank, 1609",
       "date_label": "1609",
       "historical_claim": "The Amsterdam Wisselbank institutionalized reliable payment settlement and monetary exchange in a multi-currency commercial environment before modern central banking.",
-      "verification_status": "Primary-source / archival record located",
+      "verification_status": "Primary document identified; passage extraction pending",
       "evidence_grade": "B",
-      "source_url": "https://www.amsterdam.nl/stadsarchief/nieuws/wisselbank/",
+      "source_url": "https://www.dbnl.org/tekst/bont014rege01_01/bont014rege01_01_0012.php",
       "bn_title": "আমস্টারডাম উইসেলব্যাংক, ১৬০৯",
       "bn_historical_claim": "১৬০৯ সালে প্রতিষ্ঠিত আমস্টারডাম উইসেলব্যাংক বহু-মুদ্রাভিত্তিক বাণিজ্যিক পরিবেশে নির্ভরযোগ্য পেমেন্ট সেটেলমেন্ট ও মুদ্রা বিনিময়কে প্রাতিষ্ঠানিক রূপ দেয়।",
-      "notes": "The Amsterdam City Archives states that the Wisselbank archive contains 636 ledgers dating from 1609–1820 and is being restored and digitized. The archive confirms the 1609 institutional foundation, but the founding ordinance itself is not yet locked here; retain Grade B."
+      "notes": "The 1609 founding ordinance (willekeur) is specifically identified as dated 31 January 1609. Bontemantel's source notes locate the ordinance in Noordkerk's Handvesten, p. 673, while Amsterdam City Archives confirms the Wisselbank's 1609 foundation. The original ordinance text still needs direct archival/page extraction before Grade A."
     },
     {
       "source_id": "stockholms-banco-1656",
       "title": "Stockholms Banco, 1656",
       "date_label": "1656",
       "historical_claim": "Stockholms Banco provides an early documented case connecting banknote issuance, confidence, redemption pressure and bank failure.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary charter identified; passage extraction pending",
       "evidence_grade": "B",
-      "source_url": "https://archive.riksbank.se/Documents/Rapporter/POV/2015/2015_1/rap_pov_150320_eng.pdf",
+      "source_url": "https://www.riksbank.se/globalassets/media/riksbanken-350-ar/tidslinjen/stockholm-banco/24-45-stockholms-banco_eng.pdf",
       "bn_title": "স্টকহোমস ব্যাংকো, ১৬৫৬",
       "bn_historical_claim": "স্টকহোমস ব্যাংকোর ইতিহাস ব্যাংকনোট ইস্যু, জনবিশ্বাস, নোট ভাঙানোর চাপ ও ব্যাংক-ব্যর্থতার প্রাথমিক সংযোগ দেখায়।",
-      "notes": "Official Riksbank historical research identifies Johan Palmstruch's 1656 royal privilege and the bank's deposit-bank function. The underlying 1656 privilege should be extracted from the archive before Grade A."
+      "notes": "The official Riksbank historical publication identifies Karl X Gustav's 30 November 1656 charters for an exchange bank and loan bank and states that the document detailed the company's authorized banking terms. The underlying charter text has not yet been directly extracted; retain Grade B."
     },
     {
       "source_id": "riksbank-1668",
       "title": "Sveriges Riksbank, 1668",
       "date_label": "1668",
       "historical_claim": "Riksens Ständers Bank was established in 1668 from the remains of Stockholms Banco and became the institution now known as Sveriges Riksbank.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Founding instrument identified; passage extraction pending",
       "evidence_grade": "B",
-      "source_url": "https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1600-1699/sveriges-riksbank-is-founded/",
+      "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
       "bn_title": "স্ভেরিয়েস রিক্সব্যাংক, ১৬৬৮",
       "bn_historical_claim": "১৬৬৮ সালে স্টকহোমস ব্যাংকোর ধ্বংসাবশেষ থেকে রিক্সেনস স্ট্যান্ডার্স ব্যাংক প্রতিষ্ঠিত হয়, যা পরবর্তীতে স্ভেরিয়েস রিক্সব্যাংক নামে পরিচিত হয়।",
-      "notes": "Official Riksbank history confirms the 1668 founding of Riksens Ständers Bank from the remains of Stockholms Banco. The founding instrument/passage remains to be locked before Grade A."
+      "notes": "The Swedish Riksdag record reproduces the substance of the 17 September 1668 royal authorization transferring the exchange and loan bank to the Estates, including the wording that the bank was 'upplåta och överdraga' to the Estates for its establishment, organization and administration. This is a later official record of the instrument; the original 1668 authorization should still be located before Grade A."
     },
     {
       "source_id": "boe-1694",
