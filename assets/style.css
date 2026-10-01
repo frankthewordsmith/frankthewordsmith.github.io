@@ -14,3 +14,6 @@ html[lang="bn"] body{line-height:1.78}
 .quote{margin:0;padding:24px 28px;border-left:4px solid var(--accent);background:var(--card);border:1px solid var(--line);border-left-width:4px;border-radius:12px;font-size:1.12rem;line-height:1.7;color:var(--ink)}
 
 .research-controls{display:grid;grid-template-columns:minmax(0,1fr) 190px;gap:12px;margin-top:18px}.research-controls .search{margin-top:0}.research-trail{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:20px}.research-trail div{padding:14px 16px;border:1px solid var(--line);border-radius:10px;background:var(--paper)}.research-trail strong,.research-trail span{display:block}.research-trail span{margin-top:5px;color:var(--muted);font-size:.92rem}.research-count{margin:0 0 14px}@media(max-width:800px){.research-controls,.research-trail{grid-template-columns:1fr}}
+
+/* Six-map research index */
+.map-index{margin-top:1.25rem}.map-filters{display:flex;flex-wrap:wrap;gap:.55rem}.map-filters .btn{cursor:pointer}.map-filters .btn.active{font-weight:700;outline:2px solid currentColor;outline-offset:2px}
