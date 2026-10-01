@@ -201,9 +201,10 @@
       "bn_title": "ব্যাংক চার্টার আইন, ১৮৪৪",
       "bn_historical_claim": "১৮৪৪ সালের ব্যাংক চার্টার আইন ব্যাংক অব ইংল্যান্ডের নোট ইস্যু ব্যবস্থাকে আনুষ্ঠানিক রূপ দেয় এবং ইংল্যান্ড ও ওয়েলসে অন্যান্য ব্যাংকের নতুন নোট ইস্যুর ওপর বিধিনিষেধ আরোপ করে।",
       "notes": "The enacted Bank Charter Act 1844 is available as the original legislation; the research claim is tied to the Act's provisions on the Issue Department and note issue.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "The issue of promissory notes of the governor and company of the Bank of England, payable on demand, shall be separated and thenceforth kept wholly distinct from the general banking business",
+      "passage_locator": "Bank Charter Act 1844, section 1, enacted 19 July 1844.",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.legislation.gov.uk/ukpga/Vict/7-8/32"
     },
     {
       "source_id": "banque-france-note-monopoly-1848",
@@ -325,9 +326,10 @@
       "bn_title": "ফেডারেল রিজার্ভ আইন, ১৯১৩",
       "bn_historical_claim": "১৯১৩ সালের ডিসেম্বরে ফেডারেল রিজার্ভ আইন কার্যকর হয় এবং বহু বছরের মার্কিন ব্যাংকিং ও মুদ্রানীতি সংস্কার-বিতর্কের পর ফেডারেল রিজার্ভ ব্যবস্থার কাঠামো প্রতিষ্ঠিত হয়।",
       "notes": "The enacted Federal Reserve Act of 23 December 1913 is preserved in full text; the record is now tied to passage-driven primary-source evidence.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "To provide for the establishment of Federal reserve banks, to furnish an elastic currency, to afford means of rediscounting commercial paper, to establish a more effective supervision of banking in the United States, and for other purposes.",
+      "passage_locator": "Federal Reserve Act, approved 23 December 1913, Chapter 6, 38 Stat. 251; title/preamble.",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.govinfo.gov/content/pkg/COMPS-270/pdf/COMPS-270.pdf"
     },
     {
       "source_id": "wwi-central-bank-war-finance-1914",
