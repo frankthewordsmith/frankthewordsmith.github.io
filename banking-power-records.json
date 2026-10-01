@@ -82,7 +82,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.bankofengland.co.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Original Royal Charter, Archive M6/48; printed transcript in Bank of England Archive 10A287/4, pp.5–20 (transcript taken from a 1758 copy); publisher/authority: Bank of England Archive; year: 1694.",
+      "edition": "Original Royal Charter, Archive M6/48; printed transcript in Bank of England Archive 10A287/4, pp.5–20 (transcript taken from a 1758 copy)",
+      "publisher": "Bank of England Archive",
+      "publication_year": 1694
     },
     {
       "source_id": "bank-scotland-1695",
@@ -264,7 +267,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.legislation.gov.uk; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Bank Charter Act 1844, 7 & 8 Vict. c.32, original as enacted; publisher/authority: UK Parliament / legislation.gov.uk; year: 1844.",
+      "edition": "Bank Charter Act 1844, 7 & 8 Vict. c.32, original as enacted",
+      "publisher": "UK Parliament / legislation.gov.uk",
+      "publication_year": 1844
     },
     {
       "source_id": "banque-france-note-monopoly-1848",
@@ -528,7 +534,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.imf.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Articles of Agreement of the International Monetary Fund, adopted at the United Nations Monetary and Financial Conference, Bretton Woods, 22 July 1944; source text reproduced in IMF Final Act / IMF eLibrary; publisher/authority: International Monetary Fund; year: 1944.",
+      "edition": "Articles of Agreement of the International Monetary Fund, adopted at the United Nations Monetary and Financial Conference, Bretton Woods, 22 July 1944; source text reproduced in IMF Final Act / IMF eLibrary",
+      "publisher": "International Monetary Fund",
+      "publication_year": 1944
     },
     {
       "source_id": "banque-france-nationalized-1945",
