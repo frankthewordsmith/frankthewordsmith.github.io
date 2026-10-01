@@ -71,12 +71,12 @@
       "title": "South Sea Bubble, 1720",
       "date_label": "1720",
       "historical_claim": "The South Sea Bubble linked government debt, corporate privilege and speculative securities markets in a major eighteenth-century financial crisis.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
-      "evidence_grade": "B",
-      "source_url": "https://www.gutenberg.org/cache/epub/53005/pg53005-images.html",
+      "verification_status": "Primary contemporary record verified — South Sea Company scheme, 1720",
+      "evidence_grade": "A",
+      "source_url": "https://catalog.folger.edu/record/741221",
       "bn_title": "সাউথ সি বাবল, ১৭২০",
       "bn_historical_claim": "১৭২০ সালের সাউথ সি বাবল সরকারি ঋণ, কর্পোরেট সুবিধা ও সিকিউরিটিজ জল্পনাকে একটি বড় আর্থিক সংকটে যুক্ত করেছিল।",
-      "notes": "Contemporary 1720 South Sea Company proposal text is reproduced from the historical scheme submitted to Parliament. A digitized original or parliamentary record should be locked before Grade A."
+      "notes": "Folger's catalogue identifies the contemporary 1720 printed 'Schemes of the South-Sea Company and the Bank of England' proposed to Parliament for reducing the national debt, reproduced from the British Library. This directly documents the South Sea Company's debt-conversion scheme. The broader market-crash claim should be kept separately supported by contemporary parliamentary/investment records."
     },
     {
       "source_id": "first-bank-us-1791",
@@ -119,24 +119,24 @@
       "title": "Rothschild and the Waterloo commission, 1814–1815",
       "date_label": "1814–1815",
       "historical_claim": "The Rothschild Archive documents Nathan Rothschild's commission from the British government to obtain and supply gold for Wellington's forces during the closing years of the Napoleonic Wars.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary archival evidence located; passage-level verification pending",
       "evidence_grade": "B",
-      "source_url": "https://www.rothschildarchive.org/materials/ar_2007_2008_complete_with_cover.pdf",
+      "source_url": "https://www.rothschildarchive.org/exhibitions/timeline/",
       "bn_title": "রথসচাইল্ড ও ওয়াটারলু কমিশন, ১৮১৪–১৮১৫",
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভের নথি অনুযায়ী, নেপোলিয়নিক যুদ্ধের শেষ পর্যায়ে ওয়েলিংটনের বাহিনীর জন্য সোনা সংগ্রহ ও সরবরাহের দায়িত্ব ব্রিটিশ সরকার নাথান রথসচাইল্ডকে দেয়।",
-      "notes": "Rothschild Archive material identifies a 27 July 1815 letter from John Roworth to Nathan Rothschild concerning Waterloo-related success, while the Archive's business history documents the government gold-supply contract. Direct contractual correspondence should be extracted before Grade A."
+      "notes": "The Rothschild Archive documents the 1815 Waterloo commission and preserves the contemporary 'Account of Bullion Specie' associated with John Charles Herries, Commissary-in-Chief. The Archive also distinguishes the documented government gold-supply commission from the later legend about early news and extraordinary profits. Retain Grade B until the underlying account/commission correspondence is extracted."
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
       "title": "Rothschild Prussian Loan, 1818",
       "date_label": "1818",
       "historical_claim": "The Rothschild Archive identifies Nathan Rothschild's 1818 Prussian loan as an important development in the nineteenth-century international capital market and sovereign borrowing.",
-      "verification_status": "Primary-source / archival record located",
-      "evidence_grade": "B",
+      "verification_status": "Primary archival document verified — 1818 Prussian Government 5% Loan",
+      "evidence_grade": "A",
       "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/march_2018_subscription_ledger_for_the_prussian_government_loan_1818",
       "bn_title": "প্রুশিয়ান ঋণ, ১৮১৮",
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভ ১৮১৮ সালের নাথান রথসচাইল্ডের প্রুশিয়ান ঋণকে উনিশ শতকের আন্তর্জাতিক মূলধন বাজার ও সরকারি ঋণগ্রহণের বিকাশের একটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে চিহ্নিত করে।",
-      "notes": "The Rothschild Archive preserves the 1818 prospectus and subscription ledger (RAL VI/10/5), including the loan terms and subscriber record. A digitized passage/image must still be locked before Grade A."
+      "notes": "The Rothschild Archive identifies and reproduces images of the 1818 loan prospectus and subscription ledger, archive reference RAL VI/10/5. The archive records the £5 million 5% loan, sterling denomination, interest payable in London and other financial centres, and sinking-fund arrangement. This directly documents the sovereign loan transaction; the database should cite the prospectus/ledger rather than a later narrative."
     },
     {
       "source_id": "bank-of-england-crisis-1825",
