@@ -13,9 +13,10 @@
       "bn_title": "আমস্টারডাম উইসেলব্যাংক, ১৬০৯",
       "bn_historical_claim": "১৬০৯ সালে প্রতিষ্ঠিত আমস্টারডাম উইসেলব্যাংক বহু-মুদ্রাভিত্তিক বাণিজ্যিক পরিবেশে নির্ভরযোগ্য পেমেন্ট সেটেলমেন্ট ও মুদ্রা বিনিময়কে প্রাতিষ্ঠানিক রূপ দেয়।",
       "notes": "Hans Bontemantel's historical record explicitly identifies the Wisselbank's founding willekeur dated 31 January 1609 and cites its location in Noordkerk's Handvesten, p. 673. Amsterdam City Archives independently confirms the bank was established in 1609. This supports the founding claim; the database should distinguish the cited ordinance from the later descriptive account.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "om alle steygering ende confusie in 't stuck van de munte te weeren, ende den luyden, die eenige specien in de koopmanschappe van doen hebben, te gerieven",
+      "passage_locator": "Amsterdamse Wisselbank founding ordinance of 31 January 1609, reproduced in W. C. Mees, Proeve eener geschiedenis van het bankwezen in Nederland gedurende den tijd der Republiek (Rotterdam, 1838), p. 283; Hans Bontemantel independently identifies the 31 January 1609 willekeur and points to Noordkerk, Handvesten, p. 673.",
+      "passage_status": "Passage locked — 1609 founding ordinance reproduced in contemporary historical edition",
+      "passage_source_url": "https://books.google.com/books?id=5w5VAAAAcAAJ"
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -160,9 +161,10 @@
       "bn_title": "রথসচাইল্ড ও ওয়াটারলু কমিশন, ১৮১৪–১৮১৫",
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভের নথি অনুযায়ী, নেপোলিয়নিক যুদ্ধের শেষ পর্যায়ে ওয়েলিংটনের বাহিনীর জন্য সোনা সংগ্রহ ও সরবরাহের দায়িত্ব ব্রিটিশ সরকার নাথান রথসচাইল্ডকে দেয়।",
       "notes": "The Rothschild Archive identifies the British-government contract under which Nathan Mayer Rothschild supplied Wellington's troops with gold coin in 1814–1815 and displays a contemporary 1815 'Account of Bullion Specie' inscribed to J. C. Herries, Commissary-in-Chief. The Archive's gold-history page further dates the formal engagement to January 1814 and describes the instructions to Nathan to obtain gold for Wellington. The archive separately rejects the later legend that the Waterloo profit depended on advance knowledge of the victory. This record therefore supports the documented government gold-supply commission, not the later Waterloo-news legend.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "Mr Rothschild is to receive Money immediately for all Bullion delivered to him",
+      "passage_locator": "Memorandum signed by J. C. Herries, 14 April 1815, Herries Papers, British Library Add MS 57383, ff. 65–66.",
+      "passage_status": "Passage locked — contemporary Herries memorandum in the British Library archive",
+      "passage_source_url": "https://searcharchives.bl.uk/catalog/040-001999322"
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
