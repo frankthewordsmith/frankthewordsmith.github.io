@@ -3733,7 +3733,18 @@
       "bn_interpretation": "interest ceiling-এর বদলে monetary architecture ও banking regulation-এর বিকাশ বোঝাতে গুরুত্বপূর্ণ।",
       "bn_notes": "7 & 8 Vict. c.32 বজায় রাখুন; publication quotation-এর জন্য section-level original verification সম্পূর্ণ করুন।",
       "bn_verification_status": "GREEN — statute identified; original section-level verification required for publication quotation",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — original statute",
+        "locator": "Bank Charter Act 1844, 7 & 8 Vict. c. 32, §1",
+        "evidence": "Section 1 establishes a separate Issue Department for the Bank of England's note issue.",
+        "significance": "Direct primary statutory evidence for the statutory separation of note issue from the Bank's general banking business.",
+        "source_url": "https://www.legislation.gov.uk/ukpga/Vict/7-8/32",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against the original-as-enacted legislation.gov.uk text; current page also displays a revised version, so the publication record should cite the original enactment when quoting."
+      },
+      "what_passage_establishes": "Section 1 of the Bank Charter Act 1844 establishes a separate Issue Department for the Bank of England's demand-note issue.",
+      "evidence_limits": "The passage establishes the statutory separation of note issue; it does not by itself establish every later interpretation of the Act's monetary effects."
     },
     {
       "source_id": "usury-laws-repeal-1854",
@@ -3779,7 +3790,18 @@
       "bn_interpretation": "নির্দিষ্ট legal maximum থেকে অধিক contractual freedom-এর দিকে পরিবর্তনের গুরুত্বপূর্ণ evidence।",
       "bn_notes": "17 & 18 Vict. c.90 primary statute হিসেবে রাখুন এবং project-standard page lock সম্পূর্ণ করুন।",
       "bn_verification_status": "GREEN — primary statute text verified",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — original statute",
+        "locator": "Usury Laws Repeal Act 1854, 17 & 18 Vict. c. 90, §§I–III",
+        "evidence": "Section I repeals the existing laws against usury, while §§II–III preserve specified prior rights, remedies, liabilities and interest claims.",
+        "significance": "Direct primary statutory evidence for the repeal of the existing English usury laws and its transitional protections.",
+        "source_url": "https://www.legislation.gov.uk/ukpga/Vict/17-18/90/pdfs/ukpga_18540090_en.pdf",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against the original statutory PDF text returned by legislation.gov.uk."
+      },
+      "what_passage_establishes": "Section I repeals the existing laws against usury, while sections II and III preserve specified rights, remedies, liabilities and interest claims relating to prior transactions.",
+      "evidence_limits": "The Act establishes legal repeal and transitional treatment; it does not by itself establish the economic effects of repeal or prove that all interest restrictions disappeared in every context."
     },
     {
       "source_id": "js-mill-principles-interest",
@@ -4087,12 +4109,13 @@
         "turn1search12"
       ],
       "passage_record": {
-        "status": "Statutory primary-source target",
-        "locator": "Bretton Woods Agreements Act, 59 Stat. 512 (1945)",
-        "evidence": "Official State Department documentation records the Act's authorization for U.S. membership.",
-        "significance": "Domestic implementation of the Bretton Woods institutions.",
-        "source_url": "https://history.state.gov/historicaldocuments/frus1946v01/d716",
-        "checked": "2026-09-23"
+        "status": "Passage verified — U.S. statute",
+        "locator": "Bretton Woods Agreements Act, 59 Stat. 512, §§1–2 (31 July 1945)",
+        "evidence": "Section 1 gives the short title; section 2 authorizes U.S. participation in the IMF and IBRD under the Articles of Agreement set out in the 1944 Final Act.",
+        "significance": "Direct primary statutory evidence for U.S. implementation of participation in the IMF and IBRD.",
+        "source_url": "https://www.govinfo.gov/content/pkg/STATUTE-59/pdf/STATUTE-59-Pg512.pdf",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against the U.S. Government Publishing Office scan of 59 Stat. 512."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -4120,7 +4143,9 @@
       "bn_interpretation": "international treaty text ও domestic implementation আলাদা রাখার জন্য গুরুত্বপূর্ণ।",
       "bn_notes": "U.S. implementing statute-কে 1944 Final Act ও UK 1945 Act থেকে আলাদা রাখুন; printed-page lock pending।",
       "bn_verification_status": "GREEN/YELLOW — official historical locator verified; section quotation pending locked statute text",
-      "book": "book-1"
+      "book": "book-1",
+      "what_passage_establishes": "Sections 1–2 establish the Act's short title and authorize U.S. participation in the IMF and IBRD under the 1944 Articles of Agreement.",
+      "evidence_limits": "The statute establishes U.S. implementation authority; it is distinct from the 1944 Bretton Woods Final Act and from the IMF Articles' later entry into force."
     },
     {
       "source_id": "nixon-1971",
@@ -4203,12 +4228,13 @@
         "turn0search0"
       ],
       "passage_record": {
-        "status": "International institutional primary-source target",
-        "locator": "IMF Second Amendment, Article IV; Jamaica agreement, January 1976",
-        "evidence": "The reform legalized a broader range of exchange arrangements and established Fund surveillance obligations.",
-        "significance": "Legal transition toward the post-Bretton-Woods exchange-rate framework.",
-        "source_url": "https://www.elibrary.imf.org/display/book/9781451931068/ch037.xml",
-        "checked": "2026-09-23"
+        "status": "Passage verified — institutional/legal chronology",
+        "locator": "IMF Second Amendment: Board of Governors Resolution No. 31-4 (30 April 1976); Second Amendment effective 1 April 1978; Jamaica agreement, January 1976",
+        "evidence": "IMF records the 1976 approval of the Proposed Second Amendment and its later entry into force on 1 April 1978, while the January 1976 Jamaica meeting recorded the agreed monetary-reform framework.",
+        "significance": "Direct institutional evidence distinguishing the 1976 reform agreement/approval stage from the 1978 legal effectiveness of the Second Amendment.",
+        "source_url": "https://www.elibrary.imf.org/display/book/9781451940220/ch024.xml",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against IMF historical chronology and Articles of Agreement material; the archive deliberately keeps the 1976 agreement and 1978 legal entry into force separate."
       },
       "last_verified": "2026-09-23",
       "notes": "IMF records establish that the Proposed Second Amendment was approved April 30, 1976 and entered into force April 1, 1978. The timeline now treats those as separate documentary events. 8.1 conversion review: IMF Second Amendment / Article IV text remains a primary institutional instrument; retain B pending locked edition/page citation.",
@@ -4238,7 +4264,9 @@
       "bn_interpretation": "1976 political agreement ও 1978 legal entry into force আলাদা documentary events।",
       "bn_notes": "IMF records অনুযায়ী Proposed Second Amendment 30 April 1976 approved এবং 1 April 1978 effective; timeline-এ দুটো আলাদা রাখুন।",
       "bn_verification_status": "Primary institutional record verified — 1976 agreement distinguished from 1978 legal entry into force",
-      "book": "book-1"
+      "book": "book-1",
+      "what_passage_establishes": "The IMF record distinguishes the January 1976 Jamaica reform agreement, the April 1976 approval of the Proposed Second Amendment, and the Second Amendment's entry into force on 1 April 1978.",
+      "evidence_limits": "These records establish the institutional/legal chronology; they do not by themselves establish every subsequent market or geopolitical consequence attributed to the Jamaica reforms."
     },
     {
       "source_id": "dodd-frank-2010",
@@ -5985,6 +6013,24 @@
     "limitations": [
       "A true device-level visual pass in Chrome/Safari at multiple physical viewport sizes could not be performed through the available retrieval layer.",
       "The live site itself was not directly renderable through the web retrieval layer during this audit, so visual pixel-level checks, tap-target spacing, font rendering and browser-specific behavior remain unverified."
+    ]
+  },
+  "audit_10_13": {
+    "title": "Current 59-Record Passage-Lock Audit — targeted statutory and IMF normalization",
+    "date": "2026-10-02",
+    "scope": "Targeted records with authoritative primary/institutional locators confirmed during the current audit",
+    "records_updated": [
+      "bank-charter-act-1844",
+      "usury-laws-repeal-1854",
+      "bretton-woods-act-1945",
+      "jamaica-1976-imf"
+    ],
+    "method": "Authoritative current-source verification was used to normalize passage_record, passage scope, and evidence-limit fields without promoting evidence grades.",
+    "result": "Four records now carry explicit passage-level verification objects and publication-scope boundaries. No evidence grade was changed.",
+    "remaining_priority": [
+      "Carolingian Aachen/Nijmegen remains Grade D pending critical-edition passage isolation.",
+      "Calvin De Usuris Responsum remains Grade B pending primary-text edition lock.",
+      "The remaining legacy records without passage_record require source-by-source normalization rather than bulk inferred passage creation."
     ]
   }
 }
