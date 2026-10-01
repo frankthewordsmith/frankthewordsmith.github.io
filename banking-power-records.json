@@ -28,9 +28,10 @@
       "bn_title": "স্টকহোমস ব্যাংকো, ১৬৫৬",
       "bn_historical_claim": "স্টকহোমস ব্যাংকোর ইতিহাস ব্যাংকনোট ইস্যু, জনবিশ্বাস, নোট ভাঙানোর চাপ ও ব্যাংক-ব্যর্থতার প্রাথমিক সংযোগ দেখায়।",
       "notes": "The official Swedish Riksdag record states that on 30 November 1656 Johan Palmstruch received a 30-year privilege to establish loan banks in Stockholm and elsewhere, and records conditions concerning custody of the bank's cash/books and distribution of profits. This is an official historical record of the royal privilege; the original charter image is not separately locked.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "den 30 November 1656 meddelades åt Kommissarien i Kommerskollegium Johan Palmstruch privilegium att, under 30 års tid, för sig och arfvingar samt medparticipanter och deras arfvingar, ensam, med andras uteslutande, så väl i Stockholm som å andra orter inom riket inrätta lånebanker.",
+      "passage_locator": "Sveriges riksdag, Konstitutions-Utskottets Utlåtande N:o 5, historical overview; paragraph beginning “Sveriges Riksbank leder, som bekant, sitt ursprung…”.",
+      "passage_status": "Passage locked — official parliamentary historical record",
+      "passage_source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/"
     },
     {
       "source_id": "riksbank-1668",
@@ -141,9 +142,10 @@
       "bn_title": "ব্যাংক দ্য ফ্রঁসে রাষ্ট্রীয় প্রভাব বৃদ্ধি, ১৮০৬",
       "bn_historical_claim": "১৮০৫ সালের আর্থিক সংকটের পর ব্যাংক দ্য ফ্রঁসের শাসনব্যবস্থায় পরিবর্তন এনে রাষ্ট্রপ্রধান কর্তৃক গভর্নর ও দুই ডেপুটি গভর্নর নিয়োগের ব্যবস্থা করা হয়; এতে ব্যক্তিগত শেয়ার মালিকানা বজায় রেখেও রাষ্ট্রীয় প্রভাব বাড়ে।",
       "notes": "Yale's document archive hosts the Government of France Law of 22 April 1806 as a digitized statute. It directly supports the change to a Governor and two Deputy Governors appointed by the head of state, along with changes to capital and the bank privilege.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "La loi du 22 Avril 1806, qui ordonne l'institution d'un Gouverneur et de deux Sous-Gouverneurs de la Banque de France",
+      "passage_locator": "M. Crétet, Discours prononcé à l'Assemblée générale de la Régence de la Banque de France, 13 May 1806; discussion of the law of 22 April 1806.",
+      "passage_status": "Passage locked — contemporary official institutional record",
+      "passage_source_url": "https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Banque-de-France-1805-Compte-Rendu.pdf"
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -233,9 +235,10 @@
       "bn_title": "ওভারেন্ড গার্নি সংকট, ১৮৬৬",
       "bn_historical_claim": "১৮৬৬ সালে ওভারেন্ড গার্নির পতন একটি বড় আর্থিক আতঙ্ক সৃষ্টি করে এবং ব্যাংক অব ইংল্যান্ডের শেষ আশ্রয়ের ঋণদাতা হিসেবে ভূমিকা গঠনের নীতিগত বিতর্ককে প্রভাবিত করে।",
       "notes": "The 11 May 1866 Hansard debate records the Government's contemporary response to the monetary panic, including the Bank of England's extraordinary expansion of loans and discounts, the sharp fall in its reserves, and the Government's decision to authorize action beyond the statutory Issue Department limits if necessary. The Bank of England archive separately preserves the Court of Directors minutes for 11 April 1866–4 April 1867, explicitly noting the Overend and Gurney collapse (G4/89). This provides direct contemporary parliamentary evidence plus a surviving institutional archival record. The broader later interpretation of the episode as shaping the lender-of-last-resort role should remain identified as historical interpretation rather than a direct 1866 statement.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the Bank, moved by a just desire to sustain the commerce of the country, and to avert disaster, has extended its loans and discounts to-day to a sum of something more than £4,000,000.",
+      "passage_locator": "House of Commons, Hansard, 11 May 1866, vol. 183, cols. 840–842, “Suspension of the Bank Charter Act—Question”.",
+      "passage_status": "Passage locked — contemporary parliamentary record",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1866/may/11/suspension-of-the-bank-charter-act"
     },
     {
       "source_id": "panic-1873",
