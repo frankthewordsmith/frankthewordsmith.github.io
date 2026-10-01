@@ -96,11 +96,11 @@
       "source_url": "https://catalog.folger.edu/record/741221",
       "bn_title": "সাউথ সি বাবল, ১৭২০",
       "bn_historical_claim": "১৭২০ সালের সাউথ সি বাবল সরকারি ঋণ, কর্পোরেট সুবিধা ও সিকিউরিটিজ জল্পনাকে একটি বড় আর্থিক সংকটে যুক্ত করেছিল।",
-      "notes": "Folger's catalogue identifies the contemporary 1720 printed 'Schemes of the South-Sea Company and the Bank of England' proposed to Parliament for reducing the national debt, reproduced from the British Library. This directly documents the South Sea Company's debt-conversion scheme. The broader market-crash claim should be kept separately supported by contemporary parliamentary/investment records.",
+      "notes": "Passage/source alignment corrected. The quotation is from the 1720 printed scheme, not the separately catalogued 1721 Proceedings. Folger identifies the 1720 item as a reproduction of the original British Library copy. The quotation directly supports the debt-conversion proposal; it does not by itself establish the full speculative Bubble chronology.",
       "primary_passage": "if the Publick Debts and Annuities mention’d in the Annexed Estimate were taken into, and made Part of the Capital Stock of the said Company, it would greatly contribute to the ... Reducing the National Debts",
-      "passage_locator": "The Proceedings of the Directors of the South-Sea Company, 1721, printed account of the company's proposal to take in public debts; proposal beginning “The Corporation ... having under their Consideration”.",
+      "passage_locator": "The Schemes of the South-Sea Company and the Bank of England, as propos'd to the Parliament for the reducing of the national debts (London, printed for W. Castle, 1720), South Sea Company proposal.",
       "passage_status": "Passage locked — contemporary printed company proposal",
-      "passage_source_url": "https://18thcenturyreadingroom.wordpress.com/2007/08/14/item-of-the-day-proceedings-of-the-directors-of-the-south-sea-company-1721/"
+      "passage_source_url": "https://catalog.folger.edu/record/741221"
     },
     {
       "source_id": "first-bank-us-1791",
