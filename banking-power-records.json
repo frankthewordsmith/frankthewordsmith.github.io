@@ -543,9 +543,9 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Articles of Agreement of the International Monetary Fund, adopted at the United Nations Monetary and Financial Conference, Bretton Woods, 22 July 1944; source text reproduced in IMF Final Act / IMF eLibrary; publisher/authority: International Monetary Fund; year: 1944.",
-      "edition": "Articles of Agreement of the International Monetary Fund, adopted at the United Nations Monetary and Financial Conference, Bretton Woods, 22 July 1944; source text reproduced in IMF Final Act / IMF eLibrary",
-      "publisher": "International Monetary Fund",
+      "source_identity": "Articles of Agreement of the International Monetary Fund, adopted 22 July 1944 at Bretton Woods; original agreement distinguished from later amended editions; publisher/authority: International Monetary Fund / United Nations Monetary and Financial Conference; year: 1944.",
+      "edition": "Articles of Agreement of the International Monetary Fund, adopted 22 July 1944 at Bretton Woods; original agreement distinguished from later amended editions",
+      "publisher": "International Monetary Fund / United Nations Monetary and Financial Conference",
       "publication_year": 1944
     },
     {
@@ -666,7 +666,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.bis.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "International Convergence of Capital Measurement and Capital Standards, Basel Committee on Banking Supervision, July 1988 (Basel Capital Accord); publisher/authority: Bank for International Settlements / Basel Committee on Banking Supervision; year: 1988.",
+      "edition": "International Convergence of Capital Measurement and Capital Standards, Basel Committee on Banking Supervision, July 1988 (Basel Capital Accord)",
+      "publisher": "Bank for International Settlements / Basel Committee on Banking Supervision",
+      "publication_year": 1988
     },
     {
       "source_id": "asian-crisis-1997",
