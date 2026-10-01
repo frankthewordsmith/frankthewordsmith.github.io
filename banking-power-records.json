@@ -250,9 +250,10 @@
       "notes": "The 1873 Annual Report of the Comptroller of the Currency is the contemporary U.S. government record and contains a dedicated section, 'The Panic of 1873,' describing the September failures, banking disruption and spread of the panic. This direct primary report replaces the former secondary Federal Reserve History link.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
       "status": "Primary-source verified",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "The monetary crisis of 1873 may be said to have had its beginning in New York City on September 8",
+      "passage_locator": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, 28 November 1873, section “The Panic of 1873.”",
+      "passage_status": "Passage locked — contemporary government report",
+      "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext"
     },
     {
       "source_id": "bank-japan-1882",
@@ -312,9 +313,10 @@
       "bn_title": "জেকিল আইল্যান্ড বৈঠক, ১৯১০",
       "bn_historical_claim": "১৯১০ সালের নভেম্বরে ছয়জন আর্থিক ও রাজনৈতিক ব্যক্তি জেকিল আইল্যান্ডে ব্যাংকিং সংস্কারের একটি পরিকল্পনা তৈরির জন্য বৈঠক করেন; সেই পরিকল্পনা পরবর্তী ফেডারেল রিজার্ভ ব্যবস্থার ভিত্তি গঠনে ভূমিকা রাখে।",
       "notes": "Frank A. Vanderlip, a participant in the 1910 meeting, published a first-hand retrospective account in 1935 describing the secret expedition, participants and work at Jekyll Island. Grade A is retained for the existence of the participant recollection, with the limitation that it is retrospective rather than contemporaneous.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "our secret expedition to Jekyll Island",
+      "passage_locator": "Frank A. Vanderlip, Saturday Evening Post, 9 February 1935, p. 25; first-hand retrospective account of the 1910 meeting.",
+      "passage_status": "Passage locked — participant retrospective account",
+      "passage_source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/"
     },
     {
       "source_id": "federal-reserve-act-1913",
@@ -343,9 +345,10 @@
       "bn_title": "প্রথম বিশ্বযুদ্ধ ও কেন্দ্রীয় ব্যাংকের যুদ্ধ অর্থায়ন, ১৯১৪",
       "bn_historical_claim": "প্রথম বিশ্বযুদ্ধের শুরুতে কেন্দ্রীয় ব্যাংক ও সরকারি ঋণের সম্পর্ক আরও ঘনিষ্ঠ হয়; ব্যাংক অব ইংল্যান্ড ১৯১৪ সালের ওয়ার স্টকসহ বিভিন্ন কার্যক্রমের মাধ্যমে ব্রিটিশ যুদ্ধ প্রচেষ্টার অর্থায়নে সহায়তা করে।",
       "notes": "The 17 November 1914 Hansard record contains Lloyd George's contemporary explanation of the first 3½% War Loan, including its below-par issue, redemption terms and role in wartime finance. The Bank of England archive independently preserves the 1914 War Loan ledgers and identifies the loan as financing the First World War. Together these contemporary parliamentary and institutional records directly support the war-finance claim.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "The total amount of the loan will be £350,000,000 at 95 per cent.",
+      "passage_locator": "House of Commons, Hansard, 17 November 1914, Chancellor of Exchequer’s Statement; Lloyd George's statement on the wartime loan.",
+      "passage_status": "Passage locked — contemporary parliamentary record",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/0736c995-a08f-443b-ae3e-494420f9a4f1/ChancellorOfExchequerSStatement"
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -374,9 +377,10 @@
       "bn_title": "মহামন্দা, ১৯২৯–১৯৩৩",
       "bn_historical_claim": "১৯২৯–১৯৩৩ সালের মহামন্দা বৈশ্বিক অর্থনৈতিক ও আর্থিক সংকটে পরিণত হয় এবং ব্যাংকিং ও মুদ্রাব্যবস্থার গুরুতর দুর্বলতা প্রকাশ করে; এর পর বড় ধরনের প্রাতিষ্ঠানিক পরিবর্তন আসে।",
       "notes": "The contemporary 1933 Federal Reserve Board Annual Report records successive banking difficulties from 1930 through March 1933 and states that nearly 5,500 banks suspended operations between December 1929 and February 1933. The report provides direct contemporary evidence for the banking-crisis phase of the Great Depression.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "Between the end of December 1929 and the end of February 1933 nearly 5,500 banks, or more than one bank in every five, suspended operations",
+      "passage_locator": "Annual Report of the Federal Reserve Board, 1933, section “Developments Leading to the Banking Crisis,” opening discussion of banking failures.",
+      "passage_status": "Passage locked — contemporary central-bank report",
+      "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1933-2491/fulltext"
     },
     {
       "source_id": "bis-1930",
