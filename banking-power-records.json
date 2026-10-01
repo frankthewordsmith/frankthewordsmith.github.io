@@ -389,9 +389,9 @@
       "bn_title": "ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস, ১৯৩০",
       "bn_historical_claim": "২০ জানুয়ারি ১৯৩০-এর কনস্টিটুয়েন্ট চার্টার ব্যাংক ফর ইন্টারন্যাশনাল সেটেলমেন্টস প্রতিষ্ঠা করে এবং বেলজিয়াম, ফ্রান্স, জার্মানি, গ্রেট ব্রিটেন, ইতালি ও জাপানের কেন্দ্রীয় ব্যাংকগুলোর সঙ্গে একটি মার্কিন ব্যাংকিং গোষ্ঠীর প্রতিষ্ঠায় অংশগ্রহণ নথিবদ্ধ করে।",
       "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "Whereas the Powers signatory to the Hague Agreement of January, 1930, have adopted a Plan which contemplates the founding ... of an International Bank to be called the Bank for International Settlements",
+      "passage_locator": "Constituent Charter of the Bank for International Settlements, 20 January 1930, opening recital.",
+      "passage_status": "Passage locked — primary charter"
     },
     {
       "source_id": "bretton-woods-1944",
@@ -527,9 +527,9 @@
       "verification_status": "Primary-source / official contemporary record verified",
       "evidence_grade": "A",
       "notes": "The ECB's 9 June 1998 contemporary introductory statement records that the Executive Board members were appointed effective 1 June 1998, which constituted the date of establishment of the ECB and ESCB. This is a contemporary official institutional record.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the ECB was established on 1 June 1998",
+      "passage_locator": "ECB Annual Report 1998, section I, “The establishment of the ECB.”",
+      "passage_status": "Passage locked — contemporary official record"
     },
     {
       "source_id": "global-financial-crisis-2008",
