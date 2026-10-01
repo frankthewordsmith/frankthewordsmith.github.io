@@ -290,10 +290,10 @@
       "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog",
       "bn_title": "বারিং সংকট, ১৮৯০",
       "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
-      "notes": "Bank of England archive G15/189 identifies the original crisis file: Currie and Greene's report on Barings' solvency, the assets/liabilities statement, the partners' undertaking placing their property at the Bank's disposal, and correspondence reporting the guarantee operation's success. These are direct surviving 1890 documents supporting the guarantee-fund claim.",
-      "primary_passage": "the Bank of England guarantee of the liabilities of Baring Brothers and Co.",
-      "passage_locator": "Bank of England archive, Baring Brothers & Co Crisis, 1890, G15/189; guarantee-fund records and report to the Governor.",
-      "passage_status": "Passage locked — primary archival record",
+      "notes": "The Bank of England archive directly identifies the surviving 1890 guarantee-fund documents and their folio locations. The former database phrase was catalogue-level wording rather than a demonstrated verbatim transcription of the manuscript, so it has been removed until exact archival wording is verified.",
+      "primary_passage": "",
+      "passage_locator": "Bank of England archive, G15/189, Baring Brothers & Co Crisis, 1890: fol. 3 Currie and Greene report to the Governor on Barings' solvency; fols. 5–12 statement of liabilities and assets; fol. 13 partners' undertaking; fol. 22a correspondence reporting the guarantee operation's success.",
+      "passage_status": "Passage pending — primary archival event verified, but exact manuscript wording not yet transcribed from the archival item",
       "passage_source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog"
     },
     {
@@ -306,12 +306,12 @@
       "source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
       "bn_title": "১৯০৭ সালের আর্থিক আতঙ্ক",
       "bn_historical_claim": "১৯০৭ সালের মার্কিন আর্থিক আতঙ্ক বেসরকারি ও ক্লিয়ারিং-হাউস ভিত্তিক সংকট-ব্যবস্থাপনার সীমাবদ্ধতা প্রকাশ করে এবং ফেডারেল রিজার্ভ প্রতিষ্ঠার দিকে নিয়ে যাওয়া মুদ্রানীতি সংস্কারের গুরুত্বপূর্ণ অনুঘটক হয়ে ওঠে।",
-      "notes": "The 1907 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record describing the October–November 1907 banking panic, currency shortage and reserve strain, and discussing the proposed remedy of a central bank. This direct primary report replaces the former secondary Federal Reserve History link.",
+      "notes": "The 1907 Annual Report of the Comptroller of the Currency directly documents the October–November 1907 panic, reserve strain and currency shortage. The passage and locator now point directly to the contemporary government report.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
       "status": "Primary-source verified",
-      "primary_passage": "the New York Clearing House then offered these banks loans that were eventually exchanged for clearing house loan certificates",
-      "passage_locator": "Federal Reserve History, Panic of 1907, contemporary-event reconstruction citing the New York Clearing House response.",
-      "passage_status": "Passage locked — official historical record",
+      "primary_passage": "The conditions which led to the panic of October and November, 1907, were not due to the failure of a few individual banks.",
+      "passage_locator": "Annual Report of the Comptroller of the Currency, 1907, “Central Bank of Issue and Reserve,” p. 72.",
+      "passage_status": "Passage locked — contemporary U.S. government report",
       "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext"
     },
     {
