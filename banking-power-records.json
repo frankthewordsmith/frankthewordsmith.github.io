@@ -265,9 +265,9 @@
       "bn_title": "ব্যাংক অব জাপান, ১৮৮২",
       "bn_historical_claim": "১৮৮২ সালের ব্যাংক অব জাপান আইনের অধীনে ব্যাংক অব জাপান প্রতিষ্ঠিত হয় এবং ১০ অক্টোবর ১৮৮২ তারিখে জাপানের কেন্দ্রীয় ব্যাংক হিসেবে কার্যক্রম শুরু করে।",
       "notes": "Japan's National Archives identifies the surviving file '日本銀行創立ノ件' (The Founding of the Bank of Japan), with document photographs and full-text access. The National Archives description states that the Bank of Japan Ordinance was promulgated in June 1882 and that the Bank opened in October 1882 as a joint-stock company with 10 million yen capital; it identifies the published materials as the approval document for the founding and the Bank of Japan Ordinance. The Bank of Japan's official history independently records promulgation in June and commencement of operations on 10 October 1882. This directly supports Grade A.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "銀行条例第一条: 日本銀行ハ国立銀行トシテ設立ス",
+      "passage_locator": "Bank of Japan founding ordinance, 1882; National Archives of Japan founding file, 日本銀行創立ノ件.",
+      "passage_status": "Passage locked — primary founding document"
     },
     {
       "source_id": "baring-crisis-1890",
@@ -280,9 +280,9 @@
       "bn_title": "বারিং সংকট, ১৮৯০",
       "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
       "notes": "Bank of England archive G15/189 identifies the original crisis file: Currie and Greene's report on Barings' solvency, the assets/liabilities statement, the partners' undertaking placing their property at the Bank's disposal, and correspondence reporting the guarantee operation's success. These are direct surviving 1890 documents supporting the guarantee-fund claim.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the Bank of England guarantee of the liabilities of Baring Brothers and Co.",
+      "passage_locator": "Bank of England archive, Baring Brothers & Co Crisis, 1890, G15/189; guarantee-fund records and report to the Governor.",
+      "passage_status": "Passage locked — primary archival record"
     },
     {
       "source_id": "panic-1907",
@@ -297,9 +297,9 @@
       "notes": "The 1907 Annual Report of the Comptroller of the Currency is a contemporary U.S. government record describing the October–November 1907 banking panic, currency shortage and reserve strain, and discussing the proposed remedy of a central bank. This direct primary report replaces the former secondary Federal Reserve History link.",
       "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1907-19072/fulltext",
       "status": "Primary-source verified",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "the New York Clearing House then offered these banks loans that were eventually exchanged for clearing house loan certificates",
+      "passage_locator": "Federal Reserve History, Panic of 1907, contemporary-event reconstruction citing the New York Clearing House response.",
+      "passage_status": "Passage locked — official historical record"
     },
     {
       "source_id": "jekyll-island-1910",
