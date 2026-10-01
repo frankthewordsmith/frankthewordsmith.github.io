@@ -7,12 +7,12 @@
       "title": "Amsterdam Wisselbank, 1609",
       "date_label": "1609",
       "historical_claim": "The Amsterdam Wisselbank institutionalized reliable payment settlement and monetary exchange in a multi-currency commercial environment before modern central banking.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary-source / archival record located",
       "evidence_grade": "B",
-      "source_url": "https://projetos.dhlab.fcsh.unl.pt/s/wsdroadmap/item/54374",
+      "source_url": "https://www.amsterdam.nl/stadsarchief/nieuws/wisselbank/",
       "bn_title": "আমস্টারডাম উইসেলব্যাংক, ১৬০৯",
       "bn_historical_claim": "১৬০৯ সালে প্রতিষ্ঠিত আমস্টারডাম উইসেলব্যাংক বহু-মুদ্রাভিত্তিক বাণিজ্যিক পরিবেশে নির্ভরযোগ্য পেমেন্ট সেটেলমেন্ট ও মুদ্রা বিনিময়কে প্রাতিষ্ঠানিক রূপ দেয়।",
-      "notes": "Archival lead identified: Amsterdam City Archives, Archive of the Exchange Bank (reference 5077), beginning with the bank's establishment in 1609. Direct ordinance passage still needs to be extracted before Grade A."
+      "notes": "The Amsterdam City Archives states that the Wisselbank archive contains 636 ledgers dating from 1609–1820 and is being restored and digitized. The archive confirms the 1609 institutional foundation, but the founding ordinance itself is not yet locked here; retain Grade B."
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -95,12 +95,12 @@
       "title": "Banque de France, 1800",
       "date_label": "1800",
       "historical_claim": "The Banque de France was founded on 18 January 1800 by a group of bankers at Napoleon Bonaparte's instigation, initially as a private company performing public banking functions.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary-source / official contemporary record located",
       "evidence_grade": "B",
-      "source_url": "https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france",
+      "source_url": "https://www.banque-france.fr/en/actualites/depuis-225-ans-au-service-de-la-france-et-des-francais",
       "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
       "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
-      "notes": "Official Banque de France history confirms the 18 January 1800 founding and initial note-issuing/public-bank functions. The founding act or contemporaneous instrument remains to be extracted before Grade A."
+      "notes": "Banque de France identifies the 18 January 1800 founding decree signed by First Consul Napoleon Bonaparte. The official page identifies the decree but does not yet expose its full original text; retain Grade B pending passage extraction."
     },
     {
       "source_id": "banque-france-1806",
@@ -131,24 +131,24 @@
       "title": "Rothschild Prussian Loan, 1818",
       "date_label": "1818",
       "historical_claim": "The Rothschild Archive identifies Nathan Rothschild's 1818 Prussian loan as an important development in the nineteenth-century international capital market and sovereign borrowing.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary-source / archival record located",
       "evidence_grade": "B",
       "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/march_2018_subscription_ledger_for_the_prussian_government_loan_1818",
       "bn_title": "প্রুশিয়ান ঋণ, ১৮১৮",
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভ ১৮১৮ সালের নাথান রথসচাইল্ডের প্রুশিয়ান ঋণকে উনিশ শতকের আন্তর্জাতিক মূলধন বাজার ও সরকারি ঋণগ্রহণের বিকাশের একটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে চিহ্নিত করে।",
-      "notes": "Rothschild Archive preserves the 1818 Prussian loan prospectus and subscription ledger (RAL VI/10/5), providing a direct archival evidence trail. The relevant document passage/image should be locked before Grade A."
+      "notes": "The Rothschild Archive preserves the 1818 prospectus and subscription ledger (RAL VI/10/5), including the loan terms and subscriber record. A digitized passage/image must still be locked before Grade A."
     },
     {
       "source_id": "bank-of-england-crisis-1825",
       "title": "Financial crisis of 1825–1826 and Bank of England branches",
       "date_label": "1825–1826",
       "historical_claim": "The Bank of England's historical records describe the 1825–1826 crisis, in which many country and provincial banks failed, as a reason for establishing Bank of England branches from 1826.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary-source / archival record located",
       "evidence_grade": "B",
-      "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=DS%2FUK%2F99&pos=9&src=CalmView.Persons",
+      "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=DS%2FUK%2F99&pos=1&src=CalmView.Persons",
       "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
       "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
-      "notes": "Bank of England archival records identify the 1825 crisis, the 1826 Country Bankers Act, and the first branch at Gloucester. The Act/branch committee passage should be extracted before Grade A."
+      "notes": "The Bank of England archive identifies the 1826 Country Bankers Act (7 Geo IV c.46, s.15) and the branch-bank decision following the 1825 crisis. The Act's original text should be locked before Grade A."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -217,12 +217,12 @@
       "title": "Baring Crisis, 1890",
       "date_label": "1890",
       "historical_claim": "The 1890 Baring crisis prompted the Bank of England to organize a guarantee fund to address Barings' liabilities, illustrating cooperation between a central bank and major financial institutions during a systemic threat.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary-source / archival record located",
       "evidence_grade": "B",
       "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog",
       "bn_title": "বারিং সংকট, ১৮৯০",
       "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
-      "notes": "Bank of England archive record G15/189 identifies the original guarantee-fund papers, Barings' asset/liability statement, undertakings and correspondence with the Chancellor. The underlying documents need passage-level extraction before Grade A."
+      "notes": "Bank of England archive G15/189 contains the 1890 guarantee-fund report, Barings' assets/liabilities statement, partners' undertaking and Chancellor correspondence. Direct document extraction remains necessary before Grade A."
     },
     {
       "source_id": "panic-1907",
@@ -267,12 +267,12 @@
       "title": "World War I and central-bank war finance, 1914",
       "date_label": "1914",
       "historical_claim": "At the outbreak of World War I, central-bank relationships with government debt intensified; the Bank of England helped finance the British war effort through War Stocks and related operations.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Primary-source / archival record located",
       "evidence_grade": "B",
       "source_url": "https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1",
       "bn_title": "প্রথম বিশ্বযুদ্ধ ও কেন্দ্রীয় ব্যাংকের যুদ্ধ অর্থায়ন, ১৯১৪",
       "bn_historical_claim": "প্রথম বিশ্বযুদ্ধের শুরুতে কেন্দ্রীয় ব্যাংক ও সরকারি ঋণের সম্পর্ক আরও ঘনিষ্ঠ হয়; ব্যাংক অব ইংল্যান্ড ১৯১৪ সালের ওয়ার স্টকসহ বিভিন্ন কার্যক্রমের মাধ্যমে ব্রিটিশ যুদ্ধ প্রচেষ্টার অর্থায়নে সহায়তা করে।",
-      "notes": "The Bank of England archive provides its unpublished 1914–1921 war history and underlying archival material. A 1914 contemporary record or directly quoted archival passage is still needed for Grade A."
+      "notes": "The Bank of England holds the unpublished 1914–1921 War History in bound archival copies. This provides a direct archival route for the war-finance record, but a specific 1914 passage still needs to be locked before Grade A."
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -291,12 +291,12 @@
       "title": "Great Depression, 1929–1933",
       "date_label": "1929–1933",
       "historical_claim": "The Great Depression became a global economic and financial crisis, exposing severe weaknesses in banking and monetary systems and prompting major institutional changes.",
-      "verification_status": "Institutional/archival evidence located; primary passage pending",
+      "verification_status": "Institutional record located; primary passage pending",
       "evidence_grade": "B",
       "source_url": "https://www.federalreservehistory.org/essays/great-depression",
       "bn_title": "মহামন্দা, ১৯২৯–১৯৩৩",
       "bn_historical_claim": "১৯২৯–১৯৩৩ সালের মহামন্দা বৈশ্বিক অর্থনৈতিক ও আর্থিক সংকটে পরিণত হয় এবং ব্যাংকিং ও মুদ্রাব্যবস্থার গুরুতর দুর্বলতা প্রকাশ করে; এর পর বড় ধরনের প্রাতিষ্ঠানিক পরিবর্তন আসে।",
-      "notes": "Federal Reserve History provides the institutional chronology of the Depression and banking panics, but the current page is secondary. Contemporary government/bank records should be locked before Grade A."
+      "notes": "The Federal Reserve historical record documents the Depression and banking failures, but the present source is a retrospective institutional history. Contemporary government or central-bank documents still need to be locked before Grade A."
     },
     {
       "source_id": "bis-1930",
