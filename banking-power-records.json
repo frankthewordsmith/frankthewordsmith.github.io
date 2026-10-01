@@ -561,14 +561,14 @@
       "historical_claim": "The 2008 financial crisis became a global financial panic after the failure of Lehman Brothers in September 2008, prompting extraordinary central-bank liquidity and monetary-policy responses.",
       "bn_title": "বিশ্বব্যাপী আর্থিক সংকট",
       "bn_historical_claim": "সেপ্টেম্বর ২০০৮-এ Lehman Brothers-এর পতনের পর ২০০৮ সালের আর্থিক সংকট একটি বৈশ্বিক আর্থিক আতঙ্কে রূপ নেয় এবং কেন্দ্রীয় ব্যাংকগুলোকে অস্বাভাবিক তারল্য ও মুদ্রানীতিগত ব্যবস্থা নিতে হয়।",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2009/html/sp090915.es.html",
+      "source_url": "https://home.treasury.gov/news/press-releases/hp1206",
       "verification_status": "Primary-source / official contemporary record verified",
       "evidence_grade": "A",
-      "notes": "The ECB Executive Board member's 15 September 2009 contemporary speech explicitly records that Lehman Brothers filed for bankruptcy protection a year earlier and describes the severe global downturn and extraordinary government and central-bank response. This is a contemporary official institutional record.",
+      "notes": "The previous passage source pointed to a 15 September 2009 ECB speech, while the quoted wording is from the 14 October 2008 Joint Statement by Treasury, Federal Reserve, and FDIC. The source has been corrected to the official U.S. Treasury statement. The passage directly documents coordinated emergency measures; the broader claim about the crisis becoming global after Lehman's failure should remain supported separately.",
       "primary_passage": "Today we are taking decisive actions to protect the U.S. economy, to strengthen public confidence in our financial institutions, and to foster the robust functioning of our credit markets.",
       "passage_locator": "Joint Statement by Treasury, Federal Reserve, and FDIC, 14 October 2008; opening statement on coordinated crisis measures.",
-      "passage_status": "Passage locked — contemporary official record",
-      "passage_source_url": "https://www.ecb.europa.eu/press/key/date/2009/html/sp090915.es.html"
+      "passage_status": "Passage locked — contemporary official U.S. government statement",
+      "passage_source_url": "https://home.treasury.gov/news/press-releases/hp1206"
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
