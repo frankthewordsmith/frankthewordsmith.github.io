@@ -420,9 +420,9 @@
       "bn_title": "ব্যাংক দ্য ফ্রঁস জাতীয়করণ, ১৯৪৫",
       "bn_historical_claim": "২ ডিসেম্বর ১৯৪৫-এর ফরাসি আইন নং ৪৫-১৫-এর ১ নম্বর অনুচ্ছেদে ১ জানুয়ারি ১৯৪৬ থেকে ব্যাংক দ্য ফ্রঁস জাতীয়করণ এবং এর শেয়ার রাষ্ট্রের মালিকানায় হস্তান্তরের বিধান করা হয়।",
       "notes": "Primary document identified and locked for this event; further archival comparison may add additional passages or context.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "Les banques d'émission sont nationalisées",
+      "passage_locator": "French Law No. 45-15, 2 December 1945, nationalization provisions concerning banks of issue.",
+      "passage_status": "Passage locked — primary legislation"
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
@@ -451,9 +451,9 @@
       "verification_status": "Primary-source verified",
       "evidence_grade": "A",
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "I have directed the Secretary of the Treasury to suspend temporarily the convertibility of the dollar into gold or other reserve assets",
+      "passage_locator": "President Richard Nixon, Address to the Nation Outlining a New Economic Policy, 15 August 1971; directive announcing temporary suspension of dollar convertibility.",
+      "passage_status": "Passage locked — contemporary presidential record"
     },
     {
       "source_id": "basel-committee-1974",
@@ -542,9 +542,9 @@
       "verification_status": "Primary-source / official contemporary record verified",
       "evidence_grade": "A",
       "notes": "The ECB Executive Board member's 15 September 2009 contemporary speech explicitly records that Lehman Brothers filed for bankruptcy protection a year earlier and describes the severe global downturn and extraordinary government and central-bank response. This is a contemporary official institutional record.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "Today we are taking decisive actions to protect the U.S. economy, to strengthen public confidence in our financial institutions, and to foster the robust functioning of our credit markets.",
+      "passage_locator": "Joint Statement by Treasury, Federal Reserve, and FDIC, 14 October 2008; opening statement on coordinated crisis measures.",
+      "passage_status": "Passage locked — contemporary official record"
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified."
