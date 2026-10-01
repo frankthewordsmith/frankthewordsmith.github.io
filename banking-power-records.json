@@ -523,7 +523,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through treaties.un.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "BIS Constituent Charter of 20 January 1930, which establishes the incorporation of the Bank for International Settlements; publisher/authority: Bank for International Settlements under the Swiss Federal Government/Hague Agreement framework; year: 1930.",
+      "edition": "BIS Constituent Charter of 20 January 1930; original charter establishing the incorporation of the Bank for International Settlements.",
+      "publisher": "Bank for International Settlements; Swiss Federal Government / Hague Agreement framework",
+      "publication_year": 1930
     },
     {
       "source_id": "bretton-woods-1944",
@@ -626,7 +629,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.bis.org; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Committee on Banking Regulations and Supervisory Practices established by the G10 central-bank Governors at the end of 1974; contemporary BIS confirmation followed on 12 February 1975; publisher/authority: G10 central-bank Governors / BIS; year: 1974.",
+      "edition": "Committee on Banking Regulations and Supervisory Practices, established by the G10 central-bank Governors at the end of 1974; contemporary BIS confirmation dated 12 February 1975.",
+      "publisher": "G10 central-bank Governors; Bank for International Settlements",
+      "publication_year": 1974
     },
     {
       "source_id": "plaza-accord-1985",
@@ -646,7 +652,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through g7.utoronto.ca; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States, 22 September 1985; contemporary Plaza Agreement statement; year: 1985.",
+      "edition": "Announcement of the Finance Ministers and Central Bank Governors of France, Germany, Japan, the United Kingdom and the United States, 22 September 1985 (Plaza Agreement statement).",
+      "publisher": "Governments and central banks of France, Germany, Japan, United Kingdom and United States",
+      "publication_year": 1985
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -709,7 +718,10 @@
       "passage_type": "english-primary-text",
       "language": "English",
       "last_verified": "2026-10-01",
-      "source_identity": "Primary-source record identified through www.ecb.europa.eu; exact document identity is given by the passage locator and passage source link. No separate print edition is asserted unless explicitly documented in this record."
+      "source_identity": "European Central Bank Annual Report 1998, section I, “The establishment of the ECB”; contemporary institutional annual report; publisher/authority: European Central Bank; year: 1998.",
+      "edition": "European Central Bank Annual Report 1998, section I, “The establishment of the ECB”; contemporary institutional annual report.",
+      "publisher": "European Central Bank",
+      "publication_year": 1998
     },
     {
       "source_id": "global-financial-crisis-2008",
