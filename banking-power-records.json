@@ -145,6 +145,126 @@
       "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
       "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
       "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "bank-charter-act-1844",
+      "title": "Bank Charter Act, 1844",
+      "date_label": "1844",
+      "historical_claim": "The Bank Charter Act of 1844 formalised the Bank of England's note-issue arrangements and restricted new note issuance by other banks in England and Wales.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "bn_title": "ব্যাংক চার্টার আইন, ১৮৪৪",
+      "bn_historical_claim": "১৮৪৪ সালের ব্যাংক চার্টার আইন ব্যাংক অব ইংল্যান্ডের নোট ইস্যু ব্যবস্থাকে আনুষ্ঠানিক রূপ দেয় এবং ইংল্যান্ড ও ওয়েলসে অন্যান্য ব্যাংকের নতুন নোট ইস্যুর ওপর বিধিনিষেধ আরোপ করে।",
+      "notes": "Qualified record; the Bank Charter Act text is available, but a direct passage should be locked into the research record before upgrading the evidence grade."
+    },
+    {
+      "source_id": "banque-france-note-monopoly-1848",
+      "title": "Banque de France note-issue monopoly, 1848",
+      "date_label": "1848",
+      "historical_claim": "In 1848 the Banque de France obtained a monopoly on banknote issuance throughout France, while departmental banks were absorbed as branches.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france",
+      "bn_title": "ব্যাংক দ্য ফ্রঁসের নোট-ইস্যু একচেটিয়া অধিকার, ১৮৪৮",
+      "bn_historical_claim": "১৮৪৮ সালে ব্যাংক দ্য ফ্রঁস সমগ্র ফ্রান্সে ব্যাংকনোট ইস্যুর একচেটিয়া অধিকার লাভ করে এবং বিভাগীয় ব্যাংকগুলো শাখায় রূপান্তরিত হয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "overend-gurney-crisis-1866",
+      "title": "Overend Gurney crisis, 1866",
+      "date_label": "1866",
+      "historical_claim": "The failure of Overend Gurney in 1866 produced a major financial panic and contributed to policy debate that shaped the Bank of England's lender-of-last-resort role.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "bn_title": "ওভারেন্ড গার্নি সংকট, ১৮৬৬",
+      "bn_historical_claim": "১৮৬৬ সালে ওভারেন্ড গার্নির পতন একটি বড় আর্থিক আতঙ্ক সৃষ্টি করে এবং ব্যাংক অব ইংল্যান্ডের শেষ আশ্রয়ের ঋণদাতা হিসেবে ভূমিকা গঠনের নীতিগত বিতর্ককে প্রভাবিত করে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "panic-1873",
+      "title": "Panic of 1873",
+      "date_label": "1873",
+      "historical_claim": "The 1873 crisis spread across financial markets and banking systems, with railroad investment, securities losses and banking failures contributing to a wider international financial disruption.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age",
+      "bn_title": "১৮৭৩ সালের আর্থিক আতঙ্ক",
+      "bn_historical_claim": "১৮৭৩ সালের সংকট আর্থিক বাজার ও ব্যাংকিং ব্যবস্থায় ছড়িয়ে পড়ে; রেলপথ বিনিয়োগ, সিকিউরিটিজের ক্ষতি ও ব্যাংক-ব্যর্থতা বৃহত্তর আন্তর্জাতিক আর্থিক অস্থিরতায় ভূমিকা রাখে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "bank-japan-1882",
+      "title": "Bank of Japan, 1882",
+      "date_label": "1882",
+      "historical_claim": "The Bank of Japan was established under the Bank of Japan Act of 1882 and began operations on 10 October 1882 as Japan's central bank.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.boj.or.jp/en/about/outline/history/",
+      "bn_title": "ব্যাংক অব জাপান, ১৮৮২",
+      "bn_historical_claim": "১৮৮২ সালের ব্যাংক অব জাপান আইনের অধীনে ব্যাংক অব জাপান প্রতিষ্ঠিত হয় এবং ১০ অক্টোবর ১৮৮২ তারিখে জাপানের কেন্দ্রীয় ব্যাংক হিসেবে কার্যক্রম শুরু করে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "baring-crisis-1890",
+      "title": "Baring Crisis, 1890",
+      "date_label": "1890",
+      "historical_claim": "The 1890 Baring crisis prompted the Bank of England to organize a guarantee fund to address Barings' liabilities, illustrating cooperation between a central bank and major financial institutions during a systemic threat.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog",
+      "bn_title": "বারিং সংকট, ১৮৯০",
+      "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
+      "notes": "Qualified record; the Bank of England archive identifies the guarantee-fund documentation, but direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "panic-1907",
+      "title": "Panic of 1907",
+      "date_label": "1907",
+      "historical_claim": "The 1907 U.S. financial panic exposed limits of private and clearing-house crisis mechanisms and became a major catalyst for monetary reform leading to the Federal Reserve.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.federalreservehistory.org/essays/panic-of-1907",
+      "bn_title": "১৯০৭ সালের আর্থিক আতঙ্ক",
+      "bn_historical_claim": "১৯০৭ সালের মার্কিন আর্থিক আতঙ্ক বেসরকারি ও ক্লিয়ারিং-হাউস ভিত্তিক সংকট-ব্যবস্থাপনার সীমাবদ্ধতা প্রকাশ করে এবং ফেডারেল রিজার্ভ প্রতিষ্ঠার দিকে নিয়ে যাওয়া মুদ্রানীতি সংস্কারের গুরুত্বপূর্ণ অনুঘটক হয়ে ওঠে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "jekyll-island-1910",
+      "title": "Jekyll Island meeting, 1910",
+      "date_label": "1910",
+      "historical_claim": "In November 1910, six financial and political figures met at Jekyll Island to develop a plan for banking reform; the resulting plan helped lay foundations for the later Federal Reserve System.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.federalreservehistory.org/essays/jekyll-island-conference",
+      "bn_title": "জেকিল আইল্যান্ড বৈঠক, ১৯১০",
+      "bn_historical_claim": "১৯১০ সালের নভেম্বরে ছয়জন আর্থিক ও রাজনৈতিক ব্যক্তি জেকিল আইল্যান্ডে ব্যাংকিং সংস্কারের একটি পরিকল্পনা তৈরির জন্য বৈঠক করেন; সেই পরিকল্পনা পরবর্তী ফেডারেল রিজার্ভ ব্যবস্থার ভিত্তি গঠনে ভূমিকা রাখে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "federal-reserve-act-1913",
+      "title": "Federal Reserve Act, 1913",
+      "date_label": "1913",
+      "historical_claim": "The Federal Reserve Act became law in December 1913, creating the structure of the Federal Reserve System after years of debate over U.S. banking and monetary reform.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed",
+      "bn_title": "ফেডারেল রিজার্ভ আইন, ১৯১৩",
+      "bn_historical_claim": "১৯১৩ সালের ডিসেম্বরে ফেডারেল রিজার্ভ আইন কার্যকর হয় এবং বহু বছরের মার্কিন ব্যাংকিং ও মুদ্রানীতি সংস্কার-বিতর্কের পর ফেডারেল রিজার্ভ ব্যবস্থার কাঠামো প্রতিষ্ঠিত হয়।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+    },
+    {
+      "source_id": "wwi-central-bank-war-finance-1914",
+      "title": "World War I and central-bank war finance, 1914",
+      "date_label": "1914",
+      "historical_claim": "At the outbreak of World War I, central-bank relationships with government debt intensified; the Bank of England helped finance the British war effort through War Stocks and related operations.",
+      "verification_status": "Institutional-history verified",
+      "evidence_grade": "B",
+      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "bn_title": "প্রথম বিশ্বযুদ্ধ ও কেন্দ্রীয় ব্যাংকের যুদ্ধ অর্থায়ন, ১৯১৪",
+      "bn_historical_claim": "প্রথম বিশ্বযুদ্ধের শুরুতে কেন্দ্রীয় ব্যাংক ও সরকারি ঋণের সম্পর্ক আরও ঘনিষ্ঠ হয়; ব্যাংক অব ইংল্যান্ড ১৯১৪ সালের ওয়ার স্টকসহ বিভিন্ন কার্যক্রমের মাধ্যমে ব্রিটিশ যুদ্ধ প্রচেষ্টার অর্থায়নে সহায়তা করে।",
+      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
     }
   ]
 }
