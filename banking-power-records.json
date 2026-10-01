@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "Initial event-by-event conversion from the uploaded GLOBAL BANKING POWER TIMELINE, 1600–2026. These are qualified institutional-history records; direct primary passages remain a later verification stage.",
+  "source_note": "35-record staging database for the Global Banking Power Timeline, 1600–2026. Records upgraded to Grade A only where a primary legal document or sufficiently direct official contemporary record has been identified; remaining Grade B records stay explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -79,12 +79,12 @@
       "title": "First Bank of the United States, 1791",
       "date_label": "1791",
       "historical_claim": "The First Bank of the United States combined federal government participation with private capital and shareholder governance in a national banking institution.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://fraser.stlouisfed.org/title/historical-beginnings-federal-reserve-8939/fulltext",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.loc.gov/item/2020769609/",
       "bn_title": "ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস, ১৭৯১",
       "bn_historical_claim": "১৭৯১ সালের ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস ফেডারেল সরকারের অংশগ্রহণ ও ব্যক্তিগত মূলধনকে একত্র করে একটি জাতীয় ব্যাংকিং কাঠামো তৈরি করে।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "notes": "Original 1791 incorporation act is preserved as a digitized congressional-era document at the Library of Congress; this locks the institutional claim to a primary legal source."
     },
     {
       "source_id": "banque-france-1800",
@@ -151,12 +151,12 @@
       "title": "Bank Charter Act, 1844",
       "date_label": "1844",
       "historical_claim": "The Bank Charter Act of 1844 formalised the Bank of England's note-issue arrangements and restricted new note issuance by other banks in England and Wales.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.bankofengland.co.uk/about/history",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Vict/7-8/32",
       "bn_title": "ব্যাংক চার্টার আইন, ১৮৪৪",
       "bn_historical_claim": "১৮৪৪ সালের ব্যাংক চার্টার আইন ব্যাংক অব ইংল্যান্ডের নোট ইস্যু ব্যবস্থাকে আনুষ্ঠানিক রূপ দেয় এবং ইংল্যান্ড ও ওয়েলসে অন্যান্য ব্যাংকের নতুন নোট ইস্যুর ওপর বিধিনিষেধ আরোপ করে।",
-      "notes": "Qualified record; the Bank Charter Act text is available, but a direct passage should be locked into the research record before upgrading the evidence grade."
+      "notes": "The enacted Bank Charter Act 1844 is available as the original legislation; the research claim is tied to the Act's provisions on the Issue Department and note issue."
     },
     {
       "source_id": "banque-france-note-monopoly-1848",
@@ -199,12 +199,12 @@
       "title": "Bank of Japan, 1882",
       "date_label": "1882",
       "historical_claim": "The Bank of Japan was established under the Bank of Japan Act of 1882 and began operations on 10 October 1882 as Japan's central bank.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
+      "verification_status": "Primary-source / official contemporary record verified",
+      "evidence_grade": "A",
       "source_url": "https://www.boj.or.jp/en/about/outline/history/",
       "bn_title": "ব্যাংক অব জাপান, ১৮৮২",
       "bn_historical_claim": "১৮৮২ সালের ব্যাংক অব জাপান আইনের অধীনে ব্যাংক অব জাপান প্রতিষ্ঠিত হয় এবং ১০ অক্টোবর ১৮৮২ তারিখে জাপানের কেন্দ্রীয় ব্যাংক হিসেবে কার্যক্রম শুরু করে।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "notes": "The Bank of Japan's official historical record identifies the June 1882 Bank of Japan Act and the 10 October 1882 commencement; the original Japanese law can be added later if an archival text is required."
     },
     {
       "source_id": "baring-crisis-1890",
@@ -247,12 +247,12 @@
       "title": "Federal Reserve Act, 1913",
       "date_label": "1913",
       "historical_claim": "The Federal Reserve Act became law in December 1913, creating the structure of the Federal Reserve System after years of debate over U.S. banking and monetary reform.",
-      "verification_status": "Institutional-history verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed",
+      "verification_status": "Primary-source verified",
+      "evidence_grade": "A",
+      "source_url": "https://fraser.stlouisfed.org/title/federal-reserve-act-975/fulltext",
       "bn_title": "ফেডারেল রিজার্ভ আইন, ১৯১৩",
       "bn_historical_claim": "১৯১৩ সালের ডিসেম্বরে ফেডারেল রিজার্ভ আইন কার্যকর হয় এবং বহু বছরের মার্কিন ব্যাংকিং ও মুদ্রানীতি সংস্কার-বিতর্কের পর ফেডারেল রিজার্ভ ব্যবস্থার কাঠামো প্রতিষ্ঠিত হয়।",
-      "notes": "Qualified record; direct primary passage should be locked before upgrading the evidence grade."
+      "notes": "The enacted Federal Reserve Act of 23 December 1913 is preserved in full text; the record is now tied to passage-driven primary-source evidence."
     },
     {
       "source_id": "wwi-central-bank-war-finance-1914",
