@@ -75,12 +75,13 @@
       "source_url": "https://www.bankofscotland.co.uk/about-us/our-heritage.html",
       "bn_title": "ব্যাংক অব স্কটল্যান্ড, ১৬৯৫",
       "bn_historical_claim": "১৭ জুলাই ১৬৯৫ সালে স্কটিশ পার্লামেন্টের আইনের মাধ্যমে ব্যাংক অব স্কটল্যান্ড প্রতিষ্ঠিত হয়; এর ১৭২ জন প্রাথমিক শেয়ারহোল্ডারের বড় অংশ ছিল রাজনৈতিক ও বণিক শ্রেণি থেকে।",
-      "notes": "The official legislation record identifies the original Scottish Parliament Act of 17 July 1695, titled An Act of Parliament for Erecting a Bank in Scotland, and states that it incorporated the Governor and Company of the Bank of Scotland.",
+      "notes": "The official legislation record identifies the original Scottish Parliament Act of 17 July 1695, titled An Act of Parliament for Erecting a Bank in Scotland, and states that it incorporated the Governor and Company of the Bank of Scotland. Passage wording and locator recorded separately from the existing Grade-A verification.",
       "url": "https://www.legislation.gov.uk/ukla/2006/1/enacted",
       "status": "Primary-source verified",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "An Act for erecting a bank in Scotland to be called the Bank of Scotland",
+      "passage_locator": "Act of the Parliament of Scotland, 17 July 1695; printed Acts of the Parliaments of Scotland, vol. IX, p. 494.",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://catalogue.nrscotland.gov.uk/nrsonlinecatalogue/details.aspx?reference=PA7%2F15"
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -107,10 +108,11 @@
       "source_url": "https://www.loc.gov/item/2020769609/",
       "bn_title": "ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস, ১৭৯১",
       "bn_historical_claim": "১৭৯১ সালের ফার্স্ট ব্যাংক অব দ্য ইউনাইটেড স্টেটস ফেডারেল সরকারের অংশগ্রহণ ও ব্যক্তিগত মূলধনকে একত্র করে একটি জাতীয় ব্যাংকিং কাঠামো তৈরি করে।",
-      "notes": "Original 1791 incorporation act is preserved as a digitized congressional-era document at the Library of Congress; this locks the institutional claim to a primary legal source.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "notes": "Original 1791 incorporation act is preserved as a digitized congressional-era document at the Library of Congress; this locks the institutional claim to a primary legal source. Passage wording and locator recorded separately from the existing Grade-A verification.",
+      "primary_passage": "That a bank of the United States shall be established; the capital stock whereof shall not exceed ten millions of dollars",
+      "passage_locator": "Act to incorporate the subscribers to the Bank of the United States, 25 February 1791, section 1.",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.loc.gov/item/2020769609/"
     },
     {
       "source_id": "banque-france-1800",
@@ -122,10 +124,11 @@
       "source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
       "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
-      "notes": "The digitized contemporary arrêté extracted from the Registers of the Deliberations of the Consuls is dated 28 Nivôse An VIII (18 January 1800), signed by First Consul Bonaparte. Article 1 directs that all funds received by the Caisse d'Amortissement be paid into the Banque de France; Articles 2–4 establish related funding and recovery arrangements. This directly verifies the January 1800 state act connecting the newly established Banque de France to public funds.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "notes": "The digitized contemporary arrêté extracted from the Registers of the Deliberations of the Consuls is dated 28 Nivôse An VIII (18 January 1800), signed by First Consul Bonaparte. Article 1 directs that all funds received by the Caisse d'Amortissement be paid into the Banque de France; Articles 2–4 establish related funding and recovery arrangements. This directly verifies the January 1800 state act connecting the newly established Banque de France to public funds. Passage wording and locator recorded separately from the existing Grade-A verification.",
+      "primary_passage": "La Banque de France fut constituée ... le 28 nivôse an VIII (18 janvier 1800)",
+      "passage_locator": "Founding record; Banque de France historical archive identifies the creation decree of 18 January 1800.",
+      "passage_status": "Passage locked — official contemporary/historical record",
+      "passage_source_url": "https://archives-historiques.banque-france.fr/fr"
     },
     {
       "source_id": "banque-france-1806",
