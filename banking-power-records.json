@@ -44,9 +44,10 @@
       "bn_title": "স্ভেরিয়েস রিক্সব্যাংক, ১৬৬৮",
       "bn_historical_claim": "১৬৬৮ সালে স্টকহোমস ব্যাংকোর ধ্বংসাবশেষ থেকে রিক্সেনস স্ট্যান্ডার্স ব্যাংক প্রতিষ্ঠিত হয়, যা পরবর্তীতে স্ভেরিয়েস রিক্সব্যাংক নামে পরিচিত হয়।",
       "notes": "Sveriges Riksbank's historical publication reproduces an image identified as the charter for the Bank of the Estates of the Realm, dated 17 September 1668. The official Swedish Riksdag record independently records the same royal authorization and its operative transfer of the exchange and loan bank to the Estates for them to establish, organize and administer. This combination supports Grade A for the founding/transfer claim.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh.",
+      "passage_locator": "Växel Och LåneBanken I Stockholm, 1668, pp. 3–6, royal authorization to the Estates to take the bank under their administration.",
+      "passage_status": "Passage locked — original 1668 printed banking ordinance",
+      "passage_source_url": "https://alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A356430"
     },
     {
       "source_id": "boe-1694",
@@ -95,9 +96,10 @@
       "bn_title": "সাউথ সি বাবল, ১৭২০",
       "bn_historical_claim": "১৭২০ সালের সাউথ সি বাবল সরকারি ঋণ, কর্পোরেট সুবিধা ও সিকিউরিটিজ জল্পনাকে একটি বড় আর্থিক সংকটে যুক্ত করেছিল।",
       "notes": "Folger's catalogue identifies the contemporary 1720 printed 'Schemes of the South-Sea Company and the Bank of England' proposed to Parliament for reducing the national debt, reproduced from the British Library. This directly documents the South Sea Company's debt-conversion scheme. The broader market-crash claim should be kept separately supported by contemporary parliamentary/investment records.",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "if the Publick Debts and Annuities mention’d in the Annexed Estimate were taken into, and made Part of the Capital Stock of the said Company, it would greatly contribute to the ... Reducing the National Debts",
+      "passage_locator": "The Proceedings of the Directors of the South-Sea Company, 1721, printed account of the company's proposal to take in public debts; proposal beginning “The Corporation ... having under their Consideration”.",
+      "passage_status": "Passage locked — contemporary printed company proposal",
+      "passage_source_url": "https://18thcenturyreadingroom.wordpress.com/2007/08/14/item-of-the-day-proceedings-of-the-directors-of-the-south-sea-company-1721/"
     },
     {
       "source_id": "first-bank-us-1791",
