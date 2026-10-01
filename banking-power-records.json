@@ -57,12 +57,13 @@
       "source_url": "https://www.bankofengland.co.uk/about/history",
       "bn_title": "ব্যাংক অব ইংল্যান্ড, ১৬৯৪",
       "bn_historical_claim": "১৬৯৪ সালে ব্যাংক অব ইংল্যান্ড সরকারকে ব্যাংকিং সেবা দেওয়া এবং ফ্রান্সের বিরুদ্ধে যুদ্ধের অর্থায়নে সহায়তার উদ্দেশ্যে একটি বেসরকারি ব্যাংক হিসেবে প্রতিষ্ঠিত হয়।",
-      "notes": "The Bank of England archive identifies the original 27 July 1694 Charter incorporating the Governor and Company of the Bank of England and records its relationship to the Tonnage Act 1694. The archive also provides the charter transcript reference.",
+      "notes": "The Bank of England archive identifies the original 27 July 1694 Charter incorporating the Governor and Company of the Bank of England and records its relationship to the Tonnage Act 1694. The archive also provides the charter transcript reference. Passage locked from the Bank of England's published Charter 1694 text; the archive also catalogs the original charter (M6/48, 27 July 1694).",
       "url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=M6%2F48&src=CalmView.Catalog",
       "status": "Primary-source verified",
-      "primary_passage": "",
-      "passage_locator": "",
-      "passage_status": "Pending passage lock"
+      "primary_passage": "erect, establish, and confirm for ever, by these Presents",
+      "passage_locator": "Bank of England Charter 1694; Letters Patent dated 27 July 1694; incorporation clause.",
+      "passage_status": "Passage locked — primary charter text",
+      "passage_source_url": "https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter"
     },
     {
       "source_id": "bank-scotland-1695",
