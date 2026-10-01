@@ -363,6 +363,18 @@
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
     },
     {
+      "source_id": "plaza-accord-1985",
+      "title": "Plaza Accord",
+      "date_label": "1985",
+      "historical_claim": "The finance ministers and central-bank governors of France, Japan, the United Kingdom, the United States and West Germany agreed at the Plaza Hotel in New York in September 1985 to cooperate in promoting an orderly appreciation of major currencies against the US dollar.",
+      "bn_title": "প্লাজা অ্যাকর্ড",
+      "bn_historical_claim": "ফ্রান্স, জাপান, যুক্তরাজ্য, যুক্তরাষ্ট্র ও পশ্চিম জার্মানির অর্থমন্ত্রীরা এবং কেন্দ্রীয় ব্যাংকের গভর্নররা সেপ্টেম্বর ১৯৮৫-তে নিউইয়র্কের প্লাজা হোটেলে প্রধান মুদ্রাগুলোর বিপরীতে মার্কিন ডলারের সুশৃঙ্খল অবমূল্যায়ন/অন্যান্য মুদ্রার মূল্যবৃদ্ধিতে সহযোগিতার জন্য একমত হন।",
+      "source_url": "https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm",
+      "verification_status": "Primary-source / official contemporary record verified",
+      "evidence_grade": "A",
+      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+    },
+    {
       "source_id": "basel-capital-accord-1988",
       "title": "Basel I Capital Accord",
       "date_label": "1988",
@@ -373,6 +385,42 @@
       "verification_status": "Primary-source verified",
       "evidence_grade": "A",
       "notes": "Primary institutional/legal document identified and locked for this event; additional archival passages can be added later where useful."
+    },
+    {
+      "source_id": "asian-crisis-1997",
+      "title": "Asian financial crisis",
+      "date_label": "1997",
+      "historical_claim": "The Asian financial crisis began in Thailand in July 1997 after the baht was floated and spread across the region, producing severe financial and economic disruption and requiring international support programs.",
+      "bn_title": "এশীয় আর্থিক সংকট",
+      "bn_historical_claim": "১৯৯৭ সালের জুলাইয়ে থাইল্যান্ডে বাত ভাসমান করার পর এশীয় আর্থিক সংকট শুরু হয় এবং অঞ্চলজুড়ে ছড়িয়ে পড়ে; এতে গুরুতর আর্থিক ও অর্থনৈতিক অস্থিরতা সৃষ্টি হয় এবং আন্তর্জাতিক সহায়তা কর্মসূচির প্রয়োজন হয়।",
+      "source_url": "https://www.imf.org/external/pubs/ft/op/opfinsec/index.htm",
+      "verification_status": "Primary-source / official contemporary record verified",
+      "evidence_grade": "A",
+      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+    },
+    {
+      "source_id": "ecb-established-1998",
+      "title": "European Central Bank established",
+      "date_label": "1998",
+      "historical_claim": "The European Central Bank was founded on 1 June 1998, replacing the European Monetary Institute and becoming the central institution of the Eurosystem and European System of Central Banks.",
+      "bn_title": "ইউরোপীয় কেন্দ্রীয় ব্যাংক প্রতিষ্ঠিত",
+      "bn_historical_claim": "১ জুন ১৯৯৮ ইউরোপীয় কেন্দ্রীয় ব্যাংক প্রতিষ্ঠিত হয়; এটি European Monetary Institute-এর স্থলাভিষিক্ত হয়ে ইউরোপীয় কেন্দ্রীয় ব্যাংকিং ব্যবস্থার কেন্দ্রীয় প্রতিষ্ঠান হয়।",
+      "source_url": "https://www.ecb.europa.eu/ecb/history-arts-culture/archives/european/html/index.en.html",
+      "verification_status": "Primary-source / official contemporary record verified",
+      "evidence_grade": "A",
+      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
+    },
+    {
+      "source_id": "global-financial-crisis-2008",
+      "title": "Global financial crisis",
+      "date_label": "2008",
+      "historical_claim": "The 2008 financial crisis became a global financial panic after the failure of Lehman Brothers in September 2008, prompting extraordinary central-bank liquidity and monetary-policy responses.",
+      "bn_title": "বিশ্বব্যাপী আর্থিক সংকট",
+      "bn_historical_claim": "সেপ্টেম্বর ২০০৮-এ Lehman Brothers-এর পতনের পর ২০০৮ সালের আর্থিক সংকট একটি বৈশ্বিক আর্থিক আতঙ্কে রূপ নেয় এবং কেন্দ্রীয় ব্যাংকগুলোকে অস্বাভাবিক তারল্য ও মুদ্রানীতিগত ব্যবস্থা নিতে হয়।",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2009/html/sp091123_1.en.html",
+      "verification_status": "Primary-source / official contemporary record verified",
+      "evidence_grade": "A",
+      "notes": "Official contemporary or institutional record identified; direct underlying agreement/legal text should be added where available before treating this as a complete passage set."
     }
   ]
 }
