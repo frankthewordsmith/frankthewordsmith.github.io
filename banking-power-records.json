@@ -205,12 +205,12 @@
       "title": "Bank of Japan, 1882",
       "date_label": "1882",
       "historical_claim": "The Bank of Japan was established under the Bank of Japan Act of 1882 and began operations on 10 October 1882 as Japan's central bank.",
-      "verification_status": "Primary-source / official contemporary record verified",
-      "evidence_grade": "B",
-      "source_url": "https://www.boj.or.jp/en/about/outline/history/",
+      "verification_status": "Original Japanese archival documents and official contemporary institutional record verified",
+      "evidence_grade": "A",
+      "source_url": "https://www.archives.go.jp/ayumi/kobetsu/m15_1882_01.html",
       "bn_title": "ব্যাংক অব জাপান, ১৮৮২",
       "bn_historical_claim": "১৮৮২ সালের ব্যাংক অব জাপান আইনের অধীনে ব্যাংক অব জাপান প্রতিষ্ঠিত হয় এবং ১০ অক্টোবর ১৮৮২ তারিখে জাপানের কেন্দ্রীয় ব্যাংক হিসেবে কার্যক্রম শুরু করে।",
-      "notes": "The Bank of Japan's official history verifies that the Bank of Japan Act was promulgated in June 1882 and operations began on 10 October 1882, but the current linked page is an institutional history rather than the original 1882 law. Retain Grade B until the original Japanese law/Official Gazette passage is directly locked."
+      "notes": "Japan's National Archives identifies the surviving file '日本銀行創立ノ件' (The Founding of the Bank of Japan), with document photographs and full-text access. The National Archives description states that the Bank of Japan Ordinance was promulgated in June 1882 and that the Bank opened in October 1882 as a joint-stock company with 10 million yen capital; it identifies the published materials as the approval document for the founding and the Bank of Japan Ordinance. The Bank of Japan's official history independently records promulgation in June and commencement of operations on 10 October 1882. This directly supports Grade A."
     },
     {
       "source_id": "baring-crisis-1890",
