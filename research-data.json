@@ -6257,5 +6257,53 @@
       "Lock a proposition-level original-witness citation for the 1694 Bank Act.",
       "Then reassess A-grade eligibility under the frozen evidence standard."
     ]
+  },
+  "audit_10_18": {
+    "title": "Statutory physical-page lock audit — Round II",
+    "date": "2026-10-02",
+    "scope": "Attempted scan-level physical-page verification for Henry VIII 1545, Elizabeth I 1571, James I 1624, Bank of England Act 1694, and adjacent statutory A-candidates.",
+    "method": "Searched for readable scans and independent bibliographic witnesses capable of tying the exact proposition-level passage to the named printed edition/page. Stable chapter citations and secondary page references were treated as corroboration only, not as substitutes for scan verification.",
+    "findings": [
+      {
+        "id": "henry-viii-usury-act-1545",
+        "result": "No independent scan-level passage/page lock established; retain B.",
+        "evidence": "Statutes of the Realm vol. III pp. 996–997 remains a stable bibliographic reference, and Wikisource's chronological table identifies 37 Hen. VIII c. 9 as the Usury Act, but the exact printed passage was not independently readable in the retrieved scan layer."
+      },
+      {
+        "id": "elizabeth-usury-act-1571",
+        "result": "No independent scan-level passage/page lock established; retain B.",
+        "evidence": "Statutes of the Realm vol. IV p. 542–543 is independently cited in modern scholarship, while the retrieved statutory index confirms the chapter identity; exact printed passage/page image was not independently locked."
+      },
+      {
+        "id": "james-usury-act-1624",
+        "result": "No independent scan-level passage/page lock established; retain B.",
+        "evidence": "Statutes of the Realm vol. IV pp. 1223–1224 remains the recorded bibliographic reference; exact printed passage/page image was not independently locked."
+      },
+      {
+        "id": "bank-act-1694",
+        "result": "No original statute-book physical-page lock established; retain B.",
+        "evidence": "The original enactment identity 5 & 6 Will. & Mar. c. 20 and the £1.5 million long-title context are independently confirmed, but the retrieved sources do not provide a verified original statute-book page for the proposition-level passage."
+      },
+      {
+        "id": "usury-laws-repeal-1854",
+        "result": "Primary original enactment is confirmed, but no independent printed-page lock was added in this round; retain B.",
+        "evidence": "The original enactment is 17 & 18 Vict. c. 90 and the 1854 public-general-statutes corpus is independently identified, but the exact printed page/passage was not locked to the repository's A-grade standard."
+      },
+      {
+        "id": "bank-charter-act-1844",
+        "result": "Primary original enactment and §1 are confirmed, but no new physical-page lock was established; retain B.",
+        "evidence": "The original enactment is 7 & 8 Vict. c. 32 and §1 establishes the separate Issue Department; the retrieved material confirms the text but not an independently locked printed statute-book page."
+      }
+    ],
+    "result": {
+      "grades_changed": 0,
+      "distribution": "Research / Usury ledger remains A=8, B=46, C=4, D=1",
+      "decision": "Do not inflate A-grade counts. The current evidence supports continued B status for this statutory cluster."
+    },
+    "next_priority": [
+      "Pursue a directly readable scan of Statutes of the Realm vol. III for 37 Hen. VIII c. 9.",
+      "Pursue directly readable scans of Statutes of the Realm vol. IV for 13 Eliz. I c. 8 and 21 Jac. I c. 17.",
+      "If those remain inaccessible, move to the next B-grade records with independently obtainable edition/page evidence rather than infer page locks."
+    ]
   }
 }
