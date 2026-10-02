@@ -5038,23 +5038,34 @@
       ]
     },
     {
-      "id": "bank-act-1878",
+      "id": "bills-of-exchange-act-1878",
       "date_start": "1878",
       "date_end": "1878",
       "date_label": "1878 CE",
-      "title": "Banking legislation after the 1870s crises",
-      "source_type": "Banking legislation",
+      "title": "Bills of Exchange Act 1878",
+      "source_type": "Mercantile/credit legislation",
       "author": "Parliament of the United Kingdom",
-      "reference_number": "Banking Act 1878",
+      "reference_number": "Bills of Exchange Act 1878, 41 & 42 Vict. c. 13, section 1; printed p.93",
       "language": "English",
       "primary_or_secondary": "Primary",
-      "historical_claim": "Late nineteenth-century British banking legislation refined the institutional framework governing banks and the Bank of England after the crisis-era developments of the 1860s and 1870s.",
-      "context": "Post-1866 banking consolidation.",
-      "verification_status": "YELLOW — primary statute identified; section-level passage verification pending",
-      "source_url": "https://www.legislation.gov.uk/",
+      "historical_claim": "The Bills of Exchange Act 1878 declared that an acceptance of a bill of exchange was not insufficient merely because it consisted of the drawee's signature written on the bill, clarifying a rule governing a major negotiable credit instrument.",
+      "context": "Late nineteenth-century development of the legal framework for bills of exchange and negotiable credit instruments.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Vict/41-42/13/pdfs/ukpga_18780013_en.pdf",
       "web_sources": [
-        "turn0search13"
-      ]
+        "turn2search21",
+        "turn2search22"
+      ],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 1 is directly identified in the Queen's Printer text and the printed page is locked to p.93.",
+      "passage_record": {
+        "locator": "Bills of Exchange Act 1878, 41 & 42 Vict. c. 13, section 1",
+        "edition": "The Public General Statutes, 1878, 41 & 42 Vict.",
+        "printed_page": "93",
+        "short_quote": "An acceptance of a bill of exchange is not and shall not be deemed to be insufficient",
+        "evidence_function": "Primary statutory clarification of the legal validity of a form of acceptance of bills of exchange.",
+        "limits": "This establishes the statutory rule concerning acceptance of bills of exchange; it does not by itself establish the scale, economic effects, or broader consequences of bill financing in the late nineteenth century."
+      }
     },
     {
       "id": "gold-standard-late19",
@@ -5085,7 +5096,7 @@
       "thornton-paper-credit-1802",
       "bank-charter-amendment-1866",
       "bagehot-lombard-street-1873",
-      "bank-act-1878",
+      "bills-of-exchange-act-1878",
       "gold-standard-late19"
     ],
     "key_caution": "Do not present the late nineteenth-century gold standard as a single universal statute. Country-specific legal and institutional passages must be added separately.",
