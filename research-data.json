@@ -5312,6 +5312,32 @@
       }
     },
     {
+      "id": "finance-act-1916-national-debt",
+      "date_start": "1916-05-19",
+      "date_end": "1916-05-19",
+      "date_label": "19 May 1916",
+      "title": "Finance Act 1916 — National Debt and Loans",
+      "source_type": "National debt and borrowing legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Finance Act 1916, 6 & 7 Geo. 5 c. 24, sections 58–60; printed p.29",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Finance Act 1916 temporarily expanded Treasury borrowing powers for Ways and Means purposes, subject to a five-year repayment or redemption limit, and authorized arrangements for exchanging securities issued under wartime loan legislation.",
+      "context": "Wartime modification of the statutory national-debt and borrowing framework.",
+      "verification_status": "GREEN — primary statute and section-level passages verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/pdfs/ukpga_19160024_en.pdf",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; sections 58–60 directly establish the temporary borrowing and war-securities exchange powers.",
+      "passage_record": {
+        "locator": "Finance Act 1916, sections 58–60",
+        "edition": "The Public General Acts, 1916, 6 & 7 Geo. 5.",
+        "printed_page": "29",
+        "short_quote": "The Treasury may during the continuance of the present war ... borrow",
+        "evidence_function": "Primary statutory evidence of expanded temporary borrowing powers and statutory machinery for exchange of wartime securities.",
+        "limits": "This establishes statutory borrowing and securities-exchange powers; it does not quantify borrowing actually undertaken, investor composition, or wider monetary effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
