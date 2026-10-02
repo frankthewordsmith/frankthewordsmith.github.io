@@ -4595,6 +4595,63 @@
         "Why Only Usury Invokes Allah's War?"
       ],
       "last_verified": "2026-10-02"
+    },
+    {
+      "source_id": "js-mill-paper-currency-commercial-distress-1826",
+      "title": "John Stuart Mill, “Paper Currency and Commercial Distress” (1826)",
+      "source_type": "Essay",
+      "date_start": "1826",
+      "date_end": "1826",
+      "date_label": "1826",
+      "civilization": "British",
+      "region": "United Kingdom",
+      "language": "English",
+      "reference_number": "Collected Works, vol. IV, “Paper Currency and Commercial Distress,” pp.108–109",
+      "primary_or_secondary": "Primary",
+      "edition": "John Stuart Mill, “Paper Currency and Commercial Distress” (1826), in Collected Works of John Stuart Mill, vol. IV, Essays on Economics and Society Part I, edited by John M. Robson, Toronto: University of Toronto Press, 1967, pp.108–109.",
+      "publisher": "University of Toronto Press",
+      "publication_year": 1967,
+      "page": "108–109",
+      "source_url": "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+      "verification_status": "GREEN — primary essay verified; Collected Works vol. IV pp.108–109 locked",
+      "evidence_grade_8_1": "A",
+      "evidence_grade_basis_8_1": "Primary Mill essay, exact title and edition, and edition-specific printed pages 108–109 verified.",
+      "evidence_grade": "A",
+      "publication_status": "named primary source with exact essay and edition-specific printed pages verified",
+      "conversion_status_8_1": "Upgraded to A after direct edition/page verification.",
+      "bibliography_entry": "Mill, John Stuart. “Paper Currency and Commercial Distress” (1826). In Collected Works of John Stuart Mill, vol. IV, Essays on Economics and Society Part I, edited by John M. Robson. Toronto: University of Toronto Press, 1967, pp. 108–109.",
+      "original_text": "“is the repeal of the Usury Laws.”",
+      "historical_claim": "In his 1826 essay on commercial distress, Mill argued that repeal of the Usury Laws would have materially relieved contemporary distress and mitigated future distress, and explained how legal interest limits could redirect crisis financing into forced sales of securities and goods.",
+      "context": "Written in the context of the commercial distress of 1825–1826, the essay discusses currency, credit, borrowing constraints, and the operation of the Usury Laws during crisis conditions.",
+      "interpretation": "Direct primary evidence of Mill's pre-1854 argument for repeal of the Usury Laws and his explanation of their practical effects during commercial distress.",
+      "bn_title": "জন স্টুয়ার্ট মিল, “Paper Currency and Commercial Distress” (1826)",
+      "bn_historical_claim": "১৮২৬ সালের এই প্রবন্ধে মিল যুক্তি দেন যে Usury Laws বাতিল করা হলে তৎকালীন বাণিজ্যিক সংকট লাঘব এবং ভবিষ্যৎ সংকট প্রশমনে গুরুত্বপূর্ণ ভূমিকা রাখতে পারত।",
+      "bn_context": "১৮২৫–১৮২৬ সালের বাণিজ্যিক সংকটের প্রেক্ষাপটে মিল মুদ্রা, ঋণ, সুদের আইনগত সীমা এবং সংকটকালে অর্থসংগ্রহের সমস্যাগুলো আলোচনা করেন।",
+      "bn_interpretation": "এটি ১৮৫৪ সালের repeal-এর বহু আগে মিলের নিজস্ব primary argument-এর সরাসরি প্রমাণ; তবে এটি Mill-এর argument, কোনো স্বাধীন statutory finding নয়।",
+      "bn_notes": "2026-10-02 verification lock: Collected Works of John Stuart Mill, vol. IV, “Paper Currency and Commercial Distress,” printed pp.108–109.",
+      "bn_verification_status": "GREEN — primary essay verified; Collected Works vol. IV pp.108–109 locked",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — Collected Works edition; printed pp.108–109 locked",
+        "locator": "Collected Works of John Stuart Mill, vol. IV, “Paper Currency and Commercial Distress,” printed pp.108–109",
+        "evidence": "Mill states that repeal of the Usury Laws would have relieved contemporary distress and mitigated future distress, then describes costly forced sales when legal borrowing was constrained.",
+        "significance": "Direct primary-text bridge between Mill's pre-1854 critique of usury-law restrictions and the later 1854 statutory repeal.",
+        "source_url": "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-principles-of-political-economy-part-i",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against the University of Toronto Press collected edition hosted by the Online Library of Liberty; printed pp.108–109 identified in the edition text.",
+        "page": "108–109"
+      },
+      "what_passage_establishes": "Mill explicitly advocated repeal of the Usury Laws in the context of commercial distress and connected legal borrowing limits with costly forced sales of securities and goods.",
+      "evidence_limits": "This establishes Mill's argument and contemporary interpretation of crisis effects; it does not independently quantify economy-wide effects or establish that repeal alone caused later economic changes.",
+      "related_sources": [
+        "usury-laws-repeal-1854",
+        "js-mill-principles-interest",
+        "js-mill-usury-law-effects"
+      ],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "last_verified": "2026-10-02"
     }
   ],
   "audit_5_4": {
