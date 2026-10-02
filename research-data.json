@@ -840,7 +840,7 @@
       "original_text": "Original Latin text not reproduced here without edition-level verification; see Digest 22.1, De usuris et fructibus et causis et omnibus accessionibus.",
       "translation": "Digest 22.1 is the Roman legal title concerning interest, fruits, causes, and related accessions; the record uses the title and locator rather than an unverified reconstructed quotation.",
       "translator": "",
-      "edition": "Corpus Iuris Civilis, Digesta; Mommsen/Krueger editions or a named modern translation",
+      "edition": "Theodor Mommsen and Paul Krueger (eds.), Corpus Iuris Civilis, Vol. I: Digesta (Berlin: Weidmann, 1895), editio stereotypa septima.",
       "publisher": "Multiple",
       "publication_year": 1900,
       "reference_number": "Digest 22.1, De usuris et fructibus et causis et omnibus accessionibus",
@@ -866,7 +866,7 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used",
+      "verification_status": "B-grade — individual primary fragment and stable Digest locator verified; edition-specific physical page not independently locked",
       "last_verified": "2026-09-22",
       "notes": " 8.1 conversion review: Latin primary text and title/fragment locator independently checked; retain B pending locked print-edition pagination.",
       "web_sources": [
@@ -876,13 +876,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Justinian, Digesta 22.1, De usuris et fructibus et causis et omnibus accessionibus; cite individual fragment (D. 22.1.xx) rather than a page number.",
       "passage_record": {
-        "status": "Citation framework verified — individual fragment required",
-        "locator": "Digesta 22.1, De usuris et fructibus et causis et omnibus accessionibus",
-        "evidence": "The title establishes a dedicated Justinianic compilation section on interest, fruits and related additions; each quotation requires an individual D.22.1.xx fragment locator.",
-        "significance": "Roman juristic treatment of interest as a developed legal category.",
-        "source_url": "https://academic.oup.com/book/36387/chapter-abstract/319983267",
-        "checked": "2026-09-23",
-        "verification_note": "The registry correctly identifies Digest 22.1 as De usuris et fructibus et causis et omnibus accessionibus, but no individual D.22.1.xx fragment is yet fixed. Exact propositions should not be quoted from the section heading alone."
+        "status": "Passage verified — individual fragment",
+        "locator": "Digesta 22.1.1 pr. (Papinianus, libro secundo quaestionum)",
+        "evidence": "The critical-text witness identifies D.22.1.1 pr. as Papinian, Questions 2: in a bonae fidei action, the judge determines the rate of interest according to the custom of the region where the contract was made, subject to the law.",
+        "significance": "Direct Roman juristic evidence for the legal treatment of interest within a good-faith action.",
+        "source_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm",
+        "checked": "2026-10-02",
+        "verification_note": "The individual fragment is now fixed at D.22.1.1 pr. The archive remains B because an edition-specific physical page in the locked Mommsen/Krueger volume has not been independently verified."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -958,7 +958,7 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used",
+      "verification_status": "B-grade — individual constitutions and stable Codex locators verified; edition-specific physical page not independently locked",
       "last_verified": "2026-09-22",
       "notes": " 8.1 conversion review: Codex 4.32 primary-text title and individual constitutions checked; retain B pending edition/page lock.",
       "web_sources": [
@@ -968,13 +968,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Justinian, Codex 4.32, De usuris; cite individual constitution (C. 4.32.xx).",
       "passage_record": {
-        "status": "Section and individual constitutions verified",
-        "locator": "Codex 4.32, De usuris",
-        "evidence": "Justinainic constitutions regulate interest; individual C.4.32.xx constitutions must be cited for exact propositions.",
-        "significance": "Imperial regulation of interest by legal category and circumstance.",
-        "source_url": "https://droitromain.univ-grenoble-alpes.fr/Anglica/CJ4_Scott.htm",
-        "checked": "2026-09-23",
-        "verification_note": "The current Krüger text confirms Codex 4.32 is De usuris and contains individual constitutions including C.4.32.26–28. The archive should cite the specific constitution for each proposition rather than the chapter generically."
+        "status": "Passage verified — individual constitutions",
+        "locator": "Codex 4.32.26–28 (De usuris)",
+        "evidence": "C.4.32.26 sets differentiated statutory interest ceilings for specified categories and bars judges from increasing the ceiling through local custom; C.4.32.27 addresses transition to the new limits and the double-principal ceiling; C.4.32.28 prohibits interest on interest.",
+        "significance": "Direct Justinianic imperial legislation regulating interest rates, enforcement limits, and anatocism.",
+        "source_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm",
+        "checked": "2026-10-02",
+        "verification_note": "The Krueger-based text verifies the individual constitutions. The record remains B because the exact physical page in the locked Krueger Codex edition has not been independently established."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1276,7 +1276,7 @@
       "original_text": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ...",
       "translation": "Those who consume ribā are contrasted with trade; the passage says God has permitted trade and forbidden ribā, and 2:279 says that after repentance the principal remains.",
       "translator": "",
-      "edition": "Primary English translation locked to M. A. S. Abdel Haleem, The Qur’an, Oxford World’s Classics (Oxford: Oxford University Press, 2004). Comparative: Nasr et al., The Study Quran, 1st ed. (New York: HarperOne, 2015).",
+      "edition": "Printed reference text: Qur’an, Cairo 1924 edition, as catalogued by Corpus Coranicum; comparative English translations may be used separately.",
       "publisher": "Oxford University Press",
       "publication_year": 2004,
       "reference_number": "Qur’an 2:275–279",
@@ -1302,7 +1302,7 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage-level record established",
+      "verification_status": "B-grade — Arabic passage and reference edition locked; edition-specific physical page not independently locked",
       "last_verified": "2026-09-22",
       "notes": "Use the Arabic verse as primary evidence and Abdel Haleem as the default English translation. The Study Quran is comparative commentary/translation.",
       "web_sources": [
@@ -1325,10 +1325,11 @@
       "passage_record": {
         "status": "Passage verified — canonical verse locator",
         "locator": "Qur’an 2:275–279",
-        "evidence": "The passage distinguishes trade from ribā and commands abandonment of outstanding ribā claims, culminating in the warning of 2:279.",
+        "evidence": "The passage distinguishes trade from ribā and commands abandonment of outstanding ribā claims, culminating in 2:279.",
         "significance": "Central Qur’anic passage for the prohibition of ribā.",
-        "source_url": "https://quran.com/2/275-279",
-        "checked": "2026-09-22"
+        "source_url": "https://corpuscoranicum.de/en/verse-navigator/sura/2/verse/275",
+        "checked": "2026-10-02",
+        "verification_note": "Corpus Coranicum identifies the Cairo 1924 printed edition as its reference text and provides the manuscript/printed-text evidence. The record remains B because no independently verified physical page number for the Cairo 1924 print witness has been locked."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -1556,7 +1557,7 @@
       "doi": "",
       "isbn": "",
       "primary_or_secondary": "Primary source",
-      "historical_claim": "The report identifies six commodities and sets conditions for exchange in equal measure and immediate hand-to-hand exchange.",
+      "historical_claim": "Sahih Muslim 1597 reports that the Prophet cursed the recipient and payer of ribā; when asked about the recorder and witnesses, the report says the narrator relates what he heard.",
       "context": "The report became a major textual basis for later juristic discussions of ribā in barter and exchange.",
       "interpretation": "The hadith does not itself provide the later school-specific analogical principles; those are developed in fiqh.",
       "counter_interpretations": "The schools differ over the effective legal cause (ʿilla) and the extension of the rule to other commodities.",
@@ -1571,7 +1572,7 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage-level record established",
+      "verification_status": "B-grade — primary passage and recorded edition-page reference identified; page not independently scan-verified",
       "last_verified": "2026-09-22",
       "notes": "Use al-Baqi numbering as the stable public locator; add print page only after checking the copy consulted.",
       "web_sources": [
@@ -1595,10 +1596,11 @@
       "passage_record": {
         "status": "Passage verified — stable hadith locator",
         "locator": "Sahih Muslim 1597; Abd al-Baqi numbering; archive baseline vol. 3, p. 1218",
-        "evidence": "Report identifies six commodities and requires equal and hand-to-hand exchange in the relevant transactions.",
-        "significance": "Major hadith basis for later classification of ribā al-fadl and ribā al-nasi’a.",
+        "evidence": "The report curses the recipient and payer of ribā and, in the continuation, addresses the recorder and two witnesses; the narrator states that he reports what he heard.",
+        "significance": "Primary hadith evidence concerning the prohibition and social/legal condemnation of participation in a ribā transaction.",
         "source_url": "https://sunnah.com/muslim:1597",
-        "checked": "2026-09-22"
+        "checked": "2026-10-02",
+        "verification_note": "The current Sunnah.com text and numbering confirm the proposition. The stored page 1218 belongs to the Abd al-Baqi edition baseline but has not been independently scan-verified in this audit."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "Primary text/passage has a stable locator; print/edition locking is not uniformly complete.",
@@ -3625,7 +3627,7 @@
       "primary_or_secondary": "Primary",
       "historical_claim": "Bentham argues against legal restraints on mutually agreed money bargains.",
       "context": "A philosophical/economic argument, not itself legislation.",
-      "verification_status": "A-grade — first-edition bibliographic record and first-edition page lock verified",
+      "verification_status": "B-grade — first-edition bibliographic record and page lock verified; independent A-grade passage metadata not yet recorded",
       "source_url": "https://www.econlib.org/library/Bentham/bnthUs.html?chapter_num=1",
       "web_sources": [
         "turn0search0",
@@ -6180,5 +6182,25 @@
       "quran-2-275-279"
     ],
     "retained_B_reason": "These remain B because their final edition-specific physical-page lock is still incomplete."
+  },
+  "audit_10_16": {
+    "title": "Next-target evidence normalization — Digest, Justinian Codex, Qur’an, Muslim 1597, Bentham",
+    "date": "2026-10-02",
+    "scope": "Targeted B-grade records requiring proposition-level correction or stronger passage metadata before any A-grade consideration",
+    "records_updated": [
+      "roman-digest-22-1",
+      "roman-codex-interest",
+      "quran-2-275-279",
+      "hadith-muslim-1597",
+      "bentham-defence-usury-i"
+    ],
+    "method": "Corrected individual proposition locators, source-edition metadata, and verification wording where the live record was broader or internally inconsistent. No record was upgraded to A without an independently verified edition-specific physical page.",
+    "result": "Five records received metadata/passsage normalization; evidence grades remain unchanged.",
+    "grade_distribution": "Research / Usury ledger remains A=8, B=46, C=4, D=1",
+    "next_priority": [
+      "Seek an independently verifiable physical-page lock for Digest 22.1.1 pr.",
+      "Seek the corresponding Krueger physical-page lock for Codex 4.32.26–28.",
+      "Then assess other B-grade records with realistic edition-page prospects, including the hadith and statutory clusters."
+    ]
   }
 }
