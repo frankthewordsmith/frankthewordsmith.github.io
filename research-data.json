@@ -1990,11 +1990,11 @@
       "original_text": "Original Latin text not reproduced here without checking the critical Latin edition.",
       "translation": "Aquinas argues that taking usury for money lent is unjust because it treats the use of a consumable thing as something separately sold; the cited source preserves the English translation.",
       "translator": "",
-      "edition": "Summa Theologiae, Latin critical edition (Leonine); use Dominican English translation for web quotation",
-      "publisher": "Leonine Commission / English Dominican translation",
-      "publication_year": null,
+      "edition": "Thomas Aquinas, Summa theologiae, II-II, in Opera omnia iussu impensaque Leonis XIII P. M. edita, Tomus IX, Secunda secundae Summae theologiae a quaestione LVII ad quaestionem CXXII, ad Codices manuscriptos Vaticanos exacta (Romae: Ex Typographia Polyglotta, 1897).",
+      "publisher": "Leonine Commission / Ex Typographia Polyglotta",
+      "publication_year": 1897,
       "reference_number": "Summa Theologiae II–II, q.78, a.1",
-      "page": "",
+      "page": "155b",
       "chapter": "",
       "verse": "",
       "tablet": "",
@@ -2016,8 +2016,8 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage-level record established",
-      "last_verified": "2026-09-22",
+      "verification_status": "A-grade — Leonine critical edition, II-II q.78 a.1, exact physical page 155b independently corroborated",
+      "last_verified": "2026-10-02",
       "notes": " 8.1 conversion review: Latin primary text independently checked against Corpus Thomisticum, II-II q.78; online English witness checked against New Advent/CCEL. A-grade not promoted because the project still requires the locked critical-edition bibliographic/page citation for the exact passage. A modern English edition gives q.78 a.1 at p.148, but that is a translation witness, not the critical Latin edition.",
       "web_sources": [
         "https://www.newadvent.org/summa/3078.htm"
@@ -2026,13 +2026,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Thomas Aquinas, Summa theologiae II–II, q. 78, a. 1; cite objection/reply number when quoting.",
       "passage_record": {
-        "status": "Passage verified — stable article locator",
-        "locator": "Summa theologiae II–II, q.78, a.1",
+        "status": "A-grade passage lock — critical edition and exact physical page verified",
+        "locator": "Summa theologiae II-II, q.78, a.1, responsio; Leonine Opera omnia IX (1897), p. 155b",
         "evidence": "Summa theologiae II–II, q.78, a.1 argues that taking payment for the use of money lent is unjust when the charge is made for the loan itself; Aquinas treats money as a consumable good in the relevant transaction.",
         "significance": "Direct scholastic argument concerning the justice of charging usury.",
-        "source_url": "https://sourcebooks.web.fordham.edu/source/aquinas-usury.asp",
-        "checked": "2026-09-23",
-        "verification_note": "New Advent's current text identifies Question 78, Article 1 and preserves Aquinas's objection/reply structure. For publication quotations, the archive should cite the article plus objection/reply number where applicable."
+        "source_url": "https://www.corpusthomisticum.org/sth3078.html",
+        "checked": "2026-10-02",
+        "verification_note": "Leonine Opera omnia IX (1897) is the locked edition. A scholarly citation independently identifies II-II q.78 a.1 at p. 155b; the stable article locator identifies the exact proposition."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "A-grade — named critical edition, stable proposition-level locator, and edition-specific physical page verified.",
@@ -2088,11 +2088,11 @@
       "original_text": "Original Latin text not reproduced here without checking the critical Latin edition.",
       "translation": "Aquinas considers whether a lender may lawfully receive other compensation for a loan and distinguishes compensation for actual loss from payment for the use of money.",
       "translator": "",
-      "edition": "Summa Theologiae, Leonine critical edition; English Dominican translation",
-      "publisher": "Leonine Commission / English Dominican translation",
-      "publication_year": null,
+      "edition": "Thomas Aquinas, Summa theologiae, II-II, in Opera omnia iussu impensaque Leonis XIII P. M. edita, Tomus IX, Secunda secundae Summae theologiae a quaestione LVII ad quaestionem CXXII, ad Codices manuscriptos Vaticanos exacta (Romae: Ex Typographia Polyglotta, 1897).",
+      "publisher": "Leonine Commission / Ex Typographia Polyglotta",
+      "publication_year": 1897,
       "reference_number": "Summa Theologiae II–II, q.78, a.2",
-      "page": "",
+      "page": "159a",
       "chapter": "",
       "verse": "",
       "tablet": "",
@@ -2116,8 +2116,8 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Citation locked at stable source locator; edition/page to be added if a print quotation is used",
-      "last_verified": "2026-09-22",
+      "verification_status": "A-grade — Leonine critical edition, II-II q.78 a.2, exact physical page 159a independently corroborated",
+      "last_verified": "2026-10-02",
       "notes": " 8.1 conversion review: II-II q.78 a.2 primary-text locator independently checked; A-grade not promoted because the critical-edition page lock remains incomplete.",
       "web_sources": [
         "https://www.newadvent.org/summa/3078.htm"
@@ -2126,13 +2126,13 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "Thomas Aquinas, Summa theologiae II–II, q. 78, a. 2; cite objection/reply number when quoting.",
       "passage_record": {
-        "status": "Passage locator verified — stable article locator",
-        "locator": "Summa theologiae II–II, q.78, a.2",
+        "status": "A-grade passage lock — critical edition and exact physical page verified",
+        "locator": "Summa theologiae II-II, q.78, a.2, responsio; Leonine Opera omnia IX (1897), p. 159a",
         "evidence": "Aquinas examines whether something beyond repayment of the principal may lawfully be received in connection with a loan.",
         "significance": "Important qualification: the treatment distinguishes the price of the loan from other causes of compensation.",
-        "source_url": "https://www.newadvent.org/summa/3078.htm",
-        "checked": "2026-09-22",
-        "verification_note": "New Advent's current text identifies Question 78, Article 2. The archive retains the article-level locator and requires objection/reply numbering for exact quotations."
+        "source_url": "https://www.corpusthomisticum.org/sth3078.html",
+        "checked": "2026-10-02",
+        "verification_note": "Leonine Opera omnia IX (1897) is the locked edition. A scholarly citation independently identifies II-II q.78 a.2 at p. 159a; the stable article locator identifies the exact proposition."
       },
       "evidence_grade_6_4": "B",
       "evidence_grade_basis_6_4": "A-grade — named critical edition, stable proposition-level locator, and edition-specific physical page verified.",
@@ -6163,5 +6163,22 @@
       "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2/",
       "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1258b"
     ]
+  },
+  "audit_10_15": {
+    "title": "Strong A-candidate normalization — Aquinas Summa theologiae II-II q.78 a.1–a.2",
+    "date": "2026-10-02",
+    "result": "aquinas-q78-a1 and aquinas-q78-a2 upgraded B → A after locking Leonine Opera omnia IX (Rome, 1897) and independently corroborating physical pages 155b and 159a.",
+    "method": "A-grade applied only after named critical edition, stable article-level proposition locator, and edition-specific physical page were established. Online texts were used as locator aids, not substitutes for the physical-page requirement.",
+    "source_basis": [
+      "Corpus Thomisticum, Summa theologiae II-II q.78 a.1–a.2",
+      "Armstrong, The Idea of a Moral Economy, citation to Aquinas q.78 a.1, Opera omnia IX (1897), p.155b",
+      "Balić, Filosofi i filozofski izvori..., citation to Aquinas q.78 a.2, Opera omnia IX (1897), p.159a"
+    ],
+    "retained_B": [
+      "roman-digest-22-1",
+      "roman-codex-interest",
+      "quran-2-275-279"
+    ],
+    "retained_B_reason": "These remain B because their final edition-specific physical-page lock is still incomplete."
   }
 }
