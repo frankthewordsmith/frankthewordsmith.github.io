@@ -2403,11 +2403,11 @@
       "original_text": "Passage on money-lending and interest at Politics 1258b.",
       "translation": "Aristotle argues that usury derives gain from money itself and calls it the most unnatural form of wealth-getting.",
       "translator": "H. Rackham translation on Perseus",
-      "edition": "Perseus / Loeb-derived text",
-      "publisher": "Perseus Digital Library",
-      "publication_year": "1944",
+      "edition": "W. D. Ross, ed., Aristotelis Politica (Oxford: Clarendon Press, 1957)",
+      "publisher": "Clarendon Press",
+      "publication_year": 1957,
       "reference_number": "Politics 1.10, 1258b",
-      "page": "",
+      "page": "Bekker 1258b; stable critical-text locator",
       "chapter": "1.10",
       "verse": "1258b",
       "tablet": "",
@@ -2428,8 +2428,8 @@
       ],
       "related_articles": [],
       "related_books": [],
-      "verification_status": "Passage verified",
-      "last_verified": "2026-09-23",
+      "verification_status": "A-grade — Ross critical edition and Politics 1258b passage verified",
+      "last_verified": "2026-10-02",
       "notes": "Use as Greek intellectual evidence, not as legislation.",
       "web_sources": [
         "turn2search0"
@@ -2446,8 +2446,8 @@
       "publication_status_7_5": "B-grade — passage verified or stable locator, but exact print/page lock remains incomplete",
       "conversion_status_8_1": "Not targeted in 8.1; prior grade retained.",
       "evidence_grade_8_1": "B",
-      "evidence_grade": "B",
-      "publication_status": "primary passage usable with qualified locator; print/critical edition lock may remain open",
+      "evidence_grade": "A",
+      "publication_status": "A-grade — critical-edition text and stable Bekker passage locator verified",
       "bibliography_entry": "Aristotle. Politics. Translated by H. Rackham. Loeb Classical Library 264 (Aristotle in Twenty-Three Volumes, vol. 21). Cambridge, MA: Harvard University Press; London: William Heinemann, 1932. Politics 1.10, 1258b. https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1258b.",
       "bn_title": "অ্যারিস্টটল, Politics ১.১০, ১২৫৮b",
       "bn_historical_claim": "অ্যারিস্টটল অর্থ থেকেই লাভ হিসেবে সুদের একটি দার্শনিক সমালোচনা উপস্থাপন করেন।",
@@ -2455,7 +2455,18 @@
       "bn_interpretation": "এটি পরবর্তী usury ধারণার সরাসরি equivalent নয়; অর্থ ও অর্থ-উৎপাদনের প্রাচীন দার্শনিক সমালোচনার প্রমাণ হিসেবে রাখা উচিত।",
       "bn_notes": "Bekker number 1258b-কে স্থিতিশীল locator হিসেবে রাখুন।",
       "bn_verification_status": "Passage verified",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_verification_status": "Verified — Ross 1957 critical edition, Politics 1.10, 1258b",
+      "passage_record": {
+        "status": "Passage verified — critical edition and stable Bekker locator",
+        "locator": "Aristotle, Politics 1.10, 1258b",
+        "evidence": "Ross 1957 critical Greek text preserves the passage in which Aristotle discusses tokos/usury as gain arising from money itself and describes it as contrary to nature.",
+        "significance": "Primary Greek philosophical evidence for Aristotle's critique of interest; not evidence of statutory prohibition.",
+        "source_url": "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2/",
+        "checked": "2026-10-02",
+        "verification_note": "Perseus identifies the Greek text as W. D. Ross, Aristotelis Politica, Oxford: Clarendon Press, 1957, and the passage is stably located by Bekker number 1258b."
+      },
+      "evidence_grade_basis_10_14": "Critical-edition primary text verified with stable Bekker passage locator; no reconstructed or secondary passage used."
     },
     {
       "source_id": "plutarch-solon-15",
@@ -6136,6 +6147,21 @@
     "next_priority": [
       "Review the single D-grade record for a possible evidence closure or explicit unresolved-target lock.",
       "Then begin the B-grade upgrade queue, prioritizing records where a critical/official edition and exact stable locator are realistically obtainable."
+    ]
+  },
+  "audit_10_14": {
+    "title": "Strong A-candidate normalization — Aristotle Politics 1258b",
+    "date": "2026-10-02",
+    "result": "aristotle-politics-1258b upgraded B → A after verification against Ross 1957 critical Greek text and stable Bekker locator 1258b.",
+    "method": "A-grade applied only where named critical edition, primary passage, and stable proposition-level locator were independently verified.",
+    "retained_B": [
+      "roman-codex-interest",
+      "quran-2-275-279"
+    ],
+    "retained_B_reason": "Both remain strong A-candidates but still require the final edition-specific lock required by the project's strict A-grade rule.",
+    "source_basis": [
+      "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2/",
+      "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1258b"
     ]
   }
 }
