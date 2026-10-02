@@ -3197,7 +3197,7 @@
       ],
       "related_articles": [],
       "related_books": [],
-      "verification_status": "Primary statute verified — stable transcription; statute-book page lock pending",
+      "verification_status": "B-grade — primary statute, stable chapter citation, and Statutes of the Realm page range identified; proposition-level scan verification remains pending",
       "last_verified": "2026-09-23",
       "notes": "The 1545 text is directly available in a stable transcription. For publication, use the statutory citation 37 Hen. VIII c. 9 and lock the quotation against an authoritative statute-book scan. Contemporary/modern legal sources confirm the statute number and chronology. 8.1 conversion review: statute citation 37 Hen. VIII c.9 and enacted-text witness checked; retain B until a specific historical print/scan pagination is locked.",
       "web_sources": [
@@ -3228,7 +3228,16 @@
       "bn_interpretation": "মধ্যযুগীয় ধর্মীয় condemnation ও ক্রমবর্ধমান rate-based statutory regulation-এর মধ্যে সেতু হিসেবে কাজ করে।",
       "bn_notes": "37 Hen. VIII c.9 citation বজায় রাখুন এবং quotation authoritative statute-book scan-এর সঙ্গে lock করুন।",
       "bn_verification_status": "Primary statute verified — stable transcription; statute-book page lock pending",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage framework verified",
+        "locator": "37 Hen. VIII c. 9, especially the provision setting the statutory ceiling; Statutes of the Realm, vol. III, pp. 996–997",
+        "evidence": "The 1545 statute regulates interest/usury and sets a statutory ceiling in the cited provision.",
+        "significance": "Primary statutory evidence for Tudor regulation of usury.",
+        "source_url": "https://www.legislation.gov.uk/aep/Hen8/37/9/contents/enacted",
+        "checked": "2026-10-02",
+        "verification_note": "The Statutes of the Realm page range is recorded in the research baseline, but the exact printed passage has not yet been independently scan-verified. Remain B."
+      }
     },
     {
       "source_id": "elizabeth-usury-act-1571",
@@ -3257,7 +3266,7 @@
       ],
       "related_articles": [],
       "related_books": [],
-      "verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending",
+      "verification_status": "B-grade — primary statute, stable chapter citation, and Statutes of the Realm page range identified; proposition-level scan verification remains pending",
       "last_verified": "2026-09-23",
       "notes": "The 13 Eliz. c. 8 identification is independently confirmed by legal-historical sources and the 1854 repeal schedule. Exact quotation should still be locked to a scanned statute-book edition. 8.1 conversion review: statute citation 13 Eliz. I c.8 retained; exact historical print/scan pagination remains to be locked.",
       "web_sources": [
@@ -3288,7 +3297,16 @@
       "bn_interpretation": "moral/religious condemnation ও numerical legal ceiling একই statutory framework-এ সহাবস্থান করতে পারে—এটি তার প্রমাণ।",
       "bn_notes": "13 Eliz. I c.8 citation বজায় রাখুন; exact quotation scanned statute-book edition-এ lock করুন।",
       "bn_verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage framework verified",
+        "locator": "13 Eliz. I c. 8; Statutes of the Realm, vol. IV, pp. 542–543",
+        "evidence": "The 1571 statute re-establishes statutory regulation of interest/usury within the cited chapter.",
+        "significance": "Primary statutory evidence for Elizabethan regulation of interest.",
+        "source_url": "https://www.legislation.gov.uk/aep/Eliz1/13/8/contents/enacted",
+        "checked": "2026-10-02",
+        "verification_note": "The statutory chapter and cited Statutes of the Realm page range are retained, but the exact printed passage has not yet been independently scan-verified. Remain B."
+      }
     },
     {
       "source_id": "james-usury-act-1624",
@@ -3317,7 +3335,7 @@
       ],
       "related_articles": [],
       "related_books": [],
-      "verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending",
+      "verification_status": "B-grade — primary statute, stable chapter citation, and Statutes of the Realm page range identified; proposition-level scan verification remains pending",
       "last_verified": "2026-09-23",
       "notes": "The 21 Jac. I c. 17 identification and 8% statutory ceiling are independently confirmed by legal-historical sources. Exact quotation should still be locked to a scanned statute-book edition. 8.1 conversion review: statute citation 21 Jac. I c.17 retained; exact historical print/scan pagination remains to be locked.",
       "web_sources": [
@@ -3348,7 +3366,16 @@
       "bn_interpretation": "ধর্মীয় condemnation বজায় রেখেও প্রশাসনিকভাবে নির্ধারিত rate-এর দিকে অগ্রসর হওয়ার প্রমাণ।",
       "bn_notes": "21 Jac. I c.17 ও 8% ceiling-এর citation বজায় রাখুন; historical print/scan pagination lock করুন।",
       "bn_verification_status": "Primary statute verified — stable secondary transcription; statute-book page lock pending",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage framework verified",
+        "locator": "21 Jac. I c. 17; Statutes of the Realm, vol. IV, pp. 1223–1224",
+        "evidence": "The 1624 statute continues statutory regulation of interest/usury and is recorded as taking effect in 1625.",
+        "significance": "Primary statutory evidence for the early Stuart usury regime.",
+        "source_url": "https://www.legislation.gov.uk/aep/Ja1/21/17/contents/enacted",
+        "checked": "2026-10-02",
+        "verification_note": "The chapter citation and Statutes of the Realm page range are retained, but the exact printed passage has not yet been independently scan-verified. Remain B."
+      }
     },
     {
       "source_id": "boe-charter-1694",
@@ -3439,7 +3466,7 @@
       ],
       "related_articles": [],
       "related_books": [],
-      "verification_status": "Primary statute identified and citation corrected; exact passage/page lock pending",
+      "verification_status": "B-grade — primary statute and stable chapter citation verified; exact original statute-book page/passage lock remains pending",
       "last_verified": "2026-09-23",
       "notes": "Corrected statutory citation to 5 & 6 Will. & Mar. c. 20. The Act is distinct from the 27 July 1694 Royal Charter. 8.1 conversion review: original enactment citation 5 & 6 Will. & Mar. c.20 and official enacted-text witness checked; retain B pending locked historical print/scan pagination.",
       "web_sources": [
@@ -3476,7 +3503,16 @@
       "bn_interpretation": "taxation ও subscribers-এর promised return-এর মাধ্যমে public credit institutionalize হওয়ার প্রমাণ।",
       "bn_notes": "5 & 6 Will. & Mar. c.20 citation বজায় রাখুন; Royal Charter 27 July 1694-এর সঙ্গে গুলিয়ে ফেলবেন না।",
       "bn_verification_status": "Primary statute identified and citation corrected; exact passage/page lock pending",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage framework verified — original statute identified",
+        "locator": "5 & 6 Will. & Mar. c. 20 (Bank of England Act 1694); cite the specific section for each proposition",
+        "evidence": "The 1694 statute is the enactment conventionally cited as 5 & 6 Will. & Mar. c. 20 and contains the statutory provisions connected with the £1.5 million advance and associated parliamentary arrangements.",
+        "significance": "Primary statutory evidence for the 1694 parliamentary financing arrangement associated with the Bank of England's foundation.",
+        "source_url": "https://www.legislation.gov.uk/aep/WillandMar/5-6/20/contents/enacted",
+        "checked": "2026-10-02",
+        "verification_note": "The statute identity and chapter citation are independently confirmed, but the original statute-book page and proposition-level section lock have not yet been independently verified in a physical scan. Remain B."
+      }
     },
     {
       "source_id": "bentham-defence-usury-1787",
@@ -6201,6 +6237,25 @@
       "Seek an independently verifiable physical-page lock for Digest 22.1.1 pr.",
       "Seek the corresponding Krueger physical-page lock for Codex 4.32.26–28.",
       "Then assess other B-grade records with realistic edition-page prospects, including the hadith and statutory clusters."
+    ]
+  },
+  "audit_10_17": {
+    "title": "Statutory B-grade normalization — 1694, 1545, 1571, 1624",
+    "date": "2026-10-02",
+    "scope": "Four statutory records in the Research / Usury ledger with stable act/chapter citations but incomplete physical page verification",
+    "records_updated": [
+      "bank-act-1694",
+      "henry-viii-usury-act-1545",
+      "elizabeth-usury-act-1571",
+      "james-usury-act-1624"
+    ],
+    "method": "Normalized passage-level metadata and verification wording. No evidence grade was promoted without independent scan verification of the named statute-book witness/page.",
+    "result": "Four records now have explicit passage frameworks and clearer publication limits; all remain B.",
+    "grade_distribution": "Research / Usury ledger remains A=8, B=46, C=4, D=1",
+    "next_priority": [
+      "Locate scan-verified Statutes of the Realm pages for the 1545, 1571 and 1624 statutes.",
+      "Lock a proposition-level original-witness citation for the 1694 Bank Act.",
+      "Then reassess A-grade eligibility under the frozen evidence standard."
     ]
   }
 }
