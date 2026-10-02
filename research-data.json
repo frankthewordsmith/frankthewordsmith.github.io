@@ -5259,6 +5259,33 @@
       }
     },
     {
+      "id": "currency-bank-notes-amendment-1914",
+      "date_start": "1914-08-28",
+      "date_end": "1914-08-28",
+      "date_label": "28 August 1914",
+      "title": "Currency and Bank Notes (Amendment) Act 1914",
+      "source_type": "Currency and banking legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Currency and Bank Notes (Amendment) Act 1914, 4 & 5 Geo. 5 c. 72, sections 1–2; printed p.585",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Currency and Bank Notes (Amendment) Act 1914 extended the Treasury's power to call in currency notes by allowing exchange for other notes of the same face value, and authorized the Treasury to issue certificates entitling holders to obtain specified currency notes on demand.",
+      "context": "A wartime amendment, enacted shortly after the August 1914 currency legislation, refining the administrative machinery for issuing and exchanging Treasury currency notes.",
+      "verification_status": "GREEN — primary statute and section-level passages verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/4-5/72/pdfs/ukpga_19140072_en.pdf",
+      "web_sources": ["turn2view0"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; sections 1 and 2 directly establish the amended Treasury powers and certificate mechanism.",
+      "passage_record": {
+        "locator": "Currency and Bank Notes (Amendment) Act 1914, sections 1–2",
+        "edition": "The Public General Acts, 1914, 4 & 5 Geo. 5.",
+        "printed_page": "585",
+        "short_quote": "The power of the Treasury to call in currency notes ... shall be extended",
+        "evidence_function": "Primary statutory evidence of the immediate administrative expansion of Treasury powers over currency-note exchange and issuance.",
+        "limits": "This establishes statutory machinery only; it does not quantify note circulation, monetary expansion, or economic effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
