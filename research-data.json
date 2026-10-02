@@ -4776,6 +4776,73 @@
       "what_passage_establishes": "Mill’s 1857 testimony records his position that legal restriction on Bank of England note issue should be limited to convertibility.",
       "evidence_limits": "This establishes Mill’s institutional argument/testimony, not an independent finding about the Bank Act’s economic effects or a general rule about all banking systems.",
       "last_verified": "2026-10-02"
+    },
+    {
+      "source_id": "js-mill-currency-banking-1867",
+      "title": "John Stuart Mill, “Currency and Banking” (1867)",
+      "source_type": "Parliamentary/commission questionnaire response",
+      "date_start": "1867",
+      "date_end": "1867",
+      "date_label": "1867",
+      "civilization": "British",
+      "region": "United Kingdom",
+      "language": "French",
+      "reference_number": "Answers to the French Imperial Commission of Inquiry on Currency and Banking; Collected Works vol. IV, printed pp.599–601",
+      "primary_or_secondary": "Primary",
+      "edition": "John Stuart Mill, “Currency and Banking” (1867), in Collected Works of John Stuart Mill, vol. IV, Essays on Economics and Society Part I, edited by John M. Robson, Toronto: University of Toronto Press, 1967, pp.599–612; opening response at printed p.601.",
+      "publisher": "University of Toronto Press",
+      "publication_year": 1967,
+      "page": "601",
+      "source_url": "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+      "verification_status": "GREEN — primary 1867 questionnaire response verified; Collected Works vol. IV printed pp.599–601 locked",
+      "evidence_grade_8_1": "A",
+      "evidence_grade_basis_8_1": "Primary response by Mill to the French Imperial Commission's currency-and-banking questionnaire; exact work locator, original 1867 provenance, and edition-specific printed page 601 verified.",
+      "evidence_grade": "A",
+      "publication_status": "named primary institutional evidence with exact work and edition-specific printed page verified",
+      "conversion_status_8_1": "Entered at A after direct edition/page and provenance verification.",
+      "bibliography_entry": "Mill, John Stuart. “Currency and Banking” (1867). In Collected Works of John Stuart Mill, vol. IV, Essays on Economics and Society Part I, edited by John M. Robson. Toronto: University of Toronto Press, 1967, pp.599–612; opening response at p.601.",
+      "original_text": "“l’immense absorption des capitaux disponibles de la France”",
+      "historical_claim": "In his 1867 response to the French Imperial Commission's currency-and-banking inquiry, Mill attributed the 1863–64 monetary crisis in general terms to the large absorption of available French capital by unproductive expenditure, long-term productive investment, and government borrowing.",
+      "context": "The collected edition places “Currency and Banking” at pp.599–612. The editor's note states that the text consists of Mill's signed answers in French to the questionnaire of the Imperial Commission d'Enquête on monetary and fiduciary circulation, originally printed with its 1867 report. The first answer begins on printed p.601.",
+      "interpretation": "This is a post-1854 primary institutional/economic anchor showing Mill applying his monetary and banking analysis to a documented international financial crisis. It complements, rather than replaces, the 1857 Bank Acts testimony.",
+      "counter_interpretations": [
+        "The response is Mill's assessment of causes, not an independent statistical reconstruction of the 1863–64 crisis.",
+        "The passage concerns monetary and banking conditions in France and should not be generalized automatically to the legal operation or economic consequences of the British Usury Laws."
+      ],
+      "scholarly_references": [
+        "Robson, John M., ed., Collected Works of John Stuart Mill, vol. IV (Toronto: University of Toronto Press, 1967).",
+        "Enquête sur les principes et les faits généraux qui régissent la circulation monétaire et fiduciaire, vol. V (Paris: Imprimerie impériale, 1867), 589–596."
+      ],
+      "related_sources": [
+        "usury-laws-repeal-1854",
+        "js-mill-bank-acts-1857",
+        "js-mill-paper-currency-commercial-distress-1826",
+        "js-mill-profits-interest-1844",
+        "js-mill-principles-interest",
+        "js-mill-usury-law-effects",
+        "bank-charter-act-1844",
+        "bank-act-1878"
+      ],
+      "bn_title": "জন স্টুয়ার্ট মিল, “Currency and Banking” (১৮৬৭)",
+      "bn_historical_claim": "১৮৬৭ সালে ফরাসি Imperial Commission-এর মুদ্রা ও ব্যাংকিং-সংক্রান্ত প্রশ্নমালার উত্তরে মিল ১৮৬৩–৬৪ সালের আর্থিক সংকটকে উপলব্ধ ফরাসি মূলধনের বৃহৎ পরিমাণ শোষণের সঙ্গে যুক্ত করেন।",
+      "bn_context": "Collected Works vol. IV-তে “Currency and Banking” printed pp.599–612; প্রথম উত্তর printed p.601-এ।",
+      "bn_interpretation": "এটি ১৮৫৪ সালের পর Mill-এর monetary এবং banking analysis-এর একটি primary institutional/economic anchor, যা ১৮৫৭ সালের Bank Acts testimony-র পরবর্তী পর্যায়কে নথিভুক্ত করে।",
+      "bn_notes": "2026-10-02 verification lock: Collected Works of John Stuart Mill, vol. IV, printed pp.599–601; original response to the 1867 French Imperial Commission.",
+      "bn_verification_status": "GREEN — primary 1867 questionnaire response verified; printed p.601 locked",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — Collected Works edition; printed p.601 locked",
+        "locator": "Currency and Banking (1867), first response under “Des crises monétaires”; Collected Works vol. IV, printed p.601",
+        "evidence": "Mill identifies the general cause of the 1863–64 monetary crisis as the immense absorption of available French capital, then specifies unproductive expenditure, long-term productive investment, and government borrowing.",
+        "significance": "Primary post-1854 institutional/economic anchor showing Mill applying monetary and banking analysis to an actual international crisis.",
+        "source_url": "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+        "checked": "2026-10-02",
+        "verification_note": "The scholarly edition's editor's note identifies the work as Mill's signed French answers to the Imperial Commission's questionnaire and places the opening response at printed p.601.",
+        "page": "601"
+      },
+      "what_passage_establishes": "Mill's 1867 response provides his contemporary analysis of the causes of the 1863–64 monetary crisis and connects crisis conditions to capital absorption and banking/monetary dynamics.",
+      "evidence_limits": "This establishes Mill's contemporary analytical testimony, not an independent causal determination of the crisis and not direct evidence about the British Usury Laws.",
+      "last_verified": "2026-10-02"
     }
   ],
   "audit_5_4": {
