@@ -5338,6 +5338,33 @@
       }
     },
     {
+      "id": "finance-act-1917-war-loan-depreciation-fund",
+      "date_start": "1917",
+      "date_end": "1917",
+      "date_label": "1917 CE",
+      "title": "Finance Act 1917 — War Loan Depreciation Fund",
+      "source_type": "National debt and war-loan legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Finance Act 1917, 7 & 8 Geo. 5 c. 31, section 32; printed p.21",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "Section 32 required the Treasury to establish depreciation funds for specified five per cent and four per cent war loans, with authority to issue sums from the Consolidated Fund for those funds and to use the funds to purchase and cancel qualifying stock or bonds.",
+      "context": "Wartime national-debt management mechanism introduced in 1917 for specified government war loans.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/7-8/31/pdfs/ukpga_19170031_en.pdf",
+      "web_sources": ["turn0search24","turn0search1"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 32 directly establishes the depreciation-fund mechanism, funding authority, and permitted purchase and cancellation of specified war-loan securities.",
+      "passage_record": {
+        "locator": "Finance Act 1917, section 32(1)–(2)",
+        "edition": "The Public General Acts, 1917, 7 & 8 Geo. 5.",
+        "printed_page": "21",
+        "short_quote": "The Treasury shall by regulations establish a depreciation fund",
+        "evidence_function": "Primary statutory evidence of a formal debt-management mechanism for specified wartime government securities.",
+        "limits": "This establishes the statutory debt-management mechanism; it does not quantify purchases, cancellations, investor behavior, or the market effects of the fund."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
