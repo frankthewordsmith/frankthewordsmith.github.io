@@ -5178,6 +5178,33 @@
       }
     },
     {
+      "id": "moneylenders-act-1900",
+      "date_start": "1900",
+      "date_end": "1900",
+      "date_label": "1900 CE",
+      "title": "Moneylenders Act 1900",
+      "source_type": "Moneylending legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Moneylenders Act 1900, 63 & 64 Vict. c. 51, section 1; printed p.155",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Moneylenders Act 1900 empowered courts, in proceedings concerning a moneylender's loan, to reopen a transaction when the interest or charges and the circumstances of the transaction were such that the transaction was harsh and unconscionable and warranted relief in equity.",
+      "context": "The Act introduced statutory controls over professional moneylenders at the opening of the twentieth century, including court supervision of qualifying loan transactions.",
+      "verification_status": "GREEN — primary statute and section-level provision verified; printed-page lock recorded",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1900/51/pdfs/ukpga_19000051_en.pdf",
+      "web_sources": ["turn1search0","turn6search3"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 1 is directly identified in contemporary legal materials as the statutory basis for reopening harsh and unconscionable moneylending transactions.",
+      "passage_record": {
+        "locator": "Moneylenders Act 1900, section 1",
+        "edition": "The Public General Acts, 1900, 63 & 64 Vict.",
+        "printed_page": "155",
+        "short_quote": "the court shall have power to reopen the transaction",
+        "evidence_function": "Primary statutory evidence of judicial control over qualifying moneylending transactions on grounds including excessive interest/charges and harshness or unconscionability.",
+        "limits": "This establishes the statutory court remedy for professional moneylending transactions; it does not establish the prevalence of excessive rates, aggregate lending volumes, or economy-wide interest-rate effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
