@@ -5286,6 +5286,32 @@
       }
     },
     {
+      "id": "war-loan-1915",
+      "date_start": "1915-07-02",
+      "date_end": "1915-07-02",
+      "date_label": "2 July 1915",
+      "title": "War Loan Act 1915",
+      "source_type": "War finance legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "War Loan Act 1915, 5 & 6 Geo. 5 c. 55, section 1; printed p.1",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Act authorized the Treasury to raise specified wartime sums by creating and issuing securities, including securities bearing rates of interest and conditions as to repayment or redemption determined by the Treasury.",
+      "context": "Wartime borrowing legislation following the War Loan Act 1914.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/5-6/55/pdfs/ukpga_19150055_en.pdf",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 1 directly establishes the borrowing and securities authority.",
+      "passage_record": {
+        "locator": "War Loan Act 1915, section 1(1)",
+        "edition": "The Public General Acts, 1915, 5 & 6 Geo. 5.",
+        "printed_page": "1",
+        "short_quote": "securities bearing such rate of interest and subject to such conditions as to repayment, redemption, or otherwise, as they think fit",
+        "evidence_function": "Primary statutory evidence of wartime government borrowing authority and Treasury control over interest and redemption terms.",
+        "limits": "This establishes statutory authority and terms; it does not establish amounts actually subscribed, private-market rates, or broader monetary effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
