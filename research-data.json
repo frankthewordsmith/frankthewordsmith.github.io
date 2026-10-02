@@ -5151,6 +5151,33 @@
       }
     },
     {
+      "id": "public-works-loans-1897",
+      "date_start": "1897",
+      "date_end": "1897",
+      "date_label": "1897 CE",
+      "title": "Public Works Loans Act 1897",
+      "source_type": "Public lending legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Public Works Loans Act 1897, 60 & 61 Vict. c. 51, section 1; printed p.152",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Public Works Loans Act 1897 authorized the Treasury to fix the rates of interest on loans from the Local Loans Fund secured on local rates, with the statutory minimum set at two and three quarters per cent per annum and the stated requirement that rates be sufficient to avoid loss to the Local Loans Fund.",
+      "context": "Late nineteenth-century statutory administration of public lending through the Local Loans Fund.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Vict/60-61/51/pdfs/ukpga_18970051_en.pdf",
+      "web_sources": ["turn2view0","turn1search13"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 1 directly establishes the Treasury's authority and statutory minimum for the specified class of local loans.",
+      "passage_record": {
+        "locator": "Public Works Loans Act 1897, section 1",
+        "edition": "The Public General Acts, 1897, 60 & 61 Vict.",
+        "printed_page": "152",
+        "short_quote": "The rates of interest at which loans may be made out of the Local Loans Fund ... may be fixed by the Treasury from time to time",
+        "evidence_function": "Primary statutory evidence of a state-administered framework for setting interest rates on specified local public loans.",
+        "limits": "This establishes the statutory rate-setting framework for specified local loans; it does not establish prevailing private-market rates, monetary-policy effects, or broader economic outcomes."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
