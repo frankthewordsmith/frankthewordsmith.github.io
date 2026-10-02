@@ -4843,6 +4843,72 @@
       "what_passage_establishes": "Mill's 1867 response provides his contemporary analysis of the causes of the 1863–64 monetary crisis and connects crisis conditions to capital absorption and banking/monetary dynamics.",
       "evidence_limits": "This establishes Mill's contemporary analytical testimony, not an independent causal determination of the crisis and not direct evidence about the British Usury Laws.",
       "last_verified": "2026-10-02"
+    },
+    {
+      "source_id": "bagehot-lombard-street-1873",
+      "title": "Walter Bagehot, Lombard Street: A Description of the Money Market (1873)",
+      "source_type": "Economic and banking treatise",
+      "date_start": "1873",
+      "date_end": "1873",
+      "date_label": "1873",
+      "civilization": "British",
+      "region": "United Kingdom",
+      "language": "English",
+      "reference_number": "Third edition, Chapter V, “The Mode in Which the Value of Money is Settled in Lombard Street,” printed p.113",
+      "primary_or_secondary": "Primary",
+      "edition": "Walter Bagehot, Lombard Street: A Description of the Money Market, 3rd ed. London: Henry S. King & Co., 1873, Chapter V, printed p.113.",
+      "publisher": "Henry S. King & Co.",
+      "publication_year": 1873,
+      "page": "113",
+      "source_url": "https://staging.oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market",
+      "verification_status": "GREEN — contemporary primary edition verified; exact chapter and printed p.113 locked",
+      "evidence_grade_8_1": "A",
+      "evidence_grade_basis_8_1": "Contemporary 1873 primary edition; exact chapter locator and printed page 113 verified against the edition's table of contents and text.",
+      "evidence_grade": "A",
+      "publication_status": "named primary economic/banking treatise with exact chapter and edition-specific page verified",
+      "conversion_status_8_1": "Entered at A after direct edition/page verification.",
+      "bibliography_entry": "Bagehot, Walter. Lombard Street: A Description of the Money Market. 3rd ed. London: Henry S. King & Co., 1873, p.113.",
+      "original_text": "“The value of money is settled, like that of all other commodities, by supply and demand”",
+      "historical_claim": "Bagehot's 1873 analysis treats the value of money, including the money-market rate, as being determined through supply and demand, while explaining the Bank of England's influence as that of a major market participant rather than an absolute price setter.",
+      "context": "Chapter V begins at printed p.113 in the 1873 third edition. Bagehot explicitly frames the money market in terms of the supply and demand of money and then analyzes how the Bank's discount rate interacts with the wider London market.",
+      "interpretation": "This is a post-1854 primary economic anchor connecting the earlier Millian supply-and-demand treatment of interest with the institutional operation of the Bank of England and London money market.",
+      "counter_interpretations": [
+        "Bagehot's analysis is a contemporary economic interpretation, not statutory evidence about the Bank of England's legal powers.",
+        "The claim concerns the London money market and should not be generalized without qualification to every monetary system."
+      ],
+      "scholarly_references": [
+        "Bagehot, Walter. Lombard Street: A Description of the Money Market. 3rd ed. London: Henry S. King & Co., 1873.",
+        "Cambridge University Press edition, first published 1873."
+      ],
+      "related_sources": [
+        "js-mill-currency-banking-1867",
+        "js-mill-bank-acts-1857",
+        "js-mill-principles-interest",
+        "js-mill-usury-law-effects",
+        "usury-laws-repeal-1854",
+        "bank-charter-act-1844",
+        "bank-act-1878"
+      ],
+      "bn_title": "ওয়াল্টার ব্যাজহট, Lombard Street: A Description of the Money Market (১৮৭৩)",
+      "bn_historical_claim": "১৮৭৩ সালে ব্যাজহট অর্থের মূল্য ও money-market rate-কে supply এবং demand-এর পারস্পরিক ক্রিয়ার মাধ্যমে ব্যাখ্যা করেন এবং Bank of England-এর প্রভাবকে বাজারের একটি প্রধান অংশগ্রহণকারীর প্রভাব হিসেবে বিশ্লেষণ করেন।",
+      "bn_context": "১৮৭৩ সালের তৃতীয় সংস্করণের Chapter V printed p.113 থেকে শুরু হয়েছে।",
+      "bn_interpretation": "এটি ১৮৫৪ সালের পরের একটি primary economic anchor, যা Mill-এর supply-demand ভিত্তিক interest analysis-কে Bank of England ও London money market-এর institutional operation-এর সঙ্গে যুক্ত করে।",
+      "bn_notes": "2026-10-02 verification lock: Bagehot, Lombard Street, 3rd ed. (1873), Chapter V, printed p.113.",
+      "bn_verification_status": "GREEN — contemporary primary edition verified; printed p.113 locked",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — 1873 third edition; printed p.113 locked",
+        "locator": "Chapter V, “The Mode in Which the Value of Money is Settled in Lombard Street,” printed p.113",
+        "evidence": "Bagehot states that the value of money is settled by supply and demand, then explains the special institutional role of the Bank of England in the London money market.",
+        "significance": "Primary post-1854 bridge between interest-rate theory and the institutional operation of the central banking reserve.",
+        "source_url": "https://staging.oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market",
+        "checked": "2026-10-02",
+        "verification_note": "The 1873 third-edition table of contents places Chapter V at p.113, and the primary text begins the chapter on that page.",
+        "page": "113"
+      },
+      "what_passage_establishes": "Bagehot's 1873 primary text explicitly grounds the value of money in supply and demand and examines the Bank of England's influence on the London money market.",
+      "evidence_limits": "This establishes Bagehot's contemporary economic analysis; it does not itself establish the statutory content or economic effects of the Usury Laws repeal.",
+      "last_verified": "2026-10-02"
     }
   ],
   "audit_5_4": {
