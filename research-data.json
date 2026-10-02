@@ -5097,6 +5097,33 @@
       }
     },
     {
+      "id": "bills-of-exchange-act-1882",
+      "date_start": "1882",
+      "date_end": "1882",
+      "date_label": "1882 CE",
+      "title": "Bills of Exchange Act 1882",
+      "source_type": "Mercantile/credit legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "45 & 46 Vict. c. 61; sections 1-2 and 96; printed pp.1 and 32",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Act codified the law relating to bills of exchange, cheques, and promissory notes and provided for repeal of the enactments listed in its Second Schedule.",
+      "context": "Late nineteenth-century consolidation of the statutory framework for negotiable credit instruments.",
+      "verification_status": "GREEN — primary statute and section-level passages verified; printed-page locks confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1882/61/pdfs/ukpga_18820061_en.pdf",
+      "web_sources": ["turn0search3","turn0search0","turn0search12"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; the introductory text establishes the codification purpose and section 96 establishes the repeal provision.",
+      "passage_record": {
+        "locator": "Bills of Exchange Act 1882, sections 1-2 and 96",
+        "edition": "The Public General Acts, 1882, 45 & 46 Vict.",
+        "printed_pages": "1 and 32",
+        "short_quote": "An Act to codify the law relating to Bills of Exchange, Cheques, and Promissory Notes.",
+        "evidence_function": "Primary statutory evidence of codification and consolidation.",
+        "limits": "Does not by itself quantify economic use or broader economic effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
