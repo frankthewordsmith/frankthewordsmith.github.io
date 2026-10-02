@@ -5365,6 +5365,33 @@
       }
     },
     {
+      "id": "war-loan-1917",
+      "date_start": "1917-08-21",
+      "date_end": "1917-08-21",
+      "date_label": "21 August 1917",
+      "title": "War Loan Act 1917",
+      "source_type": "War finance legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "War Loan Act 1917, 7 & 8 Geo. 5 c. 41, section 1; printed p.89",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The War Loan Act 1917 authorized the Treasury to raise money for wartime supply and an additional sum not exceeding £250 million, including through securities carrying Treasury-determined interest and repayment or redemption conditions; it also applied specified statutory provisions governing earlier war loans to securities issued under the Act.",
+      "context": "Further wartime borrowing legislation and extension of the statutory framework governing successive war loans.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/7-8/41/pdfs/ukpga_19170041_en.pdf",
+      "web_sources": ["turn0search12","turn0search17"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 1 directly establishes the additional borrowing authority and applies specified earlier war-loan provisions.",
+      "passage_record": {
+        "locator": "War Loan Act 1917, section 1(1)–(2)",
+        "edition": "The Public General Acts, 1917, 7 & 8 Geo. 5.",
+        "printed_page": "89",
+        "short_quote": "a sum not exceeding two hundred and fifty million pounds",
+        "evidence_function": "Primary statutory evidence of additional wartime borrowing authority and continuity of the statutory framework for successive war loans.",
+        "limits": "This establishes legal borrowing authority and statutory continuity; it does not establish the amount actually raised, investor composition, market pricing, or monetary effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
