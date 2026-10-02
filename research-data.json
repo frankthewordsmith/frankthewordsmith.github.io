@@ -4533,6 +4533,68 @@
       "source_identity": "Bretton Woods Agreements Act 1945, 9 & 10 Geo. 6 c. 19, Chapter 19; United Kingdom statute enacted 20 December 1945.",
       "what_passage_establishes": "The Act's title and opening provisions establish its purpose of giving domestic effect to the IMF and IBRD agreements.",
       "evidence_limits": "The opening page establishes the statute's purpose and documentary identity; later sections must be cited separately for specific operative powers or obligations."
+    },
+    {
+      "source_id": "js-mill-usury-law-effects",
+      "title": "John Stuart Mill, Principles of Political Economy, Book III, Chapter XXIII, §3",
+      "source_type": "Economic treatise",
+      "date_start": "1848",
+      "date_end": "1848",
+      "date_label": "1848",
+      "civilization": "Classical political economy",
+      "region": "Britain",
+      "language": "English",
+      "reference_number": "Book III, Chapter XXIII, §3, “Circumstances which determine the fluctuations”",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "Mill argues that during commercial crises statutory limits on the rate of interest could force borrowers who could not obtain funds at the legal rate to pay substantially higher effective costs to compensate lenders for the legal penalties of exceeding the limit.",
+      "context": "Mill discusses fluctuations in the rate of interest during commercial crises and gives the operation of usury-law penalties as a historical example.",
+      "verification_status": "GREEN — primary passage verified; Collected Works vol. III printed p.651 locked",
+      "source_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/243/0223.03_Bk.pdf",
+      "web_sources": [
+        "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iii-principles-of-political-economy-part-ii"
+      ],
+      "evidence_grade_8_1": "A",
+      "evidence_grade_basis_8_1": "Primary Mill text, exact Book III ch. XXIII §3 locator, scholarly collected edition, and edition-specific printed page 651 verified.",
+      "evidence_grade": "A",
+      "publication_status": "named primary source with exact section and edition-specific printed page verified",
+      "conversion_status_8_1": "Upgraded to A after direct edition/page verification.",
+      "bibliography_entry": "Mill, John Stuart. Principles of Political Economy with Some of Their Applications to Social Philosophy. Book III, chapter XXIII, §3, “Circumstances which determine the fluctuations.” In Collected Works of John Stuart Mill, vol. III, edited by John M. Robson and introduction by V. W. Bladen. Toronto: University of Toronto Press, 1965, p. 651.",
+      "original_text": "“At such times the most calamitous consequences were formerly experienced from the attempt of the law to prevent more than a certain limited rate of interest from being given or taken.”",
+      "translation": "English original; no separate translation is required.",
+      "bn_title": "জন স্টুয়ার্ট মিল, Principles of Political Economy, Book III, Chapter XXIII, §3",
+      "bn_historical_claim": "মিল বর্ণনা করেন যে বাণিজ্যিক সংকটের সময় আইন দ্বারা সুদের হারে সীমা আরোপ করলে, নির্ধারিত হারে ঋণ না পাওয়া ঋণগ্রহীতাদেরকে আইনভঙ্গের ঝুঁকির ক্ষতিপূরণ হিসেবে আরও বেশি কার্যকর খরচ দিতে হতে পারে।",
+      "bn_context": "Book III, Chapter XXIII, §3-এ মিল সুদের হারের ওঠানামা এবং বাণিজ্যিক সংকটের মধ্যে usury law-এর প্রভাবের একটি ঐতিহাসিক উদাহরণ দেন।",
+      "bn_interpretation": "এটি usury-law ceiling-এর কার্যপ্রভাব সম্পর্কে মিলের সরাসরি primary-text observation; তবে এটি মিলের ঐতিহাসিক/অর্থনৈতিক ব্যাখ্যা, কোনো স্বতন্ত্র statutory finding নয়।",
+      "bn_notes": "2026-10-02 verification lock: Collected Works of John Stuart Mill, vol. III, Book III, ch. XXIII §3, printed p.651.",
+      "bn_verification_status": "GREEN — primary passage verified; Collected Works vol. III p.651 locked",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — Collected Works edition; printed p.651 locked",
+        "locator": "Collected Works of John Stuart Mill, vol. III, Book III, ch. XXIII, §3, printed p.651",
+        "evidence": "Printed p.651 contains Mill's §3 discussion of commercial crises and states that legal limits on interest could force borrowers unable to borrow at the legal rate to pay substantially higher rates to compensate lenders for risking statutory penalties.",
+        "significance": "Direct primary-text evidence connecting Mill's theory of interest-rate fluctuations with his historical discussion of the practical effects of usury-law limits during crises.",
+        "source_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/243/0223.03_Bk.pdf",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against the scholarly collected edition; printed page 651 and the §3 discussion are directly identifiable in the edition text.",
+        "page": "651"
+      },
+      "what_passage_establishes": "Mill's §3 provides a primary-text account of how statutory interest limits could affect borrowing costs during commercial crises, in his discussion of fluctuations in the rate of interest.",
+      "evidence_limits": "This establishes Mill's argument and historical observation; it does not by itself establish the legal scope of every usury law, quantify economy-wide effects, or prove causation independently of Mill's account.",
+      "edition": "John Stuart Mill, Principles of Political Economy with Some of Their Applications to Social Philosophy, Book III, Chapter XXIII, §3, in Collected Works of John Stuart Mill, vol. III (Toronto: University of Toronto Press, 1965), p.651.",
+      "publisher": "University of Toronto Press",
+      "publication_year": 1965,
+      "page": "651",
+      "chapter": "XXIII",
+      "section": "§3",
+      "related_sources": [
+        "usury-laws-repeal-1854",
+        "js-mill-principles-interest",
+        "ricardo-principles-ch-v"
+      ],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "last_verified": "2026-10-02"
     }
   ],
   "audit_5_4": {
