@@ -4652,6 +4652,64 @@
         "Why Only Usury Invokes Allah's War?"
       ],
       "last_verified": "2026-10-02"
+    },
+    {
+      "source_id": "js-mill-profits-interest-1844",
+      "title": "John Stuart Mill, “On Profits, and Interest” (1844), Essay IV",
+      "source_type": "Economic essay",
+      "date_start": "1844",
+      "date_end": "1844",
+      "date_label": "1844",
+      "civilization": "British",
+      "region": "United Kingdom",
+      "language": "English",
+      "reference_number": "Essays on Some Unsettled Questions of Political Economy, Essay IV, p.90",
+      "primary_or_secondary": "Primary",
+      "edition": "John Stuart Mill, “On Profits, and Interest” (1844), in Essays on Some Unsettled Questions of Political Economy, Collected Works of John Stuart Mill, vol. IV, edited by John M. Robson, Toronto: University of Toronto Press, 1967, p.90.",
+      "publisher": "University of Toronto Press",
+      "publication_year": 1967,
+      "page": "90",
+      "source_url": "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+      "verification_status": "GREEN — primary essay verified; Collected Works vol. IV printed p.90 locked",
+      "evidence_grade_8_1": "A",
+      "evidence_grade_basis_8_1": "Primary Mill essay, exact essay locator, scholarly collected edition, and edition-specific printed page 90 verified.",
+      "evidence_grade": "A",
+      "publication_status": "named primary source with exact essay and edition-specific printed page verified",
+      "conversion_status_8_1": "Upgraded to A after direct edition/page verification.",
+      "bibliography_entry": "Mill, John Stuart. “On Profits, and Interest” (1844). In Collected Works of John Stuart Mill, vol. IV, Essays on Economics and Society Part I, edited by John M. Robson. Toronto: University of Toronto Press, 1967, p. 90.",
+      "original_text": "“The circumstances which regulate the rate of interest have usually been treated ... in a vague, loose, and unscientific manner.”",
+      "historical_claim": "Mill's 1844 essay treats the rate of interest as a distinct subject, connecting short-run market fluctuations with demand and supply for loanable capital while distinguishing interest from the general rate of profit.",
+      "context": "Essay IV of Essays on Some Unsettled Questions of Political Economy, published in 1844 and included in the collected works at pp.290–308 in volume IV; the essay begins at printed p.90 in the 1844 standalone pagination used in the edition's internal essay text.",
+      "interpretation": "Primary evidence of Mill's developing analytical treatment of interest before the 1848 Principles and before the 1854 repeal of the Usury Laws.",
+      "bn_title": "জন স্টুয়ার্ট মিল, “On Profits, and Interest” (1844), Essay IV",
+      "bn_historical_claim": "১৮৪৪ সালের এই প্রবন্ধে মিল সুদের হারকে স্বতন্ত্রভাবে বিশ্লেষণ করেন এবং ঋণের চাহিদা-সরবরাহ ও মুনাফার হারের সঙ্গে এর সম্পর্ক ব্যাখ্যা করেন।",
+      "bn_context": "Essays on Some Unsettled Questions of Political Economy-এর Essay IV; ১৮৪৪ সালের মূল প্রবন্ধ।",
+      "bn_interpretation": "এটি ১৮৪৮ সালের Principles এবং ১৮৫৪ সালের Usury Laws repeal-এর পূর্ববর্তী Mill-এর সুদ-তত্ত্বের একটি primary-text anchor।",
+      "bn_notes": "2026-10-02 verification lock: Collected Works of John Stuart Mill, vol. IV; essay's printed p.90.",
+      "bn_verification_status": "GREEN — primary essay verified; printed p.90 locked",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — Collected Works edition; printed p.90 locked",
+        "locator": "Collected Works of John Stuart Mill, vol. IV, “On Profits, and Interest,” printed p.90",
+        "evidence": "The essay's opening analytical discussion distinguishes the rate of interest from the rate of profit and identifies demand and supply of loanable capital as central to short-run interest-rate movements.",
+        "significance": "Primary-text anchor for Mill's 1844 theory of interest between his 1826 critique of usury restrictions and his later Principles.",
+        "source_url": "https://staging.oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+        "checked": "2026-10-02",
+        "verification_note": "Verified against the scholarly collected edition and the essay's printed internal pagination; the collected volume contents identifies the essay at pp.290–308.",
+        "page": "90"
+      },
+      "what_passage_establishes": "Mill's 1844 essay explicitly treats interest as a distinct analytical variable and relates its fluctuations to loan demand and supply.",
+      "evidence_limits": "This establishes Mill's theoretical argument; it does not itself establish the legal operation or economic effects of the British Usury Laws.",
+      "related_sources": [
+        "js-mill-paper-currency-commercial-distress-1826",
+        "js-mill-principles-interest",
+        "js-mill-usury-law-effects",
+        "usury-laws-repeal-1854"
+      ],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "last_verified": "2026-10-02"
     }
   ],
   "audit_5_4": {
