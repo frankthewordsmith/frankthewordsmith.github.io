@@ -4710,6 +4710,72 @@
         "Why Only Usury Invokes Allah's War?"
       ],
       "last_verified": "2026-10-02"
+    },
+    {
+      "source_id": "js-mill-bank-acts-1857",
+      "title": "John Stuart Mill, “The Bank Acts” (1857)",
+      "source_type": "Parliamentary evidence / banking testimony",
+      "date_start": "1857",
+      "date_end": "1857",
+      "date_label": "12 June 1857",
+      "civilization": "British",
+      "region": "United Kingdom",
+      "language": "English",
+      "reference_number": "Select Committee on the Bank Acts, question 2010; Collected Works vol. IV, printed p.501",
+      "primary_or_secondary": "Primary",
+      "edition": "John Stuart Mill, “The Bank Acts” (1857), in Collected Works of John Stuart Mill, vol. IV, edited by John M. Robson, Toronto: University of Toronto Press, 1967, printed p.501.",
+      "publisher": "University of Toronto Press",
+      "publication_year": 1967,
+      "page": "501",
+      "source_url": "https://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+      "verification_status": "GREEN — primary parliamentary testimony verified; printed p.501 locked",
+      "evidence_grade_8_1": "A",
+      "evidence_grade_basis_8_1": "Primary testimony before the Select Committee on the Bank Acts on 12 June 1857; exact question locator and edition-specific printed page 501 verified.",
+      "evidence_grade": "A",
+      "publication_status": "named primary institutional evidence with exact question and edition-specific printed page verified",
+      "conversion_status_8_1": "Entered at A after direct question-level and printed-page verification.",
+      "bibliography_entry": "Mill, John Stuart. “The Bank Acts” (1857). In Collected Works of John Stuart Mill, vol. IV, edited by John M. Robson. Toronto: University of Toronto Press, 1967, pp.499–547; passage at printed p.501, question 2010.",
+      "original_text": "“there should not be any restriction by law, except that of convertibility”",
+      "historical_claim": "In testimony before the Select Committee on the Bank Acts in 1857, Mill argued that legal restriction on the Bank of England’s note issue should be limited to convertibility.",
+      "context": "The testimony was taken on 12 June 1857 during examination of the operation of the Bank Act of 1844. The scholarly collected edition identifies the evidence as Parliamentary Papers, 1857 (Session 2), X.i., 189–218, questions 2010–2318, and reproduces it beginning at printed p.501.",
+      "interpretation": "Direct institutional evidence of Mill’s post-1854 position on banking regulation, focused on the legal architecture governing bank-note issue and convertibility. This is Mill’s testimony, not a neutral description of the Act’s effects.",
+      "counter_interpretations": [
+        "Mill stated that he lacked practical first-hand acquaintance with commercial business; the testimony records his argument and understanding, not independent empirical verification.",
+        "The statement concerns Bank of England note issue and does not by itself establish the legal or economic consequences of the 1854 Usury Laws repeal."
+      ],
+      "scholarly_references": [
+        "Robson, John M., ed., Collected Works of John Stuart Mill, vol. IV (Toronto: University of Toronto Press, 1967).",
+        "Parliamentary Papers, 1857 (Session 2), X.i., 189–218, Minutes of Evidence taken before the Select Committee on the Bank Acts."
+      ],
+      "related_sources": [
+        "usury-laws-repeal-1854",
+        "js-mill-paper-currency-commercial-distress-1826",
+        "js-mill-profits-interest-1844",
+        "js-mill-principles-interest",
+        "js-mill-usury-law-effects",
+        "bank-charter-act-1844",
+        "bank-act-1878"
+      ],
+      "bn_title": "জন স্টুয়ার্ট মিল, “The Bank Acts” (১৮৫৭)",
+      "bn_historical_claim": "১৮৫৭ সালের Bank Acts-সংক্রান্ত কমিটি-সাক্ষ্যে মিল মত দেন যে Bank of England-এর নোট ইস্যুর ওপর আইনি সীমাবদ্ধতা convertibility-র শর্তে সীমিত থাকা উচিত।",
+      "bn_context": "১২ জুন ১৮৫৭ Select Committee on the Bank Acts-এর সামনে মিল সাক্ষ্য দেন। Collected Works vol. IV-তে সাক্ষ্যটি printed p.501 থেকে শুরু হয়েছে।",
+      "bn_interpretation": "এটি ১৮৫৪ সালের Usury Laws repeal-এর পর মিলের ব্যাংকিং-নিয়ন্ত্রণ বিষয়ক অবস্থানের একটি primary institutional anchor।",
+      "bn_notes": "2026-10-02 verification lock: Collected Works of John Stuart Mill, vol. IV, printed p.501; question 2010.",
+      "bn_verification_status": "GREEN — primary parliamentary testimony verified; printed p.501 locked",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — Collected Works edition; printed p.501 locked",
+        "locator": "Select Committee on the Bank Acts (1857), question 2010; Collected Works of John Stuart Mill, vol. IV, printed p.501",
+        "evidence": "Mill is asked about legal restrictions on the Bank of England’s note issue and answers that there should be no legal restriction except convertibility.",
+        "significance": "Primary institutional anchor linking Mill’s post-1854 economic thought to the statutory and operational framework of the Bank Act of 1844.",
+        "source_url": "https://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-iv-essays-on-economics-and-society-part-i",
+        "checked": "2026-10-02",
+        "verification_note": "The scholarly edition identifies the testimony as evidence before the Select Committee on the Bank Acts of 1857; the passage is question 2010 and appears on printed p.501.",
+        "page": "501"
+      },
+      "what_passage_establishes": "Mill’s 1857 testimony records his position that legal restriction on Bank of England note issue should be limited to convertibility.",
+      "evidence_limits": "This establishes Mill’s institutional argument/testimony, not an independent finding about the Bank Act’s economic effects or a general rule about all banking systems.",
+      "last_verified": "2026-10-02"
     }
   ],
   "audit_5_4": {
