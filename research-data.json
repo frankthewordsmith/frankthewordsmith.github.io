@@ -4102,6 +4102,67 @@
       "last_verified": "2026-10-03"
     },
     {
+      "source_id": "us-postwar-transition-1919",
+      "title": "U.S. Treasury Annual Report 1919 — Victory Loan and Post-War Financial Transition",
+      "source_type": "Government annual report",
+      "date_start": "1919",
+      "date_end": "1919",
+      "date_label": "Fiscal year ended June 30, 1919; report issued 1919",
+      "civilization": "United States",
+      "region": "North America",
+      "language": "English",
+      "reference_number": "U.S. Treasury, Annual Report for the Fiscal Year Ended June 30, 1919, with Appendices",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The 1919 Treasury record shows continuity of the wartime financing machinery through the Victory Liberty Loan and Treasury certificates, alongside a transition away from long-term war borrowing. Certificates remained a principal short-term financing instrument while the Victory loan completed the series of long-term government issues.",
+      "context": "The report records the post-armistice financing program, Victory Liberty Loan, Treasury certificates issued in anticipation of the loan and the Treasury's continuing use of depositary banks and Federal Reserve facilities during the transition from war finance.",
+      "verification_status": "GREEN — primary Treasury report with printed-page evidence verified",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1919-appendices-5565/fulltext",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1919-appendices-5565/fulltext"
+      ],
+      "evidence_grade": "A",
+      "evidence_grade_basis_8_1": "Primary Treasury annual report with edition-specific printed-page locators; key Victory loan and certificate passages locked to printed pp.55–57.",
+      "publication_status": "named primary source with exact printed-page locators verified",
+      "bibliography_entry": "United States. Department of the Treasury. Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1919, with Appendices. Government Printing Office, 1919, printed pp.55–57. FRASER.",
+      "original_text": "The report states that the Victory Liberty Loan completed the long-term loan program and that Treasury certificates continued as the chief medium of Treasury financing.",
+      "translation": "English original; no separate translation is required.",
+      "bn_title": "U.S. Treasury Annual Report 1919 — Victory Loan ও যুদ্ধোত্তর আর্থিক রূপান্তর",
+      "bn_historical_claim": "১৯১৯ সালের Treasury নথি দেখায় যে Victory Liberty Loan-এর মাধ্যমে যুদ্ধকালীন financing machinery কিছু সময় অব্যাহত ছিল, কিন্তু একই সঙ্গে দীর্ঘমেয়াদি যুদ্ধঋণ কর্মসূচির সমাপ্তি এবং যুদ্ধোত্তর আর্থিক রূপান্তর শুরু হয়। Treasury certificates স্বল্পমেয়াদি অর্থায়নের প্রধান মাধ্যম হিসেবে চলতে থাকে।",
+      "bn_context": "নথিতে armistice-এর পর Victory Liberty Loan, loan-এর আগে Treasury certificates এবং depositary banks ও Federal Reserve ব্যবস্থার মাধ্যমে Treasury financing-এর ধারাবাহিকতা নথিভুক্ত হয়েছে।",
+      "bn_interpretation": "১৯১৯-এর প্রমাণ continuity এবং transition—দুইটিই দেখায়। যুদ্ধকালীন borrowing machinery সঙ্গে সঙ্গে বিলুপ্ত হয়নি; বরং Victory Loan-এর মাধ্যমে তা শেষ দীর্ঘমেয়াদি পর্যায়ে যায়, এরপর certificates স্বল্পমেয়াদি financing-এর প্রধান মাধ্যম হয়ে থাকে।",
+      "bn_notes": "2026-10-03 deployment lock: printed pp.55–57-এ Victory Loan, Treasury certificates এবং post-war financing transition-এর মূল passages যাচাই করা হয়েছে।",
+      "bn_verification_status": "GREEN — primary Treasury report with printed-page evidence verified",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — primary Treasury report; printed pp.55–57 locked",
+        "locator": "Annual Report for fiscal year ended June 30, 1919, printed pp.55–57",
+        "evidence": "The report records certificates issued in anticipation of the Victory Liberty Loan, the March 3, 1919 authority for up to $7 billion of Treasury notes, and the continuing depositary-bank certificate system. It also records that the Victory loan completed the long-term loan series and that certificates thereafter became the chief medium of Treasury financing.",
+        "significance": "Direct primary evidence for the transition from wartime long-term borrowing to a post-war phase in which short-term Treasury certificates remained important.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1919-appendices-5565/fulltext",
+        "checked": "2026-10-03",
+        "verification_note": "Printed page numbers refer to the page numbers visible in the report, not PDF viewer pagination.",
+        "page": "55–57"
+      },
+      "what_passage_establishes": "The report establishes continuity of Treasury certificates and Federal Reserve/depositary-bank financing into 1919, while documenting the Victory loan as the final long-term loan in the wartime series and the beginning of a different post-war financing phase.",
+      "evidence_limits": "The annual report documents Treasury operations and financing policy; it is not by itself the complete statutory record. The March 3, 1919 Victory Liberty Loan Act and relevant Federal Reserve legislation should be cited separately for exact legal authority. It also does not by itself establish the full international monetary transition after World War I.",
+      "edition": "United States. Department of the Treasury, Annual Report for the Fiscal Year Ended June 30, 1919, with Appendices, Government Printing Office, 1919.",
+      "publisher": "U.S. Government Printing Office / FRASER",
+      "publication_year": 1919,
+      "page": "55–57",
+      "section": "Victory Liberty Loan; Treasury certificates; Public Moneys and Special Depositaries",
+      "related_sources": [
+        "us-war-finance-currency-1918",
+        "fed-act-1913"
+      ],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "scholarly_references": [
+        "Fifth Annual Report of the Federal Reserve Bank of New York, 1919, discussion of Treasury certificates and the end of long-term financing."
+      ],
+      "last_verified": "2026-10-03"
+    },
+    {
       "source_id": "banking-act-1933",
       "title": "Banking Act of 1933 / Glass-Steagall",
       "source_type": "Statute",
