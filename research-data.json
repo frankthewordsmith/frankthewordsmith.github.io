@@ -5068,6 +5068,35 @@
       }
     },
     {
+      "id": "bankers-books-evidence-act-1879",
+      "date_start": "1879",
+      "date_end": "1879",
+      "date_label": "1879 CE",
+      "title": "Bankers' Books Evidence Act 1879",
+      "source_type": "Banking/evidence legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Bankers' Books Evidence Act 1879, 42 Vict. c. 11, section 3; printed p.1",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Bankers' Books Evidence Act 1879 provided that, subject to the Act's conditions, a copy of an entry in a banker's book could be received in legal proceedings as prima facie evidence of the entry and the transactions and accounts recorded in it.",
+      "context": "Late nineteenth-century formalization of evidentiary treatment of bank records.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1879/11/pdfs/ukpga_18790011_en.pdf",
+      "web_sources": [
+        "turn3search24"
+      ],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 3 is directly identified in the Queen's Printer text and the scan is locked to its opening printed page.",
+      "passage_record": {
+        "locator": "Bankers' Books Evidence Act 1879, 42 Vict. c. 11, section 3",
+        "edition": "Queen's Printer text, 1879",
+        "printed_page": "1",
+        "short_quote": "a copy of any entry in a banker's book shall in all legal proceedings be received as prima facie evidence",
+        "evidence_function": "Primary statutory rule establishing evidentiary treatment of entries in bankers' books.",
+        "limits": "This establishes a legal evidentiary rule; it does not by itself establish the volume of banking activity, the reliability of individual records, or broader economic effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
