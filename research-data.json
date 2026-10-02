@@ -6078,5 +6078,64 @@
       "Calvin De Usuris Responsum remains Grade B pending primary-text edition lock.",
       "The remaining legacy records without passage_record require source-by-source normalization rather than bulk inferred passage creation."
     ]
+  },
+  "audit_11_0": {
+    "title": "C-Grade Evidence Closure Audit — Round I",
+    "date": "2026-10-02",
+    "scope": "Four remaining C-grade research records in the 59-record Research / Usury ledger",
+    "method": "Source-by-source verification against the repository's frozen evidence rules. C is retained where the underlying evidence is composite, reconstructed/damaged, or a later witness to an earlier historical event. No grade is promoted merely because an online text is accessible.",
+    "records_reviewed": [
+      {
+        "id": "ur-nammu",
+        "grade_before": "C",
+        "grade_after": "C",
+        "decision": "Retain C",
+        "reason": "CDLI verifies the interest provisions at d036–d041, but the record is explicitly a composite text assembled from multiple witnesses. The evidence is therefore primary but reconstructed/composite rather than a single intact physical witness.",
+        "verified_source": "CDLI RIME 3/2.01.01.20, composite Q000947, lines d036–d041",
+        "source_url": "https://cdli.earth/inscriptions/2234943",
+        "publication_rule": "Quote or paraphrase only with explicit composite/reconstruction qualification; do not describe the passage as one intact tablet."
+      },
+      {
+        "id": "eshnunna",
+        "grade_before": "C",
+        "grade_after": "C",
+        "decision": "Retain C",
+        "reason": "CDLI directly verifies Law 18a and its 20% silver / 33% grain calculations, but the accessible witness is explicitly catalogued as a composite text. This meets the project's C definition for composite/reconstructed evidence.",
+        "verified_source": "CDLI RIME 4.05.19.add03, composite P480696/Q006412, Law 18a, lines 62–63",
+        "source_url": "https://cdli.earth/inscriptions/2269340",
+        "publication_rule": "The 20% and 33% figures may be stated as rates specified by Law 18a, but not generalized into universal market rates."
+      },
+      {
+        "id": "hammurabi",
+        "grade_before": "C",
+        "grade_after": "C",
+        "decision": "Retain C",
+        "reason": "The surviving stele provides secure debt and agricultural-risk provisions, including §§48–52, but the familiar interest-rate sequence associated with traditional §88 lies in a damaged/missing portion of the transmitted text and is reconstructed in later editions. The Louvre documents the physical stele as broken.",
+        "verified_source": "Louvre collection record for the Hammurabi stele; Yale Avalon translation for surviving §§48–52 and the missing sequence",
+        "source_url": "https://collections.louvre.fr/en/ark:/53355/cl010174436",
+        "secondary_source_url": "https://avalon.law.yale.edu/ancient/hamcode.asp",
+        "publication_rule": "Use §§48–52 as secure surviving debt/crop-failure evidence. Do not present the traditional §88 rate wording as an intact surviving passage without an edition-specific textual justification."
+      },
+      {
+        "id": "plutarch-solon-15",
+        "grade_before": "C",
+        "grade_after": "C",
+        "decision": "Retain C",
+        "reason": "Plutarch's Life of Solon 15 is a later literary witness to Solon's earlier reforms. Perseus preserves the Perrin edition and explicitly records competing ancient accounts of the seisachtheia. It cannot be used as if it were Solon's original legislation.",
+        "verified_source": "Perseus, Plutarch, Life of Solon 15.3–5, Bernadotte Perrin edition",
+        "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Plut.+Sol.+15.5&lang=original",
+        "publication_rule": "Present as later evidence about remembered/reported Solonian reforms; do not present Plutarch's wording as the original Solonian law."
+      }
+    ],
+    "result": {
+      "records_reviewed": 4,
+      "grades_changed": 0,
+      "final_distribution": "Research / Usury ledger remains A=5, B=49, C=4, D=1",
+      "conclusion": "All four C-grade classifications remain justified under the frozen evidence standard. No C-grade record currently has sufficient evidence to warrant A or B promotion without changing the project's source-type rules."
+    },
+    "next_priority": [
+      "Review the single D-grade record for a possible evidence closure or explicit unresolved-target lock.",
+      "Then begin the B-grade upgrade queue, prioritizing records where a critical/official edition and exact stable locator are realistically obtainable."
+    ]
   }
 }
