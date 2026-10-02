@@ -5205,6 +5205,33 @@
       }
     },
     {
+      "id": "moneylenders-act-1911",
+      "date_start": "1911",
+      "date_end": "1911",
+      "date_label": "1911 CE",
+      "title": "Money-lenders Act 1911",
+      "source_type": "Moneylending legislation",
+      "author": "Parliament of the United Kingdom",
+      "reference_number": "Money-lenders Act 1911, 1 & 2 Geo. 5 c. 38, section 1; printed p.167",
+      "language": "English",
+      "primary_or_secondary": "Primary",
+      "historical_claim": "The Money-lenders Act 1911 amended the 1900 regime by protecting bona fide assignees or holders for value without notice of defects arising under section 2 of the Money-lenders Act 1900, while preserving the underlying invalidity rules in specified cases.",
+      "context": "Early twentieth-century refinement of statutory regulation of professional moneylending and the legal position of third parties dealing with moneylender agreements and securities.",
+      "verification_status": "GREEN — primary statute and section-level passage verified; printed-page lock confirmed",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo5/1-2/38/pdfs/ukpga_19110038_en.pdf",
+      "web_sources": ["turn1search13","turn0search21"],
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Primary Act of Parliament; section 1 directly states the protection for bona fide assignees or holders for value without notice and its limits.",
+      "passage_record": {
+        "locator": "Money-lenders Act 1911, section 1(1)–(3)",
+        "edition": "The Public General Acts, 1911, 1 & 2 Geo. 5.",
+        "printed_page": "167",
+        "short_quote": "any agreement with, or security taken by, a money-lender shall be ... valid in favour of any bona fide assignee or holder for value without notice",
+        "evidence_function": "Primary statutory evidence of a refinement to the legal treatment of moneylender contracts and securities, particularly the protection of bona fide third-party holders.",
+        "limits": "This establishes the legal rule and its exceptions; it does not quantify moneylending activity, interest rates, borrower outcomes, or economy-wide effects."
+      }
+    },
+    {
       "id": "gold-standard-late19",
       "date_start": "1870",
       "date_end": "1914",
