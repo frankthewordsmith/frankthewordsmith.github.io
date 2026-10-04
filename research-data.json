@@ -6156,6 +6156,83 @@
       "bn_notes": "১৯৩৩ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ১–৮-এর সঙ্গে যাচাই করা হয়েছে। নির্দিষ্ট ১৯৩৩ সালের আইন ও ঘোষণাগুলো পৃথক প্রাথমিক উৎস হিসেবে রেকর্ড করা হবে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-monetary-framework-1934",
+      "title": "U.S. Treasury Annual Report 1934 — Gold Reserve Act, Stabilization Fund, and Debt Expansion",
+      "source_type": "Government annual report",
+      "date_start": "1934",
+      "date_end": "1934",
+      "date_label": "Fiscal year ended June 30, 1934",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Gold Reserve Act; stabilization fund; public debt; gold revaluation",
+      "original_text": "The gross public debt outstanding at the end of fiscal year 1934 amounted to $27,053,141,414, compared with $22,538,672,560 on June 30, 1933, an increase of $4,514,468,854. The report also records the Gold Reserve Act of 1934 and the establishment of the $2,000,000,000 Exchange Stabilization Fund.",
+      "translation": "Treasury report, fiscal year 1934.",
+      "translator": "",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1934",
+      "publisher": "U.S. Government Printing Office",
+      "publication_year": "1934",
+      "reference_number": "Report on the Finances, pp. 6–8; monetary developments pp. 27–30",
+      "page": "6–8; 27–30",
+      "chapter": "The Public Debt / Monetary Developments",
+      "verse": "",
+      "tablet": "",
+      "section": "Gold revaluation, stabilization fund, and public-debt expansion",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1934-5580/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal year 1934 records a major consolidation of the 1933 emergency framework. Gross public debt increased by $4.514 billion, while the Treasury documented the Gold Reserve Act of 1934, the transfer of Federal Reserve bank gold to the Government, dollar revaluation, and creation of a $2 billion Exchange Stabilization Fund.",
+      "context": "The report distinguishes public-debt operations from monetary developments. The Gold Reserve Act and related January 1934 measures changed the legal and institutional position of gold, while debt and open-market security operations continued on a large scale.",
+      "interpretation": "1934 is a major institutional transition marker from emergency banking measures into a formalized monetary framework centered on Government ownership/control of monetary gold, dollar revaluation, and an Exchange Stabilization Fund. The debt increase shows that this monetary restructuring occurred alongside continued fiscal expansion.",
+      "counter_interpretations": [
+        "The $2 billion stabilization fund was created from the increase in the value of U.S.-held gold following dollar revaluation; it should not be treated as ordinary deficit borrowing.",
+        "The annual report is a fiscal-year account; the Gold Reserve Act was approved January 30, 1934 and therefore belongs to the middle of the fiscal year.",
+        "The debt increase and monetary revaluation are distinct accounting mechanisms and should not be presented as identical transactions."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-expansion-1933",
+        "us-treasury-debt-expansion-1932",
+        "us-treasury-debt-turn-1931"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages locked",
+      "last_verified": "2026-10-04",
+      "notes": "Public-debt evidence is locked to printed pp. 6–8. Monetary developments, including the Gold Reserve Act and stabilization fund, are locked to printed pp. 27–30.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1934-5580/fulltext"
+      ],
+      "citation_record": "",
+      "footnote_policy": "Every quotation or paraphrase should resolve to the locked printed-page locator for this edition.",
+      "bibliography_entry": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1934 (Washington: Government Printing Office, 1934), pp. 6–8, 27–30.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 6–8; monetary developments pp. 27–30",
+        "evidence": "The Treasury reports a $4.514 billion increase in gross public debt and documents the Gold Reserve Act, gold revaluation, and $2 billion Exchange Stabilization Fund.",
+        "significance": "Direct institutional evidence of the transition from 1933 emergency finance to the formalized 1934 monetary and gold-control framework.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1934-5580/fulltext",
+        "checked": "2026-10-04",
+        "verification_note": "Page lock follows the printed pagination of the 1934 annual report."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Primary Treasury annual report with exact printed-page evidence.",
+      "publication_status_6_6": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status_7_5": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status": "primary institutional evidence with exact printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৩৪ — গোল্ড রিজার্ভ অ্যাক্ট, স্ট্যাবিলাইজেশন ফান্ড ও ঋণ বৃদ্ধি",
+      "bn_historical_claim": "১৯৩৪ অর্থবছরের শেষে মোট সরকারি ঋণ ২৭.০৫৩ বিলিয়ন ডলারে পৌঁছে, যা ১৯৩৩ সালের ২২.৫৩৯ বিলিয়ন ডলারের তুলনায় ৪.৫১৪ বিলিয়ন ডলার বেশি। একই প্রতিবেদনে ১৯৩৪ সালের Gold Reserve Act এবং ২ বিলিয়ন ডলারের Exchange Stabilization Fund-এর প্রতিষ্ঠার কথা নথিভুক্ত করা হয়েছে।",
+      "bn_context": "প্রতিবেদনটি সরকারি ঋণ কার্যক্রম এবং মুদ্রা-সংক্রান্ত পরিবর্তনকে পৃথকভাবে দেখায়। ১৯৩৪ সালের Gold Reserve Act সোনার ওপর সরকারের নিয়ন্ত্রণ, ডলারের পুনর্মূল্যায়ন এবং Exchange Stabilization Fund-এর নতুন কাঠামো প্রতিষ্ঠা করে।",
+      "bn_interpretation": "১৯৩৪ সালে ১৯৩৩ সালের জরুরি আর্থিক কাঠামো একটি আনুষ্ঠানিক মুদ্রা কাঠামোয় রূপ নেয়। সরকারি সোনার মালিকানা/নিয়ন্ত্রণ, ডলারের পুনর্মূল্যায়ন এবং স্ট্যাবিলাইজেশন ফান্ডের সঙ্গে একই সময়ে সরকারি ঋণও দ্রুত বৃদ্ধি পায়।",
+      "bn_notes": "১৯৩৪ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ৬–৮ এবং মুদ্রা-উন্নয়ন সংক্রান্ত পৃষ্ঠা ২৭–৩০-এর সঙ্গে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
