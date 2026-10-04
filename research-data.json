@@ -8232,6 +8232,75 @@
       "bn_notes": "Treasury Department Document No. 3231-এর মুদ্রিত pp. 3–4, 18–22 ও 35–39 দিয়ে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-debt-management-1964",
+      "title": "U.S. Treasury Annual Report 1964 — Deficit Financing, Balance-of-Payments Debt Management, Foreign Borrowing, and Debt-Limit Expansion",
+      "source_type": "Institutional annual report",
+      "date_start": "1964-06-30",
+      "date_end": "1964-06-30",
+      "date_label": "Fiscal year ended June 30, 1964",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "administrative budget deficit; public debt; balance of payments; foreign borrowing; Treasury bills; debt limit",
+      "original_text": "The Treasury reported an $8.2 billion administrative budget deficit in fiscal 1964. Public debt outstanding reached $311.7 billion, an increase of about $5.9 billion. The report states that debt management was used to help maintain U.S. short-term interest rates at internationally competitive levels as part of efforts to correct the U.S. balance-of-payments deficit. Treasury bill supply was increased in support of Federal Reserve policy. The Treasury continued direct foreign borrowing begun in 1962, with foreign-currency nonmarketable securities increasing to $0.8 billion and dollar-denominated foreign nonmarketable securities declining to $0.4 billion. During the fiscal year Congress repeatedly increased the temporary public-debt limit, including to $309 billion and ultimately to $324 billion for fiscal 1965.",
+      "translation": "১৯৬৪ অর্থবছরে ট্রেজারি ৮.২ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১১.৭ বিলিয়ন ডলারের সরকারি ঋণ রিপোর্ট করে, যা আগের বছরের তুলনায় প্রায় ৫.৯ বিলিয়ন ডলার বেশি। প্রতিবেদনটি দেখায় যে মার্কিন balance-of-payments ঘাটতি মোকাবিলায় স্বল্পমেয়াদি সুদের হার আন্তর্জাতিকভাবে প্রতিযোগিতামূলক রাখার জন্য ঋণ-ব্যবস্থাপনা ব্যবহার করা হয়। ফেডারেল রিজার্ভের নীতিকে সমর্থন করতে Treasury bill-এর সরবরাহও বাড়ানো হয়। ১৯৬২ সালে শুরু হওয়া বৈদেশিক সরকারি সংস্থার কাছ থেকে সরাসরি ঋণগ্রহণ অব্যাহত থাকে; বৈদেশিক মুদ্রায় অ-বাজারযোগ্য সিকিউরিটি ০.৮ বিলিয়ন ডলারে বাড়ে এবং ডলার-নির্ধারিত সিকিউরিটি ০.৪ বিলিয়ন ডলারে নামে। একই বছরে অস্থায়ী সরকারি ঋণসীমা একাধিকবার বাড়িয়ে শেষে ১৯৬৫ অর্থবছরের জন্য ৩২৪ বিলিয়ন ডলার করা হয়।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against the named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1964",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1965",
+      "reference_number": "Treasury Department Document No. 3233",
+      "page": "3–4; 18–20; 60–61; 131",
+      "section": "Review of Fiscal Operations; Public Debt Management and Ownership; Public Debt Limit; Financial Policy",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1964-5456/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1964 combined a substantial administrative budget deficit with continued Federal debt growth and an increasingly explicit use of debt management as an instrument of balance-of-payments and monetary policy. The Treasury continued direct foreign borrowing from official agencies, while Congress repeatedly adjusted the temporary statutory debt limit.",
+      "context": "The report explains that debt management involved choices of securities, maturities, and timing with effects on financial markets and the economy. It states that a major policy objective was correcting the U.S. balance-of-payments deficit, and that debt management helped maintain short-term rates at internationally competitive levels. It also records Treasury bill expansion in support of Federal Reserve policy and continued foreign official borrowing.",
+      "interpretation": "1964 is a major institutional marker because Treasury debt management is described explicitly as serving both domestic financial conditions and the international balance-of-payments position. Foreign official borrowing and statutory debt-limit expansion continued alongside deficit financing, showing a financing system operating across domestic markets, foreign official institutions, the Federal Reserve, and Congress.",
+      "counter_interpretations": [
+        "$8.2 billion is the administrative budget deficit; it should not be equated mechanically with the $5.9 billion increase in public debt because the report identifies cash balances and other accounts as part of the reconciliation.",
+        "$311.7 billion is public debt outstanding, not the same figure as Federal debt including guaranteed obligations.",
+        "The report's statement that debt management was used to support balance-of-payments objectives describes Treasury policy and should not be read as proving that debt management alone caused changes in the external balance.",
+        "Foreign nonmarketable securities are distinct from ordinary marketable Treasury securities."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1963",
+        "us-treasury-debt-management-1962",
+        "us-treasury-debt-management-1961"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3233. Printed pp. 3–4 establish the fiscal totals; pp. 18–20 cover debt management and foreign borrowing; pp. 60–61 and p. 131 document debt-limit legislation and financing authority. FRASER's OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1964-5456/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 18–20, 60–61, 131",
+        "evidence": "The report records the $8.2 billion FY1964 administrative budget deficit, $311.7 billion public debt, debt-management use in support of balance-of-payments objectives, continued foreign official borrowing, Treasury-bill expansion in support of Federal Reserve policy, and repeated temporary debt-limit increases culminating in a $324 billion limit for FY1965.",
+        "significance": "Primary institutional evidence connecting deficit financing, monetary/debt-management policy, international balance-of-payments pressures, foreign official borrowing, and congressional debt-limit authority.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1964-5456/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Claims are tied to printed page labels; numerical quotations should be checked against the original scan because FRASER's OCR layer can contain extraction errors."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, foreign borrowing, monetary coordination, and debt-limit legislation.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৪ — ঘাটতি অর্থায়ন, balance-of-payments ঋণ-ব্যবস্থাপনা, বৈদেশিক ঋণগ্রহণ ও ঋণসীমা সম্প্রসারণ",
+      "bn_historical_claim": "১৯৬৪ অর্থবছরে ৮.২ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১১.৭ বিলিয়ন ডলারের সরকারি ঋণ ছিল। প্রতিবেদনটি মার্কিন balance-of-payments ঘাটতি মোকাবিলায় ঋণ-ব্যবস্থাপনা ব্যবহার এবং ফেডারেল রিজার্ভের নীতিকে সমর্থন করতে Treasury bill-এর সরবরাহ বাড়ানোর কথা স্পষ্টভাবে নথিভুক্ত করে। ১৯৬২ সালে শুরু হওয়া বৈদেশিক সরকারি সংস্থার কাছ থেকে সরাসরি ঋণগ্রহণও অব্যাহত থাকে।",
+      "bn_context": "প্রতিবেদনটি ঘাটতি অর্থায়ন, ঋণ-ব্যবস্থাপনা, স্বল্পমেয়াদি সুদের হার, বৈদেশিক সরকারি অর্থায়ন এবং কংগ্রেসের অস্থায়ী ঋণসীমা বৃদ্ধিকে একই আর্থিক কাঠামোর মধ্যে দেখায়।",
+      "bn_interpretation": "১৯৬৪ সালে ট্রেজারি ঋণ-ব্যবস্থাপনা কেবল ঘাটতি অর্থায়নের ব্যবস্থা হিসেবে নয়, দেশীয় আর্থিক পরিবেশ ও আন্তর্জাতিক balance-of-payments অবস্থাকে প্রভাবিত করার নীতিগত উপকরণ হিসেবেও বর্ণনা করে।",
+      "bn_notes": "Treasury Department Document No. 3233-এর মুদ্রিত pp. 3–4, 18–20, 60–61 ও 131 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
