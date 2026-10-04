@@ -8853,6 +8853,77 @@
       "bn_notes": "Treasury Department Document No. 3257-এর মুদ্রিত pp. 3–4, 18–19, 26, 61 ও 217 দিয়ে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "bis-g10-standing-committee-1975",
+      "title": "G10 and Swiss central-bank Governors confirm standing banking-supervision committee",
+      "source_type": "Institutional record",
+      "date_start": "1975-02-12",
+      "date_end": "1975-02-12",
+      "date_label": "12 February 1975",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "standing committee of experts on banking and foreign exchange regulations and supervisory practices",
+      "original_text": "The BIS contemporary media release records that the central-bank Governors of the Group-of-Ten countries and of Switzerland had established a standing committee of experts on banking and foreign exchange regulations and supervisory practices.",
+      "translation": "The Bank for International Settlements reported that the central-bank Governors of the G10 countries and Switzerland had established a standing committee of experts on banking and foreign-exchange regulations and supervisory practices.",
+      "translator": "Site research translation",
+      "edition": "BIS media release, 12 February 1975",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1975",
+      "reference_number": "BIS media release, 12 February 1975",
+      "page": "",
+      "chapter": "",
+      "verse": "",
+      "tablet": "",
+      "section": "",
+      "source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "On 12 February 1975, the BIS publicly confirmed that the central-bank Governors of the G10 countries and Switzerland had established a standing committee of experts on banking and foreign-exchange regulations and supervisory practices.",
+      "context": "The BIS record is a near-contemporary institutional confirmation published on 12 February 1975. The Governors' underlying establishment decision is dated to the end of 1974; this record is therefore dated 1975 for the documentary confirmation, not as evidence that the committee was first created on 12 February 1975.",
+      "interpretation": "This is strong direct institutional evidence for the emergence of coordinated international banking-supervision machinery. It should be read as a 1975 confirmation of an establishment decision made at the end of 1974, avoiding anachronistically treating the later Basel Committee as if its full later mandate already existed.",
+      "counter_interpretations": [
+        "The BIS release confirms the committee and its stated functions, but does not by itself establish the full later institutional development of the Basel Committee on Banking Supervision.",
+        "The establishment decision belongs to the end of 1974; 12 February 1975 is the date of the contemporary public confirmation."
+      ],
+      "scholarly_references": [
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011).",
+        "Bank for International Settlements, History of the Basel Committee and its Membership (March 2001)."
+      ],
+      "related_sources": [
+        "nixon-1971"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official institutional record",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against the BIS media release dated 12 February 1975. The source directly confirms the standing committee and its stated supervisory/information-exchange purpose. Preserve the distinction between the 1974 establishment decision and the 1975 public confirmation.",
+      "web_sources": [
+        "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts"
+      ],
+      "bn_title": "G10 ও সুইস কেন্দ্রীয় ব্যাংকের গভর্নরদের ব্যাংকিং-তদারকি কমিটি নিশ্চিতকরণ",
+      "bn_historical_claim": "১২ ফেব্রুয়ারি ১৯৭৫-এ BIS জানায় যে G10 দেশসমূহ ও সুইজারল্যান্ডের কেন্দ্রীয় ব্যাংকের গভর্নররা ব্যাংকিং ও বৈদেশিক মুদ্রা-সংক্রান্ত বিধি এবং তদারকি পদ্ধতি নিয়ে কাজের জন্য একটি স্থায়ী বিশেষজ্ঞ কমিটি প্রতিষ্ঠা করেছেন।",
+      "bn_context": "এটি ১২ ফেব্রুয়ারি ১৯৭৫ প্রকাশিত একটি সমসাময়িক প্রাতিষ্ঠানিক নিশ্চিতকরণ। গভর্নরদের মূল প্রতিষ্ঠা-সিদ্ধান্ত ১৯৭৪ সালের শেষভাগে হয়েছিল; তাই এখানে ১৯৭৫ হলো দলিলগত নিশ্চিতকরণের বছর, কমিটি প্রথম ১২ ফেব্রুয়ারি ১৯৭৫-এ সৃষ্টি হয়েছিল—এমন দাবি নয়।",
+      "bn_interpretation": "আন্তর্জাতিক ব্যাংকিং-তদারকির সমন্বিত কাঠামো গড়ে ওঠার প্রত্যক্ষ প্রাতিষ্ঠানিক প্রমাণ হিসেবে এটি গুরুত্বপূর্ণ। তবে পরবর্তী Basel Committee-এর পূর্ণাঙ্গ ম্যান্ডেট এই একক দলিল থেকেই আরোপ করা যাবে না।",
+      "bn_notes": "১২ ফেব্রুয়ারি ১৯৭৫-এর BIS মিডিয়া রিলিজের সঙ্গে যাচাই করা হয়েছে। ১৯৭৪ সালের প্রতিষ্ঠা-সিদ্ধান্ত এবং ১৯৭৫ সালের প্রকাশ্য নিশ্চিতকরণের পার্থক্য বজায় রাখতে হবে।",
+      "bn_verification_status": "Passage verified — contemporary official institutional record",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Direct contemporary official institutional record; the document itself records the committee's establishment and stated functions.",
+      "publication_status": "A-grade — retain as a primary institutional record",
+      "passage_record": {
+        "status": "Passage locked — contemporary official institutional record",
+        "locator": "BIS media release, 12 February 1975",
+        "evidence": "The release states that the central-bank Governors of the Group-of-Ten countries and Switzerland had established a standing committee of experts on banking and foreign exchange regulations and supervisory practices.",
+        "significance": "Direct 1975 institutional evidence for coordinated international banking and foreign-exchange supervisory machinery.",
+        "source_url": "https://www.bis.org/media-releases/19750212-cb-governors-group-ten-countries-and-switzerland-have-established-standing-committee-experts",
+        "checked": "2026-10-05",
+        "verification_note": "The release is the contemporary BIS confirmation. The underlying Governors' establishment decision is dated to the end of 1974."
+      }
     }
   ],
   "audit_5_4": {
