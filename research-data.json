@@ -9399,6 +9399,74 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; official publication date, section and full document are the stable locator."
       }
+    },
+    {
+      "source_id": "bis-principles-supervision-banks-foreign-establishments-concordat-1983",
+      "title": "Principles for the supervision of banks' foreign establishments (Concordat)",
+      "source_type": "Committee guidelines",
+      "date_start": "1983-05-28",
+      "date_end": "1983-05-28",
+      "date_label": "28 May 1983",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Principles for the supervision of banks' foreign establishments (Concordat)",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "Basel Committee publication, May 1983",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1983",
+      "reference_number": "BCBS, 28 May 1983",
+      "page": "",
+      "chapter": "",
+      "section": "Introduction",
+      "source_url": "https://www.bis.org/publications/198305-guidelines-principles-supervision-banks-foreign-establishments-concordat",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional guidelines",
+      "historical_claim": "On 28 May 1983, the Basel Committee published revised principles governing supervision of banks' foreign establishments. The report replaced the 1975 Concordat and reformulated provisions in light of the accepted principle that supervisors need to examine the totality of a bank's worldwide business through consolidation.",
+      "context": "This contemporary official Committee document is a direct institutional revision of the earlier Concordat and links parent/host supervisory responsibilities with consolidated worldwide supervision.",
+      "interpretation": "The 1983 Concordat marks a formalization of the cross-border supervisory architecture: parent and host authorities were assigned complementary responsibilities, while consolidated supervision became a central organizing principle.",
+      "counter_interpretations": [
+        "The principles were recommended guidelines rather than automatically binding domestic law; the Committee noted that they were not necessarily embodied in members' laws.",
+        "The official web presentation provides a seven-page PDF but no stable edition-specific printed-page locator in the web text, so no page number is claimed."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-banking-secrecy-international-cooperation-1981",
+        "bis-consolidated-supervision-international-activities-1979",
+        "bis-management-banks-international-lending-country-risk-1982"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 28 May 1983; PDF is 7 pages. No printed page claimed.",
+      "web_sources": [
+        "https://www.bis.org/publications/198305-guidelines-principles-supervision-banks-foreign-establishments-concordat"
+      ],
+      "bn_title": "ব্যাংকের বিদেশি প্রতিষ্ঠান তদারকির নীতিমালা (Concordat)",
+      "bn_historical_claim": "২৮ মে ১৯৮৩-এ Basel Committee ব্যাংকের foreign establishments তদারকির জন্য সংশোধিত নীতিমালা প্রকাশ করে। এটি ১৯৭৫ সালের Concordat-কে প্রতিস্থাপন করে এবং bank-এর worldwide business-কে consolidation-এর মাধ্যমে দেখার নীতিকে অন্তর্ভুক্ত করে।",
+      "bn_context": "এটি আগের Concordat-এর একটি সমসাময়িক প্রাতিষ্ঠানিক revision এবং parent ও host supervisory authorities-এর দায়িত্বকে consolidated worldwide supervision-এর সঙ্গে যুক্ত করে।",
+      "bn_interpretation": "১৯৮৩ সালের Concordat cross-border banking supervision-এর কাঠামোকে আরও formalize করে: parent ও host authorities-এর complementary responsibilities নির্ধারিত হয় এবং consolidated supervision একটি কেন্দ্রীয় organizing principle হয়ে ওঠে।",
+      "bn_notes": "নীতিগুলো recommended guidelines; এগুলো সদস্য দেশগুলোর domestic law-এ স্বয়ংক্রিয়ভাবে binding ছিল না। অফিসিয়াল web presentation-এ stable printed-page locator নেই।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Basel Committee guideline with exact publication date, direct revision of the 1975 Concordat, and explicit incorporation of consolidated worldwide supervision; no invented page locator.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 May 1983, official BIS publication; Introduction / full 7-page document",
+        "evidence": "The report sets principles for parent and host authorities supervising foreign establishments and states that it replaces the 1975 Concordat, reformulating provisions to reflect consolidated examination of a bank's worldwide business.",
+        "significance": "Direct 1983 evidence of the formalized cross-border supervisory architecture following the 1979-1982 developments.",
+        "source_url": "https://www.bis.org/publications/198305-guidelines-principles-supervision-banks-foreign-establishments-concordat",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; official publication date, Introduction and full document are the stable locator."
+      }
     }
   ],
   "audit_5_4": {
