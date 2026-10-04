@@ -9673,6 +9673,74 @@
         "checked": "2026-10-05",
         "verification_note": "Primary PDF directly inspected; locator uses Introduction paragraph 4 because the extracted PDF does not expose a reliable printed-page number."
       }
+    },
+    {
+      "source_id": "bis-proposals-international-convergence-capital-measurement-standards-1987",
+      "title": "Proposals for International Convergence of Capital Measurement and Standards",
+      "source_type": "Committee consultative paper",
+      "date_start": "1987-12-15",
+      "date_end": "1987-12-15",
+      "date_label": "15 December 1987",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Proposals for International Convergence of Capital Measurement and Standards",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "Basel Committee consultative paper, December 1987",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1987",
+      "reference_number": "BCBS, 15 December 1987",
+      "page": "",
+      "chapter": "",
+      "section": "Introduction",
+      "source_url": "https://www.bis.org/publications/198712-consultation-proposals-international-convergence-capital-measurement-and-standards",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional consultative paper",
+      "historical_claim": "On 15 December 1987, the Basel Committee published proposals for international convergence of capital measurement and standards. The proposals sought a common approach among member supervisors to measuring banks' capital adequacy and establishing common minimum standards for banks undertaking significant cross-border business.",
+      "context": "This contemporary consultative paper represents the Committee's move from earlier concern about deteriorating capital ratios toward an internationally convergent capital-adequacy framework. It preceded the July 1988 Basel Capital Accord.",
+      "interpretation": "The 1987 proposal is the direct institutional bridge between the Committee's earlier supervisory work and Basel I: capital adequacy was being framed as a common international supervisory standard rather than solely a national requirement.",
+      "counter_interpretations": [
+        "This was a consultative proposal, not yet the final Basel Capital Accord and therefore did not itself establish the final 1988 capital standard.",
+        "The proposal invited comments from banking associations, non-G10 supervisors and other interested parties; final provisions were subsequently revised before the July 1988 Accord.",
+        "No printed page is claimed in this record because the official web presentation provides the dated 34-page PDF but the stable proposition-level locator used here is the Introduction."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-management-banks-off-balance-sheet-exposures-1986",
+        "bis-principles-supervision-banks-foreign-establishments-concordat-1983"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 15 December 1987; 34-page consultative paper. The paper states that the Committee was seeking a common approach to capital adequacy measurement and common minimum standards for internationally active banks.",
+      "web_sources": [
+        "https://www.bis.org/publications/198712-consultation-proposals-international-convergence-capital-measurement-and-standards"
+      ],
+      "bn_title": "মূলধন পরিমাপ ও মানদণ্ডের আন্তর্জাতিক সমন্বয়ের প্রস্তাব",
+      "bn_historical_claim": "১৫ ডিসেম্বর ১৯৮৭-এ Basel Committee capital measurement ও capital standards-এর আন্তর্জাতিক convergence-এর জন্য proposals প্রকাশ করে। লক্ষ্য ছিল capital adequacy মাপার একটি common approach এবং উল্লেখযোগ্য cross-border business করা ব্যাংকের জন্য common minimum standards।",
+      "bn_context": "এটি আগের capital-adequacy উদ্বেগ থেকে আন্তর্জাতিকভাবে convergent capital framework-এর দিকে Committee-এর অগ্রগতির সরাসরি contemporary evidence এবং ১৯৮৮ সালের Basel Capital Accord-এর পূর্ববর্তী ধাপ।",
+      "bn_interpretation": "১৯৮৭ সালের proposal capital adequacy-কে শুধু national requirement হিসেবে নয়, বরং একটি common international supervisory standard হিসেবে প্রতিষ্ঠার দিকে Committee-এর অগ্রগতি দেখায়।",
+      "bn_notes": "এটি final Basel Capital Accord নয়; consultative proposal। কোনো printed page number অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Basel Committee consultative paper with exact publication date, direct primary publication, and explicit proposal for common capital-adequacy measurement and minimum standards for internationally active banks.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "15 December 1987, official BIS publication; Introduction / 34-page PDF",
+        "evidence": "The Committee proposed a common approach among members to measuring banks' capital adequacy and establishing minimum standards for banks undertaking significant cross-border business.",
+        "significance": "Direct 1987 evidence of the institutional move toward internationally convergent capital-adequacy standards immediately preceding Basel I.",
+        "source_url": "https://www.bis.org/publications/198712-consultation-proposals-international-convergence-capital-measurement-and-standards",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; official publication date, Introduction and full 34-page document provide the stable locator."
+      }
     }
   ],
   "audit_5_4": {
