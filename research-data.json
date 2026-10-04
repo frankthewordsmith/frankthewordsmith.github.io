@@ -6080,6 +6080,82 @@
       "bn_notes": "১৯৩২ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ১–২, ২৮–৩০ এবং ৫৬–৬৪-এর সঙ্গে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-debt-expansion-1933",
+      "title": "U.S. Treasury Annual Report 1933 — Emergency Financing and the New Monetary Framework",
+      "source_type": "Government annual report",
+      "date_start": "1933",
+      "date_end": "1933",
+      "date_label": "Fiscal year ended June 30, 1933",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "public debt; emergency financing; bank holiday; gold policy; Reconstruction Finance Corporation",
+      "original_text": "The Treasury's 1933 report records continued large deficits and public-debt expansion during the fiscal year, while documenting the extraordinary financial measures adopted in March 1933 and the subsequent changes in the monetary and banking framework.",
+      "translation": "Treasury report, fiscal year 1933.",
+      "translator": "",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1933",
+      "publisher": "U.S. Government Printing Office",
+      "publication_year": "1933",
+      "reference_number": "Report on the Finances, pp. 1–8; public debt and financing sections",
+      "page": "1–8",
+      "chapter": "The Public Debt / Banking and Currency",
+      "verse": "",
+      "tablet": "",
+      "section": "Emergency financial measures and monetary transition",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1933-5579/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal year 1933 documents the continuation of Depression-era deficit financing together with an extraordinary restructuring of the banking and monetary environment. The report records the March 1933 banking emergency, Treasury measures concerning gold and currency, and the expanding role of federal financial institutions.",
+      "context": "The 1933 report covers the fiscal year ending June 30, 1933, including the transition from the Hoover administration to Franklin D. Roosevelt on March 4, 1933. Its evidence must therefore be read as a fiscal-year record spanning both administrations, not as a purely Roosevelt-year account.",
+      "interpretation": "1933 is a major institutional transition point. The evidence connects the earlier deficit/debt expansion to emergency banking and monetary measures introduced in 1933. It should be used as a bridge into the New Deal financial architecture rather than as evidence that every later reform had already been completed by June 30.",
+      "counter_interpretations": [
+        "The annual report covers both pre- and post-March 4, 1933 administrations; individual measures require their own statutory or proclamation evidence.",
+        "Fiscal-year debt figures should not be conflated with calendar-year monetary changes.",
+        "The report is an institutional Treasury account; separate primary legal records are needed for the Emergency Banking Act, gold restrictions, and later banking reforms."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-expansion-1932",
+        "us-treasury-debt-turn-1931"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages locked",
+      "last_verified": "2026-10-04",
+      "notes": "Core fiscal-year transition evidence is locked to printed pp. 1–8. The report is deliberately framed as a bridge source; specific 1933 legal measures should be separately recorded from their primary statutes/proclamations.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1933-5579/fulltext"
+      ],
+      "citation_record": "",
+      "footnote_policy": "Every quotation or paraphrase should resolve to the locked printed-page locator for this edition.",
+      "bibliography_entry": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1933 (Washington: Government Printing Office, 1933), pp. 1–8.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 1–8",
+        "evidence": "The Treasury's fiscal-year report documents continued debt expansion and the extraordinary banking and monetary measures of 1933, while explicitly spanning the March 4 administrative transition.",
+        "significance": "Bridge evidence connecting Depression-era deficit financing to the institutional monetary and banking restructuring that followed in 1933.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1933-5579/fulltext",
+        "checked": "2026-10-04",
+        "verification_note": "Page lock follows the printed pagination of the 1933 annual report."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Primary Treasury annual report with exact printed-page evidence; fiscal-year scope explicitly qualified.",
+      "publication_status_6_6": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status_7_5": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status": "primary institutional evidence with exact printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৩৩ — জরুরি অর্থায়ন ও নতুন মুদ্রা কাঠামোর সূচনা",
+      "bn_historical_claim": "১৯৩৩ সালের ট্রেজারি প্রতিবেদন মহামন্দাকালীন ঘাটতি ও সরকারি ঋণ বৃদ্ধির ধারাবাহিকতার পাশাপাশি ব্যাংকিং ও মুদ্রা ব্যবস্থায় অসাধারণ পরিবর্তনের দলিল দেয়।",
+      "bn_context": "প্রতিবেদনটি ৩০ জুন ১৯৩৩-এ শেষ হওয়া অর্থবছরকে কভার করে এবং ৪ মার্চ ১৯৩৩-এর প্রশাসনিক পরিবর্তনের আগের ও পরের সময় উভয়ই অন্তর্ভুক্ত করে। তাই এটিকে সম্পূর্ণভাবে রুজভেল্ট প্রশাসনের একক বছরের প্রতিবেদন হিসেবে পড়া যাবে না।",
+      "bn_interpretation": "১৯৩৩ একটি প্রধান প্রাতিষ্ঠানিক রূপান্তরের বছর। আগের ঘাটতি ও ঋণবৃদ্ধির ধারার সঙ্গে জরুরি ব্যাংকিং ও মুদ্রা ব্যবস্থার পরিবর্তনের সংযোগ এখানে দেখা যায়। তবে পরবর্তী সব সংস্কার ৩০ জুনের মধ্যে সম্পন্ন হয়ে গিয়েছিল—এমন দাবি করা যাবে না।",
+      "bn_notes": "১৯৩৩ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ১–৮-এর সঙ্গে যাচাই করা হয়েছে। নির্দিষ্ট ১৯৩৩ সালের আইন ও ঘোষণাগুলো পৃথক প্রাথমিক উৎস হিসেবে রেকর্ড করা হবে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
