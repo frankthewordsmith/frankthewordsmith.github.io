@@ -9535,6 +9535,77 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; official publication date and full document are the stable locator."
       }
+    },
+    {
+      "source_id": "bis-off-balance-sheet-risk-supervisory-response-1985",
+      "title": "Basel Committee supervisory response to the growth of off-balance-sheet risk",
+      "source_type": "Committee working paper / supervisory response",
+      "date_start": "1985-06-14",
+      "date_end": "1985-06-14",
+      "date_label": "14 June 1985",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "BS/85/39 — Secretariat note on off-balance-sheet exposures and supervisory responses",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "Basel Committee internal working paper, BS/85/39",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1985",
+      "reference_number": "BS/85/39",
+      "page": "",
+      "chapter": "",
+      "section": "",
+      "source_url": "https://www.cambridge.org/core/books/basel-committee-on-banking-supervision/offbalancesheet-exposures-and-derivatives/86C1AD84C52D8CCAEC86039F5D610BB5",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional working paper identified through authoritative retrospective",
+      "historical_claim": "On 14 June 1985, the Basel Committee Secretariat circulated BS/85/39, an introductory note on off-balance-sheet exposures that reviewed the supervisory implications of innovative banking activities and possible supervisory responses. The Committee's 1994 historical account states that in July 1985 it also circulated a short statement to non-G10 supervisors warning about rapidly growing off-balance-sheet risk and the need for adequate control systems.",
+      "context": "This 1985 development followed the Committee's late-1984 survey of off-balance-sheet activities and preceded the March 1986 publication of its detailed supervisory perspective.",
+      "interpretation": "1985 marks the point at which the Committee moved from identifying off-balance-sheet innovation to developing an explicit supervisory response, emphasizing control systems and the implications of contingent exposures.",
+      "counter_interpretations": [
+        "The 14 June BS/85/39 working paper is an internal Committee document; a stable contemporary public scan/page lock was not located.",
+        "The July 1985 warning is confirmed by a later official Basel Committee retrospective rather than a publicly accessible 1985 copy, so this record is B-grade.",
+        "The March 1986 publication is the stronger directly accessible primary source for the detailed supervisory treatment and is not substituted into the 1985 record."
+      ],
+      "scholarly_references": [
+        "Charles Goodhart, The Basel Committee on Banking Supervision: The History of the Early Years 1974–1997, chapter 10"
+      ],
+      "related_sources": [
+        "bis-ifac-interbank-confirmation-procedures-1984",
+        "bis-supervision-banks-foreign-exchange-positions-1980"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Verified through authoritative retrospective — no public primary page lock",
+      "last_verified": "2026-10-05",
+      "notes": "Goodhart's documented archival history identifies BS/85/39 as a 14 June 1985 Secretariat note following the early-1985 country questionnaire. BIS's later official derivatives-supervision history confirms the July 1985 warning to non-G10 supervisors concerning rapidly growing off-balance-sheet risk and adequate control systems.",
+      "web_sources": [
+        "https://www.bis.org/publ/bcbs14.pdf",
+        "https://www.cambridge.org/core/books/abs/basel-committee-on-banking-supervision/offbalancesheet-exposures-and-derivatives/86C1AD84C52D8CCAEC86039F5D610BB5"
+      ],
+      "bn_title": "Off-balance-sheet ঝুঁকির ওপর Basel Committee-এর ১৯৮৫ সালের supervisory response",
+      "bn_historical_claim": "১৪ জুন ১৯৮৫-এ Basel Committee Secretariat BS/85/39 নামে off-balance-sheet exposures নিয়ে একটি note circulate করে। একই বছরে Committee non-G10 supervisors-কে দ্রুত বাড়তে থাকা off-balance-sheet risk এবং যথাযথ control systems-এর প্রয়োজনীয়তা সম্পর্কে সতর্ক করে।",
+      "bn_context": "১৯৮৪ সালের survey-এর পর ১৯৮৫ সালে Committee identification থেকে explicit supervisory response-এর দিকে অগ্রসর হয়; ১৯৮৬ সালের বিস্তারিত supervisory publication তার পরবর্তী ধাপ।",
+      "bn_interpretation": "১৯৮৫ সালে Committee contingent/off-balance-sheet exposures-এর supervisory implications এবং bank control systems-এর ওপর জোর দিয়ে একটি নতুন risk-management strand গড়ে তোলে।",
+      "bn_notes": "BS/85/39-এর contemporary public scan/page lock পাওয়া যায়নি; তাই record-টি B-grade রাখা হয়েছে। ১৯৮৫ সালের July warning-ও later official BIS retrospective দ্বারা corroborated।",
+      "bn_verification_status": "Verified through authoritative retrospective — no public primary page lock",
+      "book": "book-1",
+      "evidence_grade": "B",
+      "evidence_grade_basis": "The 1985 Committee working paper and July warning are securely identified through authoritative institutional/archival histories, but a stable contemporary public primary scan/page lock was not located; therefore not upgraded to A.",
+      "publication_status": "B-grade — verified institutional retrospective with identified primary working paper",
+      "passage_record": {
+        "status": "Verified but not page-locked — authoritative retrospective identifies the 1985 primary work",
+        "locator": "BS/85/39, 14 June 1985; later official BIS history confirms July 1985 warning",
+        "evidence": "The archival history identifies the 14 June Secretariat note on off-balance-sheet exposures and supervisory responses; BIS's later official account confirms the July 1985 warning concerning rapid growth in off-balance-sheet risk and adequate control systems.",
+        "significance": "Directly establishes the 1985 transition from surveying innovative off-balance-sheet activity to an explicit supervisory response.",
+        "source_url": "https://www.bis.org/publ/bcbs14.pdf",
+        "checked": "2026-10-05",
+        "verification_note": "No contemporary public page lock located; retained as B-grade under the site's no-invention rule."
+      }
     }
   ],
   "audit_5_4": {
