@@ -9264,6 +9264,73 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; official publication date and section are the stable locator."
       }
+    },
+    {
+      "source_id": "bis-banking-secrecy-international-cooperation-1981",
+      "title": "Banking secrecy and international cooperation in banking supervision",
+      "source_type": "Committee report",
+      "date_start": "1981-12-28",
+      "date_end": "1981-12-28",
+      "date_label": "28 December 1981",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Banking secrecy and international cooperation in banking supervision",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "Basel Committee publication, December 1981",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1981",
+      "reference_number": "BCBS, 28 December 1981",
+      "page": "",
+      "chapter": "",
+      "section": "",
+      "source_url": "https://www.bis.org/publications/banking-secrecy-and-international-cooperation-banking-supervision",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional report",
+      "historical_claim": "On 28 December 1981, the Basel Committee published a report addressing banking secrecy and international cooperation in banking supervision. It stated that effective internationally coordinated supervision rests on national capacity to supervise banks' international business and willingness of national authorities to cooperate in monitoring overseas establishments.",
+      "context": "This is a contemporary official Basel Committee publication and a direct institutional statement on cross-border supervisory cooperation.",
+      "interpretation": "The report provides direct evidence that international banking supervision was being framed not only as a matter of domestic prudential oversight, but also as coordinated information and supervisory cooperation across jurisdictions.",
+      "counter_interpretations": [
+        "The report states the foundations of effective international cooperation; it does not by itself prove identical implementation or legal information-sharing powers in every member jurisdiction.",
+        "The official web presentation exposes a four-page PDF but does not provide a stable edition-specific printed-page locator in the web text, so no page number is claimed."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-supervision-banks-foreign-exchange-positions-1980",
+        "bis-consolidated-supervision-international-activities-1979"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 28 December 1981; PDF is 4 pages. No printed page claimed because no stable edition-specific printed-page locator is exposed.",
+      "web_sources": [
+        "https://www.bis.org/publications/banking-secrecy-and-international-cooperation-banking-supervision"
+      ],
+      "bn_title": "ব্যাংকিং গোপনীয়তা ও ব্যাংক তদারকিতে আন্তর্জাতিক সহযোগিতা",
+      "bn_historical_claim": "২৮ ডিসেম্বর ১৯৮১-এ Basel Committee ব্যাংকিং গোপনীয়তা ও ব্যাংক তদারকিতে আন্তর্জাতিক সহযোগিতা নিয়ে একটি রিপোর্ট প্রকাশ করে। এতে আন্তর্জাতিকভাবে সমন্বিত তদারকির জন্য দেশীয় তদারকি সক্ষমতা এবং বিভিন্ন দেশের কর্তৃপক্ষের পারস্পরিক সহযোগিতার প্রয়োজনীয়তা তুলে ধরা হয়।",
+      "bn_context": "এটি সমসাময়িক official Basel Committee publication এবং cross-border supervisory cooperation-এর একটি সরাসরি প্রাতিষ্ঠানিক প্রমাণ।",
+      "bn_interpretation": "রিপোর্টটি দেখায় যে আন্তর্জাতিক ব্যাংক তদারকি শুধু দেশীয় prudential oversight নয়; বিভিন্ন jurisdiction-এর মধ্যে তথ্য ও supervisory cooperation-ও এর কাঠামোগত অংশ হয়ে উঠছিল।",
+      "bn_notes": "অফিসিয়াল web presentation-এ stable printed-page locator নেই; তাই কোনো পৃষ্ঠা নম্বর অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Basel Committee publication with exact publication date and direct statement of the foundations of internationally coordinated banking supervision; no invented page locator.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 December 1981, official BIS publication; full 4-page document",
+        "evidence": "Effective internationally coordinated supervision requires national systems capable of supervising banks' international business and willingness of national authorities to cooperate in monitoring overseas establishments.",
+        "significance": "Direct 1981 evidence of institutionalizing cross-border supervisory cooperation alongside domestic supervision.",
+        "source_url": "https://www.bis.org/publications/banking-secrecy-and-international-cooperation-banking-supervision",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; official publication date and full document are the stable locator."
+      }
     }
   ],
   "audit_5_4": {
