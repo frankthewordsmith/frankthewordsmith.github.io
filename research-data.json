@@ -9741,6 +9741,75 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; official publication date, Introduction and full 34-page document provide the stable locator."
       }
+    },
+    {
+      "source_id": "bis-international-convergence-capital-measurement-standards-1988",
+      "title": "International convergence of capital measurement and capital standards",
+      "source_type": "Basel Capital Accord",
+      "date_start": "1988-07-15",
+      "date_end": "1988-07-15",
+      "date_label": "15 July 1988",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "International Convergence of Capital Measurement and Capital Standards",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "Basle Committee on Banking Supervision, July 1988",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1988",
+      "reference_number": "BCBS, 15 July 1988",
+      "page": "1; 14–15",
+      "chapter": "",
+      "section": "Introduction; Part III A target standard ratio",
+      "source_url": "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional standard",
+      "historical_claim": "On 15 July 1988, the Basel Committee issued the final Basel Capital Accord, establishing an agreed framework for measuring capital adequacy and a common minimum standard for internationally active banks. The framework used risk-weighted assets, incorporated off-balance-sheet exposures through credit-conversion factors, and set the target capital-to-weighted-risk-assets ratio at 8%, with at least 4% core capital, to be achieved by the end of 1992.",
+      "context": "This followed the December 1987 consultative proposal and the subsequent international consultation process. The 1988 paper states that it was agreed by all Committee members and endorsed by the Group of Ten central-bank Governors.",
+      "interpretation": "1988 is the decisive transition from a consultative convergence proposal to an agreed international capital-adequacy framework. It operationalised risk-weighted capital measurement, brought off-balance-sheet exposures into the capital framework, and established the 8% common minimum standard for internationally active banks.",
+      "counter_interpretations": [
+        "The Accord was an agreed supervisory framework and recommendation, not a single supranational statute automatically binding in every jurisdiction; paragraph 51 leaves each country to decide how supervisory authorities would introduce and apply the recommendations.",
+        "The 8% standard was a common minimum target to be achieved by the end of 1992, not an assertion that every bank already met 8% on 15 July 1988.",
+        "The original 1988 framework was mainly directed toward credit risk; the document explicitly noted that interest-rate and other risks required further supervisory consideration."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-proposals-international-convergence-capital-measurement-standards-1987",
+        "bis-management-banks-off-balance-sheet-exposures-1986",
+        "bis-principles-supervision-banks-foreign-establishments-concordat-1983"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified directly against the official 30-page BIS PDF. Printed p.1 contains the Introduction and confirms the agreed framework and G-10 Governors' endorsement; printed pp.14–15 contain the off-balance-sheet treatment and paragraph 44's 8% target standard (at least 4% core capital), with end-1992 implementation.",
+      "web_sources": [
+        "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards"
+      ],
+      "bn_title": "মূলধন পরিমাপ ও মূলধন মানদণ্ডের আন্তর্জাতিক সমন্বয় — ১৯৮৮ সালের Basel Capital Accord",
+      "bn_historical_claim": "১৫ জুলাই ১৯৮৮-এ Basel Committee আন্তর্জাতিক ব্যাংকগুলোর capital adequacy মাপার জন্য একটি agreed framework এবং common minimum standard প্রকাশ করে। Risk-weighted assets-এর ভিত্তিতে capital measurement, off-balance-sheet exposures-এর credit-conversion treatment এবং ৮% target capital ratio (এর মধ্যে অন্তত ৪% core capital) নির্ধারণ করা হয়, যা ১৯৯২ সালের শেষ নাগাদ অর্জনের লক্ষ্য ছিল।",
+      "bn_context": "এটি ১৯৮৭ সালের consultative proposal-এর পরবর্তী চূড়ান্ত institutional step। ১৯৮৮ সালের document জানায় যে frameworkটি Committee-এর সব সদস্যের সম্মত এবং G-10 central-bank Governors দ্বারা endorsed ছিল।",
+      "bn_interpretation": "১৯৮৮ সালটি consultative proposal থেকে agreed international capital-adequacy framework-এ decisive transition দেখায়। Risk-weighted capital measurement, off-balance-sheet exposure এবং ৮% common minimum standard—তিনটিই international banking supervision-এর কাঠামোকে নতুন স্তরে নিয়ে যায়।",
+      "bn_notes": "অফিসিয়াল ৩০-পৃষ্ঠার BIS PDF সরাসরি যাচাই করা হয়েছে। মুদ্রিত পৃষ্ঠা ১-এ agreed framework ও G-10 Governors' endorsement; পৃষ্ঠা ১৪–১৫-এ off-balance-sheet treatment এবং paragraph 44-এর ৮% target standard নথিভুক্ত।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Basel Committee primary standard with exact publication date, directly inspected 30-page PDF, printed-page locks for the agreed framework and 8% target standard, and proposition-level evidence.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Basel Capital Accord",
+        "locator": "15 July 1988, official BIS publication; Introduction, paragraph 1, printed p.1; Part III, paragraph 44, printed p.14–15",
+        "evidence": "The report states that it is the Committee's agreed framework for measuring capital adequacy, endorsed by the G-10 central-bank Governors. Paragraph 44 sets the target standard ratio of capital to weighted risk assets at 8%, of which core capital is at least 4%, as a common minimum standard to be observed by international banks in member countries by the end of 1992.",
+        "significance": "Direct 1988 evidence of the final Basel Capital Accord establishing a common risk-weighted capital-adequacy standard for internationally active banks.",
+        "source_url": "https://www.bis.org/publications/198807-standards-international-convergence-capital-measurement-and-capital-standards",
+        "checked": "2026-10-05",
+        "verification_note": "Primary 30-page BIS PDF directly inspected. Printed p.1 confirms the agreed framework and endorsement; printed pp.14–15 lock the 8% target standard and end-1992 implementation. No page number is inferred."
+      }
     }
   ],
   "audit_5_4": {
