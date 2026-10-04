@@ -70,6 +70,77 @@
         "checked": "2026-10-05",
         "verification_note": "Printed pages control over OCR."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1974",
+      "title": "U.S. Treasury Annual Report 1974 — Sharp Deficit Reduction, Foreign Redemptions, Federal Reserve Acquisitions, and Creation of the Federal Financing Bank",
+      "source_type": "Institutional annual report",
+      "date_start": "1974-06-30",
+      "date_end": "1974-06-30",
+      "date_label": "Fiscal year ended June 30, 1974",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; foreign-held Treasury issues; Federal Reserve; Federal Financing Bank; Treasury financing",
+      "original_text": "On the unified budget basis the deficit for fiscal 1974 was $3.5 billion. Borrowing from the public amounted to $3.0 billion. As of June 30, 1974, Federal securities outstanding totaled $487 billion, comprised of $475 billion in public debt securities and $12 billion in agency securities; $346 billion represented borrowing from the public. Foreign investors' holdings of public debt securities declined $2.6 billion, including a $3.4 billion decline in special nonmarketable issues and a $0.8 billion increase in marketable holdings. The Federal Reserve System acquired $5.5 billion of public debt securities, raising its holdings to $80.5 billion. The Federal Financing Bank was created by the Federal Financing Bank Act of 1973 to coordinate Federal and federally assisted borrowing and reduce borrowing costs and market disruption.",
+      "translation": "১৯৭৪ অর্থবছরে unified-budget ভিত্তিতে ঘাটতি ছিল ৩.৫ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে borrowing ছিল ৩.০ বিলিয়ন ডলার। ৩০ জুন ১৯৭৪-এ মোট Federal securities ছিল ৪৮৭ বিলিয়ন ডলার—এর মধ্যে ৪৭৫ বিলিয়ন public debt securities এবং ১২ বিলিয়ন agency securities; ৩৪৬ বিলিয়ন ডলার ছিল borrowing from the public। Foreign investors-এর public debt securities holdings ২.৬ বিলিয়ন ডলার কমে; এর মধ্যে special nonmarketable issues ৩.৪ বিলিয়ন কমে এবং marketable holdings ০.৮ বিলিয়ন বাড়ে। Federal Reserve System ৫.৫ বিলিয়ন ডলারের public debt securities অধিগ্রহণ করে এবং তার holdings ৮০.৫ বিলিয়ন ডলারে পৌঁছায়। Federal Financing Bank Act of 1973-এর মাধ্যমে Federal Financing Bank গঠিত হয় Federal ও federally assisted borrowing সমন্বয় এবং borrowing cost ও market disruption কমানোর উদ্দেশ্যে।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1974",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1974",
+      "reference_number": "Treasury Department Document No. 3263",
+      "page": "3–4; 12–19; xxvi",
+      "section": "Financial Operations; Federal Debt Management; International Affairs",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1974-5615/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1974 sharply reduced the unified-budget deficit and public borrowing requirement. At the same time, foreign investors reduced holdings of public debt securities, while the Federal Reserve acquired $5.5 billion of public debt securities. The Treasury also documented the creation of the Federal Financing Bank as a new institutional mechanism for coordinating federally assisted borrowing and reducing market disruption.",
+      "context": "Fiscal 1974 followed the post-1971 monetary transition and was marked by high inflation, restrictive Federal Reserve policy, rising interest rates, the oil shock, and continuing international monetary reform. Treasury financing shifted materially as foreign redemptions of special nonmarketable issues increased market financing needs, while the Federal Financing Bank was established to consolidate and coordinate Federal and federally assisted borrowing.",
+      "interpretation": "1974 is a transition marker showing that a much smaller unified-budget deficit did not eliminate Treasury financing operations. Foreign-held special nonmarketable securities were redeemed on net, increasing market financing needs, while the Federal Reserve increased its Treasury holdings. The Federal Financing Bank created a new institutional layer for Federal and federally guaranteed borrowing. These are documented institutional relationships; they should not be treated as proof of a single financing motive.",
+      "counter_interpretations": [
+        "The $3.5B unified-budget deficit and $3.0B borrowing from the public are distinct because the Treasury financing reconciliation includes changes in cash and other means of financing.",
+        "Foreign investor holdings declined overall, but marketable holdings increased $0.8B while special nonmarketable holdings declined $3.4B; these categories should not be conflated.",
+        "The $5.5B Federal Reserve acquisition records an increase in holdings and does not by itself establish motive or direct Treasury financing.",
+        "The Federal Financing Bank was designed to coordinate and replace existing federally assisted obligations; its creation should not be described as automatically creating new net Federal debt.",
+        "The report's statements about reducing borrowing costs and market disruption are Treasury's contemporaneous institutional rationale."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1973",
+        "us-treasury-debt-management-1972",
+        "us-treasury-debt-management-1971"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3263. Printed pp. 3–4 establish fiscal operations; pp. 12–19 cover financing, debt structure, ownership, foreign investor holdings and Federal Reserve acquisitions; the report's introductory international/federal-finance discussion on printed page xxvi records the Federal Financing Bank's creation and mandate. Printed page labels control over OCR.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1974-5615/fulltext"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3263, with verified printed pages covering fiscal operations, debt structure, investor ownership, Federal Reserve acquisitions, foreign redemptions, and Federal Financing Bank creation.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৪ — ঘাটতির তীব্র হ্রাস, foreign redemptions, Federal Reserve acquisitions ও Federal Financing Bank-এর সৃষ্টি",
+      "bn_historical_claim": "১৯৭৪ অর্থবছরে unified-budget ঘাটতি ৩.৫ বিলিয়ন ডলারে নেমে আসে এবং public borrowing ছিল ৩.০ বিলিয়ন ডলার। Foreign investors-এর public debt holdings ২.৬ বিলিয়ন ডলার কমে, Federal Reserve ৫.৫ বিলিয়ন ডলারের public debt securities অধিগ্রহণ করে এবং Federal Financing Bank গঠিত হয়।",
+      "bn_context": "১৯৭৪ সালে উচ্চ inflation, restrictive Federal Reserve policy, rising interest rates, oil shock এবং আন্তর্জাতিক monetary reform-এর মধ্যে Treasury financing কাঠামো পরিবর্তিত হয়।",
+      "bn_interpretation": "১৯৭৪ দেখায় যে budget deficit কমে গেলেও Treasury financing operations অব্যাহত থাকে; foreign-held special nonmarketable issues-এর net redemption market financing-এর প্রয়োজন বাড়ায়, আর Federal Financing Bank federally assisted borrowing সমন্বয়ের নতুন institutional layer তৈরি করে।",
+      "bn_notes": "Treasury Department Document No. 3263-এর মুদ্রিত pp. 3–4, 12–19 এবং xxvi দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 12–19, xxvi",
+        "evidence": "$3.5B unified-budget deficit; $3.0B borrowing from public; $487B Federal securities; $475B public debt securities; $346B borrowing from public; foreign public-debt holdings -$2.6B; special nonmarketable -$3.4B; marketables +$0.8B; Federal Reserve +$5.5B to $80.5B; Federal Financing Bank created to coordinate Federal and federally assisted borrowing.",
+        "significance": "Primary institutional evidence of financing, ownership, Federal Reserve holdings, foreign redemptions, and the creation of the Federal Financing Bank during the post-1971 monetary transition.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1974-5615/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      }
     }
-  ]
+  ],
+  "last_updated": "2026-10-05"
 }
