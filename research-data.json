@@ -8924,6 +8924,76 @@
         "checked": "2026-10-05",
         "verification_note": "The release is the contemporary BIS confirmation. The underlying Governors' establishment decision is dated to the end of 1974."
       }
+    },
+    {
+      "source_id": "bis-46th-annual-report-1976-banking-supervision",
+      "title": "BIS 46th Annual Report records continuing Secretariat support for the G10 banking-supervision committee",
+      "source_type": "Institutional annual report",
+      "date_start": "1976-06-14",
+      "date_end": "1976-06-14",
+      "date_label": "46th Annual Report, 1976",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Committee on Banking Regulations and Supervisory Practices",
+      "original_text": "The 46th Annual Report records that the Bank continued to provide the Secretariat for the Committee on Banking Regulations and Supervisory Practices established by the Governors of the Group of Ten countries in December 1974.",
+      "translation": "The BIS reported in its 46th Annual Report that it continued to provide the Secretariat for the Committee on Banking Regulations and Supervisory Practices established by the G10 Governors in December 1974.",
+      "translator": "Site research translation",
+      "edition": "Bank for International Settlements, 46th Annual Report, 1976",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1976",
+      "reference_number": "46th Annual Report, 1976",
+      "page": "120",
+      "chapter": "",
+      "verse": "",
+      "tablet": "",
+      "section": "",
+      "source_url": "https://www.bis.org/publ/arpdf/archive/ar1976_en.pdf",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "The BIS's 1976 Annual Report documents that the BIS continued to provide the Secretariat for the G10 Committee on Banking Regulations and Supervisory Practices, confirming the committee's continuing institutional operation in 1976.",
+      "context": "This is a contemporary official BIS annual report. It does not establish a new committee creation in 1976; rather, it documents continued Secretariat support for the committee created by the G10 Governors in December 1974.",
+      "interpretation": "The record is useful as institutional continuity evidence: by 1976 the banking-supervision committee was an operating G10 structure serviced by the BIS. It should not be presented as evidence of a new 1976 founding or a new regulatory standard.",
+      "counter_interpretations": [
+        "The report confirms BIS Secretariat support but does not by itself document the Committee's complete 1976 work programme.",
+        "The committee's establishment predates this report; the 1976 significance is continuity and institutional operation."
+      ],
+      "scholarly_references": [
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ],
+      "related_sources": [
+        "bis-g10-standing-committee-1975"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official BIS annual report",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against BIS 46th Annual Report, 1976, printed p.120. Use as continuity/institutional-operation evidence, not as a 1976 founding event.",
+      "web_sources": [
+        "https://www.bis.org/publ/arpdf/archive/ar1976_en.pdf"
+      ],
+      "bn_title": "BIS-এর ১৯৭৬ সালের ৪৬তম বার্ষিক প্রতিবেদনে G10 ব্যাংকিং-তদারকি কমিটির ধারাবাহিক কার্যক্রম",
+      "bn_historical_claim": "BIS-এর ১৯৭৬ সালের ৪৬তম বার্ষিক প্রতিবেদন জানায় যে G10 দেশসমূহের গভর্নরদের প্রতিষ্ঠিত Committee on Banking Regulations and Supervisory Practices-এর জন্য BIS তার Secretariat সহায়তা অব্যাহত রেখেছিল।",
+      "bn_context": "এটি একটি সমসাময়িক সরকারি BIS বার্ষিক প্রতিবেদন। এটি ১৯৭৬ সালে নতুন করে কমিটি প্রতিষ্ঠার প্রমাণ নয়; বরং ১৯৭৪ সালের ডিসেম্বরে প্রতিষ্ঠিত কমিটির ১৯৭৬ সালে প্রাতিষ্ঠানিক কার্যক্রম অব্যাহত থাকার প্রমাণ।",
+      "bn_interpretation": "এটি প্রাতিষ্ঠানিক ধারাবাহিকতার প্রমাণ হিসেবে গুরুত্বপূর্ণ: ১৯৭৬ সালে ব্যাংকিং-তদারকি কমিটি একটি কার্যকর G10 কাঠামো হিসেবে BIS-এর সহায়তায় চলছিল।",
+      "bn_notes": "BIS 46th Annual Report, 1976, printed p.120-এর সঙ্গে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — contemporary official BIS annual report",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official BIS annual report with an exact printed-page locator and direct institutional statement.",
+      "publication_status": "A-grade — retain as a primary institutional continuity record",
+      "passage_record": {
+        "status": "Passage locked — contemporary official BIS annual report",
+        "locator": "BIS 46th Annual Report, 1976, printed p.120",
+        "evidence": "The report states that the BIS continued to provide the Secretariat for the Committee on Banking Regulations and Supervisory Practices established by the G10 Governors in December 1974.",
+        "significance": "Direct contemporary evidence of the committee's continuing institutional operation and BIS Secretariat support in 1976.",
+        "source_url": "https://www.bis.org/publ/arpdf/archive/ar1976_en.pdf",
+        "checked": "2026-10-05",
+        "verification_note": "The 1976 report is continuity evidence; the committee's establishment is explicitly attributed to December 1974."
+      }
     }
   ],
   "audit_5_4": {
