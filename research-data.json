@@ -9060,6 +9060,74 @@
         "checked": "2026-10-05",
         "verification_note": "Use cautiously: the official timeline groups developments across 1977–79."
       }
+    },
+    {
+      "source_id": "bis-consolidation-banks-balance-sheets-1978",
+      "title": "Committee report on consolidation of banks' balance sheets as a method of supervising bank solvency",
+      "source_type": "Committee report",
+      "date_start": "1978-10-28",
+      "date_end": "1978-10-28",
+      "date_label": "28 October 1978",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Consolidation of banks' balance sheets: aggregation of risk-bearing assets as a method of supervising bank solvency",
+      "original_text": "The Committee considered the aggregation of banks' risk-bearing assets an important instrument of banking supervision and set out the reasons for using consolidation to assess bank soundness and capital adequacy.",
+      "translation": "কমিটি ব্যাংকের ঝুঁকি-বহনকারী সম্পদ একত্রিত করে মূল্যায়নকে ব্যাংক তদারকির একটি গুরুত্বপূর্ণ উপায় হিসেবে বিবেচনা করে এবং ব্যাংকের soundness ও capital adequacy নির্ণয়ে consolidation ব্যবহারের কারণ ব্যাখ্যা করে।",
+      "translator": "Site research translation",
+      "edition": "Basel Committee publication, October 1978",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1978",
+      "reference_number": "BCBS, October 1978",
+      "page": "",
+      "chapter": "",
+      "section": "Introduction",
+      "source_url": "https://www.bis.org/publications/197810-practices-consolidation-banks-balance-sheets-aggregation-risk-bearing-assets-method-supervising-bank-solvency",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional report",
+      "historical_claim": "In October 1978, the Committee on Banking Regulations and Supervisory Practices submitted a report to the G10 Governors on consolidation of banks' balance sheets as a method of supervising bank solvency, arguing that capital adequacy and risk exposure could be most satisfactorily monitored on the basis of consolidated risk assets.",
+      "context": "This is a contemporary Committee publication dated 28 October 1978. It represents substantive supervisory work by the G10 banking-supervision committee, rather than merely evidence that the committee continued to exist.",
+      "interpretation": "The report is evidence of an early move toward consolidated, group-wide assessment of internationally active banks. It links capital adequacy and risk exposure to the totality of banking activities rather than treating individual legal entities in isolation.",
+      "counter_interpretations": [
+        "The publication is an institutional supervisory report and does not by itself establish that all G10 jurisdictions immediately adopted a uniform consolidated-supervision regime.",
+        "The surviving web presentation does not provide a printed-page locator, so the record is A-grade on primary-source provenance but not page-locked."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-g10-standing-committee-1975",
+        "bis-46th-annual-report-1976-banking-supervision",
+        "bis-eurocurrency-standing-committee-1977"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "BIS publication page dated 28 October 1978. The source is primary institutional evidence. No printed-page locator is claimed because the current official web presentation does not expose one.",
+      "web_sources": [
+        "https://www.bis.org/publications/197810-practices-consolidation-banks-balance-sheets-aggregation-risk-bearing-assets-method-supervising-bank-solvency"
+      ],
+      "bn_title": "ব্যাংকের solvency তদারকিতে balance-sheet consolidation নিয়ে ১৯৭৮ সালের কমিটি রিপোর্ট",
+      "bn_historical_claim": "১৯৭৮ সালের অক্টোবরে Committee on Banking Regulations and Supervisory Practices G10 গভর্নরদের কাছে ব্যাংকের solvency তদারকির পদ্ধতি হিসেবে balance-sheet consolidation নিয়ে একটি রিপোর্ট দেয় এবং consolidated risk assets-এর ভিত্তিতে capital adequacy ও risk exposure পর্যবেক্ষণের পক্ষে যুক্তি দেয়।",
+      "bn_context": "এটি ২৮ অক্টোবর ১৯৭৮ তারিখের সমসাময়িক Committee publication। এটি শুধু কমিটির অস্তিত্বের ধারাবাহিকতা নয়, বরং আন্তর্জাতিক ব্যাংক তদারকির substantive policy work-এর প্রমাণ।",
+      "bn_interpretation": "রিপোর্টটি আন্তর্জাতিকভাবে সক্রিয় ব্যাংকের group-wide risk assessment-এর দিকে প্রাথমিক প্রাতিষ্ঠানিক অগ্রগতির প্রমাণ।",
+      "bn_notes": "অফিসিয়াল ওয়েব উপস্থাপনায় printed-page locator নেই; তাই কোনো পৃষ্ঠা নম্বর অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Committee report with a precise publication date and direct substantive statement; no invented page locator.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 October 1978, official BIS publication page; Introduction",
+        "evidence": "The Committee states that aggregation/consolidation of banks' risk-bearing assets is an important instrument of banking supervision and explains its use for assessing soundness and capital adequacy.",
+        "significance": "Direct evidence of substantive international banking-supervision policy work in 1978, moving beyond institutional continuity toward consolidated assessment of banking risks.",
+        "source_url": "https://www.bis.org/publications/197810-practices-consolidation-banks-balance-sheets-aggregation-risk-bearing-assets-method-supervising-bank-solvency",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; locator is the official publication date and Introduction."
+      }
     }
   ],
   "audit_5_4": {
