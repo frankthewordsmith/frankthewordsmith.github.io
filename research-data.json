@@ -9467,6 +9467,74 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; official publication date, Introduction and full document are the stable locator."
       }
+    },
+    {
+      "source_id": "bis-ifac-interbank-confirmation-procedures-1984",
+      "title": "Interbank confirmation procedures",
+      "source_type": "Joint international auditing statement",
+      "date_start": "1984-02-20",
+      "date_end": "1984-02-20",
+      "date_label": "20 February 1984",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Inter-bank confirmation procedures",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "International Auditing Statement, February 1984",
+      "publisher": "International Federation of Accountants / Committee on Banking Regulations and Supervisory Practices",
+      "publication_year": "1984",
+      "reference_number": "BCBS/IFAC, 20 February 1984",
+      "page": "",
+      "chapter": "",
+      "section": "Introduction",
+      "source_url": "https://www.bis.org/publications/interbank-confirmation-procedures",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary joint institutional statement",
+      "historical_claim": "On 20 February 1984, the International Auditing Practices Committee and the G10/Swiss Committee on Banking Regulations and Supervisory Practices jointly published guidance on inter-bank confirmation procedures, covering confirmation of balances, transactions and off-balance-sheet items across banking relationships, including banks in different countries.",
+      "context": "The statement was prepared and approved jointly in November 1983 for publication in February 1984. It provided practical audit guidance relevant to verification of international banking relationships and exposures.",
+      "interpretation": "The 1984 statement adds an operational verification layer to the international supervisory architecture: reliable confirmation of inter-bank positions and off-balance-sheet commitments was treated as an important audit control.",
+      "counter_interpretations": [
+        "This is an international auditing statement rather than a Basel prudential standard, and it was prepared in November 1983 before its February 1984 publication.",
+        "It provides practical guidance and does not itself create a binding international legal requirement.",
+        "No printed page number is claimed; the official BIS presentation identifies the dated six-page full text."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-principles-supervision-banks-foreign-establishments-concordat-1983",
+        "bis-supervision-banks-foreign-exchange-positions-1980"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary joint institutional publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 20 February 1984; full text is presented as a six-page document. Prepared and approved jointly in November 1983.",
+      "web_sources": [
+        "https://www.bis.org/publications/interbank-confirmation-procedures"
+      ],
+      "bn_title": "আন্তঃব্যাংক confirmation procedures",
+      "bn_historical_claim": "২০ ফেব্রুয়ারি ১৯৮৪-এ IFAC-এর International Auditing Practices Committee এবং G10/Swiss banking-supervision committee যৌথভাবে inter-bank confirmation procedures নিয়ে একটি statement প্রকাশ করে, যেখানে balances, transactions এবং off-balance-sheet items যাচাইয়ের পদ্ধতি অন্তর্ভুক্ত ছিল।",
+      "bn_context": "নথিটি নভেম্বর ১৯৮৩-তে যৌথভাবে প্রস্তুত ও অনুমোদিত হয়ে ১৯৮৪ সালের ফেব্রুয়ারিতে প্রকাশিত হয় এবং international banking relationships ও exposures যাচাইয়ের জন্য practical audit guidance দেয়।",
+      "bn_interpretation": "১৯৮৪ সালের নথিটি আন্তর্জাতিক supervisory architecture-এ একটি operational verification layer যোগ করে: inter-bank positions এবং off-balance-sheet commitments-এর নির্ভরযোগ্য confirmation-কে গুরুত্বপূর্ণ audit control হিসেবে বিবেচনা করা হয়।",
+      "bn_notes": "এটি Basel prudential standard নয়; এটি একটি joint international auditing statement। কোনো printed page number অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary joint institutional publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary joint institutional statement with exact publication date and direct operational guidance on verification of inter-bank balances, transactions and off-balance-sheet items; no invented page locator.",
+      "publication_status": "A-grade — primary joint institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary joint institutional publication",
+        "locator": "20 February 1984, official BIS publication; Introduction / full 6-page document",
+        "evidence": "The statement provides practical assistance for confirming inter-bank balances and other amounts, including off-balance-sheet items such as guarantees and forward commitments, across banking relationships including different countries.",
+        "significance": "Direct 1984 evidence of standardized verification practices supporting the reliability of international banking exposures and controls.",
+        "source_url": "https://www.bis.org/publications/interbank-confirmation-procedures",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; official publication date and full document are the stable locator."
+      }
     }
   ],
   "audit_5_4": {
