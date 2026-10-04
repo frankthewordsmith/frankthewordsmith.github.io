@@ -6828,6 +6828,92 @@
       "bn_notes": "GPO 1942 সংস্করণের মুদ্রিত পৃষ্ঠা ৮–৯, ১৭–১৮, ২৮–৩০ এবং ২৮৪–২৮৫ যাচাই করা হয়েছে। পৃষ্ঠা ৮–৯-এ প্রতিরক্ষা ব্যয়, ১৭–১৮-এ সরকারি ঋণ, ২৮–৩০-এ Second Liberty Bond Act-এর সংশোধিত কাঠামো এবং ২৮৪–২৮৫-এ National Defense Series Treasury notes-এর অফার নথিভুক্ত।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-defense-financing-1942",
+      "title": "U.S. Treasury Annual Report 1942 — War Financing, Debt Expansion, and the Public Debt Act of 1942",
+      "source_type": "Institutional annual report",
+      "date_start": "1942-06-30",
+      "date_end": "1942-06-30",
+      "date_label": "Fiscal year ended June 30, 1942",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "war financing; public debt expansion; Public Debt Act of 1942",
+      "original_text": "The Treasury reported that the gross public debt reached $72.422 billion on June 30, 1942, an increase of $23.461 billion during fiscal year 1942. The report states that the Treasury's principal problem had shifted from financing the defense program to financing the war program, and records $23.461 billion of net public-debt financing requirements. It also documents the Public Debt Act of 1942, which raised the aggregate statutory limitation on obligations outstanding at one time from $65 billion to $125 billion.",
+      "translation": "The 1942 Treasury report records the transition from national-defense financing to full U.S. war financing, accompanied by a very large increase in the gross public debt and a major expansion of statutory borrowing authority.",
+      "translator": "",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1942",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1943",
+      "reference_number": "Treasury Department Document No. 3121",
+      "page": "12; 17–18; 20; 32; 38",
+      "chapter": "",
+      "verse": "",
+      "tablet": "",
+      "section": "Financing the net deficit and other requirements; The public debt; Treasury bonds, notes, and certificates of indebtedness; Public Debt Act of 1942; Absorption of the increase in securities issued or guaranteed by the United States",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1942-5588/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "During fiscal year 1942, the gross public debt increased by approximately $23.461 billion, from $48.961 billion on June 30, 1941 to $72.422 billion on June 30, 1942. The Treasury reported that its principal financing problem had shifted from financing the defense program to financing the war program. The report also records the Public Debt Act of 1942, which raised the aggregate statutory limitation on obligations outstanding at one time from $65 billion to $125 billion.",
+      "context": "Fiscal year 1942 covers the decisive transition from pre-entry rearmament to full U.S. war financing following the Pearl Harbor attack. The report separates the net deficit and other financing requirements from the resulting increase in gross public debt and distinguishes public issues from special issues. It also documents the Treasury's use of bonds, notes, certificates of indebtedness, bills, and savings instruments and the expansion of statutory borrowing authority under the Public Debt Act of 1942.",
+      "interpretation": "The 1942 evidence marks the institutional and quantitative transition from defense financing to full-scale war financing. The $23.461 billion increase in gross public debt is substantially larger than the 1941 increase, while the Public Debt Act of 1942 more than doubled the statutory ceiling for obligations outstanding at one time. This is direct primary evidence of the fiscal-financing expansion accompanying U.S. entry into the war.",
+      "counter_interpretations": [
+        "The $23.461 billion increase in gross public debt is not identical to the $19.598 billion net deficit because other financing requirements, trust and checking-account transactions, General Fund changes, and debt retirements affect the Treasury reconciliation.",
+        "The gross public debt figure includes both public issues and special issues; it should not be treated as equivalent to ordinary market borrowing alone.",
+        "The increase in the statutory debt ceiling establishes expanded legal borrowing capacity, not necessarily borrowing equal to the ceiling.",
+        "The annual report is a primary institutional source; the Public Debt Act itself should be cited separately when a statutory claim is made independently."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-defense-financing-1941",
+        "us-treasury-defense-financing-1940",
+        "us-treasury-debt-expansion-1939"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against the Government Printing Office 1943 annual report, Treasury Department Document No. 3121. Core expenditure/financing evidence is locked to printed p.12; public-debt and first-six-month war-financing evidence to printed pp.17–18; major debt-security operations to p.20; the Public Debt Act of 1942 to p.32; and the absorption of increased U.S. securities to p.38. FRASER's text layer is automatically extracted from the scan, so exact quotations should be checked against the page image before publication.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1942-5588/fulltext"
+      ],
+      "citation_record": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1942 (Washington: U.S. Government Printing Office, 1943), Treasury Department Document No. 3121, pp.12, 17–18, 20, 32, 38.",
+      "footnote_policy": "Every quotation or paraphrase should resolve to the verified GPO 1943 edition and printed page; statutory claims should also identify the Public Debt Act of 1942 when used independently.",
+      "bibliography_entry": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1942 (Washington: U.S. Government Printing Office, 1943), Treasury Department Document No. 3121.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp.12; 17–18; 20; 32; 38",
+        "evidence": "The report states that expenditures increased by $19.716 billion over the previous fiscal year; identifies the net deficit as $19.598 billion and total financing requirements of $23.461 billion; records a gross public debt of $72.422 billion on June 30, 1942, up $23.461 billion from June 30, 1941; documents $12.665 billion of bond, note, and certificate financing operations; and states that the Public Debt Act of 1942 raised the statutory limitation from $65 billion to $125 billion.",
+        "significance": "Direct primary-source evidence for the transition from prewar defense financing to full U.S. war financing and the associated expansion of public debt and statutory borrowing authority.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1942-5588/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "FRASER identifies the report as the U.S. Treasury's FY1942 annual report. The record locks the printed-page locations while treating the scan as the final authority for exact quotations."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition, exact printed-page locks, quantitative war-financing and debt evidence, and documented expansion of statutory borrowing authority.",
+      "evidence_grade_6_6": "A",
+      "publication_status_6_6": "A-grade — primary institutional evidence with printed-page lock",
+      "evidence_grade_6_7": "A",
+      "publication_status_6_7": "A-grade — primary institutional evidence with printed-page lock",
+      "evidence_grade_7_2": "A",
+      "publication_status_7_2": "A-grade — primary institutional evidence with printed-page lock",
+      "evidence_grade_7_5": "A",
+      "publication_status_7_5": "A-grade — primary institutional evidence with printed-page lock",
+      "conversion_status_8_1": "A-grade retained; printed-page lock verified.",
+      "evidence_grade_8_1": "A",
+      "evidence_grade": "A",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৪২ — যুদ্ধকালীন অর্থায়ন, সরকারি ঋণ বৃদ্ধি ও Public Debt Act of 1942",
+      "bn_historical_claim": "১৯৪২ অর্থবছরে মোট সরকারি ঋণ ৪৮.৯৬১ বিলিয়ন ডলার থেকে বেড়ে ৭২.৪২২ বিলিয়ন ডলারে পৌঁছে; অর্থাৎ এক বছরে প্রায় ২৩.৪৬১ বিলিয়ন ডলার বৃদ্ধি পায়। ট্রেজারি জানায় যে তার প্রধান অর্থায়ন সমস্যা প্রতিরক্ষা কর্মসূচির অর্থায়ন থেকে যুক্তরাষ্ট্রের যুদ্ধ কর্মসূচির অর্থায়নে স্থানান্তরিত হয়েছে। একই সময়ে Public Debt Act of 1942-এর মাধ্যমে একসঙ্গে বকেয়া থাকতে পারা সরকারি obligations-এর আইনগত সীমা ৬৫ বিলিয়ন ডলার থেকে ১২৫ বিলিয়ন ডলারে বাড়ানো হয়।",
+      "bn_context": "১৯৪২ অর্থবছর Pearl Harbor-এর পর যুক্তরাষ্ট্রের পূর্ণাঙ্গ যুদ্ধকালীন অর্থায়নে প্রবেশের পরিবর্তনকে ধারণ করে। প্রতিবেদনে ঘাটতি, অন্যান্য অর্থায়ন প্রয়োজন, gross public debt, public issues ও special issues আলাদা করে দেখানো হয়েছে। Treasury bonds, notes, certificates of indebtedness, bills এবং savings instruments-এর মাধ্যমে অর্থায়নের পাশাপাশি Public Debt Act of 1942-এর মাধ্যমে আইনগত borrowing authority-ও সম্প্রসারিত হয়।",
+      "bn_interpretation": "১৯৪২ সালের প্রমাণ ১৯৪১ সালের প্রাক-যুদ্ধ প্রতিরক্ষা অর্থায়ন থেকে পূর্ণাঙ্গ যুদ্ধকালীন অর্থায়নে প্রাতিষ্ঠানিক ও পরিমাণগত রূপান্তরকে স্পষ্ট করে। এক বছরে ২৩.৪৬১ বিলিয়ন ডলারের gross public debt বৃদ্ধি এবং statutory debt ceiling ৬৫ থেকে ১২৫ বিলিয়ন ডলারে উন্নীত হওয়া এই সম্প্রসারণের প্রত্যক্ষ প্রাথমিক প্রমাণ।",
+      "bn_notes": "GPO 1943 সংস্করণের মুদ্রিত পৃষ্ঠা ১২, ১৭–১৮, ২০, ৩২ ও ৩৮ যাচাই করা হয়েছে। পৃষ্ঠা ১২-তে ব্যয় ও অর্থায়নের প্রয়োজন, ১৭–১৮-তে gross public debt ও প্রথম ছয় মাসের যুদ্ধকালীন অর্থায়ন, ২০-তে bond/note/certificate financing, ৩২-এ Public Debt Act of 1942 এবং ৩৮-এ সরকারি securities বৃদ্ধির absorption নথিভুক্ত।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
@@ -9025,5 +9111,5 @@
       "Then assess J. S. Mill, Principles of Political Economy (1848 first edition) for an exact chapter/page lock."
     ]
   },
-  "last_updated": "2026-10-04"
+  "last_updated": "2026-10-05"
 }
