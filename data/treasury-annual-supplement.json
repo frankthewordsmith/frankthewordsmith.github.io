@@ -1,0 +1,75 @@
+{
+  "site": "FranktheWordsmith",
+  "version": "supplement-1",
+  "sources": [
+    {
+      "source_id": "us-treasury-debt-management-1973",
+      "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
+      "source_type": "Institutional annual report",
+      "date_start": "1973-06-30",
+      "date_end": "1973-06-30",
+      "date_label": "Fiscal year ended June 30, 1973",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; Federal securities; foreign investors; Federal Reserve; Treasury securities",
+      "original_text": "On the unified budget basis the deficit for fiscal 1973 was $14.3 billion. Net receipts were $232.2 billion and outlays were $246.5 billion. Borrowing from the public amounted to $19.3 billion. As of June 30, 1973, Federal securities outstanding totaled $469 billion, comprised of $458 billion in public debt securities and $11 billion in agency securities; $343 billion represented borrowing from the public. The Federal Reserve acquired $3.8 billion of Treasury obligations. Private investors increased their holdings by $15.5 billion, including $10.3 billion by foreign investors and $5.2 billion by domestic investors.",
+      "translation": "১৯৭৩ অর্থবছরে unified-budget ভিত্তিতে ঘাটতি ছিল ১৪.৩ বিলিয়ন ডলার। Net receipts ছিল ২৩২.২ বিলিয়ন ডলার এবং outlays ছিল ২৪৬.৫ বিলিয়ন ডলার। জনসাধারণের কাছ থেকে borrowing ছিল ১৯.৩ বিলিয়ন ডলার। ৩০ জুন ১৯৭৩-এ মোট Federal securities ছিল ৪৬৯ বিলিয়ন ডলার—এর মধ্যে ৪৫৮ বিলিয়ন public debt securities এবং ১১ বিলিয়ন agency securities; ৩৪৩ বিলিয়ন ডলার ছিল borrowing from the public। Federal Reserve ৩.৮ বিলিয়ন ডলারের Treasury obligations অধিগ্রহণ করে। Private investors-এর holdings ১৫.৫ বিলিয়ন ডলার বাড়ে, যার মধ্যে ১০.৩ বিলিয়ন foreign investors এবং ৫.২ বিলিয়ন domestic investors-এর।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures checked against the named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1973",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1973",
+      "reference_number": "Treasury Department Document No. 3260",
+      "page": "3–4; 11–16",
+      "section": "Financial Operations; Federal Debt Management",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1973.pdf",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1973 reduced the unified-budget deficit to $14.3 billion, while borrowing from the public remained $19.3 billion. Treasury securities remained the dominant component of Federal securities, and foreign investors supplied $10.3 billion of the $15.5 billion increase in private holdings while the Federal Reserve acquired $3.8 billion of Treasury obligations.",
+      "context": "The report records a transition year after the 1971–72 monetary break. Fiscal borrowing remained substantial even as the unified-budget deficit narrowed, and the ownership data show continuing foreign and Federal Reserve demand for U.S. Treasury obligations.",
+      "interpretation": "1973 is a useful transition marker: the fiscal deficit narrowed, but Treasury borrowing from the public remained near the prior two years' level. Foreign investors accounted for the majority of the increase in private holdings, while the Federal Reserve also increased its Treasury holdings. These are documented financing and ownership relationships, not by themselves proof of causation or policy motive.",
+      "counter_interpretations": [
+        "The $14.3B unified-budget deficit and $19.3B borrowing from the public are distinct measures because the Treasury reconciliation includes changes in cash and other financing accounts.",
+        "Foreign investor holdings and foreign official holdings should not be conflated without a separate ownership classification; the cited passage establishes foreign private-investor holdings.",
+        "The $3.8B Federal Reserve acquisition records a holdings change and does not by itself establish motive or direct Treasury financing.",
+        "Federal securities include agency securities as well as Treasury public debt securities; these categories should remain distinct."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1972",
+        "us-treasury-debt-management-1971",
+        "us-treasury-debt-management-1970"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3260. Printed pp. 3–4 establish fiscal operations and financing reconciliation; pp. 11–16 cover Federal debt structure, ownership, Federal Reserve acquisitions, foreign investors, and Treasury financing. Printed page labels control over OCR.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1973.pdf"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3260, with verified printed pages covering fiscal operations, Federal debt, ownership, Federal Reserve acquisitions, and foreign investor holdings.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৩ — কম ঘাটতি, Treasury borrowing, foreign investor demand ও Federal Reserve acquisitions",
+      "bn_historical_claim": "১৯৭৩ অর্থবছরে unified-budget ঘাটতি ১৪.৩ বিলিয়ন ডলারে নেমে আসে, কিন্তু public borrowing ছিল ১৯.৩ বিলিয়ন ডলার। Federal securities ছিল ৪৬৯ বিলিয়ন ডলার। Private investors-এর holdings ১৫.৫ বিলিয়ন ডলার বাড়ে, যার ১০.৩ বিলিয়ন foreign investors-এর; Federal Reserve ৩.৮ বিলিয়ন ডলারের Treasury obligations অধিগ্রহণ করে।",
+      "bn_context": "১৯৭১–৭২-এর monetary break-এর পর ১৯৭৩ সালে fiscal deficit কমলেও Treasury borrowing এবং U.S. debt-এর foreign investor demand গুরুত্বপূর্ণ ছিল।",
+      "bn_interpretation": "১৯৭৩ একটি গুরুত্বপূর্ণ transition marker: deficit কমলেও public borrowing প্রায় আগের দুই বছরের স্তরে থাকে; private holdings বৃদ্ধির বড় অংশ foreign investors-এর মাধ্যমে আসে এবং Federal Reserve-এর Treasury holdings-ও বাড়ে।",
+      "bn_notes": "Treasury Department Document No. 3260-এর মুদ্রিত pp. 3–4 ও 11–16 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 11–16",
+        "evidence": "$14.3B unified-budget deficit; $19.3B borrowing from public; $469B Federal securities; $458B public debt securities; $343B borrowing from public; $3.8B Federal Reserve acquisition of Treasury obligations; $15.5B increase in private holdings, including $10.3B foreign and $5.2B domestic.",
+        "significance": "Primary institutional evidence of fiscal financing and ownership patterns during the post-1971 monetary transition.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1973.pdf",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      }
+    }
+  ]
+}
