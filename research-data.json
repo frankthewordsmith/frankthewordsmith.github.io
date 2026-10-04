@@ -5693,6 +5693,83 @@
       "bn_notes": "১৯২৭ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ৩৪–৪০ এবং পরবর্তী অর্থায়ন-সংক্রান্ত প্রদর্শনী পৃষ্ঠা ২৬৯–২৯৭-এর সঙ্গে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-third-liberty-refunding-1928",
+      "title": "U.S. Treasury Annual Report 1928 — Third Liberty Loan Maturity and Refunding",
+      "source_type": "Government annual report",
+      "date_start": "1928",
+      "date_end": "1928",
+      "date_label": "Fiscal year ended June 30, 1928, with subsequent 1928 maturity/refunding operations",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "third Liberty loan; refunding; maturity; Treasury notes; Treasury bonds; certificates of indebtedness",
+      "original_text": "The third Liberty loan bonds were due for payment on September 15, 1928. The Treasury undertook refunding through 3½ per cent Treasury notes, Treasury bonds, certificates of indebtedness, sinking-fund purchases, and surplus-money retirements, reducing the outstanding amount to approximately $955,000,000 before the maturity date.",
+      "translation": "Treasury report, fiscal year 1928.",
+      "translator": "",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1928, with Appendices",
+      "publisher": "U.S. Government Printing Office",
+      "publication_year": "1929",
+      "reference_number": "Report on the Finances, pp. 24–28; refunding summary pp. 28–29",
+      "page": "24–29",
+      "chapter": "The Public Debt",
+      "verse": "",
+      "tablet": "",
+      "section": "Refunding the third Liberty loan; Resume of refunding operations",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1928-appendices-5574/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "In 1928 the Treasury completed the major refunding and retirement process for the Third Liberty Loan, which matured September 15, 1928. Beginning with a January exchange, additional bond and certificate issues, sinking-fund purchases, and surplus-money retirements reduced the outstanding Third Liberty Loan to approximately $955 million before maturity; subsequent Treasury certificate issues completed the special refunding provision.",
+      "context": "The 1928 operation followed the 1927 refunding of the Second Liberty Loan and represented the next major maturity point in the post-war Liberty Loan structure. The Treasury converted or retired a large portion of the Third Liberty Loan rather than allowing the full original balance to mature unchanged.",
+      "interpretation": "1928 is a major institutional milestone: the Treasury moved through the scheduled maturity of the Third Liberty Loan by combining direct exchanges, market/sinking-fund purchases, surplus retirements, and new Treasury certificates and bonds. This was both debt retirement and refinancing, not simple cancellation.",
+      "counter_interpretations": [
+        "Refunding does not mean that all obligations disappeared; new Treasury securities and certificates replaced substantial portions of the matured loan.",
+        "The fiscal-year report and subsequent calendar-year operations overlap temporally; the printed-page record must distinguish June 30 fiscal-year data from post-fiscal-year maturity operations.",
+        "The annual report is an institutional account; individual Treasury circulars and statutory authorities remain separate evidence layers."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-second-liberty-refunding-1927",
+        "us-treasury-debt-contraction-1926",
+        "us-treasury-debt-contraction-1925"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages locked",
+      "last_verified": "2026-10-04",
+      "notes": "Core refunding narrative is locked to printed pp. 24–29. The January 1928 exchange refunded $607,399,650 of Third Liberty Loan bonds into 3½ per cent 3–5-year Treasury notes; subsequent operations reduced the amount outstanding to approximately $955 million before September 15 maturity. October certificate issuance completed the special refunding provision.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1928-appendices-5574/fulltext"
+      ],
+      "citation_record": "",
+      "footnote_policy": "Every quotation or paraphrase should resolve to the locked printed-page locator for this edition.",
+      "bibliography_entry": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1928, with Appendices (Washington: Government Printing Office, 1929), pp. 24–29.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 24–29, especially pp. 25–28",
+        "evidence": "The Treasury describes the Third Liberty Loan's September 15, 1928 maturity and the sequence of exchanges, sinking-fund purchases, surplus retirements, and certificate issues used to reduce and refund the loan. By the maturity date the outstanding balance had been reduced to about $955 million, with subsequent certificate financing completing the special refunding provision.",
+        "significance": "Direct institutional evidence of the scheduled maturity of a major wartime Liberty Loan and the Treasury's coordinated refinancing/retirement response.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1928-appendices-5574/fulltext",
+        "checked": "2026-10-04",
+        "verification_note": "Page lock follows the printed pagination of the 1928 annual report."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Primary Treasury annual report with exact printed-page evidence covering the maturity and refunding sequence.",
+      "publication_status_6_6": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status_7_5": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status": "primary institutional evidence with exact printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯২৮ — তৃতীয় লিবার্টি ঋণের মেয়াদপূর্তি ও পুনঃঅর্থায়ন",
+      "bn_historical_claim": "১৯২৮ সালে ১৫ সেপ্টেম্বর পরিশোধযোগ্য তৃতীয় লিবার্টি ঋণের বড় অংশ ট্রেজারি নোট, ট্রেজারি বন্ড, সার্টিফিকেট, সিঙ্কিং ফান্ড এবং উদ্বৃত্ত অর্থের মাধ্যমে অবসর বা পুনঃঅর্থায়ন করা হয়। মেয়াদপূর্তির আগে বকেয়া ঋণ প্রায় ৯৫৫ মিলিয়ন ডলারে নামিয়ে আনা হয়।",
+      "bn_context": "১৯২৭ সালে দ্বিতীয় লিবার্টি ঋণের পুনঃঅর্থায়নের পর ১৯২৮ সালে তৃতীয় লিবার্টি ঋণের নির্ধারিত মেয়াদপূর্তি যুদ্ধ-পরবর্তী ঋণ কাঠামোর আরেকটি বড় পরিবর্তন বিন্দু হয়ে ওঠে।",
+      "bn_interpretation": "১৯২৮ একটি গুরুত্বপূর্ণ প্রাতিষ্ঠানিক মাইলফলক। ট্রেজারি সরাসরি বিনিময়, সিঙ্কিং ফান্ডের ক্রয়, উদ্বৃত্ত অর্থে অবসর এবং নতুন সার্টিফিকেট ও বন্ডের সমন্বয়ে একটি বড় যুদ্ধকালীন ঋণের মেয়াদপূর্তি সামলায়। এটি একই সঙ্গে ঋণ অবসর ও পুনঃঅর্থায়ন—শুধু ঋণ বাতিল নয়।",
+      "bn_notes": "১৯২৮ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ২৪–২৯, বিশেষত ২৫–২৮-এর সঙ্গে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
