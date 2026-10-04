@@ -8370,6 +8370,75 @@
       "bn_notes": "Treasury Department Document No. 3236-এর মুদ্রিত pp. 3–4, 27–29, 32 ও 274 দিয়ে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-debt-management-1966",
+      "title": "U.S. Treasury Annual Report 1966 — Vietnam-Era Deficit, Debt Expansion, Monetary Tightness, and Federal Reserve Financing Authority",
+      "source_type": "Institutional annual report",
+      "date_start": "1966-06-30",
+      "date_end": "1966-06-30",
+      "date_label": "Fiscal year ended June 30, 1966",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "administrative budget deficit; public debt; Treasury bills; debt restructuring; Federal Reserve direct purchases; balance of payments; Vietnam",
+      "original_text": "The Treasury reported a $2.3 billion administrative budget deficit in fiscal 1966. Gross public debt outstanding reached $319.9 billion, an increase of $2.6 billion. Treasury issued $45.4 billion of new marketable securities excluding regular bill rollovers; $10.5 billion was for new cash, $30 billion replaced maturing notes and bonds, and $4.8 billion of near maturities were extended through a February 1966 advance refunding. The report states that the statutory 4.25 percent interest ceiling prevented Treasury from offering bonds during most of the year, shifting financing toward notes and shorter maturities. It also documents a fiscal-year 1966 law extending Federal Reserve authority for 2 years to purchase U.S. obligations directly from the Treasury.",
+      "translation": "১৯৬৬ অর্থবছরে ট্রেজারি ২.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১৯.৯ বিলিয়ন ডলারের মোট সরকারি ঋণ রিপোর্ট করে, যা বছরে ২.৬ বিলিয়ন ডলার বেড়েছিল। নিয়মিত bill rollover বাদ দিয়ে ট্রেজারি ৪৫.৪ বিলিয়ন ডলারের নতুন marketable securities ইস্যু করে; এর ১০.৫ বিলিয়ন নতুন নগদ সংগ্রহে, ৩০ বিলিয়ন মেয়াদপূর্তির নোট ও বন্ড প্রতিস্থাপনে এবং ৪.৮ বিলিয়ন advance refunding-এর মাধ্যমে near-maturities বাড়াতে ব্যবহৃত হয়। ৪.২৫ শতাংশের statutory interest ceiling-এর কারণে বছরের অধিকাংশ সময় Treasury দীর্ঘমেয়াদি bond অফার করতে পারেনি এবং notes ও স্বল্পমেয়াদি maturity-র ওপর বেশি নির্ভর করে। প্রতিবেদনটি Federal Reserve-এর Treasury-কে সরাসরি U.S. obligations কেনার ক্ষমতা আরও দুই বছরের জন্য বাড়ানোর আইনও নথিভুক্ত করে।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1966",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1967",
+      "reference_number": "Treasury Department Document No. 3239",
+      "page": "3–4; 29–33; 288",
+      "section": "Review of Fiscal Operations; Public Debt Management and Ownership; Legislation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1966-5600/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1966 combined a smaller administrative deficit with continued gross public-debt growth amid Vietnam-related international-payment pressures and monetary tightening. Treasury financing was constrained by the statutory interest ceiling on bonds, leading to heavier use of notes and shorter maturities. The report also records substantial refinancing and advance refunding and the congressional extension of Federal Reserve authority to purchase Treasury obligations directly.",
+      "context": "The report describes 1966 as a year of difficult financing conditions. It records a $2.3 billion administrative deficit, $319.9 billion gross public debt, $45.4 billion of new marketable securities excluding regular bill rollovers, and the February 1966 advance refunding of $4.8 billion of near maturities. The 4.25 percent statutory bond ceiling limited longer-term financing while market yields rose. The report separately documents the Federal Reserve direct-purchase authority extension in the legislation section.",
+      "interpretation": "1966 is a significant transition marker: debt growth continued even with a relatively small administrative deficit, while statutory interest-rate constraints materially shaped the maturity composition of Treasury borrowing. At the same time, Vietnam increased balance-of-payments pressure and Congress extended an exceptional Federal Reserve authority to purchase Treasury obligations directly.",
+      "counter_interpretations": [
+        "$2.3 billion is the administrative budget deficit; it is not identical to the $2.6 billion gross public-debt increase because cash balances and other transactions enter the reconciliation.",
+        "The $319.9 billion figure is gross public debt outstanding; the report also gives $320.4 billion for gross public debt and guaranteed debt held outside Treasury in its ownership tables.",
+        "The statutory 4.25 percent ceiling constrained coupon bonds but did not prohibit all Treasury borrowing; notes, bills, and refunding operations remained available.",
+        "The extension of Federal Reserve direct-purchase authority was statutory authority, not evidence that the Federal Reserve actually purchased a specified amount of Treasury debt under that authority."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1965",
+        "us-treasury-debt-management-1964",
+        "us-treasury-debt-management-1963"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3239. Printed pp. 3–4 establish fiscal totals; pp. 29–33 document financing, maturity structure, and the statutory interest ceiling; p. 288 reproduces the legislation extending Federal Reserve direct-purchase authority. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1966-5600/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 29–33, 288",
+        "evidence": "$2.3B administrative deficit; $319.9B gross public debt; $45.4B new marketable securities excluding regular bill rollovers; $10.5B new cash; $30B refinancing; $4.8B advance refunding; 4.25% statutory bond ceiling; extension of Federal Reserve direct-purchase authority.",
+        "significance": "Primary institutional evidence connecting Vietnam-era fiscal pressure, Treasury maturity engineering, statutory interest-rate constraints, and exceptional Federal Reserve financing authority.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1966-5600/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt financing, maturity structure, statutory interest-rate limits, and Federal Reserve authority.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৬ — ভিয়েতনাম-যুগের ঘাটতি, ঋণবৃদ্ধি, মুদ্রানীতি-চাপ ও ফেডারেল রিজার্ভের অর্থায়ন ক্ষমতা",
+      "bn_historical_claim": "১৯৬৬ অর্থবছরে ২.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১৯.৯ বিলিয়ন ডলারের মোট সরকারি ঋণ ছিল। ট্রেজারি ৪৫.৪ বিলিয়ন ডলারের নতুন marketable securities ইস্যু করে, যার মধ্যে ১০.৫ বিলিয়ন নতুন নগদ সংগ্রহে এবং ৩০ বিলিয়ন মেয়াদপূর্তির ঋণ প্রতিস্থাপনে ব্যবহৃত হয়। ৪.২৫ শতাংশের statutory interest ceiling দীর্ঘমেয়াদি bond ইস্যু সীমিত করে।",
+      "bn_context": "প্রতিবেদনটি Vietnam-সম্পর্কিত balance-of-payments চাপ, কঠোর আর্থিক বাজার, Treasury maturity restructuring এবং statutory interest-rate ceiling-কে একই অর্থায়ন কাঠামোর অংশ হিসেবে নথিভুক্ত করে।",
+      "bn_interpretation": "১৯৬৬ সালে তুলনামূলকভাবে ছোট প্রশাসনিক ঘাটতির সত্ত্বেও সরকারি ঋণ বাড়ে। একই সঙ্গে statutory interest ceiling Treasury-র maturity choices-কে প্রভাবিত করে এবং কংগ্রেস Federal Reserve-এর Treasury obligations সরাসরি কেনার ক্ষমতা আরও দুই বছর বাড়ায়।",
+      "bn_notes": "Treasury Department Document No. 3239-এর মুদ্রিত pp. 3–4, 29–33 ও 288 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
