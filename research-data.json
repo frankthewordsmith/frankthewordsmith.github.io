@@ -9606,6 +9606,73 @@
         "checked": "2026-10-05",
         "verification_note": "No contemporary public page lock located; retained as B-grade under the site's no-invention rule."
       }
+    },
+    {
+      "source_id": "bis-management-banks-off-balance-sheet-exposures-1986",
+      "title": "The management of banks' off-balance-sheet exposures: a supervisory perspective",
+      "source_type": "Committee sound-practices report",
+      "date_start": "1986-03-28",
+      "date_end": "1986-03-28",
+      "date_label": "28 March 1986",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "The management of banks' off-balance-sheet exposures: a supervisory perspective",
+      "original_text": "The main conclusion of this paper is that the individual types of risk associated with most off-balance-sheet business are in principle no different from those associated with on-balance-sheet business. They should therefore be regarded as an integral part of banks' overall risk profiles.",
+      "translation": "এই paper-এর মূল সিদ্ধান্ত হলো, অধিকাংশ off-balance-sheet business-এর সঙ্গে যুক্ত পৃথক ঝুঁকিগুলো মূলত on-balance-sheet business-এর ঝুঁকি থেকে ভিন্ন নয়। তাই এগুলোকে ব্যাংকের সামগ্রিক risk profile-এর অবিচ্ছেদ্য অংশ হিসেবে বিবেচনা করা উচিত।",
+      "translator": "Site research translation",
+      "edition": "Basel Committee publication, March 1986",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1986",
+      "reference_number": "BCBS, 28 March 1986",
+      "page": "",
+      "chapter": "",
+      "section": "Introduction",
+      "source_url": "https://www.bis.org/publications/198603-practices-management-banks-off-balance-sheet-exposures-supervisory-perspective",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional report",
+      "historical_claim": "On 28 March 1986, the Basel Committee published a supervisory perspective on banks' off-balance-sheet exposures. It concluded that the risks of most off-balance-sheet business should be treated as integral to banks' overall risk profiles and called for coordinated risk management and attention to correlations among risks.",
+      "context": "This is the detailed primary publication that follows the 1985 Committee work on rapidly growing off-balance-sheet exposures.",
+      "interpretation": "The 1986 paper converts the emerging concern over financial innovation and contingent exposures into a substantive supervisory framework: off-balance-sheet activity is not a separate peripheral category but part of the bank's overall risk profile.",
+      "counter_interpretations": [
+        "The paper is a supervisory perspective/sound-practices document rather than binding international law.",
+        "It identifies the need for coordinated risk management but does not itself establish the later quantitative capital conversion factors of the 1988 Capital Accord."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-off-balance-sheet-risk-supervisory-response-1985",
+        "bis-ifac-interbank-confirmation-procedures-1984"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified and page-locked — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 28 March 1986; 22-page PDF. Primary PDF directly inspected.",
+      "web_sources": [
+        "https://www.bis.org/publications/198603-practices-management-banks-off-balance-sheet-exposures-supervisory-perspective"
+      ],
+      "bn_title": "ব্যাংকের off-balance-sheet exposures-এর ব্যবস্থাপনা: একটি supervisory perspective",
+      "bn_historical_claim": "২৮ মার্চ ১৯৮৬-এ Basel Committee ব্যাংকের off-balance-sheet exposures-এর ব্যবস্থাপনা নিয়ে একটি supervisory perspective প্রকাশ করে। এতে বলা হয়, অধিকাংশ off-balance-sheet business-এর ঝুঁকিকে ব্যাংকের overall risk profile-এর অবিচ্ছেদ্য অংশ হিসেবে বিবেচনা করা উচিত এবং coordinated risk management প্রয়োজন।",
+      "bn_context": "১৯৮৫ সালের emerging off-balance-sheet risk concerns-এর পর এটি সেই ঝুঁকিগুলোর ওপর বিস্তারিত contemporary supervisory treatment।",
+      "bn_interpretation": "১৯৮৬ সালের paperটি financial innovation ও contingent exposures-এর উদ্বেগকে একটি substantive supervisory framework-এ রূপ দেয়: off-balance-sheet activity আর আলাদা peripheral category নয়, বরং bank-এর overall risk profile-এর অংশ।",
+      "bn_notes": "অফিসিয়াল ২২-পৃষ্ঠার primary PDF সরাসরি যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified and page-locked — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Basel Committee publication with exact publication date, directly accessible 22-page primary PDF, and proposition-level passage lock; no invented page number.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 March 1986, official BIS publication; Introduction, paragraph 4 / 22-page PDF",
+        "evidence": "The Committee's main conclusion is that risks associated with most off-balance-sheet business are in principle no different from on-balance-sheet risks and should be treated as an integral part of banks' overall risk profiles.",
+        "significance": "Direct 1986 evidence of the formal supervisory integration of off-balance-sheet risks into overall bank risk management.",
+        "source_url": "https://www.bis.org/publications/198603-practices-management-banks-off-balance-sheet-exposures-supervisory-perspective",
+        "checked": "2026-10-05",
+        "verification_note": "Primary PDF directly inspected; locator uses Introduction paragraph 4 because the extracted PDF does not expose a reliable printed-page number."
+      }
     }
   ],
   "audit_5_4": {
