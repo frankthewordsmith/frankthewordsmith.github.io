@@ -9128,6 +9128,75 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; locator is the official publication date and Introduction."
       }
+    },
+    {
+      "source_id": "bis-consolidated-supervision-international-activities-1979",
+      "title": "Consolidated supervision of banks' international activities",
+      "source_type": "Committee report / sound practice",
+      "date_start": "1979-03-28",
+      "date_end": "1979-03-28",
+      "date_label": "28 March 1979",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Consolidated supervision of banks' international activities",
+      "original_text": "In the light of the rapid increase over the past twenty years in the internationalisation of many banks' operations, the authorities responsible for banking supervision cannot be fully satisfied about the soundness of individual banks unless they can examine the totality of each bank's business worldwide. Supervisors will also need to continue to look at banks' accounts on a non-consolidated basis.",
+      "translation": "ব্যাংকের আন্তর্জাতিক কার্যক্রম দ্রুত বৃদ্ধি পাওয়ায়, কোনো ব্যাংকের সামগ্রিক soundness সম্পর্কে সন্তুষ্ট হতে হলে তদারকি কর্তৃপক্ষকে তার বিশ্বব্যাপী ব্যবসার পূর্ণ পরিসর পরীক্ষা করতে সক্ষম হতে হবে; একই সঙ্গে non-consolidated ভিত্তিতেও হিসাব পর্যালোচনা অব্যাহত রাখতে হবে।",
+      "translator": "Site research translation",
+      "edition": "Basle Committee publication, March 1979",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1979",
+      "reference_number": "BCBS, 28 March 1979",
+      "page": "",
+      "chapter": "",
+      "section": "",
+      "source_url": "https://www.bis.org/publications/197903-practices-consolidated-supervision-banks-international-activities",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional report",
+      "historical_claim": "On 28 March 1979, the Committee issued a report establishing consolidated supervision of banks' international activities as a basic supervisory principle: authorities should be able to examine the totality of a bank's worldwide business, while retaining non-consolidated supervision as well.",
+      "context": "This is a contemporary official Committee publication. It materially develops the 1978 consolidation work by applying the principle explicitly to internationally active banks and their worldwide operations.",
+      "interpretation": "The report marks an important step toward group-wide, cross-border banking supervision. It treats a bank's worldwide business as the relevant risk perimeter while preserving entity-level examination as a complementary tool.",
+      "counter_interpretations": [
+        "The report states a supervisory principle rather than demonstrating immediate implementation in every G10 jurisdiction.",
+        "The official web publication is two pages but does not expose a printed-page citation suitable for a page lock; no page number is claimed."
+      ],
+      "scholarly_references": [
+        "Bank for International Settlements, BCBS Compendium of Documents, Volume I: Basic supervisory methods."
+      ],
+      "related_sources": [
+        "bis-consolidation-banks-balance-sheets-1978",
+        "bis-g10-standing-committee-1975"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 28 March 1979. The document is two pages. No printed-page number is claimed because the official web presentation does not provide a stable printed-page locator.",
+      "web_sources": [
+        "https://www.bis.org/publications/197903-practices-consolidated-supervision-banks-international-activities"
+      ],
+      "bn_title": "আন্তর্জাতিক ব্যাংক কার্যক্রমের consolidated supervision: ১৯৭৯ সালের কমিটি রিপোর্ট",
+      "bn_historical_claim": "২৮ মার্চ ১৯৭৯-এ Committee আন্তর্জাতিক ব্যাংক কার্যক্রমের consolidated supervision-কে একটি মৌলিক supervisory principle হিসেবে উপস্থাপন করে: কর্তৃপক্ষকে একটি ব্যাংকের বিশ্বব্যাপী ব্যবসার সামগ্রিকতা পরীক্ষা করতে সক্ষম হতে হবে, পাশাপাশি non-consolidated supervision-ও বজায় রাখতে হবে।",
+      "bn_context": "এটি ১৯৭৮ সালের consolidation নীতিকে আন্তর্জাতিকভাবে সক্রিয় ব্যাংকের বিশ্বব্যাপী কার্যক্রমে প্রয়োগের সমসাময়িক প্রাতিষ্ঠানিক প্রমাণ।",
+      "bn_interpretation": "রিপোর্টটি group-wide এবং cross-border banking supervision-এর দিকে গুরুত্বপূর্ণ প্রাতিষ্ঠানিক অগ্রগতি নির্দেশ করে।",
+      "bn_notes": "অফিসিয়াল ওয়েব সংস্করণে printed-page locator নেই; তাই কোনো পৃষ্ঠা নম্বর অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Committee publication with exact publication date and direct substantive supervisory principle; no invented page locator.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 March 1979, official BIS publication; full 2-page document",
+        "evidence": "The Committee states that supervisors need to examine the totality of each internationally active bank's business worldwide, while continuing non-consolidated examination.",
+        "significance": "Direct 1979 evidence for the development of consolidated, cross-border supervision of internationally active banks.",
+        "source_url": "https://www.bis.org/publications/197903-practices-consolidated-supervision-banks-international-activities",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; the official publication itself is the stable locator."
+      }
     }
   ],
   "audit_5_4": {
