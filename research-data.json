@@ -7541,6 +7541,63 @@
       "bn_notes": "GPO 1951 সংস্করণ, Treasury Department Document No. 3168। মুদ্রিত পৃষ্ঠা ৩, ১৪–১৬, ২৬–২৮ এবং ১১৯ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-korean-war-financing-1951",
+      "title": "U.S. Treasury Annual Report 1951 — Korean War Financing, Budget Surplus, and Debt Restructuring",
+      "source_type": "Institutional annual report",
+      "date_start": "1951-06-30",
+      "date_end": "1951-06-30",
+      "date_label": "Fiscal year ended June 30, 1951",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Korean War financing; budget surplus; public debt reduction; debt restructuring; bank-held debt",
+      "original_text": "The Treasury reported a Federal budget surplus of $3.510 billion in fiscal year 1951. Public debt declined from $257.357 billion at June 30, 1950 to $255.222 billion at June 30, 1951. The Treasury's debt-management program included substantial refunding: on March 4, 1951, it offered a new 2 3/4 percent, 24–29 year nonmarketable bond in exchange for $19.7 billion of outstanding 2 1/2 percent marketable bonds, and nearly $13.6 billion of those bonds were exchanged. The report's debt tables show the June 30, 1951 gross public debt at $255.222 billion. The report also documents the defense expansion following the Korean outbreak and the fiscal program adopted to meet the new security requirements.",
+      "translation": "The 1951 Treasury report records the first full fiscal year of the Korean War period in this sequence. Despite rapidly rising national-security expenditures, the Federal budget recorded a $3.510 billion surplus and public debt fell about $2.135 billion. Treasury simultaneously undertook major refinancing and restructuring operations designed to keep a larger share of Federal debt outside the commercial banking system.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1951",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1952",
+      "reference_number": "",
+      "page": "5; 47; 719; 751; 757",
+      "chapter": "",
+      "section": "Summary of fiscal operations; Public debt operations; National defense activities; Public debt by security classes; Statutory debt limitation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1951-5597/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal year 1951 recorded a $3.510 billion Federal budget surplus while gross public debt declined from $257.357 billion to $255.222 billion. The Treasury nevertheless engaged in substantial refinancing as defense expenditures expanded during the Korean War period. On March 4, 1951 it offered nonmarketable 2 3/4 percent long-term bonds in exchange for $19.7 billion of outstanding 2 1/2 percent marketable bonds; nearly $13.6 billion was exchanged. The Treasury's June 30, 1951 debt table records gross public debt of $255.222 billion.",
+      "context": "FY1951 is the first full fiscal year in the sequence after the Korean War began on June 25, 1950. Unlike FY1950, where only five days of the war fell inside the fiscal year, FY1951 captures a full year of the defense expansion. The report therefore links rising national-security requirements with a still-positive conventional budget balance and an active debt-refinancing program.",
+      "interpretation": "1951 is a critical bridge between postwar debt retirement and the renewed Korean War financing expansion. The important point is not simply that debt fell: Treasury combined a substantial budget surplus with major refinancing and a deliberate effort to alter the ownership and maturity structure of Federal debt. The exchange of $13.6 billion into nonmarketable securities reduced the amount of long-term marketable debt available for bank acquisition and helped support Treasury's anti-inflationary debt-management objective.",
+      "counter_interpretations": [
+        "The $3.510 billion budget surplus is not identical to the approximately $2.135 billion decline in public debt; changes in Treasury cash balances, trust-account transactions, and other financing flows account for the difference.",
+        "The $13.6 billion exchange was a refinancing transaction, not a $13.6 billion reduction in the Federal debt stock.",
+        "The $255.222 billion figure is gross public debt; it should not be conflated with total Federal obligations including every guaranteed or agency obligation.",
+        "Although FY1951 is the first full fiscal year after the Korean War began, not all FY1951 expenditures can be attributed solely to Korea; the report includes broader national-security and defense programs.",
+        "The Treasury's anti-inflation rationale is an institutional policy explanation and should be distinguished from later economic interpretations."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-postwar-debt-management-1950",
+        "us-treasury-postwar-debt-management-1949",
+        "us-treasury-postwar-debt-reduction-1948",
+        "us-treasury-postwar-debt-reduction-1947"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against the GPO 1952 annual report and cross-checked against the FRASER/Internet Archive scan and the Treasury debt tables. Printed p.5 is the fiscal-operations summary; p.47 contains the major March 1951 refunding operation; p.719 covers national-defense activities; p.751 gives the June 30 public-debt composition; p.757 covers the statutory limitation. FRASER's text layer is automatically extracted and the scan remains authoritative for exact quotations.",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition, exact printed-page locks, fiscal surplus and debt-stock figures, national-defense expenditure evidence, and detailed refinancing operations.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৫১ — কোরিয়া যুদ্ধের অর্থায়ন, বাজেট উদ্বৃত্ত ও সরকারি ঋণ পুনর্গঠন",
+      "bn_historical_claim": "১৯৫১ অর্থবছরে Federal budget surplus ছিল ৩.৫১০ বিলিয়ন ডলার। একই সময়ে gross public debt ২৫৭.৩৫৭ বিলিয়ন ডলার থেকে ২৫৫.২২২ বিলিয়ন ডলারে নেমে আসে। Treasury ১৯.৭ বিলিয়ন ডলারের দীর্ঘমেয়াদি marketable bonds-এর বিনিময়ে নতুন nonmarketable ২¾ শতাংশ bonds অফার করে এবং প্রায় ১৩.৬ বিলিয়ন ডলার মূল্যের securities বিনিময় করা হয়।",
+      "bn_context": "১৯৫০ সালের ২৫ জুন কোরিয়া যুদ্ধ শুরু হওয়ার পর ১৯৫১ ছিল এই ধারাবাহিকতায় প্রথম পূর্ণ অর্থবছর। ফলে FY1950-এর পাঁচ দিনের সীমিত যুদ্ধকালীন প্রভাবের বিপরীতে FY1951-এ পূর্ণ defense expansion এবং national-security financing দেখা যায়।",
+      "bn_interpretation": "১৯৫১ সালে debt stock কমলেও Treasury শুধু debt retirement করেনি; একই সঙ্গে বড় refinancing ও debt-structure restructuring চালায়। ১৩.৬ বিলিয়ন ডলারের nonmarketable exchange-টি debt cancellation নয়, বরং refinancing—এবং এটি Treasury-এর bank-held debt কমানো ও anti-inflationary debt-management লক্ষ্যকে সহায়তা করে।",
+      "bn_notes": "GPO 1952 সংস্করণ। মুদ্রিত পৃষ্ঠা ৫, ৪৭, ৭১৯, ৭৫১ ও ৭৫৭ যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
