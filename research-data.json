@@ -8646,6 +8646,75 @@
       "bn_notes": "Treasury Department Document No. 3248-এর মুদ্রিত pp. 3–4 ও 11–23 দিয়ে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-debt-management-1970",
+      "title": "U.S. Treasury Annual Report 1970 — Deficit Financing, Short-Term Debt Expansion, Federal Credit Growth, and New SDR Reserve Operations",
+      "source_type": "Institutional annual report",
+      "date_start": "1970-06-30",
+      "date_end": "1970-06-30",
+      "date_label": "Fiscal year ended June 30, 1970",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; Federal debt; Treasury bills; federally sponsored agencies; Special Drawing Rights",
+      "original_text": "On the unified-budget basis the deficit for fiscal 1970 was $2.8 billion, compared with a $3.2 billion surplus in fiscal 1969. Borrowing from the public amounted to $5.4 billion, associated with the deficit, a $1.6 billion increase in cash and monetary assets, and a $1.0 billion decrease in other means of financing. Federal securities outstanding totaled $383.4 billion at June 30, 1970, including $370.9 billion of public debt securities and $12.5 billion of agency securities; $284.9 billion represented borrowing from the public. Treasury public debt increased $17.2 billion, while privately held marketable debt under one year increased from $69.3 billion to $76.4 billion and average maturity declined six months to 3 years 8 months. The report also records the first allocation of International Monetary Fund Special Drawing Rights in January 1970 and the development of U.S. accounting systems for the new reserve asset.",
+      "translation": "১৯৭০ অর্থবছরে unified-budget ভিত্তিতে ২.৮ বিলিয়ন ডলারের ঘাটতি হয়, যেখানে ১৯৬৯ সালে ৩.২ বিলিয়ন ডলারের উদ্বৃত্ত ছিল। জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫.৪ বিলিয়ন ডলার, যা ২.৮ বিলিয়ন ডলারের ঘাটতি, নগদ ও monetary assets-এর ১.৬ বিলিয়ন ডলার বৃদ্ধি এবং অন্যান্য অর্থায়নের ১.০ বিলিয়ন ডলার হ্রাসের সঙ্গে সম্পর্কিত ছিল। ৩০ জুন ১৯৭০-এ মোট Federal securities outstanding ছিল ৩৮৩.৪ বিলিয়ন ডলার, যার মধ্যে ৩৭০.৯ বিলিয়ন public debt securities এবং ১২.৫ বিলিয়ন agency securities; ২৮৪.৯ বিলিয়ন ডলার ছিল borrowing from the public। Treasury public debt ১৭.২ বিলিয়ন ডলার বাড়ে। এক বছরের কম মেয়াদি privately held marketable debt ৬৯.৩ বিলিয়ন থেকে ৭৬.৪ বিলিয়ন ডলারে বাড়ে এবং গড় maturity ছয় মাস কমে ৩ বছর ৮ মাস হয়। জানুয়ারি ১৯৭০-এ IMF-এর প্রথম Special Drawing Rights allocation-ও প্রতিবেদনে নথিভুক্ত হয়।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1970",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1970",
+      "reference_number": "Treasury Department Document No. 3251",
+      "page": "3–4; 11–14; 24–25",
+      "section": "Financial Operations; Federal Debt Management; International Financial Affairs",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1970-5607/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1970 reversed the FY1969 unified-budget surplus and returned to deficit financing. Treasury public debt expanded $17.2 billion, with a notable shift toward shorter maturities: privately held marketable debt under one year rose $7.1 billion while average maturity declined six months. The report also documents the first allocation of IMF Special Drawing Rights and the creation of U.S. accounting systems for the new reserve asset.",
+      "context": "The report describes severe inflationary and financial-market pressures, restrictive monetary policy, heavy private credit demand, and increased borrowing by federally sponsored agencies. Treasury debt management was explicitly framed as balancing expenditure financing and refinancing against noninflationary domestic growth and international-account objectives.",
+      "interpretation": "1970 is an important bridge between the 1960s debt-management record and the coming monetary transition. Domestic fiscal deficit financing, rapidly expanding short-term Treasury debt, federally sponsored credit programs, and the newly created SDR reserve asset appear together in the Treasury's institutional account.",
+      "counter_interpretations": [
+        "The $2.8 billion unified-budget deficit is not identical to the $17.2 billion increase in Treasury public debt; the report explicitly identifies cash, monetary assets, and other financing components.",
+        "The shortening of the privately held marketable debt structure reflects Treasury financing conditions and the volume of bill financing; it should not be attributed to one single policy cause.",
+        "Federal securities outstanding include agency securities as well as Treasury public debt; these categories should remain distinct.",
+        "The January 1970 SDR allocation was a new international reserve asset operation, not ordinary Treasury borrowing or a Treasury security issuance."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1969",
+        "us-treasury-debt-management-1968",
+        "us-treasury-debt-management-1967"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3251. Printed pp. 3–4 establish fiscal operations and financing; pp. 11–14 cover debt management, maturity structure and Federal securities; p. 24 and related international-finance pages document the SDR development. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1970-5607/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 11–14, 24–25",
+        "evidence": "$2.8B unified-budget deficit; $5.4B borrowing from the public; $383.4B Federal securities outstanding; $370.9B Treasury public debt; $17.2B increase in Treasury public debt; under-one-year privately held marketable debt +$7.1B; average maturity -6 months to 3y8m; January 1970 SDR allocation and accounting systems.",
+        "significance": "Primary institutional evidence connecting renewed deficit financing, short-term debt expansion, Federal credit-market pressures, and the emergence of SDRs as a new reserve asset.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1970-5607/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, maturity structure and international reserve developments.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭০ — ঘাটতি অর্থায়ন, স্বল্পমেয়াদি ঋণবৃদ্ধি, Federal credit বৃদ্ধি ও নতুন SDR reserve operations",
+      "bn_historical_claim": "১৯৭০ অর্থবছরে unified-budget ভিত্তিতে ২.৮ বিলিয়ন ডলারের ঘাটতি হয়। Treasury public debt ১৭.২ বিলিয়ন ডলার বাড়ে এবং এক বছরের কম মেয়াদি privately held marketable debt ৬৯.৩ বিলিয়ন থেকে ৭৬.৪ বিলিয়ন ডলারে বাড়ে; গড় maturity ছয় মাস কমে ৩ বছর ৮ মাস হয়। জানুয়ারি ১৯৭০-এ IMF-এর প্রথম Special Drawing Rights allocation-এর ব্যবস্থাও শুরু হয়।",
+      "bn_context": "১৯৭০ সালে মূল্যস্ফীতি, কঠোর monetary policy, উচ্চ সুদের হার এবং private credit demand-এর মধ্যে Treasury-কে একই সঙ্গে deficit financing ও debt refinancing পরিচালনা করতে হয়।",
+      "bn_interpretation": "১৯৭০ দশকের শেষভাগের মুদ্রাব্যবস্থা পরিবর্তনের দিকে একটি গুরুত্বপূর্ণ সেতু: domestic deficit financing, short-term Treasury debt expansion, federally sponsored credit এবং SDR reserve asset একই institutional record-এ উপস্থিত।",
+      "bn_notes": "Treasury Department Document No. 3251-এর মুদ্রিত pp. 3–4, 11–14 ও 24–25 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
