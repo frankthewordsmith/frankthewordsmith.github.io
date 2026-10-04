@@ -9331,6 +9331,74 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; official publication date and full document are the stable locator."
       }
+    },
+    {
+      "source_id": "bis-management-banks-international-lending-country-risk-1982",
+      "title": "Management of banks' international lending: country risk analysis and country exposure measurement and control",
+      "source_type": "Committee sound-practices paper",
+      "date_start": "1982-03-28",
+      "date_end": "1982-03-28",
+      "date_label": "28 March 1982",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Management of banks' international lending: country risk analysis and country exposure measurement and control",
+      "original_text": "Lending involves a number of risks. In addition to risks related to the creditworthiness of the borrower, there are others including funding risk, interest rate risk, clearing risk, and foreign exchange risk. International lending also involves country risk.",
+      "translation": "ঋণদানের সঙ্গে বিভিন্ন ধরনের ঝুঁকি জড়িত। ঋণগ্রহীতার ঋণযোগ্যতার ঝুঁকির পাশাপাশি funding risk, interest-rate risk, clearing risk এবং foreign-exchange risk রয়েছে। আন্তর্জাতিক ঋণদানের ক্ষেত্রে country risk-ও যুক্ত হয়।",
+      "translator": "Site research translation",
+      "edition": "Basel Committee publication, March 1982",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1982",
+      "reference_number": "BCBS, 28 March 1982",
+      "page": "",
+      "chapter": "",
+      "section": "Introduction",
+      "source_url": "https://www.bis.org/publications/198203-practices-management-banks-international-lending-country-risk-analysis-and-country-exposure-measurement-and-control",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional report",
+      "historical_claim": "On 28 March 1982, the Basel Committee published a supervisory paper on managing international lending through country-risk analysis, country-exposure measurement and control, including the supervisory role in monitoring banks' country-risk systems and exposures.",
+      "context": "The paper is a contemporary official Committee publication and directly addresses the management and supervision of country risk in international lending.",
+      "interpretation": "The 1982 document marks a substantive expansion of international banking supervision toward country/sovereign exposure: banks were expected to assess country risk, measure exposure and control exposure, while supervisors were assigned a monitoring role.",
+      "counter_interpretations": [
+        "The paper is a sound-practices document, not a binding treaty or uniform domestic law.",
+        "It addresses country risk in international lending and does not by itself establish the later Basel capital regime.",
+        "No printed page number is claimed because the official web presentation supplies the dated document and PDF length but no stable edition-specific printed-page locator."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-banking-secrecy-international-cooperation-1981",
+        "bis-supervision-banks-foreign-exchange-positions-1980"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 28 March 1982; PDF is 9 pages. No printed page claimed.",
+      "web_sources": [
+        "https://www.bis.org/publications/198203-practices-management-banks-international-lending-country-risk-analysis-and-country-exposure-measurement-and-control"
+      ],
+      "bn_title": "আন্তর্জাতিক ঋণদানের ব্যবস্থাপনা: country risk বিশ্লেষণ ও country exposure পরিমাপ ও নিয়ন্ত্রণ",
+      "bn_historical_claim": "২৮ মার্চ ১৯৮২-এ Basel Committee আন্তর্জাতিক ঋণে country risk বিশ্লেষণ, country exposure পরিমাপ ও নিয়ন্ত্রণ এবং এসব ঝুঁকি ব্যবস্থাপনা তদারকিতে supervisors-এর ভূমিকা নিয়ে একটি প্রাতিষ্ঠানিক paper প্রকাশ করে।",
+      "bn_context": "এটি সমসাময়িক official Committee publication এবং international lending-এর country/sovereign exposure তদারকির একটি সরাসরি প্রমাণ।",
+      "bn_interpretation": "১৯৮২ সালের নথিটি আন্তর্জাতিক ব্যাংক তদারকিকে country risk ও cross-border exposure-এর দিকে আরও প্রসারিত করে: ব্যাংকের risk assessment, exposure measurement এবং exposure control—সবকিছুর ওপর supervisory monitoring-এর ভূমিকা নির্ধারিত হয়।",
+      "bn_notes": "অফিসিয়াল web presentation-এ stable printed-page locator নেই; তাই কোনো পৃষ্ঠা নম্বর অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Basel Committee publication with exact publication date and direct substantive treatment of country-risk assessment, exposure measurement/control, and supervisory monitoring; no invented page locator.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 March 1982, official BIS publication; Introduction / full 9-page document",
+        "evidence": "The Committee identifies country risk as a distinct risk of international lending and structures the paper around assessment, exposure measurement, exposure control and supervisory monitoring.",
+        "significance": "Direct 1982 evidence that international banking supervision was extending into systematic country-risk and cross-border exposure management.",
+        "source_url": "https://www.bis.org/publications/198203-practices-management-banks-international-lending-country-risk-analysis-and-country-exposure-measurement-and-control",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; official publication date, section and full document are the stable locator."
+      }
     }
   ],
   "audit_5_4": {
