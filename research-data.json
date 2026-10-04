@@ -6233,6 +6233,89 @@
       "bn_notes": "১৯৩৪ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ৬–৮ এবং মুদ্রা-উন্নয়ন সংক্রান্ত পৃষ্ঠা ২৭–৩০-এর সঙ্গে যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-debt-expansion-1935",
+      "title": "U.S. Treasury Annual Report 1935 — Continued Debt Expansion and the New Government Financing Framework",
+      "source_type": "Government annual report",
+      "date_start": "1935",
+      "date_end": "1935",
+      "date_label": "Fiscal year ended June 30, 1935",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "",
+      "original_text": "The Treasury reported that gross public debt outstanding at June 30, 1935 was $28,700,892,624.53, compared with $27,053,141,414.48 on June 30, 1934, an increase of $1,647,751,210.05. The report also records $12,099,919,493.75 of open-market issues during the year against $11,234,065,275.00 of maturities and redemptions, and describes the February 4, 1935 amendment to the Second Liberty Bond Act, which replaced several separate issuance limits with revolving bond authority and a consolidated $20 billion ceiling for notes, certificates of indebtedness, and Treasury bills.",
+      "translation": "",
+      "translator": "",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1935",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1936",
+      "reference_number": "Public debt and financing operations; Second Liberty Bond Act amendment of February 4, 1935",
+      "page": "12; 14–19; 22–24",
+      "chapter": "",
+      "verse": "",
+      "tablet": "",
+      "section": "",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1935-5581/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "During fiscal year 1935, the U.S. Treasury moved from the 1934 emergency monetary framework into a more flexible and consolidated government-financing structure while gross public debt continued to rise. The annual report records a $1.648 billion increase in gross public debt, substantial refinancing and redemption activity, and the February 4, 1935 amendment that broadened and consolidated Treasury borrowing authorities and introduced United States Savings Bonds.",
+      "context": "The report distinguishes gross-debt change from individual security transactions. Open-market issues exceeded maturities and redemptions, while large portions of existing Liberty Loan and Treasury obligations were exchanged or redeemed. The February 4, 1935 amendment changed statutory issuance authorities; it did not itself equal the full amount of debt issued during the fiscal year. The report also records the continued use of Treasury notes, certificates of indebtedness, bills, bonds, and the new Savings Bond program.",
+      "interpretation": "1935 is a useful institutional transition marker after the 1934 monetary restructuring: the Treasury's financing framework was being regularized and made more flexible while debt expansion continued. The evidence supports a shift toward consolidated, revolving borrowing authority and longer-term retail savings securities alongside ongoing refinancing and debt management, rather than a simple continuation of the wartime model.",
+      "counter_interpretations": [
+        "The $1.648 billion increase in gross public debt should not be equated mechanically with the fiscal deficit; retirements, fund balances, and other Treasury transactions affect the gross-debt position.",
+        "The February 4, 1935 statutory amendment changed legal borrowing authority; it should not be presented as proof that the full authorized amounts were actually borrowed.",
+        "Refinancing and exchanges are not the same as debt cancellation; the report records substantial replacement of maturing or called obligations with new Treasury securities.",
+        "The annual report is an institutional Treasury account; statutes and contemporaneous market or Federal Reserve records are separate evidence layers."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-monetary-framework-1934",
+        "us-treasury-debt-expansion-1933",
+        "us-treasury-debt-expansion-1932",
+        "us-treasury-debt-turn-1931"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-04",
+      "notes": "Verified against the 1935 Treasury annual report. Printed p.12 locks the gross-debt comparison; pp.14–16 lock open-market issues, maturities/redemptions, and net new issues; p.18 locks the February 4, 1935 Second Liberty Bond Act amendments and their consolidated borrowing authorities; pp.19 and 22–24 document Liberty Loan refunding and the new Savings Bond framework. Do not treat statutory authorization ceilings as amounts actually borrowed.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1935-5581/fulltext"
+      ],
+      "citation_record": "",
+      "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
+      "bibliography_entry": "United States Department of the Treasury, Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1935 (Washington: Government Printing Office, 1936), pp. 12, 14–19, 22–24.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 12, 14–19, 22–24",
+        "evidence": "p.12 reports gross public debt of $28,700,892,624.53 at June 30, 1935 versus $27,053,141,414.48 at June 30, 1934, an increase of $1,647,751,210.05. p.14 records open-market issues, maturities, and redemptions; p.16 explains net new issues; p.18 records the February 4, 1935 amendments to the Second Liberty Bond Act; pp.19 and 22 document Liberty Loan refunding; pp.23–24 describe the new United States Savings Bond.",
+        "significance": "Direct primary-source evidence for continued Depression-era debt expansion together with consolidation and flexibilization of Treasury borrowing authority and refinancing practice.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1935-5581/fulltext",
+        "checked": "2026-10-04",
+        "verification_note": "The evidence is tied to the printed page numbers of the 1935 GPO report. The archive distinguishes actual debt and security transactions from statutory authority ceilings."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_basis_6_4": "Primary government annual report with exact printed-page passage lock.",
+      "evidence_grade_6_6": "A",
+      "evidence_grade_6_7": "A",
+      "publication_status_6_6": "A-grade — exact printed-page primary-source lock",
+      "publication_status_6_7": "A-grade — exact printed-page primary-source lock",
+      "conversion_status_8_1": "A-grade primary-source lock retained.",
+      "evidence_grade_8_1": "A",
+      "evidence_grade": "A",
+      "publication_status": "exact printed-page primary-source lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৩৫ — ঋণ বৃদ্ধি অব্যাহত এবং নতুন সরকারি অর্থায়ন কাঠামো",
+      "bn_historical_claim": "১৯৩৫ অর্থবছরে মোট সরকারি ঋণ ২৭.০৫৩ বিলিয়ন ডলার থেকে ২৮.৭০১ বিলিয়ন ডলারে বৃদ্ধি পায়—প্রায় ১.৬৪৮ বিলিয়ন ডলার। একই সময়ে ট্রেজারি ব্যাপক পুনঃঅর্থায়ন ও অবসর কার্যক্রম চালায় এবং ৪ ফেব্রুয়ারি ১৯৩৫-এর আইনি সংশোধনের মাধ্যমে সরকারি ঋণ ইস্যুর ক্ষমতাকে আরও নমনীয় ও সমন্বিত করে।",
+      "bn_context": "১৯৩৫ সালের প্রতিবেদন মোট সরকারি ঋণের পরিবর্তনকে পৃথক সিকিউরিটি লেনদেন থেকে আলাদা করে দেখায়। উন্মুক্ত বাজারে নতুন ইস্যু, মেয়াদপূর্তি ও রিডেম্পশন পাশাপাশি চলেছে; একই সঙ্গে Second Liberty Bond Act সংশোধনের মাধ্যমে বন্ড, নোট, সার্টিফিকেট ও Treasury bills-এর জন্য নতুন সমন্বিত অনুমোদন কাঠামো তৈরি হয়।",
+      "bn_interpretation": "১৯৩৫ সাল ১৯৩৪ সালের মুদ্রা-সংক্রান্ত পুনর্গঠনের পর ট্রেজারি অর্থায়ন ব্যবস্থার প্রাতিষ্ঠানিকীকরণের একটি গুরুত্বপূর্ণ ধাপ। সরকারি ঋণ বাড়তে থাকলেও অর্থায়নের আইনগত ক্ষমতা আরও নমনীয় ও সমন্বিত হয় এবং United States Savings Bonds-এর মাধ্যমে দীর্ঘমেয়াদি খুচরা সঞ্চয়-ভিত্তিক সরকারি ঋণপত্রের নতুন কাঠামো যুক্ত হয়।",
+      "bn_notes": "১৯৩৫ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ১২, ১৪–১৯ এবং ২২–২৪-এর সঙ্গে যাচাই করা হয়েছে। আইনগত অনুমোদনের সর্বোচ্চ সীমাকে প্রকৃত ঋণগ্রহণের পরিমাণ হিসেবে উপস্থাপন করা যাবে না।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
@@ -8430,5 +8513,5 @@
       "Then assess J. S. Mill, Principles of Political Economy (1848 first edition) for an exact chapter/page lock."
     ]
   },
-  "last_updated": "2026-10-02"
+  "last_updated": "2026-10-04"
 }
