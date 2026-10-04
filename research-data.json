@@ -8994,6 +8994,72 @@
         "checked": "2026-10-05",
         "verification_note": "The 1976 report is continuity evidence; the committee's establishment is explicitly attributed to December 1974."
       }
+    },
+    {
+      "source_id": "bis-eurocurrency-standing-committee-1977",
+      "title": "Euro-currency Standing Committee proposes country-risk data collection amid sovereign-debt concerns",
+      "source_type": "Institutional historical record",
+      "date_start": "1977-01-01",
+      "date_end": "1977-12-31",
+      "date_label": "1977",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Euro-currency Standing Committee",
+      "original_text": "In 1977–79, in view of growing concerns about a sovereign debt build-up in emerging market economies, the Eurocurrency Standing Committee proposed the collection of country risk data directly with major financial institutions, as well as macroprudential measures to curb excessive lending.",
+      "translation": "In 1977–79, amid growing concern over sovereign-debt accumulation in emerging-market economies, the Eurocurrency Standing Committee proposed collecting country-risk data directly from major financial institutions and considered measures to restrain excessive lending.",
+      "translator": "Site research translation",
+      "edition": "BIS historical timeline",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1977",
+      "reference_number": "BIS historical timeline, 1977–79",
+      "page": "",
+      "chapter": "",
+      "section": "",
+      "source_url": "https://www.bis.org/about/history/timelines",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional evidence preserved in official BIS record",
+      "historical_claim": "The BIS records that the Eurocurrency Standing Committee responded to emerging sovereign-debt risks beginning in 1977 by proposing direct collection of country-risk data from major financial institutions and considering measures to restrain excessive lending.",
+      "context": "This concerns the Eurocurrency Standing Committee, not the Basel banking-supervision committee. It is relevant to the development of cross-border financial-risk monitoring in the early post-Bretton-Woods period.",
+      "interpretation": "The record shows an early BIS-level attempt to develop cross-border risk information and macroprudential responses to international lending risks. The BIS states that these proposals were not taken up at the time.",
+      "counter_interpretations": [
+        "The official BIS timeline is a retrospective institutional synthesis rather than a surviving 1977 primary document with a printed-page locator.",
+        "The timeline groups developments across 1977–79, so it should not be used to attribute every listed proposal to a single 1977 meeting or date."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-46th-annual-report-1976-banking-supervision"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Verified — official BIS institutional history; exact 1977 primary scan not independently page-locked",
+      "last_verified": "2026-10-05",
+      "notes": "Because the available official source is a retrospective BIS timeline and lacks an edition-specific printed-page lock, this record is intentionally graded B rather than A.",
+      "web_sources": [
+        "https://www.bis.org/about/history/timelines"
+      ],
+      "bn_title": "সার্বভৌম ঋণঝুঁকি মোকাবিলায় ১৯৭৭ সালে Euro-currency Standing Committee-এর প্রস্তাব",
+      "bn_historical_claim": "BIS-এর ইতিহাসভিত্তিক নথি অনুযায়ী, ১৯৭৭–৭৯ সময়কালে উদীয়মান অর্থনীতির সার্বভৌম ঋণ বৃদ্ধির ঝুঁকি নিয়ে উদ্বেগের প্রেক্ষিতে Euro-currency Standing Committee বড় আর্থিক প্রতিষ্ঠানের কাছ থেকে সরাসরি country-risk তথ্য সংগ্রহ এবং অতিরিক্ত ঋণপ্রবাহ সীমিত করার macroprudential ব্যবস্থা প্রস্তাব করেছিল।",
+      "bn_context": "এটি Basel banking-supervision committee-এর নয়; Eurocurrency Standing Committee-এর কার্যক্রমের প্রমাণ। এটি post-Bretton-Woods যুগে সীমান্ত-পার আর্থিক ঝুঁকি মোকাবিলায় BIS-এর কমিটি-ভিত্তিক কাজের বিকাশ দেখায়।",
+      "bn_interpretation": "এটি আন্তর্জাতিক ঋণঝুঁকি সম্পর্কে তথ্য সংগ্রহ ও macroprudential চিন্তার প্রাথমিক প্রাতিষ্ঠানিক বিকাশের প্রমাণ।",
+      "bn_notes": "উৎসটি BIS-এর retrospective institutional timeline; ১৯৭৭ সালের পৃথক printed-page primary scan না থাকায় A নয়, B grade দেওয়া হয়েছে।",
+      "bn_verification_status": "Verified — official BIS institutional history; exact 1977 primary scan not independently page-locked",
+      "book": "book-1",
+      "evidence_grade": "B",
+      "evidence_grade_basis": "Official BIS institutional record with clear 1977 attribution, but no edition-specific printed-page primary-source lock.",
+      "publication_status": "B-grade — retain as a verified institutional continuity record pending a page-locked contemporary source",
+      "passage_record": {
+        "status": "Verified but not page-locked — official BIS retrospective institutional record",
+        "locator": "BIS historical timeline, 1977–79",
+        "evidence": "BIS records proposals by the Eurocurrency Standing Committee concerning country-risk data and excessive international lending.",
+        "significance": "Evidence of early institutional development of cross-border risk monitoring and macroprudential thinking.",
+        "source_url": "https://www.bis.org/about/history/timelines",
+        "checked": "2026-10-05",
+        "verification_note": "Use cautiously: the official timeline groups developments across 1977–79."
+      }
     }
   ],
   "audit_5_4": {
