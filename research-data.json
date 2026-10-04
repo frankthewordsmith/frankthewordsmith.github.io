@@ -8089,6 +8089,81 @@
       "bn_notes": "Treasury Department Document No. 3222-এর মুদ্রিত pp. 13–15, 63–64, 81 এবং 83–86 দিয়ে যাচাই করা হয়েছে। FRASER-এর OCR-নির্ভর পাঠে ত্রুটি থাকতে পারে; সংখ্যাগত উদ্ধৃতিতে মূল স্ক্যান অগ্রাধিকার পাবে।",
       "bn_verification_status": "Passage verified — printed pages",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-debt-management-1962",
+      "title": "U.S. Treasury Annual Report 1962 — Defense-Driven Deficit, Debt Expansion, Foreign Borrowing, and Debt-Limit Pressure",
+      "source_type": "Institutional annual report",
+      "date_start": "1962-06-30",
+      "date_end": "1962-06-30",
+      "date_label": "Fiscal year ended June 30, 1962",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "budget deficit; public debt increase; foreign borrowing; defense expenditures; debt ceiling; Treasury bills; refinancing",
+      "original_text": "The Treasury reported a $6.4 billion administrative budget deficit in fiscal 1962. Public debt increased by $9.2 billion to $298.2 billion, while public debt and guaranteed obligations increased by $9.4 billion to $298.6 billion. The report attributes much of the increase to intensified defense needs associated with the Berlin crisis. The Treasury conducted foreign borrowing in fiscal 1962 for the first time since 1918, issuing nonmarketable foreign certificates of indebtedness; nearly $1 billion was outstanding at June 30, 1962. The statutory debt ceiling approached $298 billion and was temporarily raised to $300 billion in March 1962.",
+      "translation": "১৯৬২ অর্থবছরে ট্রেজারি ৬.৪ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৯.২ বিলিয়ন ডলারের সরকারি ঋণ বৃদ্ধি রিপোর্ট করে; ৩০ জুন ১৯৬২-এ সরকারি ঋণ ২৯৮.২ বিলিয়ন ডলারে পৌঁছায়। সরকারি ঋণ ও গ্যারান্টিযুক্ত দায় মিলিয়ে বৃদ্ধি ছিল ৯.৪ বিলিয়ন ডলার। প্রতিবেদনটি এই ঋণবৃদ্ধির বড় অংশকে বার্লিন সংকটের সঙ্গে যুক্ত অতিরিক্ত প্রতিরক্ষা ব্যয়ের সঙ্গে সম্পর্কিত করে। ১৯১৮ সালের পর প্রথমবার ট্রেজারি বৈদেশিক ঋণগ্রহণ পরিচালনা করে এবং অ-বাজারযোগ্য foreign certificates of indebtedness ইস্যু করে; ৩০ জুনে প্রায় ১ বিলিয়ন ডলার এমন সার্টিফিকেট বকেয়া ছিল। একই সময়ে ঋণসীমা ২৯৮ বিলিয়ন ডলারের কাছাকাছি উঠে গেলে মার্চ ১৯৬২-এ সাময়িকভাবে সীমা ৩০০ বিলিয়ন ডলারে বাড়ানো হয়।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against the named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1962",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1963",
+      "reference_number": "Treasury Department Document No. 3226",
+      "page": "21–22; 38–39; 45; 54",
+      "section": "Review of Fiscal Operations; Public Debt Operations; Foreign Borrowing; Debt Limitation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1962-5457/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1962 marked a major debt expansion driven by renewed deficit spending and intensified defense requirements. The Treasury recorded a $6.4 billion administrative budget deficit, a $9.2 billion increase in public debt, and a $9.4 billion increase in public debt plus guaranteed obligations. The report states that fiscal-1962 debt growth was largely related to additional defense needs arising from the intensified Berlin problem. It also records the first Treasury foreign borrowing operations since 1918 and the approach to the statutory debt ceiling, which required a temporary increase to $300 billion.",
+      "context": "The report distinguishes budget deficits from debt increases by explicitly identifying the cash balance as another major determinant of debt changes. It also documents the interaction of defense financing, debt maturity/refunding operations, foreign borrowing, and statutory debt-limit management. The foreign borrowing was nonmarketable and took the form of foreign certificates of indebtedness, providing an important institutional bridge between domestic Treasury finance and international monetary operations.",
+      "interpretation": "1962 is a major structural marker because Treasury financing moved simultaneously along three linked fronts: domestic deficit financing, emergency/defense-related debt expansion, and renewed foreign borrowing. The debt-limit episode demonstrates that financing capacity itself had become a recurring legislative constraint, while the foreign certificates show that Treasury debt management was extending beyond purely domestic securities markets.",
+      "counter_interpretations": [
+        "$6.4 billion is the administrative budget deficit; it should not be treated as identical to the $9.2 billion increase in public debt because cash balances and other transactions affect the reconciliation.",
+        "$298.2 billion is public debt; $298.6 billion includes guaranteed obligations and should not be conflated with the public-debt figure.",
+        "The Treasury's attribution of debt growth to intensified Berlin-related defense needs is a contemporaneous institutional explanation and should be presented as such.",
+        "The foreign certificates were nonmarketable Treasury obligations; they should not be described as equivalent to ordinary marketable Treasury bonds.",
+        "The March 1962 temporary debt-limit increase to $300 billion was a legislative financing authorization, not itself a cash borrowing transaction."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1961",
+        "us-treasury-debt-management-1960",
+        "us-treasury-postwar-debt-management-1959"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3226. Printed pp. 21–22 establish the fiscal deficit and public-debt increase; pp. 38–39 provide the debt reconciliation and composition; p. 45 documents the first Treasury foreign borrowing since 1918 and nearly $1 billion of foreign certificates outstanding; p. 54 records the approach to the temporary $298 billion ceiling and its March 1962 increase to $300 billion. FRASER's text layer is automatically extracted; printed page labels are the controlling locators.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1962-5457/fulltext"
+      ],
+      "citation_record": "",
+      "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
+      "bibliography_entry": "United States Department of the Treasury, Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1962, Treasury Department Document No. 3226 (Washington: U.S. Government Printing Office, 1963), pp. 21–22, 38–39, 45, 54.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 21–22, 38–39, 45, 54",
+        "evidence": "The report records the $6.4 billion FY1962 administrative budget deficit, $9.2 billion public-debt increase, $298.2 billion public debt, $9.4 billion increase in public debt plus guaranteed obligations, first Treasury foreign borrowing since 1918, nearly $1 billion of foreign certificates outstanding, and the temporary increase of the debt ceiling to $300 billion.",
+        "significance": "Primary institutional evidence connecting defense-driven fiscal expansion, domestic debt growth, foreign Treasury borrowing, and statutory debt-limit pressure.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1962-5457/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "The cited claims are tied to the report's printed page labels. FRASER's OCR layer contains extraction errors, so numerical quotations should be checked against the scan."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt composition, foreign borrowing, defense financing, and statutory debt-limit pressure.",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬২ — প্রতিরক্ষা-চালিত ঘাটতি, ঋণবৃদ্ধি, বৈদেশিক ঋণগ্রহণ ও ঋণসীমার চাপ",
+      "bn_historical_claim": "১৯৬২ অর্থবছরে ৬.৪ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৯.২ বিলিয়ন ডলারের সরকারি ঋণ বৃদ্ধি ঘটে। সরকারি ঋণ ২৯৮.২ বিলিয়ন ডলারে এবং সরকারি ঋণ ও গ্যারান্টিযুক্ত দায় মিলিয়ে ২৯৮.৬ বিলিয়ন ডলারে পৌঁছায়। প্রতিবেদনটি ঋণবৃদ্ধির বড় অংশকে বার্লিন সংকটের কারণে বাড়তি প্রতিরক্ষা ব্যয়ের সঙ্গে যুক্ত করে। ১৯১৮ সালের পর প্রথমবার ট্রেজারি বৈদেশিক ঋণগ্রহণ করে এবং প্রায় ১ বিলিয়ন ডলারের foreign certificates of indebtedness বকেয়া রাখে।",
+      "bn_context": "এই প্রতিবেদন বাজেট ঘাটতি, নগদ ভারসাম্য, ঋণ-রিফান্ডিং, প্রতিরক্ষা ব্যয়, বৈদেশিক অর্থায়ন এবং আইনগত ঋণসীমাকে একই ঋণ-ব্যবস্থাপনা কাঠামোর অংশ হিসেবে দেখায়। মার্চ ১৯৬২-এ সাময়িক ঋণসীমা ৩০০ বিলিয়ন ডলারে বাড়ানো হয়।",
+      "bn_interpretation": "১৯৬২ একটি গুরুত্বপূর্ণ কাঠামোগত সংযোগবিন্দু। ট্রেজারি একই সময়ে অভ্যন্তরীণ ঘাটতি অর্থায়ন, বার্লিন সংকট-সম্পর্কিত প্রতিরক্ষা ব্যয়, বৈদেশিক ঋণগ্রহণ এবং ঋণসীমার আইনগত বাধা সামলাচ্ছিল। ফলে সরকারি ঋণ-ব্যবস্থাপনা শুধু অভ্যন্তরীণ বন্ডবাজারের বিষয় ছিল না; আন্তর্জাতিক অর্থব্যবস্থা ও কংগ্রেসীয় ঋণসীমাও এর অংশ হয়ে উঠেছিল।",
+      "bn_notes": "Treasury Department Document No. 3226-এর মুদ্রিত pp. 21–22, 38–39, 45 ও 54 দিয়ে যাচাই করা হয়েছে। FRASER-এর OCR-নির্ভর পাঠে ত্রুটি থাকতে পারে; সংখ্যাগত উদ্ধৃতিতে মূল স্ক্যান অগ্রাধিকার পাবে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
     }
   ],
   "audit_5_4": {
