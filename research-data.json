@@ -9197,6 +9197,73 @@
         "checked": "2026-10-05",
         "verification_note": "No printed page claimed; the official publication itself is the stable locator."
       }
+    },
+    {
+      "source_id": "bis-supervision-banks-foreign-exchange-positions-1980",
+      "title": "Supervision of banks' foreign exchange positions",
+      "source_type": "Committee supervisory report",
+      "date_start": "1980-08-28",
+      "date_end": "1980-08-28",
+      "date_label": "28 August 1980",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "Supervision of banks' foreign exchange positions",
+      "original_text": "There are many activities of banks which involve risk-taking, but there are few in which a bank may so quickly incur large losses as in foreign exchange transactions. The risks inherent in foreign exchange business, particularly in running open foreign exchange positions, have been heightened in recent years by the increased instability of exchange rates.",
+      "translation": "ব্যাংকের বহু কার্যক্রমেই ঝুঁকি থাকে, কিন্তু বৈদেশিক মুদ্রা লেনদেনের মতো দ্রুত বড় ক্ষতির সম্ভাবনা খুব কম ক্ষেত্রেই দেখা যায়। বিশেষ করে open foreign-exchange positions-এর ঝুঁকি সাম্প্রতিক বছরগুলোতে বিনিময় হার অস্থিরতার বৃদ্ধির কারণে বেড়েছে।",
+      "translator": "Site research translation",
+      "edition": "Basle Committee publication, August 1980",
+      "publisher": "Bank for International Settlements",
+      "publication_year": "1980",
+      "reference_number": "BCBS, 28 August 1980",
+      "page": "",
+      "chapter": "",
+      "section": "General remarks",
+      "source_url": "https://www.bis.org/publications/supervision-banks-foreign-exchange-positions",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional report",
+      "historical_claim": "On 28 August 1980, the Committee published supervisory guidance addressing the prudential risks of banks' foreign-exchange positions, emphasizing the dangers of open positions amid increased exchange-rate instability.",
+      "context": "This is a contemporary official Committee publication. It expands the supervisory agenda from consolidated international banking structures into a specific market-risk category: foreign-exchange positions.",
+      "interpretation": "The report is direct evidence that international banking supervision was increasingly addressing market and foreign-exchange risk, not only solvency and organizational consolidation.",
+      "counter_interpretations": [
+        "The document discusses prudential considerations and does not itself establish a uniform quantitative limit adopted by all member jurisdictions.",
+        "The official web presentation does not expose a stable printed-page locator, so no page number is claimed."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-consolidated-supervision-international-activities-1979",
+        "bis-consolidation-banks-balance-sheets-1978"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — contemporary official Committee publication",
+      "last_verified": "2026-10-05",
+      "notes": "Official BIS publication dated 28 August 1980. PDF is 7 pages; no printed-page number is claimed because the official web presentation does not provide a stable edition-specific page locator.",
+      "web_sources": [
+        "https://www.bis.org/publications/supervision-banks-foreign-exchange-positions"
+      ],
+      "bn_title": "ব্যাংকের বৈদেশিক মুদ্রা অবস্থান তদারকি: ১৯৮০ সালের কমিটি রিপোর্ট",
+      "bn_historical_claim": "২৮ আগস্ট ১৯৮০-এ Committee ব্যাংকের বৈদেশিক মুদ্রা অবস্থানের prudential risk নিয়ে একটি রিপোর্ট প্রকাশ করে, বিশেষ করে exchange-rate instability-এর প্রেক্ষাপটে open foreign-exchange positions-এর ঝুঁকি তুলে ধরে।",
+      "bn_context": "এটি সমসাময়িক Committee publication এবং consolidated supervision-এর পর আন্তর্জাতিক ব্যাংক তদারকির একটি নির্দিষ্ট market-risk ক্ষেত্রের বিকাশের প্রমাণ।",
+      "bn_interpretation": "রিপোর্টটি দেখায় যে আন্তর্জাতিক ব্যাংক তদারকি শুধু solvency ও organizational consolidation-এ সীমাবদ্ধ ছিল না; market ও foreign-exchange risk-ও ক্রমে তদারকির অংশ হয়ে উঠছিল।",
+      "bn_notes": "অফিসিয়াল web presentation-এ stable printed-page locator নেই; তাই কোনো পৃষ্ঠা নম্বর অনুমান করা হয়নি।",
+      "bn_verification_status": "Passage verified — contemporary official Committee publication",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary official Committee publication with exact publication date and direct substantive prudential analysis; no invented page locator.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary official Committee publication",
+        "locator": "28 August 1980, official BIS publication; General remarks / full 7-page document",
+        "evidence": "The Committee identifies foreign-exchange transactions, especially open positions, as a significant prudential risk intensified by exchange-rate instability.",
+        "significance": "Direct 1980 evidence that international banking supervision was extending into foreign-exchange market risk.",
+        "source_url": "https://www.bis.org/publications/supervision-banks-foreign-exchange-positions",
+        "checked": "2026-10-05",
+        "verification_note": "No printed page claimed; official publication date and section are the stable locator."
+      }
     }
   ],
   "audit_5_4": {
