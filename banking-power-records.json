@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "78-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "101-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -1968,6 +1968,63 @@
         "chapter_title": null,
         "research_maps": [
           "financial_crises"
+        ]
+      }
+    },
+    {
+      "source_id": "india-railways-direct-borrowing-policy-1869",
+      "title": "Indian Railways Finance, 1869: Government Direct-Borrowing Policy",
+      "date_label": "1869",
+      "historical_claim": "In July 1869 the Duke of Argyll stated that Her Majesty's Government had authorized the Government of India to undertake new railway construction itself, raise the required money on its own credit, and spend it through its own officers.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Lords Hansard, 23 July 1869.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/lords/1869/jul/23/railways-india-financial-statement",
+      "bn_title": "ভারতীয় রেলওয়ে অর্থায়ন, ১৮৬৯: সরকারের সরাসরি ঋণগ্রহণ নীতি",
+      "bn_historical_claim": "১৮৬৯ সালের জুলাইয়ে ডিউক অব আর্গাইল জানান যে ভারত সরকারকে নতুন রেলওয়ে নির্মাণ নিজ দায়িত্বে গ্রহণ, নিজস্ব ঋণযোগ্যতার ভিত্তিতে অর্থ সংগ্রহ এবং সরকারি কর্মকর্তাদের মাধ্যমে ব্যয় করার অনুমতি দেওয়া হয়েছে।",
+      "notes": "This record uses the contemporary 1869 parliamentary financial statement as the primary evidence for the stated policy shift. It does not treat the statement as proof that every later railway loan was immediately raised directly by Government.",
+      "primary_passage": "authorizing the Government of India to undertake the construction of railways by themselves, raising the money upon their own credit, and expending it by their own officers",
+      "passage_locator": "Hansard, House of Lords, 23 July 1869, 'Railways (India)—Financial Statement', vol. 198, cols. 533–534; Duke of Argyll's statement.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/lords/1869/jul/23/railways-india-financial-statement",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Lords parliamentary financial statement by the Duke of Argyll, 23 July 1869, concerning Indian finances and railway construction.",
+      "edition": "Hansard, House of Lords, 23 July 1869, vol. 198, cols. 521–554.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1869,
+      "what_passage_establishes": "The passage establishes the stated authorization for the Government of India to construct railways itself, raise money on its own credit, and expend it through its own officers.",
+      "evidence_limits": "The passage does not by itself identify a particular direct Government loan, lender, issue price, interest rate, or settlement date.",
+      "related_banking_power_records": [
+        "india-railways-finance-1867",
+        "india-revenue-accounts-1868-railway-guaranteed-interest",
+        "east-india-loan-outcome-1862-64"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Lords, 23 July 1869, vol. 198, cols. 521–554."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; suitable as the 1869 policy-transition evidence anchor.",
+      "year": 1869,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1869
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
         ]
       }
     },
@@ -6828,6 +6885,20 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 93,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v30": {
+    "status": "Completed after 1869 Indian railway direct-borrowing policy deployment",
+    "records_audited": 101,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": false,
+    "missing_year_fields": 9,
+    "grade_counts": {
+      "A": 96,
       "B": 5,
       "C": 0,
       "D": 0
