@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "106-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "107-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2474,6 +2474,63 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1874
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-public-works-borrowing-india-1875",
+      "title": "India Public Works Finance, 1875: Borrowing Shifted Toward India",
+      "date_label": "1875",
+      "historical_claim": "In August 1875 the Indian Government stated that public works were being planned on the basis that required borrowing should be raised in India, with only remunerative works eligible for borrowed funds and unproductive works charged to ordinary revenue; the Government also reported a June 1875 Indian loan of 2.5 crore rupees whose tenders were heavily oversubscribed.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 9 August 1875.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1875/aug/09/committee",
+      "bn_title": "ভারতের জনপূর্ত অর্থায়ন, ১৮৭৫: ঋণগ্রহণ ভারতে স্থানান্তরের নীতি",
+      "bn_historical_claim": "১৮৭৫ সালের আগস্টে ভারত সরকার জানায় যে জনপূর্তের প্রয়োজনীয় ঋণ ভারতে তোলার নীতি গ্রহণ করা হয়েছে; ঋণ থেকে কেবল উৎপাদনশীল কাজ এবং অনুৎপাদনশীল কাজ সাধারণ রাজস্ব থেকে বহন করার কথা বলা হয়। একই সময়ে জুন ১৮৭৫-এ ভারতে ২.৫ কোটি রুপির একটি ঋণ তোলা হয়, যার আবেদন নির্ধারিত ন্যূনতমের দ্বিগুণেরও বেশি ছিল।",
+      "notes": "This record combines the 1875 policy principle with its contemporaneous implementation evidence. The £4.0–£4.9337 million figures in the debate describe the annual public-works financing requirement and ways and means; they should not be treated as a single loan issue.",
+      "primary_passage": "The principles on which the Secretary of State had determined the Public Works in India should be constructed. They were that only works of a remunerative character should be undertaken; that they should be constructed from money borrowed in India; and that those of an unproductive character should be debited against ordinary Revenue.",
+      "passage_locator": "Hansard, House of Commons, 9 August 1875, 'Committee', vol. 226, cols. 805–808; Lord George Hamilton's Indian Finance statement.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1875/aug/09/committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard, Committee on Indian Finance, 9 August 1875; statement by Lord George Hamilton.",
+      "edition": "Hansard, House of Commons, 9 August 1875, vol. 226, cols. 805–808.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1875,
+      "what_passage_establishes": "The 1875 policy explicitly preferred India as the place to raise borrowing for public works and distinguished remunerative works funded by borrowing from unproductive works charged to ordinary revenue. The same debate records a June 1875 Indian loan of 2.5 crore rupees with 5.45 crore 47.5 lakh rupees applied for at or above the minimum.",
+      "evidence_limits": "The policy passage does not itself specify a particular sterling loan, lender, maturity, or issue price. The rupee loan details establish an Indian-market borrowing event but do not by themselves establish the identity of every subscriber or the ultimate use of every rupee.",
+      "related_banking_power_records": [
+        "india-borrowing-powers-1874",
+        "india-public-works-extraordinary-resolution-1873",
+        "india-state-railways-public-works-loans-1872"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 9 August 1875, vol. 226, cols. 805–808."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary policy statement plus implementation evidence.",
+      "year": 1875,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1875
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7250,7 +7307,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1875 primary evidence, avoiding duplicate coverage of the 1873–74 Indian borrowing-authority sequence.",
+  "next_priority": "Continue chronologically with the strongest distinct 1876 primary evidence, avoiding duplicate coverage of the 1875 Indian public-works borrowing policy.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7392,6 +7449,42 @@
       },
       "global_power_network": {
         "records": 82
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v37": {
+    "status": "Completed after 1875 Indian public-works borrowing deployment",
+    "records_audited": 107,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 102,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v13": {
+    "status": "Reconciled after 1875 Indian public-works borrowing deployment",
+    "records_mapped": 107,
+    "maps": {
+      "central_banks": {
+        "records": 73
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 41
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 83
       }
     }
   }
