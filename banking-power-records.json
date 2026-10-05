@@ -1394,6 +1394,39 @@
       ]
     },
     {
+      "source_id": "basel-new-capital-adequacy-framework-1999",
+      "title": "Basel Committee proposes a new capital adequacy framework",
+      "date_label": "1999",
+      "historical_claim": "On 2 June 1999, the Basel Committee issued a consultative paper proposing a new capital adequacy framework to replace the 1988 Capital Accord, structured around minimum capital requirements, supervisory review and market discipline.",
+      "bn_title": "নতুন মূলধন পর্যাপ্ততা কাঠামোর জন্য বাসেল কমিটির ১৯৯৯ প্রস্তাব",
+      "bn_historical_claim": "২ জুন ১৯৯৯ সালে Basel Committee ১৯৮৮ সালের Capital Accord প্রতিস্থাপনের জন্য একটি নতুন মূলধন পর্যাপ্ততা কাঠামোর পরামর্শমূলক প্রস্তাব প্রকাশ করে। প্রস্তাবটি ন্যূনতম মূলধন প্রয়োজনীয়তা, তদারকি পর্যালোচনা এবং বাজার শৃঙ্খলা—এই তিনটি স্তম্ভের ওপর গঠিত ছিল।",
+      "source_url": "https://www.bis.org/publications/199906-consultation-new-capital-adequacy-framework",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel Committee on Banking Supervision (the Committee) has decided to introduce a new capital adequacy framework to replace the 1988 Accord.",
+      "passage_locator": "Basel Committee on Banking Supervision, A new capital adequacy framework, June 1999, Executive summary/opening statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee consultative paper",
+      "passage_source_url": "https://www.bis.org/publ/bcbs50.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, A new capital adequacy framework, June 1999; official BIS-hosted committee publication.",
+      "edition": "A new capital adequacy framework, June 1999.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 1999,
+      "what_passage_establishes": "The passage directly establishes the Committee's decision to introduce a new capital adequacy framework to replace the 1988 Accord; the document further describes its three-pillar structure.",
+      "evidence_limits": "This is a consultative proposal, not the final Basel II framework or proof of implementation by national authorities or banks.",
+      "related_banking_power_records": [
+        "basel-market-risk-amendment-1996",
+        "basel-core-principles-1997",
+        "basel-internal-controls-framework-1998"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, A new capital adequacy framework (June 1999).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1499,7 +1532,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 44 records, A=33, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 45 records, A=34, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
