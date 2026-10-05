@@ -2099,6 +2099,38 @@
       ]
     },
     {
+      "source_id": "basel-operational-resilience-principles-2021",
+      "title": "Basel Principles for Operational Resilience",
+      "date_label": "2021",
+      "historical_claim": "On 31 March 2021, the Basel Committee issued Principles for operational resilience, establishing a framework to strengthen banks' ability to withstand, adapt to and recover from severe operational disruptions, alongside revised principles for operational-risk management.",
+      "bn_title": "ব্যাংকের অপারেশনাল স্থিতিস্থাপকতার জন্য বাসেল নীতিমালা, ২০২১",
+      "bn_historical_claim": "৩১ মার্চ ২০২১ সালে Basel Committee Principles for operational resilience প্রকাশ করে। এতে গুরুতর operational disruption মোকাবিলা, তার সঙ্গে মানিয়ে নেওয়া এবং পুনরুদ্ধারের জন্য ব্যাংকের সক্ষমতা শক্তিশালী করার কাঠামো নির্ধারণ করা হয়।",
+      "source_url": "https://www.bis.org/publications/202103-guidelines-principles-operational-resilience",
+      "verification_status": "Primary-source official BIS/BCBS final principles verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel Committee on Banking Supervision today issued Principles for operational resilience, which aim to increase banks' capacity to withstand, adapt to and recover from severe adverse events.",
+      "passage_locator": "Basel Committee on Banking Supervision, Principles for operational resilience, 31 March 2021, opening publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final principles",
+      "passage_source_url": "https://www.bis.org/bcbs/publ/d516.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Principles for operational resilience, 31 March 2021; official BIS publication.",
+      "edition": "March 2021 final operational resilience principles.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2021,
+      "what_passage_establishes": "The passage establishes the issuance and purpose of the final operational resilience principles: increasing banks' capacity to withstand, adapt to and recover from severe adverse events.",
+      "evidence_limits": "The passage establishes the supervisory principles and their stated purpose, not subsequent implementation or observed effectiveness.",
+      "related_banking_power_records": [
+        "basel-stress-testing-principles-2018",
+        "basel-iii-finalising-post-crisis-reforms-2017",
+        "basel-operational-risk-sound-practices-2003"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Principles for operational resilience (March 2021)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2204,7 +2236,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 66 records, A=55, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 67 records, A=56, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
