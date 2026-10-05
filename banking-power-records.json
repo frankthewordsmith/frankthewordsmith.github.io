@@ -1971,6 +1971,38 @@
       ]
     },
     {
+      "source_id": "basel-iii-finalising-post-crisis-reforms-2017",
+      "title": "Basel III: Finalising post-crisis reforms",
+      "date_label": "2017",
+      "historical_claim": "On 7 December 2017, the Basel Committee published the final Basel III post-crisis reforms, revising the regulatory framework to reduce excessive variability in risk-weighted assets, strengthen standardised approaches, constrain internal models, and complement risk-weighted capital with a finalised leverage ratio and revised capital floor.",
+      "bn_title": "Basel III: সংকট-পরবর্তী সংস্কার চূড়ান্তকরণ, ২০১৭",
+      "bn_historical_claim": "৭ ডিসেম্বর ২০১৭ সালে Basel Committee Basel III-এর সংকট-পরবর্তী সংস্কার চূড়ান্ত করে। এতে risk-weighted assets-এর অতিরিক্ত variability কমানো, standardised approaches শক্তিশালী করা, internal models সীমিত করা এবং leverage ratio ও capital floor চূড়ান্ত করা হয়।",
+      "source_url": "https://www.bis.org/publications/201712-standards-basel-iii-finalising-post-crisis-reforms",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel III framework is a central element of the Basel Committee's response to the global financial crisis. It addresses shortcomings of the pre-crisis regulatory framework and provides a regulatory foundation for a resilient banking system that supports the real economy.",
+      "passage_locator": "Basel Committee on Banking Supervision, Basel III: Finalising post-crisis reforms, 7 December 2017, opening publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/bcbs/publ/d424.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Basel III: Finalising post-crisis reforms, 7 December 2017; official BIS publication.",
+      "edition": "December 2017 final post-crisis Basel III reforms.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2017,
+      "what_passage_establishes": "The passage establishes the final post-crisis Basel III package as the Committee's response to weaknesses in the pre-crisis regulatory framework and its role in establishing a resilient banking-system foundation.",
+      "evidence_limits": "The passage establishes the final regulatory package and its purpose, not subsequent implementation or effectiveness in individual jurisdictions.",
+      "related_banking_power_records": [
+        "basel-tlac-holdings-standard-2016",
+        "basel-gsib-framework-2011",
+        "basel-iii-global-regulatory-framework-2010"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Basel III: Finalising post-crisis reforms (December 2017)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2076,7 +2108,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 62 records, A=51, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 63 records, A=52, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
