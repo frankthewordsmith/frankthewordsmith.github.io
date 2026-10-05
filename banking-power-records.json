@@ -1431,6 +1431,61 @@
       }
     },
     {
+      "source_id": "rothschild-egypt-advance-1885",
+      "title": "Rothschild Temporary Advance to the Egyptian Government, 1885",
+      "date_label": "1885",
+      "historical_claim": "Messrs. Rothschild supplied or continued a temporary financial advance to the Egyptian Government in 1885, with the British Government acknowledging that the advance met Egypt's temporary necessities while its detailed terms were settled directly between Rothschild and Egypt.",
+      "verification_status": "Contemporary House of Commons record directly confirms the advance and the parties' settlement of its terms.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1885/apr/13/the-egyptian-loan-messrs-rothschild",
+      "bn_title": "মিশরীয় সরকারকে রথসচাইল্ডের অস্থায়ী অগ্রিম, ১৮৮৫",
+      "bn_historical_claim": "১৮৮৫ সালে রথসচাইল্ডরা মিশরীয় সরকারকে অস্থায়ী আর্থিক অগ্রিম প্রদান বা অব্যাহত রাখে; ব্রিটিশ সরকার সংসদে এই অগ্রিমের কথা স্বীকার করে এবং জানায় যে এর শর্ত রথসচাইল্ড ও মিশরীয় সরকার সরাসরি নির্ধারণ করেছে।",
+      "notes": "The Chancellor of the Exchequer stated in the House of Commons on 13 April 1885 that Messrs. Rothschild, knowing the British Government regarded itself as pledged to the pending Egypt legislation, had supplied the temporary necessities of the Egyptian Government; he said the transaction's details had been settled between Rothschild and the Egyptian Government. This record is stronger than a later narrative but does not expose the underlying private contract.",
+      "primary_passage": "Messrs. Rothschild are aware that we regard ourselves pledged to the Bill now before Parliament, and with this knowledge have supplied the temporary necessities of the Egyptian Government.",
+      "passage_locator": "House of Commons, 13 April 1885, The Egyptian Loan—Messrs. Rothschild, Hansard vol. 296, cols. 1457–1458.",
+      "passage_status": "Passage locked — contemporary parliamentary statement; private transaction terms remain outside the parliamentary record.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1885/apr/13/the-egyptian-loan-messrs-rothschild",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons debate, 13 April 1885, The Egyptian Loan—Messrs. Rothschild.",
+      "edition": "Hansard, House of Commons, 13 April 1885, vol. 296, cols. 1457–1458.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1885,
+      "what_passage_establishes": "The passage establishes that Rothschild supplied temporary financial necessities to the Egyptian Government and that the transaction's details were settled directly between the two parties.",
+      "evidence_limits": "It does not establish the precise amount, interest rate, security, maturity, or whether the advance was legally a loan in the final contractual form.",
+      "related_banking_power_records": [
+        "rothschild-egypt-loan-1884"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 13 April 1885, The Egyptian Loan—Messrs. Rothschild."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary evidence locked; private contract remains a supplementary archival target.",
+      "year": 1885,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1885
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "baring-crisis-1890",
       "title": "Baring Crisis, 1890",
       "date_label": "1890",
@@ -5726,5 +5781,27 @@
       "rothschild-egypt-loan-1884"
     ],
     "next_priority": "Continue the nineteenth-century sovereign-debt sequence with the strongest remaining direct parliamentary or archival evidence."
+  },
+  "structural_audit_2026_10_05_v11": {
+    "status": "Completed after 1885 Egyptian sovereign-finance deployment",
+    "records_audited": 82,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 78,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v8": {
+    "status": "1885 Egyptian Rothschild temporary advance evidence deployed as Grade A",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-egypt-advance-1885"
+    ],
+    "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt or banking-power primary record; preserve all B-grade scan-upgrade queues."
   }
 }
