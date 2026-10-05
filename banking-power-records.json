@@ -1704,6 +1704,48 @@
       }
     },
     {
+      "source_id": "east-india-railway-contingent-loan-1861",
+      "title": "East India Railway Contingent Borrowing Authority, 1861",
+      "date_label": "1861",
+      "historical_claim": "In July 1861 the Secretary of State for India sought discretionary authority to raise additional money if Indian railway companies failed to furnish the funds required for railway construction; the proposed borrowing was to be used only if the companies did not raise the necessary sums themselves.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1861-07-25/debates/f36381b3-c055-45a9-bf32-1a25ab76b50e/EastIndiaLoan",
+      "primary_passage": "I now rise to ask for such powers to raise money to be used only in the event of the railway companies not furnishing the sum required.",
+      "passage_locator": "House of Commons, 25 July 1861, East India Loan, Hansard; Sir Charles Wood's explanation of proposed discretionary borrowing for Indian railway expenditure.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes contingent borrowing authority tied to railway companies' failure to raise required funds.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 25 July 1861.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1861,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the contingent railway borrowing authority.",
+      "evidence_limits": "This is distinct from the £4,000,000 loan already recorded for 1861. It establishes a contingent power, not proof that the additional power was exercised or that the Government ultimately borrowed under it.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1861
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
@@ -6441,6 +6483,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 88,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v24": {
+    "status": "Completed after 1861 East India contingent railway borrowing deployment",
+    "records_audited": 94,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 89,
       "B": 5,
       "C": 0,
       "D": 0
