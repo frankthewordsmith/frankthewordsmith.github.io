@@ -1686,6 +1686,38 @@
       ]
     },
     {
+      "source_id": "basel-liquidity-principles-2008",
+      "title": "Basel Principles for Sound Liquidity Risk Management and Supervision",
+      "date_label": "2008",
+      "historical_claim": "On 25 September 2008, the Basel Committee published revised Principles for Sound Liquidity Risk Management and Supervision, substantially expanding its earlier liquidity guidance in response to lessons from the financial market turmoil and setting out seventeen principles for managing and supervising liquidity risk.",
+      "bn_title": "তারল্য ঝুঁকি ব্যবস্থাপনা ও তদারকির জন্য বাসেল নীতিমালা, ২০০৮",
+      "bn_historical_claim": "২৫ সেপ্টেম্বর ২০০৮ সালে Basel Committee আর্থিক বাজারের অস্থিরতা থেকে শেখা অভিজ্ঞতার ভিত্তিতে তারল্য ঝুঁকি ব্যবস্থাপনা ও তদারকির জন্য সংশোধিত Principles প্রকাশ করে। এতে তারল্য ঝুঁকি ব্যবস্থাপনা ও তদারকির জন্য ১৭টি নীতি নির্ধারণ করা হয়।",
+      "source_url": "https://www.bis.org/publications/200809-guidelines-principles-sound-liquidity-risk-management-and-supervision",
+      "verification_status": "Primary-source official BIS/BCBS final guideline verified",
+      "evidence_grade": "A",
+      "primary_passage": "In order to account for financial market developments as well as lessons learned from the turmoil, the Basel Committee has conducted a fundamental review of its 2000 Sound Practices for Managing Liquidity in Banking Organisations. Guidance has been significantly expanded in a number of key areas.",
+      "passage_locator": "Basel Committee on Banking Supervision, Principles for Sound Liquidity Risk Management and Supervision, 25 September 2008, opening explanatory section on the review and expanded guidance.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final guideline",
+      "passage_source_url": "https://www.bis.org/publ/bcbs144.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Principles for Sound Liquidity Risk Management and Supervision, 25 September 2008; official BIS publication.",
+      "edition": "Principles for Sound Liquidity Risk Management and Supervision, September 2008.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2008,
+      "what_passage_establishes": "The passage establishes that the Basel Committee fundamentally reviewed its 2000 liquidity guidance in response to financial-market developments and the turmoil, substantially expanding the guidance; the document then arranges this guidance around seventeen principles.",
+      "evidence_limits": "The passage establishes issuance and substantive expansion of the supervisory guidance, not the implementation or effectiveness of the principles by individual banks or supervisors.",
+      "related_banking_power_records": [
+        "basel-liquidity-sound-practices-2000",
+        "basel-ama-home-host-cooperation-2007",
+        "global-financial-crisis-2008"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Principles for Sound Liquidity Risk Management and Supervision (September 2008)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1791,7 +1823,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 53 records, A=42, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 54 records, A=43, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
