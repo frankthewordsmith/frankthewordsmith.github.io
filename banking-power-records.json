@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "117-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "118-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3279,6 +3279,64 @@
         "research_maps": [
           "sovereign_debt",
           "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-railways-loans-1886",
+      "title": "East India Railways Loans, 1886: Proposed £10 Million Direct Borrowing Authority",
+      "date_label": "1886",
+      "historical_claim": "In June 1886 Parliament considered authorising the Secretary of State in Council of India to raise up to £10 million for the construction, extension, and equipment of railways in India on the security of Indian revenues; the proposal was subsequently not pursued, with the Under Secretary explaining that the intended mechanism was direct borrowing by the Secretary of State and onward lending to railway companies to reduce the charge on Indian revenues.",
+      "verification_status": "Contemporary parliamentary record directly preserves both the 4 June committee resolution proposing the £10 million authority and the 11 June official explanation that the Bill would not proceed and why.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1886/jun/04/east-india-railways-loans",
+      "bn_title": "ইস্ট ইন্ডিয়া রেলওয়েজ ঋণ, ১৮৮৬: ১ কোটি পাউন্ডের প্রস্তাবিত সরাসরি ঋণগ্রহণের ক্ষমতা",
+      "bn_historical_claim": "১৮৮৬ সালের জুনে ভারতীয় রাজস্বের জামানতে ভারতে রেলওয়ে নির্মাণ, সম্প্রসারণ ও সরঞ্জামায়নের জন্য সর্বোচ্চ ১ কোটি পাউন্ড ঋণ তোলার ক্ষমতা দেওয়ার প্রস্তাব সংসদে বিবেচিত হয়; পরে প্রস্তাবটি আর এগোয়নি, এবং আন্ডার সেক্রেটারি ব্যাখ্যা করেন যে উদ্দেশ্য ছিল সচিবের সরাসরি ঋণগ্রহণ করে রেলওয়ে কোম্পানিগুলোকে ঋণ দেওয়া, যাতে ভারতীয় রাজস্বের ওপর ব্যয় কমে।",
+      "notes": "On 4 June 1886 the Commons resolved in Committee that it was expedient to authorise the Secretary of State in Council of India to raise up to £10,000,000 for the construction, extension, and equipment of railways in India on the security of Indian revenues. On 11 June the Under Secretary of State for India stated that the Government did not intend to proceed with the Bill. He explained that the intended borrowing power would have allowed the Secretary of State to raise money directly and lend it to railway companies, because the charge on Indian revenues was expected to be lower than under company borrowing. The 11 June statement also reported about £7.5 million of unexpended borrowing power under previous Acts.",
+      "primary_passage": "Resolved, That it is expedient to authorise the Secretary of State in Council of India to raise any sum or sums of money, not exceeding in the whole £10,000,000, for the construction, extension, and equipment of Railways in India, on the security of the Revenues of India.",
+      "passage_locator": "Hansard, House of Commons, 4 June 1886, vol. 306, col. 1112, 'East India Railways [Loans].' The resolution was considered in Committee and reported for subsequent consideration.",
+      "passage_status": "Passage locked — contemporary parliamentary resolution records the proposed £10 million authority; the 11 June 1886 official statement separately locks the decision not to proceed and the intended direct-borrowing mechanism.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1886/jun/04/east-india-railways-loans",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, East India Railways [Loans], Committee resolution, 4 June 1886; supplemented by the Under Secretary of State for India's statement on 11 June 1886 concerning the decision not to proceed with the Bill and its proposed financing mechanism.",
+      "edition": "Hansard, House of Commons, 4 June 1886, vol. 306, col. 1112; and House of Commons, 11 June 1886, statement on the East India Railways (Loans) Bill.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1886,
+      "what_passage_establishes": "The 4 June passage establishes that Parliament formally considered a borrowing authority of up to £10 million, secured on Indian revenues, specifically for railway construction, extension, and equipment. The 11 June statement establishes that the Bill was not to proceed and explains that the proposed policy was for the Secretary of State to borrow directly and lend to railway companies in order to reduce the charge on Indian revenues.",
+      "evidence_limits": "This record does not establish that the £10 million authority became law or that the full amount was raised. The proposal was explicitly not pursued as a Bill by 11 June 1886. It therefore establishes a proposed financing mechanism and parliamentary consideration, not an executed loan or enacted borrowing power.",
+      "related_banking_power_records": [
+        "india-london-sterling-borrowing-authority-1885",
+        "india-public-works-loan-1883-rupee",
+        "india-public-works-loan-1881",
+        "india-public-works-borrowing-india-1875"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 4 June 1886, vol. 306, col. 1112.",
+        "Hansard, House of Commons, 11 June 1886, statement on the East India Railways (Loans) Bill."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary resolution and subsequent official explanation securely establish the proposed £10 million railway-borrowing mechanism and its abandonment; no executed £10 million loan is inferred.",
+      "year": 1886,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1886
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "public_works_finance",
+          "railway_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
           "global_power_network"
         ]
       }
@@ -7918,7 +7976,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1886 primary evidence, avoiding duplicate coverage of the 1885 London sterling-borrowing authority.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the 1886 East India Railways borrowing proposal.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8428,6 +8486,44 @@
       },
       "global_power_network": {
         "records": 92
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v48": {
+    "status": "Completed after 1886 East India Railways borrowing-proposal deployment",
+    "records_audited": 118,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 113,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v24": {
+    "status": "Reconciled after 1886 East India Railways borrowing-proposal deployment",
+    "records_mapped": 118,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 51
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 60
+      },
+      "global_power_network": {
+        "records": 93
       }
     }
   }
