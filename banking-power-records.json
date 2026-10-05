@@ -585,15 +585,15 @@
       "title": "Baring Crisis, 1890",
       "date_label": "1890",
       "historical_claim": "The 1890 Baring crisis prompted the Bank of England to organize a guarantee fund to address Barings' liabilities, illustrating cooperation between a central bank and major financial institutions during a systemic threat.",
-      "verification_status": "Bank of England archival record verified; quoted guarantee terms remain from contemporary printed reproduction",
+      "verification_status": "Bank of England archival record and contemporary printed guarantee terms reverified",
       "evidence_grade": "B",
       "source_url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=G15%2F189&src=CalmView.Catalog",
       "bn_title": "বারিং সংকট, ১৮৯০",
       "bn_historical_claim": "১৮৯০ সালের বারিং সংকটে ব্যাংক অব ইংল্যান্ড বারিংসের দায় মেটাতে একটি গ্যারান্টি ফান্ড গঠনে ভূমিকা রাখে; এটি ব্যবস্থাগত সংকটে কেন্দ্রীয় ব্যাংক ও বড় আর্থিক প্রতিষ্ঠানের সহযোগিতার একটি নথিবদ্ধ উদাহরণ।",
-      "notes": "The Bank of England archive directly identifies G15/189 as the 1890 Baring crisis file and states that fol. 3 is the Currie and Greene report on Barings' solvency on the basis of which the Guarantee Fund was established; fols. 5-12 contain Barings' liabilities/assets and fol. 13 contains the partners' undertaking. G15/193 separately preserves Freshfields' advice on the form of the guarantee. The database's quoted passage, however, is from The Economist's contemporary printed reproduction, not a digitized image/transcription of the original guarantee itself, so the record remains B-grade.",
+      "notes": "Bank of England archive G15/189 directly identifies the 1890 Baring crisis file, including the report on Barings' solvency on which the Guarantee Fund was established, Barings' liabilities/assets, the partners' undertaking, and correspondence reporting the operation's success. G15/193 separately preserves Freshfields' advice on the form of the guarantee and correspondence with guarantors. The exact quoted guarantee wording in this database remains from a contemporary printed reproduction rather than a directly accessed archival image, so the record remains B under the project's strict passage standard.",
       "primary_passage": "In consideration of advances which the Bank of England have agreed to make to Messrs Baring Brothers and Co. to enable them to discharge at maturity their liabilities existing on the night of the 15th November, 1890, or arising out of business initiated on or prior to the 15th November, 1890.",
       "passage_locator": "The Economist, 22 November 1890, “The liquidation of the Barings,” pp. 1465–1466; contemporary printed reproduction of the Guarantee Fund terms, headed “Bank of England, November, 1890.”",
-      "passage_status": "Passage retained — contemporary printed guarantee terms corroborated by Bank of England archival file",
+      "passage_status": "Passage retained — contemporary guarantee terms corroborated by Bank of England archival file; direct archival image of the quoted wording remains open",
       "passage_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Economist_1890-11-22-_Vol_48_Iss_2465_%28IA_sim_economist_1890-11-22_48_2465%29.pdf",
       "passage_type": "contemporary-printed-reproduction",
       "language": "English (contemporary printed reproduction)",
@@ -613,7 +613,7 @@
         "Kris James Mitchener and Marc D. Weidenmier, “The Baring Crisis and the Great Latin American Meltdown of the 1890s,” *Journal of Economic History* 68 (2008).",
         "Jan Körnert, “The Barings crises of 1890 and 1995: causes, courses, consequences and the danger of domino effects,” *Journal of International Financial Markets, Institutions and Money* 13 (2003), 187–209, DOI 10.1016/S1042-4431(02)00044-6."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "B-grade — official Bank of England archival provenance securely established; exact quoted guarantee text not directly accessed in the archival image."
     },
     {
       "source_id": "panic-1907",
