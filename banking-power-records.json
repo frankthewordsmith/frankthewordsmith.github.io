@@ -1525,6 +1525,38 @@
       ]
     },
     {
+      "source_id": "basel-operational-risk-sound-practices-2003",
+      "title": "Basel Sound Practices for the Management and Supervision of Operational Risk",
+      "date_label": "2003",
+      "historical_claim": "On 25 February 2003, the Basel Committee issued Sound Practices for the Management and Supervision of Operational Risk, providing principles for banks and supervisors to manage and evaluate operational risk.",
+      "bn_title": "অপারেশনাল ঝুঁকি ব্যবস্থাপনা ও তদারকির জন্য বাসেল সাউন্ড প্র্যাকটিসেস, ২০০৩",
+      "bn_historical_claim": "২৫ ফেব্রুয়ারি ২০০৩ সালে Basel Committee অপারেশনাল ঝুঁকি ব্যবস্থাপনা ও তদারকির জন্য Sound Practices প্রকাশ করে। এতে ব্যাংক ও তদারকি কর্তৃপক্ষের জন্য অপারেশনাল ঝুঁকি ব্যবস্থাপনা মূল্যায়ন ও পরিচালনার নীতিমালা দেওয়া হয়।",
+      "source_url": "https://www.bis.org/publications/200302-guidelines-sound-practices-management-and-supervision-operational-risk",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The following paper outlines a set of principles that provide a framework for the effective management and supervision of operational risk, for use by banks and supervisory authorities when evaluating operational risk management policies and practices.",
+      "passage_locator": "Basel Committee on Banking Supervision, Sound Practices for the Management and Supervision of Operational Risk, 25 February 2003, Introduction, paragraph 1.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee sound-practices paper",
+      "passage_source_url": "https://www.bis.org/publ/bcbs96.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Sound Practices for the Management and Supervision of Operational Risk, 25 February 2003; official BIS-hosted committee publication.",
+      "edition": "Sound Practices for the Management and Supervision of Operational Risk, February 2003.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2003,
+      "what_passage_establishes": "The passage establishes the 2003 operational-risk framework and its intended use by banks and supervisory authorities.",
+      "evidence_limits": "The passage establishes guidance, not actual implementation or operational-risk outcomes at individual banks.",
+      "related_banking_power_records": [
+        "basel-weak-banks-guidance-2002",
+        "basel-internal-controls-framework-1998",
+        "basel-new-capital-accord-2001"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Sound Practices for the Management and Supervision of Operational Risk (February 2003)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1630,7 +1662,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 48 records, A=37, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 49 records, A=38, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
