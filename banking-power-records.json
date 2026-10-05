@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "129-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "130-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3955,6 +3955,62 @@
         "chapter_title": null,
         "research_maps": [
           "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-rupee-debt-conversion-outcome-1889",
+      "title": "India Rupee Debt Conversion Outcome, 1889: Rx.1.787 Million Converted with Rx.89,000 Annual Saving",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "By August 1889 the Government of India had successfully converted the Rx.1,787,540 Transfer Loan of 1870 from 4½ per cent to 4 per cent, with less than Rx.200,000 demanded in cash and an annual saving to the Indian Exchequer of about Rx.89,000.",
+      "verification_status": "Verified against the contemporary East India Revenue Accounts statement, 27 August 1889.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "bn_title": "ভারতের রুপি ঋণ রূপান্তরের ফল, ১৮৮৯: ১৭.৮৭৫৪ লক্ষ রুপি রূপান্তরে বার্ষিক ৮৯,০০০ রুপি সাশ্রয়",
+      "bn_historical_claim": "১৮৮৯ সালের আগস্টের মধ্যে ভারত সরকার ১৮৭০ সালের ১৭,৮৭,৫৪০ রুপির ট্রান্সফার ঋণকে ৪½ শতাংশ থেকে ৪ শতাংশে সফলভাবে রূপান্তর করে; ২ লক্ষ রুপিরও কম নগদ চাওয়া হয় এবং ভারতীয় কোষাগারের বার্ষিক সাশ্রয় হয় প্রায় ৮৯,০০০ রুপি।",
+      "notes": "This is intentionally a separate implementation/outcome record from the 1888 record that documented the beginning of the conversion. It establishes realized participation and the stated annual saving. It does not establish the final conversion of the entire Rx.23.25 million 4½ per cent debt; the 1888 statement explicitly noted that most of that debt was not redeemable until 1893.",
+      "primary_passage": "The Government of India has also just converted Rx. 1,787,540 from 4½ per cent to 4 per cent. The operation was carried out with the greatest possible success. Less than Rx.200,000 were demanded in cash; and there is a saving to the Indian Exchequer of about Rx.89,000 per annum.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, cols. 610–683, East India Revenue Accounts; financial statement section on debt conversion.",
+      "passage_status": "Passage locked — contemporary official financial statement reporting completed operation and realized annual saving estimate.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in the Committee on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, relevant passage on rupee debt conversion.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes that the 1870 Transfer Loan of Rx.1,787,540 was converted from 4½ per cent to 4 per cent, that less than Rx.200,000 was demanded in cash, and that the Government reported an annual saving of about Rx.89,000.",
+      "evidence_limits": "It does not establish conversion of all 4½ per cent rupee debt, nor does it provide the complete holder-by-holder conversion terms or independently audit the annual saving.",
+      "related_banking_power_records": [
+        "india-rupee-debt-conversion-1888",
+        "india-stock-conversion-outcome-1887",
+        "conversion-of-india-stock-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, East India Revenue Accounts.",
+        "Hansard, House of Commons, 9 August 1888, vol. 330, col. 146."
+      ],
+      "publication_status": "A-grade — direct contemporary official financial statement reporting completed debt-conversion outcome; scope explicitly limited.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
           "global_power_network"
         ]
       }
@@ -8594,7 +8650,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically through 1888, prioritizing distinct debt, monetary, institutional, or banking-network primary evidence; avoid duplication of the deployed sterling financing, exchange-burden, Currency Commission, and rupee-debt conversion records.",
+  "next_priority": "Continue chronologically through 1889, prioritizing distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed 1889 rupee-debt conversion outcome.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9560,6 +9616,44 @@
       },
       "global_power_network": {
         "records": 104
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v60": {
+    "status": "Completed after 1889 rupee debt conversion outcome deployment",
+    "records_audited": 130,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 125,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v36": {
+    "status": "Reconciled after 1889 rupee debt conversion outcome deployment",
+    "records_mapped": 130,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 61
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 67
+      },
+      "global_power_network": {
+        "records": 105
       }
     }
   }
