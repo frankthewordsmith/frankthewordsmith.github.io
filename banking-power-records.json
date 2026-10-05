@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "111-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "112-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2773,6 +2773,63 @@
         "chapter_title": null,
         "research_maps": [
           "central_banks",
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "uk-loan-to-india-funded-as-repayable-debt-1880",
+      "title": "United Kingdom Loan to India, 1880: £2.049 Million Funded as Repayable Debt",
+      "date_label": "1880",
+      "historical_claim": "By March 1880, the United Kingdom had created £2,049,000 of Funded Debt to finance the £2,000,000 loan advanced to India, and the parliamentary statement classified that advance as repayable debt.",
+      "verification_status": "Primary contemporary parliamentary financial statement verified in Hansard.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1880/mar/11/ways-and-means-financial-statement",
+      "bn_title": "ভারতকে যুক্তরাজ্যের ঋণ, ১৮৮০: ২০.৪৯ লক্ষ পাউন্ডের তহবিলভুক্ত পুনঃপরিশোধযোগ্য ঋণ",
+      "bn_historical_claim": "১৮৮০ সালের মার্চে যুক্তরাজ্য ভারতকে দেওয়া ২০ লক্ষ পাউন্ডের ঋণের অর্থায়নের জন্য ২০.৪৯ লক্ষ পাউন্ডের Funded Debt সৃষ্টি করেছিল এবং সংসদীয় বিবৃতিতে এই অগ্রিমকে পুনঃপরিশোধযোগ্য ঋণ হিসেবে শ্রেণিবদ্ধ করা হয়।",
+      "notes": "This is distinct from the 1879 Indian-market loan issue: it documents the British-side financing structure of the separate interest-free advance to India and its treatment in the UK public debt accounts.",
+      "primary_passage": "The Funded Debt, of course, includes £2,049,000 of Stock created for the purpose of the loan of £2,000,000 to India.",
+      "passage_locator": "Hansard, House of Commons, 11 March 1880, vol. 251, cols. 827–828, Ways and Means—Financial Statement.",
+      "passage_status": "Passage locked — contemporary parliamentary statement explicitly identifies the Stock created to finance the £2,000,000 loan to India.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1880/mar/11/ways-and-means-financial-statement",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "UK Ways and Means—Financial Statement, House of Commons, 11 March 1880; statement on Funded and Unfunded Debt and the £2,000,000 loan to India.",
+      "edition": "Hansard, House of Commons Debates, 11 March 1880, vol. 251, cols. 817–837.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1880,
+      "what_passage_establishes": "The passage establishes that £2,049,000 of UK Funded Debt had been created specifically to finance the £2,000,000 loan to India. The same financial statement classifies the £2,000,000 as repayable debt and distinguishes it from non-recoverable war expenditure.",
+      "evidence_limits": "The passage establishes the UK-side debt financing and accounting treatment, not the identity of subscribers to the UK Stock, the Indian use of every pound, or the final repayment history. It also does not establish that this UK financing replaced Indian-market borrowing generally.",
+      "related_banking_power_records": [
+        "india-loan-issued-1879",
+        "india-famine-loan-and-direct-government-borrowing-1877",
+        "india-borrowing-powers-1874"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons Debates, 11 March 1880, vol. 251, cols. 817–837."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary financial statement; precise UK debt amount and purpose locked.",
+      "year": 1880,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1880
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance",
+          "state_borrowing",
+          "imperial_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
           "sovereign_debt",
           "monetary_regimes",
           "global_power_network"
@@ -7538,7 +7595,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1880 primary evidence, avoiding duplicate coverage of the 1879 Indian loan-issue record.",
+  "next_priority": "Continue chronologically with the strongest distinct 1881 primary evidence, avoiding duplicate coverage of the 1880 UK financing record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7860,6 +7917,42 @@
       },
       "global_power_network": {
         "records": 87
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v42": {
+    "status": "Completed after 1880 UK loan-to-India financing deployment",
+    "records_audited": 112,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 107,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v18": {
+    "status": "Reconciled after 1880 UK loan-to-India financing deployment",
+    "records_mapped": 112,
+    "maps": {
+      "central_banks": {
+        "records": 78
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 46
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 56
+      },
+      "global_power_network": {
+        "records": 88
       }
     }
   }
