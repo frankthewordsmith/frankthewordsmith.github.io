@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "77-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "78-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -882,6 +882,64 @@
         ]
       },
       "deployment_note": "Deployed with deliberately narrow wording: Baring agency/debt-liquidation role, not loan issuance."
+    },
+    {
+      "source_id": "rothschild-brazil-debt-service-loan-1829",
+      "title": "Rothschild Brazilian Debt-Service Loan, 1829",
+      "date_label": "1829",
+      "historical_claim": "Nathan Mayer Rothschild arranged a £400,000 Brazilian loan in 1829 specifically to service Brazil's existing debts.",
+      "verification_status": "The Rothschild Archive identifies the 1829 debt-service loan and surviving bond documentation; direct original contract transcription remains to be locked",
+      "evidence_grade": "B",
+      "source_url": "https://www.rothschildarchive.org/exhibitions/brazil/financing_the_new_nation",
+      "bn_title": "রথসচাইল্ডের ব্রাজিলীয় ঋণ-পরিশোধ ঋণ, ১৮২৯",
+      "bn_historical_claim": "১৮২৯ সালে নাথান মেয়ার রথসচাইল্ড ব্রাজিলের বিদ্যমান ঋণ পরিশোধের জন্য £৪ লক্ষের একটি ঋণ ব্যবস্থা করেন।",
+      "notes": "The Rothschild Archive states that Brazil's solvency in the late-1820s crisis was supported in large part by Nathan's financial innovation in raising a £400,000 loan in 1829 specifically to service existing Brazilian debts, and describes the bond as an early example of this type. The current deployment remains Grade B because the direct original 1829 contract/bond text has not yet been transcribed and page-level archival evidence has not been locked.",
+      "primary_passage": "raising a loan of £400,000 in 1829 specifically to service Brazil's existing debts",
+      "passage_locator": "The Rothschild Archive, 'Rothschilds & Brazil: Financing the new nation'; discussion of the 1829 £400,000 debt-service loan. Direct original contract/bond locator pending.",
+      "passage_status": "Provisional passage — wording is from the Rothschild Archive's published archival account; direct primary-document transcription is required before A-grade upgrade.",
+      "passage_source_url": "https://www.rothschildarchive.org/materials/ar2003.pdf",
+      "passage_type": "archival-account-of-primary-document",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "1829 Brazilian debt-service loan associated with N M Rothschild; Rothschild Archive materials.",
+      "edition": "The Rothschild Archive, Rothschilds & Brazil; archival discussion and surviving loan documentation.",
+      "publisher": "The Rothschild Archive",
+      "publication_year": 1829,
+      "what_passage_establishes": "The passage establishes the Rothschild Archive's documented account that Nathan raised a £400,000 Brazilian loan in 1829 specifically to service existing debts.",
+      "evidence_limits": "It does not yet establish the exact original contractual wording, complete security terms, or whether Rothschild supplied capital from its own balance sheet. Those points require direct primary-document transcription.",
+      "related_banking_power_records": [
+        "rothschild-brazil-loan-1825",
+        "rothschild-portuguese-loan-1823",
+        "baring-mexican-debt-agency-1829"
+      ],
+      "scholarly_references": [
+        "The Rothschild Archive, Rothschilds & Brazil: Financing the new nation."
+      ],
+      "publication_status": "B-grade — strong archival lead with surviving documentation identified; direct primary scan transcription remains the upgrade requirement.",
+      "year": 1829,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1829
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Added as a qualified Sovereign Debt candidate; upgrade only after direct 1829 primary-document transcription."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -5381,6 +5439,56 @@
       },
       "global_power_network": {
         "records": 53
+      }
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v4": {
+    "status": "1829 Rothschild Brazilian debt-service evidence deployed as qualified Grade B",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-brazil-debt-service-loan-1829"
+    ],
+    "qualified_records_pending_direct_scan": [
+      "baring-buenos-aires-loan-1824",
+      "rothschild-brazil-debt-service-loan-1829"
+    ],
+    "next_priority": "Continue with the strongest remaining sovereign-debt primary-source candidate while preserving both scan-upgrade queues."
+  },
+  "structural_audit_2026_10_05_v7": {
+    "status": "Completed after 1829 sovereign-debt deployment",
+    "records_audited": 78,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 75,
+      "B": 3,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v6": {
+    "status": "Reconciled after 1829 sovereign-debt deployment",
+    "records_mapped": 78,
+    "maps": {
+      "central_banks": {
+        "records": 54
+      },
+      "banking_dynasties": {
+        "records": 9
+      },
+      "sovereign_debt": {
+        "records": 12
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 54
       }
     }
   }
