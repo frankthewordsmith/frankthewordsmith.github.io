@@ -1493,6 +1493,38 @@
       ]
     },
     {
+      "source_id": "basel-weak-banks-guidance-2002",
+      "title": "Basel Supervisory Guidance on Dealing with Weak Banks",
+      "date_label": "2002",
+      "historical_claim": "On 11 March 2002, the Basel Committee issued Supervisory Guidance on Dealing with Weak Banks, providing supervisors with practical guidance on identifying weak banks, taking corrective action, resolving problems and managing exit strategies.",
+      "bn_title": "দুর্বল ব্যাংক মোকাবিলায় বাসেল তদারকি নির্দেশিকা, ২০০২",
+      "bn_historical_claim": "১১ মার্চ ২০০২ সালে Basel Committee দুর্বল ব্যাংক মোকাবিলায় Supervisory Guidance প্রকাশ করে। এতে দুর্বল ব্যাংক শনাক্তকরণ, সংশোধনমূলক পদক্ষেপ, সমস্যা সমাধান এবং প্রস্থান কৌশল সম্পর্কে তদারকি কর্তৃপক্ষের জন্য ব্যবহারিক নির্দেশনা দেওয়া হয়।",
+      "source_url": "https://www.bis.org/publications/200203-guidelines-supervisory-guidance-dealing-weak-banks",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The objective of this report is to provide guidance to supervisors in dealing with weak banks. It provides a toolkit offering practical guidance in the areas of problem identification, corrective action, resolution techniques and exit strategies.",
+      "passage_locator": "Basel Committee on Banking Supervision, Supervisory Guidance on Dealing with Weak Banks, March 2002, Introduction.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee guidance",
+      "passage_source_url": "https://www.bis.org/publ/bcbs88.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Supervisory Guidance on Dealing with Weak Banks, March 2002; official BIS-hosted committee publication.",
+      "edition": "Supervisory Guidance on Dealing with Weak Banks, March 2002.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2002,
+      "what_passage_establishes": "The passage establishes the issuance and intended supervisory function of the 2002 weak-bank guidance, including its practical toolkit for problem identification, corrective action, resolution and exit.",
+      "evidence_limits": "The passage establishes guidance, not actual intervention or resolution of any particular bank.",
+      "related_banking_power_records": [
+        "basel-new-capital-accord-2001",
+        "basel-internal-controls-framework-1998",
+        "basel-core-principles-1997"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Supervisory Guidance on Dealing with Weak Banks (March 2002)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1598,7 +1630,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 47 records, A=36, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 48 records, A=37, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
