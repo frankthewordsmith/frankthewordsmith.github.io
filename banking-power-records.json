@@ -1875,6 +1875,38 @@
       ]
     },
     {
+      "source_id": "basel-standardised-counterparty-credit-risk-2014",
+      "title": "Basel Standardised Approach for Measuring Counterparty Credit Risk Exposures",
+      "date_label": "2014",
+      "historical_claim": "On 31 March 2014, the Basel Committee published its final Standardised Approach for measuring counterparty credit risk exposures (SA-CCR), replacing the Current Exposure Method and Standardised Method and providing a comprehensive non-modelled approach for OTC derivatives, exchange-traded derivatives and long-settlement transactions.",
+      "bn_title": "কাউন্টারপার্টি ক্রেডিট ঝুঁকি পরিমাপের জন্য বাসেল স্ট্যান্ডার্ডাইজড অ্যাপ্রোচ, ২০১৪",
+      "bn_historical_claim": "৩১ মার্চ ২০১৪ সালে Basel Committee কাউন্টারপার্টি ক্রেডিট ঝুঁকি পরিমাপের জন্য চূড়ান্ত Standardised Approach (SA-CCR) প্রকাশ করে। এটি Current Exposure Method ও Standardised Method-এর বিকল্প হিসেবে OTC derivatives, exchange-traded derivatives এবং long-settlement transactions-এর জন্য নতুন non-modelled পদ্ধতি নির্ধারণ করে।",
+      "source_url": "https://www.bis.org/publications/201403-standards-standardised-approach-measuring-counterparty-credit-risk-exposures",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel Committee on Banking Supervision has today published The standardised approach for measuring counterparty credit risk exposures. This standard includes a comprehensive, non-modelled approach for measuring counterparty credit risk associated with over-the-counter (OTC) derivatives, exchange-traded derivatives and long settlement transactions.",
+      "passage_locator": "Basel Committee on Banking Supervision, The standardised approach for measuring counterparty credit risk exposures, 31 March 2014, opening publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/publ/bcbs279.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, The standardised approach for measuring counterparty credit risk exposures, 31 March 2014; official BIS publication.",
+      "edition": "March 2014 final SA-CCR standard.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2014,
+      "what_passage_establishes": "The passage establishes issuance of the final SA-CCR standard and its scope as a comprehensive non-modelled method for measuring counterparty credit risk.",
+      "evidence_limits": "The passage establishes the standard and its intended scope, not later implementation or effectiveness in particular jurisdictions.",
+      "related_banking_power_records": [
+        "basel-core-principles-revised-2012",
+        "basel-gsib-framework-2011",
+        "basel-iii-global-regulatory-framework-2010"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, The standardised approach for measuring counterparty credit risk exposures (March 2014), BCBS 279."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1980,7 +2012,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 59 records, A=48, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 60 records, A=49, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
