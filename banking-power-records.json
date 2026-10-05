@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "143-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "144-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4659,6 +4659,37 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fixed official exchange-rate administration layer"
     },
     {
+      "source_id": "tirhoot-state-railway-management-1890",
+      "title": "Tirhoot State Railway, 1890: Government-Owned Railway Put Under Private Company Management",
+      "date_label": "8 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Government of India confirmed that the state-owned Tirhoot State Railway was being handed over to the Bengal and North Western Railway for management, with profits divided in proportion to Government and company capital, while the Government had first supported and later opposed the arrangement.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/08/indian-railways",
+      "primary_passage": "The answer to the first paragraph is in the affirmative, but for management only, and for the purpose of securing economy and efficiency. ... The division of profit between the Government and the company will be in proportion to their respective capitals. ... It was at first in favour of, and afterwards against, the arrangement.",
+      "passage_locator": "Hansard, House of Commons, 8 July 1890, vol. 346, cols. 1108–1109, 'Indian Railways'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning management of the Government-owned Tirhoot State Railway.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes a Government-owned state railway being placed under private-company management for economy and efficiency, with profit division linked to respective capital contributions, and confirms that the Government of India changed its position on the arrangement.",
+      "evidence_limits": "The passage does not establish the complete management contract, duration, fee structure, detailed capital amounts, or subsequent financial performance. The questioner's claim that the state railway yielded 7% and the private company 2½% was explicitly corrected by Government to 4.62% and 4.18%, respectively.",
+      "notes": "Distinct institutional railway-finance layer from the South Indian Railway purchase: this concerns operational control and profit-sharing of an existing Government-owned railway rather than acquisition financing.",
+      "bn_title": "তিরহুত স্টেট রেলওয়ে, ১৮৯০: সরকারি মালিকানাধীন রেলওয়ে বেসরকারি কোম্পানির ব্যবস্থাপনায়",
+      "bn_historical_claim": "১৮৯০ সালে ভারত সরকার জানায় যে সরকারি মালিকানাধীন তিরহুত স্টেট রেলওয়ের ব্যবস্থাপনা বেঙ্গল অ্যান্ড নর্থ ওয়েস্টার্ন রেলওয়ের হাতে দেওয়া হচ্ছে অর্থনীতি ও দক্ষতা নিশ্চিত করার জন্য; লাভ সরকার ও কোম্পানির নিজ নিজ মূলধনের অনুপাতে ভাগ হবে।",
+      "related_banking_power_records": [
+        "south-indian-railway-purchase-borrowing-authority-1890",
+        "delhi-umballa-kalka-railway-concession-1889",
+        "british-government-railway-company-onlending-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / railway institutional control / public-private finance",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Government-owned railway management and profit-sharing layer"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9237,7 +9268,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the South Indian Railway borrowing authority and the deployed 1890 exchange-rate records.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the deployed railway purchase, exchange-rate, Council-bill, and Tirhoot management layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10651,6 +10682,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 138,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v75": {
+    "status": "Completed after 1890 Tirhoot State Railway management deployment",
+    "records_audited": 144,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 139,
       "B": 5,
       "C": 0,
       "D": 0
