@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "114-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "115-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2998,6 +2998,64 @@
         "chapter_title": null,
         "research_maps": [
           "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-public-works-loan-1883-rupee",
+      "title": "India Public Works Loan, 1883: 2½ Crore Rupee Loan to Be Issued in India",
+      "date_label": "1883",
+      "historical_claim": "In April 1883 the Government of India announced that a 2½-crore-rupee public-works loan would be issued in India, following the established policy against contracting gold debt dischargeable from silver assets; the works were railways expected to earn enough return to cover the loan interest.",
+      "verification_status": "Contemporary parliamentary statement by the Under Secretary of State for India records the proposed amount, Indian issue location, policy rationale, and intended railway purpose.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1883/apr/13/indian-public-works-the-loan",
+      "bn_title": "ভারতের পাবলিক ওয়ার্কস ঋণ, ১৮৮৩: ভারতে ২.৫ কোটি রুপির ঋণ ইস্যু",
+      "bn_historical_claim": "১৮৮৩ সালের এপ্রিল মাসে ভারত সরকার ঘোষণা করে যে পাবলিক ওয়ার্কসের জন্য ২.৫ কোটি রুপির ঋণ ভারতে ইস্যু করা হবে; এই সিদ্ধান্ত ছিল রৌপ্য সম্পদ দিয়ে পরিশোধযোগ্য ঋণকে সোনাভিত্তিক ঋণে রূপান্তর না করার প্রতিষ্ঠিত নীতির সঙ্গে সামঞ্জস্যপূর্ণ।",
+      "notes": "On 13 April 1883 the Under Secretary of State for India stated that the Indian Government had announced a proposed 2½-crore-rupee public-works loan would be issued in India. He linked the decision to the policy of successive Secretaries of State and the 1878–9 Select Committee principle that it was undesirable to contract gold debts dischargeable from silver assets. In response to a question about the works, he stated they were railways expected to produce returns more than sufficient to pay the interest charged on the loan.",
+      "primary_passage": "the proposed loan of 2½ crores of rupees for public works will be issued in India",
+      "passage_locator": "Hansard, House of Commons, 13 April 1883, vol. 278, cols. 195–196; 'Indian Public Works—The Loan.'",
+      "passage_status": "Passage locked — contemporary parliamentary statement gives the proposed loan amount, issue location, policy rationale, and railway purpose.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1883/apr/13/indian-public-works-the-loan",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, statement by Mr. J. K. Cross, Under Secretary of State for India, 13 April 1883, concerning the proposed Indian Public Works loan.",
+      "edition": "Hansard, House of Commons, 13 April 1883, vol. 278, cols. 195–196.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1883,
+      "what_passage_establishes": "The passage establishes that the proposed 2½-crore-rupee public-works loan was to be issued in India and that this followed a deliberate policy against creating gold debt dischargeable from silver assets. The same exchange identifies the works as railways expected to generate returns sufficient to cover the loan interest.",
+      "evidence_limits": "The passage records an announced/proposed loan rather than independently proving final subscription, allotment, issue price, coupon, maturity, or subscriber identities. It does not establish that every public-works loan followed this policy or that the proposed amount was ultimately issued in exactly the stated form.",
+      "related_banking_power_records": [
+        "india-public-works-loan-1881",
+        "india-public-works-borrowing-india-1875",
+        "india-state-railways-public-works-loans-1872"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 13 April 1883, vol. 278, cols. 195–196."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary statement directly records the announced Indian rupee loan and its financing-policy rationale; final issue terms remain a separate verification target.",
+      "year": 1883,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1883
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "public_works_finance",
+          "state_borrowing",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
           "global_power_network"
         ]
       }
@@ -7747,7 +7805,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1883 primary evidence, avoiding duplicate coverage of the 1882 Southern Maratta Railway concession.",
+  "next_priority": "Continue chronologically with the strongest distinct 1884 primary evidence, avoiding duplicate coverage of the 1883 India Public Works rupee-loan announcement.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8143,6 +8201,44 @@
       },
       "global_power_network": {
         "records": 90
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v45": {
+    "status": "Completed after 1883 India Public Works rupee-loan deployment",
+    "records_audited": 115,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 110,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v21": {
+    "status": "Reconciled after 1883 India Public Works rupee-loan deployment",
+    "records_mapped": 115,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 49
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 58
+      },
+      "global_power_network": {
+        "records": 91
       }
     }
   }
