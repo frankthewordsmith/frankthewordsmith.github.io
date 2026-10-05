@@ -34,7 +34,14 @@
         "J.G. van Dillen, Bronnen tot de geschiedenis der wisselbanken, 1925."
       ],
       "publication_status": "A-grade — exact ordinance passage and printed p. 283 documentary locator locked; original 1609 municipal ordinance remains an archival desideratum.",
-      "year": 1609
+      "year": 1609,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_1",
+        "part_label": "Book 1 — Part I: Early institutional foundations",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1609
+      }
     },
     {
       "source_id": "stockholms-banco-1656",
@@ -70,7 +77,14 @@
       ],
       "publication_status": "A-grade — direct royal privilege text securely identified in an authoritative documentary legal compilation; original 1656 manuscript/charter scan remains an archival desideratum.",
       "passage": "Vårt egne inländske kopparmynt skall förmodeligen därigenom till dess rätta och skälige valor kunna bringas, och här emot allt egenvilligt och obilligt stegrande av främmande mynt märkeligen studsa och hindrat bliva.",
-      "year": 1656
+      "year": 1656,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_1",
+        "part_label": "Book 1 — Part I: Early institutional foundations",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1656
+      }
     },
     {
       "source_id": "riksbank-1668",
@@ -105,7 +119,14 @@
         "Sveriges Riksbank, “1668 - Sveriges Riksbank is founded,” historical timeline, documenting the establishment of Riksens Ständers Bank from the remains of Stockholms Banco."
       ],
       "publication_status": "A-grade — exact royal authorization passage and printed pp. 3–6 locator locked in the primary historical document; original archival manuscript remains a desirable supplementary check.",
-      "year": 1668
+      "year": 1668,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_1",
+        "part_label": "Book 1 — Part I: Early institutional foundations",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1668
+      }
     },
     {
       "source_id": "boe-1694",
@@ -142,7 +163,14 @@
         "Richard Roberts and David Kynaston (eds.), *The Bank of England: Money, Power and Influence 1694–1994* (Oxford University Press, 1995).",
         "John Clapham, *The Bank of England: A History*, Vol. I (Cambridge University Press, 1944)."
       ],
-      "year": 1694
+      "year": 1694,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_1",
+        "part_label": "Book 1 — Part I: Early institutional foundations",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1694
+      }
     },
     {
       "source_id": "bank-scotland-1695",
@@ -178,7 +206,14 @@
         "William Robert Scott, *The Constitution and Finance of English, Scottish and Irish Joint-Stock Companies to 1720*, Vol. III: Water Supply, Postal, Street-lighting, Manufacturing, Banking, Finance and Insurance Companies (Cambridge University Press, 1911), especially pp. 347–351.",
         "Michael McDiarmid, “The Equivalent Societies of Edinburgh and London, the Formation of the Royal Bank of Scotland, and the Nature of the Scottish Financial Revolution,” *Journal of British Studies* (2021), DOI 10.1017/jbr.2020.185."
       ],
-      "year": 1695
+      "year": 1695,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_1",
+        "part_label": "Book 1 — Part I: Early institutional foundations",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1695
+      }
     },
     {
       "source_id": "south-sea-bubble-1720",
@@ -212,7 +247,14 @@
         "Helen J. Paul, The South Sea Bubble: An Economic History of Its Origins and Consequences (Routledge, 2011)."
       ],
       "publication_status": "A-grade — contemporary company proposal digitized; exact proposal passage identified.",
-      "year": 1720
+      "year": 1720,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_1",
+        "part_label": "Book 1 — Part I: Early institutional foundations",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1720
+      }
     },
     {
       "source_id": "first-bank-us-1791",
@@ -247,7 +289,14 @@
         "Bray Hammond, *Banks and Politics in America from the Revolution to the Civil War* (Princeton University Press, 1957).",
         "Robert E. Wright and David J. Cowen, *Financial Founding Fathers: The Men Who Made America Rich* (University of Chicago Press, 2006)."
       ],
-      "year": 1791
+      "year": 1791,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1791
+      }
     },
     {
       "source_id": "banque-france-1800",
@@ -282,7 +331,14 @@
         "Banque de France, “The history of the Banque de France,” institutional history, section “1800–1806: La Banque de France devient une institution publique.”"
       ],
       "publication_status": "A-grade — primary founding text reproduced by official archival authority and independently corroborated by Banque de France; direct facsimile of the original manuscript/printed statute remains desirable but is not required for this narrowly bounded claim.",
-      "year": 1800
+      "year": 1800,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1800
+      }
     },
     {
       "source_id": "banque-france-1806",
@@ -317,7 +373,14 @@
         "Banque de France, “The history of the Banque de France,” institutional history, section “1800–1806,” documenting the post-1805 statutory change to a Governor and two Deputy Governors."
       ],
       "publication_status": "A-grade — exact Article 10 wording locked to the contemporary printed law, p. 14, with Article 12 corroborating the appointment power.",
-      "year": 1806
+      "year": 1806,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1806
+      }
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -352,7 +415,14 @@
         "The Rothschild Archive, historical documentation of Nathan Mayer Rothschild's 1814–1815 Waterloo Commission and bullion supply to Wellington."
       ],
       "publication_status": "A-grade — exact memorandum passage locked to British Library Add MS 57383, ff. 65–66; archival primary-document locator verified.",
-      "year": 1814
+      "year": 1814,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1814
+      }
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
@@ -386,7 +456,14 @@
         "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999), discussion of the Rothschild family's European sovereign-bond business and Prussian finance."
       ],
       "publication_status": "A-grade — contemporary autograph letter and exact Christie’s lot 6247795 publication-grade locator verified; catalog reproduces the relevant passage and identifies the 1818 Prussian loan.",
-      "year": 1818
+      "year": 1818,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1818
+      }
     },
     {
       "source_id": "bank-of-england-crisis-1825",
@@ -420,7 +497,14 @@
         "Richard Roberts, *The Bank of England: Money, Power and Influence 1694–1994* (Oxford University Press, 1995), discussion of nineteenth-century crises and the Bank's evolving role.",
         "Michael Collins, *Banks and Industrial Finance in Britain, 1800–1939* (Macmillan, 1991), discussion of British banking structure and nineteenth-century crises."
       ],
-      "year": 1825
+      "year": 1825,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1825
+      }
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -456,7 +540,14 @@
         "Iain Frame, “Between the ‘Bank Screw’ and ‘Affording Assistance’: Rules, Standards, and the Bank Charter Act of 1844,” *The Modern Law Review* 83 (2020), 64–90, DOI 10.1111/1468-2230.12467.",
         "Dieter Ziegler, “Die Peelsche Bankakte und die Stabilität der Finanzmärkte in England, 1844–1890,” *Rechtsgeschichte – Legal History* 28 (2020), 183–198, DOI 10.12946/rg28/183-198."
       ],
-      "year": 1844
+      "year": 1844,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1844
+      }
     },
     {
       "source_id": "banque-france-note-monopoly-1848",
@@ -490,7 +581,14 @@
         "Marc Flandreau, “Les règles de la pratique. La Banque de France, le marché des métaux précieux et la naissance de l'étalon-or 1848–1876,” *Annales. Histoire, Sciences Sociales* 51, no. 4 (1996), 849–872, DOI 10.3406/ahess.1996.410891.",
         "Patrice Baubeau, “The Bank of France's balance sheets database, 1840–1998: an introduction to 158 years of central banking,” *Financial History Review* (2018), discussion of the Bank's changing legal status and nineteenth-century institutional development."
       ],
-      "year": 1848
+      "year": 1848,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1848
+      }
     },
     {
       "source_id": "overend-gurney-crisis-1866",
@@ -526,7 +624,14 @@
         "Sabine Schneider, “The politics of last resort lending and the Overend & Gurney crisis of 1866,” *The Economic History Review* 75 (2022), 579–600, DOI 10.1111/ehr.13113.",
         "Marc Flandreau and Stefano Ugolini, “The Crisis of 1866,” in Nicholas Dimsdale and Anthony Hotson (eds.), *British Financial Crises since 1825* (Oxford University Press, 2014), pp. 76–93."
       ],
-      "year": 1866
+      "year": 1866,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1866
+      }
     },
     {
       "source_id": "panic-1873",
@@ -562,7 +667,14 @@
         "Charles P. Kindleberger, *Manias, Panics, and Crashes: A History of Financial Crises* (Wiley, later editions), discussion of the 1873 crisis.",
         "Michael D. Bordo, “The Lender of Last Resort: Alternative Views and Historical Experience,” Federal Reserve Bank of Richmond *Economic Review* 84 (1998), historical discussion of nineteenth-century banking crises."
       ],
-      "year": 1873
+      "year": 1873,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1873
+      }
     },
     {
       "source_id": "bank-japan-1882",
@@ -596,7 +708,14 @@
         "Bank of Japan Centennial Committee (ed.), *Nippon Ginkō Hyakunenshi* (One Hundred Year History of the Bank of Japan), Vol. 1 (Tokyo: Bank of Japan, 1982).",
         "William G. Beasley, *The Meiji Restoration* (Stanford University Press, 1972), background on the monetary and institutional reforms surrounding the establishment of the Bank of Japan."
       ],
-      "year": 1882
+      "year": 1882,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1882
+      }
     },
     {
       "source_id": "baring-crisis-1890",
@@ -632,7 +751,14 @@
         "Jan Körnert, “The Barings crises of 1890 and 1995: causes, courses, consequences and the danger of domino effects,” *Journal of International Financial Markets, Institutions and Money* 13 (2003), 187–209, DOI 10.1016/S1042-4431(02)00044-6."
       ],
       "publication_status": "A-grade — contemporary printed primary-period guarantee terms verified at The Economist, 22 November 1890, pp. 1465–1466, with Bank of England archival provenance independently corroborating the underlying Guarantee Fund record.",
-      "year": 1890
+      "year": 1890,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1890
+      }
     },
     {
       "source_id": "panic-1907",
@@ -669,7 +795,14 @@
         "Ellis W. Tallman, “The Panic of 1907,” Federal Reserve Bank of Cleveland Working Paper 12-28 (2012), DOI 10.26509/frbc-wp-201228.",
         "Jon R. Moen and Ellis W. Tallman, “The Panic of 1907: The Role of the Trust Companies,” *Journal of Economic History* 60 (2000), 611–633."
       ],
-      "year": 1907
+      "year": 1907,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1907
+      }
     },
     {
       "source_id": "jekyll-island-1910",
@@ -708,7 +841,14 @@
         "Federal Reserve Bank of Atlanta and Rutgers University, *A Return to Jekyll Island: The Origins, History, and Future of the Federal Reserve* (2010 conference proceedings)."
       ],
       "publication_status": "B-grade — meeting is strongly corroborated by Federal Reserve institutional histories and participant recollections, but no contemporaneous 1910 meeting record has been located that meets the project’s A-grade direct-primary standard.",
-      "year": 1910
+      "year": 1910,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1910
+      }
     },
     {
       "source_id": "federal-reserve-act-1913",
@@ -744,7 +884,14 @@
         "Allan H. Meltzer, *A History of the Federal Reserve, Volume 1: 1913–1951* (University of Chicago Press, 2003).",
         "Federal Reserve Bank of St. Louis, FRASER historical materials on the Federal Reserve Act and its legislative origins."
       ],
-      "year": 1913
+      "year": 1913,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1913
+      }
     },
     {
       "source_id": "wwi-central-bank-war-finance-1914",
@@ -779,7 +926,14 @@
         "G. C. Peden, “The First World War, 1914–1919,” in *The Treasury and British Public Policy, 1906–1959* (Oxford University Press, 2000), pp. 73–127, DOI 10.1093/acprof:oso/9780198207078.003.0003."
       ],
       "publication_status": "A-grade — exact Hansard date, volume, column range, and col. 374 locator verified in the official parliamentary record.",
-      "year": 1914
+      "year": 1914,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1914
+      }
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -813,7 +967,14 @@
         "James Ashley Morrison, *England's Cross of Gold: Keynes, Churchill, and the Governance of Economic Beliefs* (Cornell University Press, 2021).",
         "Barry Eichengreen, *Golden Fetters: The Gold Standard and the Great Depression, 1919–1939* (Oxford University Press, 1992)."
       ],
-      "year": 1925
+      "year": 1925,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1925
+      }
     },
     {
       "source_id": "great-depression-1929-33",
@@ -848,7 +1009,14 @@
         "Ben S. Bernanke, “Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression,” *American Economic Review* 73, no. 3 (1983), 257–276.",
         "Peter Temin, *Lessons from the Great Depression* (MIT Press, 1989)."
       ],
-      "year": 1929
+      "year": 1929,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1929
+      }
     },
     {
       "source_id": "bis-1930",
@@ -883,7 +1051,14 @@
         "Gianni Toniolo, *Central Bank Cooperation at the Bank for International Settlements, 1930–1973* (Cambridge University Press, 2005).",
         "Manley O. Hudson, “The Bank for International Settlements,” *American Journal of International Law* 24, no. 3 (1930), 561–566, DOI 10.2307/2189686."
       ],
-      "year": 1930
+      "year": 1930,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1930
+      }
     },
     {
       "source_id": "bretton-woods-1944",
@@ -918,7 +1093,14 @@
         "Benn Steil, *The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order* (Princeton University Press, 2013).",
         "Eric Helleiner, *Forgotten Foundations of Bretton Woods: International Development and the Making of the Postwar World* (Cornell University Press, 2014)."
       ],
-      "year": 1944
+      "year": 1944,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1944
+      }
     },
     {
       "source_id": "banque-france-nationalized-1945",
@@ -952,7 +1134,14 @@
         "Maxence Dutilleul, “From technical to academic central banking: The scientization of the Banque de France,” *Finance and Society* 11, no. 2 (2025), 253–277, DOI 10.1017/fas.2025.5.",
         "Banque de France, institutional history of the 1945 nationalization and subsequent statutory transformation."
       ],
-      "year": 1945
+      "year": 1945,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1945
+      }
     },
     {
       "source_id": "bank-of-england-nationalized-1946",
@@ -986,7 +1175,14 @@
         "John Singleton, *Central Banking in the Twentieth Century* (Cambridge University Press, 2011), discussion of the Bank of England's postwar institutional transformation.",
         "Forrest Capie, *The Bank of England: 1951–1979* (Cambridge University Press, 2010), background on the post-nationalization Bank."
       ],
-      "year": 1946
+      "year": 1946,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1946
+      }
     },
     {
       "source_id": "nixon-gold-window-1971",
@@ -1022,7 +1218,14 @@
         "Barry Eichengreen, *Exorbitant Privilege: The Rise and Fall of the Dollar and the Future of the International Monetary System* (Oxford University Press, 2011).",
         "Michael D. Bordo, “The Bretton Woods International Monetary System: A Historical Overview,” in *A Retrospective on the Bretton Woods System* (University of Chicago Press, 1993)."
       ],
-      "year": 1971
+      "year": 1971,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1971
+      }
     },
     {
       "source_id": "basel-committee-1974",
@@ -1056,7 +1259,14 @@
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011), ch. 2 and ch. 4.",
         "Bank for International Settlements, History of the Basel Committee and its Membership (March 2001)."
       ],
-      "year": 1974
+      "year": 1974,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1974
+      }
     },
     {
       "source_id": "plaza-accord-1985",
@@ -1091,7 +1301,14 @@
         "C. Fred Bergsten and Russell A. Green (eds.), *International Monetary Cooperation: Lessons from the Plaza Accord after Thirty Years* (Peterson Institute for International Economics, 2016).",
         "Jeffrey Frankel, “The Plaza Accord, 30 Years Later,” in *International Monetary Cooperation: Lessons from the Plaza Accord after Thirty Years* (Peterson Institute for International Economics, 2016); also NBER Working Paper 21813 (2015)."
       ],
-      "year": 1985
+      "year": 1985,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1985
+      }
     },
     {
       "source_id": "basel-capital-accord-1988",
@@ -1127,7 +1344,14 @@
         "Charles Goodhart, *The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997* (Cambridge University Press, 2011), ch. 6, “Capital adequacy and the Basel Accord of 1988.”",
         "Bank for International Settlements, Basel Committee historical materials on the 1988 Capital Accord."
       ],
-      "year": 1988
+      "year": 1988,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1988
+      }
     },
     {
       "source_id": "cpss-established-1990",
@@ -1161,7 +1385,14 @@
         "Bank for International Settlements, *History of the Basel Committee and its Membership* (2001), for the broader development of BIS-hosted G10 committees.",
         "Bank for International Settlements, *Report of the Committee on Interbank Netting Schemes of the central banks of the Group of Ten countries* (Lamfalussy Report), November 1990."
       ],
-      "year": 1990
+      "year": 1990,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1990
+      }
     },
     {
       "source_id": "bcci-closure-1991",
@@ -1195,7 +1426,14 @@
         "Basel Committee on Banking Supervision, *The insolvency liquidation of a multinational bank* (December 1992).",
         "Thomas C. Baxter, “BCCI: The Lessons for Banking Supervision,” in *Current Legal Issues Affecting Central Banks*, Vol. IV (1997)."
       ],
-      "year": 1991
+      "year": 1991,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1991
+      }
     },
     {
       "source_id": "basel-minimum-standards-cross-border-1992",
@@ -1230,7 +1468,14 @@
         "Basel Committee on Banking Supervision, The insolvency liquidation of a multinational bank (December 1992).",
         "Basel Committee on Banking Supervision, The Supervision of Cross-Border Banking (October 1996)."
       ],
-      "year": 1992
+      "year": 1992,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1992
+      }
     },
     {
       "source_id": "basel-accord-compliance-1993",
@@ -1264,7 +1509,14 @@
         "Basel Committee on Banking Supervision, International convergence of capital measurement and capital standards (July 1988).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1993
+      "year": 1993,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1993
+      }
     },
     {
       "source_id": "derivatives-risk-management-guidelines-1994",
@@ -1298,7 +1550,14 @@
         "Basel Committee on Banking Supervision, Prudential supervision of banks' derivatives activities (December 1994).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1994
+      "year": 1994,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1994
+      }
     },
     {
       "source_id": "basel-market-risk-supplement-1995",
@@ -1333,7 +1592,14 @@
         "Basel Committee on Banking Supervision, Overview of the Amendment to the Capital Accord to incorporate market risks (January 1996).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1995
+      "year": 1995,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1995
+      }
     },
     {
       "source_id": "basel-market-risk-amendment-1996",
@@ -1368,7 +1634,14 @@
         "Basel Committee on Banking Supervision, Overview of the Amendment to the Capital Accord to incorporate market risks (January 1996).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1996
+      "year": 1996,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1996
+      }
     },
     {
       "source_id": "basel-core-principles-1997",
@@ -1403,7 +1676,14 @@
         "Basel Committee on Banking Supervision, Core principles for effective banking supervision (September 1997).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1997
+      "year": 1997,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1997
+      }
     },
     {
       "source_id": "asian-crisis-1997",
@@ -1437,7 +1717,14 @@
         "Giancarlo Corsetti, Paolo Pesenti and Nouriel Roubini, “What Caused the Asian Currency and Financial Crisis?” *Japan and the World Economy* 11 (1999), 305–373.",
         "International Monetary Fund, *The Asian Crisis: Causes and Cures* (Finance & Development, June 1998)."
       ],
-      "year": 1997
+      "year": 1997,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1997
+      }
     },
     {
       "source_id": "basel-internal-controls-framework-1998",
@@ -1471,7 +1758,14 @@
         "Basel Committee on Banking Supervision, Framework for Internal Control Systems in Banking Organisations (September 1998).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1998
+      "year": 1998,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1998
+      }
     },
     {
       "source_id": "ecb-established-1998",
@@ -1505,7 +1799,14 @@
         "David Howarth and Peter Loedel, *The European Central Bank: The New European Leviathan?* (Palgrave Macmillan, 2003).",
         "European Central Bank, “The European Central Bank (1998-present),” historical archives and institutional history, documenting the ECB's establishment on 1 June 1998."
       ],
-      "year": 1998
+      "year": 1998,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1998
+      }
     },
     {
       "source_id": "basel-new-capital-adequacy-framework-1999",
@@ -1539,7 +1840,14 @@
         "Basel Committee on Banking Supervision, A new capital adequacy framework (June 1999).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 1999
+      "year": 1999,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1999
+      }
     },
     {
       "source_id": "basel-liquidity-sound-practices-2000",
@@ -1573,7 +1881,14 @@
         "Basel Committee on Banking Supervision, Sound Practices for Managing Liquidity in Banking Organisations (February 2000).",
         "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
       ],
-      "year": 2000
+      "year": 2000,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2000
+      }
     },
     {
       "source_id": "basel-new-capital-accord-2001",
@@ -1607,7 +1922,14 @@
         "Basel Committee on Banking Supervision, The New Basel Capital Accord (January 2001).",
         "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework (June 2004)."
       ],
-      "year": 2001
+      "year": 2001,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2001
+      }
     },
     {
       "source_id": "basel-weak-banks-guidance-2002",
@@ -1640,7 +1962,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Supervisory Guidance on Dealing with Weak Banks (March 2002)."
       ],
-      "year": 2002
+      "year": 2002,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2002
+      }
     },
     {
       "source_id": "basel-operational-risk-sound-practices-2003",
@@ -1673,7 +2002,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Sound Practices for the Management and Supervision of Operational Risk (February 2003)."
       ],
-      "year": 2003
+      "year": 2003,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2003
+      }
     },
     {
       "source_id": "basel-ii-revised-framework-2004",
@@ -1707,7 +2043,14 @@
         "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework (June 2004).",
         "Basel Committee on Banking Supervision, The Basel Committee's response to the financial crisis and the future of banking regulation (later institutional history)."
       ],
-      "year": 2004
+      "year": 2004,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2004
+      }
     },
     {
       "source_id": "basel-trading-double-default-2005",
@@ -1740,7 +2083,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision and IOSCO, The Application of Basel II to Trading Activities and the Treatment of Double Default Effects (July 2005)."
       ],
-      "year": 2005
+      "year": 2005,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2005
+      }
     },
     {
       "source_id": "basel-ii-comprehensive-framework-2006",
@@ -1773,7 +2123,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework — Comprehensive Version (June 2006)."
       ],
-      "year": 2006
+      "year": 2006,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2006
+      }
     },
     {
       "source_id": "basel-ama-home-host-cooperation-2007",
@@ -1806,7 +2163,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Principles for home-host supervisory cooperation and allocation mechanisms in the context of Advanced Measurement Approaches (AMA) (November 2007)."
       ],
-      "year": 2007
+      "year": 2007,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2007
+      }
     },
     {
       "source_id": "basel-liquidity-principles-2008",
@@ -1839,7 +2203,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Principles for Sound Liquidity Risk Management and Supervision (September 2008)."
       ],
-      "year": 2008
+      "year": 2008,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2008
+      }
     },
     {
       "source_id": "global-financial-crisis-2008",
@@ -1875,7 +2246,14 @@
         "Eric Helleiner, “Understanding the 2007–2008 Global Financial Crisis: Lessons for Scholars of International Political Economy,” *Annual Review of Political Science* 14 (2011), 67–87.",
         "Youssef Cassis, “The Global Financial Crisis of 2008: Memory, History, Legacy,” in *History, Memory, and the Return of Financial Crises after Bretton Woods* (Oxford University Press, 2026), pp. 214–229."
       ],
-      "year": 2008
+      "year": 2008,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2008
+      }
     },
     {
       "source_id": "basel-stress-testing-principles-2009",
@@ -1907,7 +2285,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Principles for Sound Stress Testing Practices and Supervision (May 2009)."
       ],
-      "year": 2009
+      "year": 2009,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2009
+      }
     },
     {
       "source_id": "basel-iii-global-regulatory-framework-2010",
@@ -1939,7 +2324,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Basel III: A global regulatory framework for more resilient banks and banking systems (December 2010)."
       ],
-      "year": 2010
+      "year": 2010,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2010
+      }
     },
     {
       "source_id": "basel-gsib-framework-2011",
@@ -1971,7 +2363,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Global systemically important banks: Assessment methodology and the additional loss absorbency requirement (November 2011)."
       ],
-      "year": 2011
+      "year": 2011,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2011
+      }
     },
     {
       "source_id": "basel-core-principles-revised-2012",
@@ -2004,7 +2403,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Core Principles for Effective Banking Supervision (September 2012)."
       ],
-      "year": 2012
+      "year": 2012,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2012
+      }
     },
     {
       "source_id": "basel-risk-data-aggregation-2013",
@@ -2037,7 +2443,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Principles for effective risk data aggregation and risk reporting (January 2013), BCBS 239."
       ],
-      "year": 2013
+      "year": 2013,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2013
+      }
     },
     {
       "source_id": "basel-standardised-counterparty-credit-risk-2014",
@@ -2070,7 +2483,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, The standardised approach for measuring counterparty credit risk exposures (March 2014), BCBS 279."
       ],
-      "year": 2014
+      "year": 2014,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2014
+      }
     },
     {
       "source_id": "basel-corporate-governance-principles-2015",
@@ -2103,7 +2523,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Corporate governance principles for banks (July 2015)."
       ],
-      "year": 2015
+      "year": 2015,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2015
+      }
     },
     {
       "source_id": "basel-tlac-holdings-standard-2016",
@@ -2136,7 +2563,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, TLAC holdings standard (October 2016)."
       ],
-      "year": 2016
+      "year": 2016,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2016
+      }
     },
     {
       "source_id": "basel-iii-finalising-post-crisis-reforms-2017",
@@ -2169,7 +2603,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Basel III: Finalising post-crisis reforms (December 2017)."
       ],
-      "year": 2017
+      "year": 2017,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2017
+      }
     },
     {
       "source_id": "basel-stress-testing-principles-2018",
@@ -2202,7 +2643,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Stress testing principles (October 2018)."
       ],
-      "year": 2018
+      "year": 2018,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2018
+      }
     },
     {
       "source_id": "basel-minimum-capital-market-risk-2019",
@@ -2235,7 +2683,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Minimum capital requirements for market risk (January 2019)."
       ],
-      "year": 2019
+      "year": 2019,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2019
+      }
     },
     {
       "source_id": "basel-cva-targeted-revisions-2020",
@@ -2268,7 +2723,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Targeted revisions to the credit valuation adjustment risk framework (July 2020)."
       ],
-      "year": 2020
+      "year": 2020,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2020
+      }
     },
     {
       "source_id": "basel-operational-resilience-principles-2021",
@@ -2301,7 +2763,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Principles for operational resilience (March 2021)."
       ],
-      "year": 2021
+      "year": 2021,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2021
+      }
     },
     {
       "source_id": "basel-proportionality-considerations-2022",
@@ -2334,7 +2803,14 @@
         "Basel Committee on Banking Supervision, High-level considerations on proportionality (July 2022)."
       ],
       "bn_historical_claim": "৭ জুলাই ২০২২ সালে Basel Committee proportionality বিষয়ে উচ্চস্তরের বিবেচনা প্রকাশ করে। এর লক্ষ্য ছিল supervisory authorities-কে এমন proportionate domestic regulatory ও supervisory framework বাস্তবায়নে সহায়তা করা, যা financial stability বা financial institutions-এর safety ক্ষুণ্ন না করে।",
-      "year": 2022
+      "year": 2022,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2022
+      }
     },
     {
       "source_id": "basel-final-technical-amendments-2023",
@@ -2367,7 +2843,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Finalisation of various technical amendments (2023)."
       ],
-      "year": 2023
+      "year": 2023,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2023
+      }
     },
     {
       "source_id": "basel-core-principles-revised-2024",
@@ -2400,7 +2883,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Core Principles for effective banking supervision (April 2024)."
       ],
-      "year": 2024
+      "year": 2024,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2024
+      }
     },
     {
       "source_id": "bcbs-iosco-margin-implementation-review-2025",
@@ -2433,7 +2923,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision and IOSCO, Review of the implementation of margin requirements for non-centrally cleared derivatives (December 2025)."
       ],
-      "year": 2025
+      "year": 2025,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2025
+      }
     },
     {
       "source_id": "basel-final-technical-amendment-operational-risk-2026",
@@ -2466,7 +2963,14 @@
       "scholarly_references": [
         "Basel Committee on Banking Supervision, Finalisation of technical amendment and frequently asked questions (March 2026)."
       ],
-      "year": 2026
+      "year": 2026,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 2026
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -2502,5 +3006,49 @@
       "D": 0
     },
     "finding": "No duplicate IDs or primary passages; all 72 records now carry explicit year metadata. Publication-status text remains record-specific and was not mass-filled without source-level verification."
+  },
+  "book_1_integration_2026_10_05": {
+    "status": "Provisional evidence-to-Book-1 integration completed",
+    "records_integrated": 72,
+    "chapter_assignments": "Intentionally deferred until the user's final chapter-wise research structure is established",
+    "principle": "Chronological evidence is preserved; no chapter numbers or chapter titles have been invented.",
+    "parts": [
+      {
+        "part": "part_1",
+        "label": "Book 1 — Part I: Early institutional foundations",
+        "records": 6,
+        "year_range": [
+          1609,
+          1790
+        ]
+      },
+      {
+        "part": "part_2",
+        "label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "records": 15,
+        "year_range": [
+          1791,
+          1913
+        ]
+      },
+      {
+        "part": "part_3",
+        "label": "Book 1 — Part III: War finance, monetary transition and international institutions",
+        "records": 7,
+        "year_range": [
+          1914,
+          1970
+        ]
+      },
+      {
+        "part": "part_4",
+        "label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "records": 44,
+        "year_range": [
+          1971,
+          2026
+        ]
+      }
+    ]
   }
 }
