@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "127-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "128-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3731,6 +3731,60 @@
         "chapter_title": null,
         "research_maps": [
           "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-currency-commission-report-exchange-1888",
+      "title": "Indian Currency Commission Report, 1888: European Employees' Remittance Loss from Falling Exchange",
+      "date_label": "1888",
+      "year": 1888,
+      "evidence_grade": "A",
+      "historical_claim": "The 1888 Currency Commission concluded that European employees of the Government of India could suffer a loss on remittances to Europe because the fall in silver had not been matched by equivalent declines in many relevant gold-priced retail costs.",
+      "verification_status": "Verified through the contemporary parliamentary quotation of the Commission's report, with the complete contextual passage supplied by the Under Secretary of State for India.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1888/nov/16/the-currency-commission-the-report-fall",
+      "bn_title": "ভারতীয় মুদ্রা কমিশনের প্রতিবেদন, ১৮৮৮: বিনিময়পতনে ইউরোপীয় কর্মচারীদের রেমিট্যান্স ক্ষতি",
+      "bn_historical_claim": "১৮৮৮ সালের মুদ্রা কমিশন মত দেয় যে ভারত সরকারের ইউরোপীয় কর্মচারীরা ইউরোপে অর্থ পাঠানোর ক্ষেত্রে ক্ষতির সম্মুখীন হতে পারেন, কারণ রুপির পতনের সঙ্গে সংশ্লিষ্ট অনেক খুচরা ব্যয়ের সোনামূল্যের সমান পতন ঘটেনি।",
+      "notes": "This record captures a distinct institutional monetary-policy layer: the Currency Commission's treatment of exchange-rate effects on government employees and the Government's response. It does not establish that all European employees suffered the same loss, nor that the Commission recommended a specific compensation scheme. The Under Secretary expressly rejected an isolated reading of the quoted sentence and supplied the full context.",
+      "primary_passage": "So far as their incomes are spent in India, or are devoted to the purchase of commodities the gold price of which has fallen as much as that of silver, they do not sustain any loss. But on a large proportion of their remittances to Europe they derive no benefit from the fall of gold prices, as the fall has affected wholesale more than retail prices, and has not affected at all many of the prices in which they are interested.",
+      "passage_locator": "House of Commons, Hansard, 16 November 1888, vol. 330, cols. 1381–1382, 'The Currency Commission—The Report—Fall in Exchange'.",
+      "passage_status": "Passage locked — full contextual quotation of the Commission's report reproduced in the official parliamentary record.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Royal Commission on Gold and Silver / Indian currency evidence as quoted by Sir John Gorst, Under Secretary of State for India, in Parliament.",
+      "edition": "Hansard, House of Commons, 16 November 1888, vol. 330, cols. 1381–1382.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1888,
+      "what_passage_establishes": "The passage establishes the Commission's nuanced finding that exchange depreciation did not necessarily create a loss on Indian consumption, but could create a loss on substantial remittances to Europe because relevant prices had not fallen proportionately.",
+      "evidence_limits": "The Hansard record quotes the Commission rather than reproducing its full report. It does not establish a universal loss for all employees or a final Government compensation policy.",
+      "related_banking_power_records": [
+        "india-rupee-gold-exchange-currency-commission-1887",
+        "india-rupee-exchange-fiscal-burden-1888"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 16 November 1888, vol. 330, cols. 1381–1382.",
+        "Hansard, House of Commons, 4 June 1889, Bi-metallism, discussing the Currency Commission's findings."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary reproduction of the Commission's contextual finding; source limitations explicitly stated.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1888
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
           "global_power_network"
         ]
       }
@@ -8483,7 +8537,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically through 1888, prioritizing the strongest distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed Oude-Rohilkund financing and rupee-exchange burden records.",
+  "next_priority": "Continue chronologically through 1888, prioritizing the strongest distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed railway financing, rupee-exchange burden, and Currency Commission employee-remittance records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9373,6 +9427,44 @@
       },
       "global_power_network": {
         "records": 102
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v58": {
+    "status": "Completed after 1888 Currency Commission report deployment",
+    "records_audited": 128,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 123,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v34": {
+    "status": "Reconciled after 1888 Currency Commission report deployment",
+    "records_mapped": 128,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 59
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 65
+      },
+      "global_power_network": {
+        "records": 103
       }
     }
   }
