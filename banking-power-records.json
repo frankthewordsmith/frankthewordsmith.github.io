@@ -657,6 +657,65 @@
       "deployment_note": "Added after primary-source passage and archival locator review; this record does not claim that Rothschild ultimately issued the loan."
     },
     {
+      "source_id": "baring-buenos-aires-loan-1824",
+      "title": "Baring Brothers and the Buenos Aires Loan, 1824",
+      "date_label": "1824",
+      "historical_claim": "Baring Brothers participated in arranging and administering the 1824 Buenos Aires government loan, including an agreement covering the issue, commissions, and administration of the sinking fund and dividends.",
+      "verification_status": "Contemporary Baring correspondence and loan agreement are identified in the Baring Archive HC4.1 series; the exact contemporary letter wording is independently reproduced in published historical scholarship.",
+      "evidence_grade": "B",
+      "source_url": "https://baringarchive.org.uk/the-archives/house-correspondence/hc4-latin-america-and-metropolitan-spain/",
+      "bn_title": "বারিং ব্রাদার্স ও বুয়েনস আইরেস ঋণ, ১৮২৪",
+      "bn_historical_claim": "১৮২৪ সালের বুয়েনস আইরেস সরকারি ঋণের ব্যবস্থা ও প্রশাসনে বারিং ব্রাদার্স অংশ নিয়েছিল; এতে ইস্যু, কমিশন এবং sinking fund ও লভ্যাংশ পরিচালনার ব্যবস্থাও অন্তর্ভুক্ত ছিল।",
+      "notes": "The Baring Archive identifies the 1824 Buenos Aires loan and its subsequent default/rescheduling in HC4.1.13-15 and states that the Argentina series has been digitised. A contemporary 25 June 1824 letter from J. P. Robertson and Félix Castro to Barings, and a 26 July 1824 agreement between Baring Brothers, Robertson and Castro, are identified in the scholarly documentary apparatus. The contemporary letter's wording is not yet transcribed directly from the digitized Baring scan, so the record remains Grade B pending direct scan verification.",
+      "primary_passage": "the annual amount of the Sinking Fund and Dividends, which will be both administered by you",
+      "passage_locator": "J. P. Robertson and Félix Castro to Baring Brothers, 25 June 1824; related Agreement between Baring Bros., John Parish Robertson and Félix Castro, 26 July 1824; Baring Archive HC4.1.13-15. Contemporary wording independently reproduced in historical scholarship.",
+      "passage_status": "Provisional passage — exact wording identified in published documentary discussion, but direct transcription from the digitized Baring Archive scan remains pending.",
+      "passage_source_url": "https://baring.access.preservica.com/",
+      "passage_type": "archival-primary-document",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Baring Brothers correspondence and agreement concerning the Buenos Aires government loan of 1824; Baring Archive HC4.1.13-15.",
+      "edition": "Original Baring correspondence and loan agreement, June-July 1824; Baring Archive HC4.1.13-15.",
+      "publisher": "Baring Archive",
+      "publication_year": 1824,
+      "what_passage_establishes": "The identified contemporary documentation establishes Barings' contractual/administrative role in the 1824 Buenos Aires loan, including administration of the sinking fund and dividends.",
+      "evidence_limits": "The record does not establish that Barings alone originated or financed the entire loan, nor does it establish later Argentine debt outcomes. Direct scan transcription is still required before upgrading the passage to locked A-grade evidence.",
+      "related_banking_power_records": [
+        "baring-mexican-debt-agency-1829",
+        "baring-crisis-1890"
+      ],
+      "scholarly_references": [
+        "The Baring Archive, HC4 Latin America and Metropolitan Spain, Argentina and Buenos Aires HC4.1.",
+        "H. E. Peters, The Foreign Debt of the Argentine Republic, pp. 12-13.",
+        "Harold E. Ferns, Britain and Argentina in the Nineteenth Century, discussion of the 1824 loan."
+      ],
+      "publication_status": "B-grade — contemporary archival correspondence/agreement identified and digitized series confirmed; direct scan transcription remains the upgrade requirement.",
+      "year": 1824,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1824
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Added as a deliberately qualified sovereign-debt record. Upgrade to A only after direct transcription and locator verification from the digitized Baring scan."
+    },
+    {
       "source_id": "bank-of-england-crisis-1825",
       "title": "Financial crisis of 1825–1826 and Bank of England branches",
       "date_label": "1825–1826",
@@ -5011,5 +5070,52 @@
       "D": 0
     },
     "finding": "The 74-record ledger was reordered by explicit numeric year after the two newly deployed nineteenth-century records exposed an append-order issue. No evidence records were altered."
+  },
+  "sovereign_debt_expansion_2026_10_05": {
+    "status": "1824 Buenos Aires Baring evidence deployed as qualified candidate",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "baring-buenos-aires-loan-1824"
+    ],
+    "next_upgrade": "Direct scan transcription from the digitized HC4.1 record before A-grade upgrade",
+    "next_priority": "Continue with the strongest remaining sovereign-debt primary-source candidate after this upgrade path is checked."
+  },
+  "structural_audit_2026_10_05_v4": {
+    "status": "Completed after 1824 sovereign-debt deployment",
+    "records_audited": 75,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": "verified",
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 73,
+      "B": 2,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v3": {
+    "status": "Reconciled after 1824 sovereign-debt deployment",
+    "records_mapped": 75,
+    "maps": {
+      "central_banks": {
+        "records": 54
+      },
+      "banking_dynasties": {
+        "records": 6
+      },
+      "sovereign_debt": {
+        "records": 9
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 51
+      }
+    }
   }
 }
