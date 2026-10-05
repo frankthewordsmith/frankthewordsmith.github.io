@@ -662,7 +662,7 @@
       "source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
       "bn_title": "জেকিল আইল্যান্ড বৈঠক, ১৯১০",
       "bn_historical_claim": "১৯১০ সালের নভেম্বরে ছয়জন আর্থিক ও রাজনৈতিক ব্যক্তি জেকিল আইল্যান্ডে ব্যাংকিং সংস্কারের একটি পরিকল্পনা তৈরির জন্য বৈঠক করেন; সেই পরিকল্পনা পরবর্তী ফেডারেল রিজার্ভ ব্যবস্থার ভিত্তি গঠনে ভূমিকা রাখে।",
-      "notes": "Reaudited against Federal Reserve History's documentary review. Paul Warburg's 1930 account independently states that in November 1910 he was invited by Senator Aldrich to a several-days conference on the form of a new banking bill and that the rough draft of the later Aldrich Bill was agreed upon. This corroborates Vanderlip's participant recollection, but both are retrospective accounts; the audit did not locate a contemporaneous 1910 meeting document sufficient for Grade A.",
+      "notes": "Reaudited against Federal Reserve History and the Library of Congress Nelson W. Aldrich Papers. Federal Reserve History confirms the November 20–30, 1910 conference and identifies the six attendees, while Warburg’s 1930 account independently describes the conference and agreement on the rough draft of the Aldrich Bill. The Library of Congress preserves digitized 1910–1911 Aldrich National Monetary Commission papers, providing a primary-source research lead, but the currently identified digitized material does not establish the Jekyll Island meeting itself with a contemporaneous meeting document. The record therefore remains B under the project’s strict direct-primary standard.",
       "primary_passage": "our secret expedition to Jekyll Island",
       "passage_locator": "Frank A. Vanderlip, Saturday Evening Post, 9 February 1935, p. 25; first-hand retrospective account of the 1910 meeting.",
       "passage_status": "Passage retained — participant retrospective accounts corroborated; direct contemporaneous meeting record remains open",
@@ -676,6 +676,10 @@
       "publication_year": "1935",
       "what_passage_establishes": "The participant accounts establish that a confidential November 1910 conference was held at Senator Aldrich's request to discuss the form of a new banking bill and that a rough draft later known as the Aldrich Bill emerged from the conference.",
       "evidence_limits": "The strongest directly quoted sources are retrospective participant accounts from 1930 and 1935 rather than contemporaneous 1910 records. They securely corroborate the meeting and its stated purpose, but do not by themselves establish every participant, date detail, or the full causal relationship to the 1913 Federal Reserve Act.",
+      "research_leads": [
+        "Library of Congress, Nelson W. Aldrich Papers: National Monetary Commission, 1908–1912; digitized 1910–1911 miscellaneous papers (box 79/reel 55 and box 80/reel 56).",
+        "Federal Reserve History, The Meeting at Jekyll Island, dated November 20–30, 1910."
+      ],
       "related_banking_power_records": [
         "panic-1907",
         "federal-reserve-act-1913"
