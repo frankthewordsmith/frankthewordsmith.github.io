@@ -1105,6 +1105,54 @@
       }
     },
     {
+      "source_id": "rothschild-baring-eight-million-loan-1847",
+      "title": "Rothschild and Baring Offers for the British Government's Eight Million Loan, 1847",
+      "date_label": "1847",
+      "historical_claim": "In March 1847, the British Government sought an £8,000,000 loan to meet extraordinary Treasury demands arising from distress in Ireland, and the Chancellor of the Exchequer stated that offers had been made by Messrs. Rothschild and Messrs. Baring.",
+      "verification_status": "Contemporary House of Commons record directly identifies the £8,000,000 government loan and the two named banking houses that made offers.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1847-03-01/debates/767d4cdb-f741-4dd4-be24-33768b2fdfb7/CommonsChamber",
+      "bn_title": "১৮৪৭ সালের আট মিলিয়ন পাউন্ড ঋণে রথসচাইল্ড ও বারিং-এর প্রস্তাব",
+      "bn_historical_claim": "১৮৪৭ সালের মার্চে আয়ারল্যান্ডের সংকটজনিত অতিরিক্ত ট্রেজারি চাহিদা মেটাতে ব্রিটিশ সরকার £৮,০০,০০০ ঋণ নিতে চায়; চ্যান্সেলর অব দ্য এক্সচেকার জানান যে রথসচাইল্ড ও বারিং—উভয় প্রতিষ্ঠানই ঋণের জন্য প্রস্তাব দিয়েছিল।",
+      "primary_passage": "the two parties to whom I had referred as having made the offers for the loan, were Messrs. Rothschild and Messrs. Baring.",
+      "passage_locator": "House of Commons, 1 March 1847, The Eight Million Loan, Committee of Ways and Means, Hansard.",
+      "passage_status": "Passage locked — contemporary parliamentary statement naming Rothschild and Baring as the two offer-makers; acceptance/allocation between the two offers is not asserted.",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1847-03-01/debates/767d4cdb-f741-4dd4-be24-33768b2fdfb7/CommonsChamber",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, 1 March 1847, The Eight Million Loan, Committee of Ways and Means.",
+      "edition": "Hansard, House of Commons, 1 March 1847.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1847,
+      "what_passage_establishes": "The passage establishes that the Government arranged an £8,000,000 loan and that Messrs. Rothschild and Messrs. Baring were the two parties that had made offers for it.",
+      "evidence_limits": "The passage does not establish which house's offer was accepted, the final contractual terms, or that Rothschild alone supplied the loan.",
+      "publication_status": "A-grade — direct contemporary parliamentary evidence for the government loan and named offers; final contract allocation remains a supplementary target.",
+      "year": 1847,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1847
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "banque-france-note-monopoly-1848",
       "title": "Banque de France note-issue monopoly, 1848",
       "date_label": "1848",
@@ -5939,6 +5987,28 @@
     "new_records_deployed": 1,
     "deployed_source_ids": [
       "ottoman-turkish-loan-1854"
+    ],
+    "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt or banking-power primary record; preserve all B-grade scan-upgrade queues."
+  },
+  "structural_audit_2026_10_05_v14": {
+    "status": "Completed after 1847 Eight Million Loan deployment",
+    "records_audited": 85,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 81,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v11": {
+    "status": "1847 British £8,000,000 loan evidence deployed as Grade A",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-baring-eight-million-loan-1847"
     ],
     "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt or banking-power primary record; preserve all B-grade scan-upgrade queues."
   }
