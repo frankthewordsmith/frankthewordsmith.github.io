@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "124-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "125-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3451,6 +3451,61 @@
         "research_maps": [
           "sovereign_debt",
           "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-famine-insurance-fund-1887",
+      "title": "India Famine Insurance Fund, 1887: No Surplus Available for the Famine Grant",
+      "date_label": "1887",
+      "year": 1887,
+      "evidence_grade": "A",
+      "historical_claim": "In 1887–8 the Government of India had no surplus from which the Famine Grant could be paid, and the Government stated that famine protection would instead be pursued through completion of protective railways as financial conditions permitted.",
+      "verification_status": "Verified against Hansard, House of Commons, 10 May 1887.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1887/may/10/india-indian-famine-insurance-fund",
+      "bn_title": "ভারতের দুর্ভিক্ষ বিমা তহবিল, ১৮৮৭: দুর্ভিক্ষ অনুদানের জন্য উদ্বৃত্ত অর্থ ছিল না",
+      "bn_historical_claim": "১৮৮৭–৮ অর্থবছরে ভারতের সরকারের কাছে দুর্ভিক্ষ অনুদান দেওয়ার মতো কোনো উদ্বৃত্ত ছিল না; সরকার জানায় যে আর্থিক সামর্থ্য অনুযায়ী প্রতিরক্ষামূলক রেলপথ দ্রুত সম্পন্ন করার মাধ্যমে দুর্ভিক্ষের বিরুদ্ধে সুরক্ষা দেওয়া হবে।",
+      "notes": "This record is about fiscal allocation and the institutional form of famine protection, not a claim that the fund was spent on the Burmese War. The Under Secretary expressly rejected that allegation. The passage does not establish the full historical accounting of famine-insurance appropriations or the later interpretation that the 'fund' was not a separate cash fund.",
+      "primary_passage": "It is not true that the Famine Insurance Fund has been devoted to the Burmese War; but there is no surplus for 1887–8 out of which the Famine Grant can be paid. The Government of India seeks to protect the country against famine by completing the protective system of railways as rapidly as financial considerations will allow.",
+      "passage_locator": "House of Commons, Hansard, 10 May 1887, vol. 314, col. 1454, 'India—Indian Famine Insurance Fund'.",
+      "passage_status": "Passage locked — contemporary ministerial statement.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Contemporary parliamentary statement by Sir John Gorst, Under Secretary of State for India.",
+      "edition": "Hansard, House of Commons, 10 May 1887, vol. 314, col. 1454.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage establishes the absence of surplus for the 1887–8 Famine Grant and the Government's stated reliance on protective railway completion as a famine-protection measure within financial constraints; it also expressly denies that the fund had been devoted to the Burmese War.",
+      "evidence_limits": "It does not establish the complete balance or history of the famine-insurance scheme, the exact amount appropriated in prior years, or whether protective railway expenditure was economically equivalent to a separate famine reserve.",
+      "related_banking_power_records": [
+        "india-railways-borrowing-powers-legislation-1887",
+        "east-india-railways-loans-1886",
+        "india-stock-conversion-outcome-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 10 May 1887, vol. 314, col. 1454.",
+        "Hansard, House of Commons, 22 August 1881, discussion of the Famine Insurance allocation."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary statement; historical limits explicitly qualified.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
           "global_power_network"
         ]
       }
@@ -8315,7 +8370,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing, borrowing-powers, rupee-gold exchange, Nizam's State Railway, and India Stock conversion authority/outcome records; prioritize any genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of railway financing, borrowing powers, rupee-gold exchange, Nizam's State Railway, India Stock conversion, and famine-allocation layers already deployed; prioritize any genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9091,6 +9146,44 @@
       },
       "global_power_network": {
         "records": 99
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v55": {
+    "status": "Completed after 1887 India Famine Insurance Fund deployment",
+    "records_audited": 125,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 120,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v31": {
+    "status": "Reconciled after 1887 India Famine Insurance Fund deployment",
+    "records_mapped": 125,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 57
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 63
+      },
+      "global_power_network": {
+        "records": 100
       }
     }
   }
