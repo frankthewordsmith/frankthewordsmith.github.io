@@ -2067,6 +2067,38 @@
       ]
     },
     {
+      "source_id": "basel-cva-targeted-revisions-2020",
+      "title": "Basel Targeted Revisions to the Credit Valuation Adjustment Risk Framework",
+      "date_label": "2020",
+      "historical_claim": "On 8 July 2020, the Basel Committee issued targeted revisions to the credit valuation adjustment (CVA) risk framework, replacing the December 2017 version and recalibrating risk weights, the treatment of certain client-cleared derivatives, and the standardised and basic CVA approaches.",
+      "bn_title": "ক্রেডিট ভ্যালুয়েশন অ্যাডজাস্টমেন্ট ঝুঁকি কাঠামোর বাসেল লক্ষ্যভিত্তিক সংশোধন, ২০২০",
+      "bn_historical_claim": "৮ জুলাই ২০২০ সালে Basel Committee ক্রেডিট ভ্যালুয়েশন অ্যাডজাস্টমেন্ট (CVA) risk framework-এর লক্ষ্যভিত্তিক সংশোধন প্রকাশ করে। এটি ডিসেম্বর ২০১৭-এর সংস্করণ প্রতিস্থাপন করে এবং risk weights, নির্দিষ্ট client-cleared derivatives-এর treatment এবং standardised ও basic CVA approaches পুনঃসমন্বয় করে।",
+      "source_url": "https://www.bis.org/publications/202007-standards-targeted-revisions-credit-valuation-adjustment-risk-framework",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "This final standard incorporates changes proposed in the November 2019 consultative document and has been informed by a quantitative impact assessment based on data as of end-June 2019.",
+      "passage_locator": "Basel Committee on Banking Supervision, Targeted revisions to the credit valuation adjustment risk framework, 8 July 2020, publication summary.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/bcbs/publ/d507.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Targeted revisions to the credit valuation adjustment risk framework, 8 July 2020; official BIS publication.",
+      "edition": "July 2020 final targeted CVA revisions.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2020,
+      "what_passage_establishes": "The passage establishes that the 2020 CVA standard was a final revision developed from the 2019 consultation and quantitative-impact assessment.",
+      "evidence_limits": "The passage establishes the final revision and its evidentiary basis, not subsequent national implementation or observed effects.",
+      "related_banking_power_records": [
+        "basel-minimum-capital-market-risk-2019",
+        "basel-iii-finalising-post-crisis-reforms-2017",
+        "basel-standardised-counterparty-credit-risk-2014"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Targeted revisions to the credit valuation adjustment risk framework (July 2020)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2172,7 +2204,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 65 records, A=54, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 66 records, A=55, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
