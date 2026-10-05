@@ -1159,6 +1159,40 @@
       ]
     },
     {
+      "source_id": "basel-minimum-standards-cross-border-1992",
+      "title": "Basel minimum standards for supervision of international banking groups and cross-border establishments",
+      "date_label": "1992",
+      "historical_claim": "On 28 July 1992, the Basel Committee reformulated certain Concordat principles into minimum standards for the supervision of international banking groups and their cross-border establishments, which G10 supervisory authorities expected each other to observe.",
+      "bn_title": "আন্তর্জাতিক ব্যাংকিং গ্রুপ ও আন্তঃসীমান্ত প্রতিষ্ঠানের তদারকির জন্য বাসেল ন্যূনতম মানদণ্ড, ১৯৯২",
+      "bn_historical_claim": "২৮ জুলাই ১৯৯২ সালে বাসেল কমিটি আন্তর্জাতিক ব্যাংকিং গ্রুপ ও তাদের আন্তঃসীমান্ত প্রতিষ্ঠানের তদারকির জন্য কনকর্ডাটের কিছু নীতিকে ন্যূনতম মানদণ্ডে পুনর্গঠন করে; G10 তদারকি কর্তৃপক্ষগুলো একে অপরের কাছ থেকে এসব মানদণ্ড অনুসরণের প্রত্যাশা করেছিল।",
+      "source_url": "https://www.bis.org/publications/199207-standards-minimum-standards-supervision-international-banking-groups-and-their-cross-border-establishments",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "notes": "The BIS-hosted Basel Committee publication is the official July 1992 standards document. Its introduction states that, following developments in international banking supervision, certain Concordat principles were reformulated as minimum standards that G10 supervisory authorities expected each other to observe. The BCBS history independently dates the reformulation to July 1992 and records that the standards were communicated to other banking supervisory authorities for endorsement.",
+      "primary_passage": "Accordingly certain of these principles have been reformulated as minimum standards, set out below, which G10 supervisory authorities expect each other to observe.",
+      "passage_locator": "Basel Committee on Banking Supervision, Minimum standards for the supervision of international banking groups and their cross-border establishments, 28 July 1992, Introduction.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee standard",
+      "passage_source_url": "https://www.bis.org/publ/bcbsc314.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Minimum standards for the supervision of international banking groups and their cross-border establishments, 28 July 1992; official BIS-hosted committee publication.",
+      "edition": "Minimum standards for the supervision of international banking groups and their cross-border establishments, July 1992.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 1992,
+      "what_passage_establishes": "The passage directly establishes that selected Concordat principles were reformulated into minimum standards and that G10 supervisory authorities expected reciprocal observance of those standards.",
+      "evidence_limits": "The passage establishes the 1992 supervisory-standard reformulation and expectation of observance; it does not by itself establish the extent of implementation in individual jurisdictions, enforcement outcomes, or the effectiveness of the standards.",
+      "related_banking_power_records": [
+        "cpss-established-1990",
+        "bcci-closure-1991",
+        "asian-crisis-1997"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, The insolvency liquidation of a multinational bank (December 1992).",
+        "Basel Committee on Banking Supervision, The Supervision of Cross-Border Banking (October 1996)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1264,7 +1298,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 37 records, A=26, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 38 records, A=27, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
