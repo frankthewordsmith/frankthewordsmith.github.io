@@ -4369,5 +4369,40 @@
       }
     ],
     "chapter_assignment": "Deferred; no authoritative chapter sequence was found in the available project context."
+  },
+  "banking_dynasty_evidence_candidates_2026_10_05": [
+    {
+      "candidate_id": "rothschild-portuguese-loan-1823",
+      "year": 1823,
+      "house": "Rothschild",
+      "status": "Primary-source lead — not yet deployed",
+      "source_type": "Archival letter copybook",
+      "archive": "The Rothschild Archive",
+      "locator": "Archive reference cited by Flandreau & Flores as Rothschild Archive 000/401 A; exact archive catalog/page locator still to be independently locked",
+      "lead": "Nathan Mayer Rothschild correspondence with Baron de Teixeira, Portuguese Minister of Finance, July 1823",
+      "evidence_scope": "Shows Rothschild's direct approach/negotiation regarding a Portuguese government loan; the quoted archive transcription states the house's proposed role and its claimed financial resources/credit.",
+      "grade": "Candidate A pending locator lock",
+      "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor"
+    },
+    {
+      "candidate_id": "baring-mexican-loans-1829-1836",
+      "year": 1829,
+      "house": "Baring",
+      "status": "Primary-source archival lead — not yet deployed",
+      "source_type": "House correspondence",
+      "archive": "The Baring Archive",
+      "locator": "HC4 Mexico, sections 4.5.3–4.5.4; individual letter/date locators must be locked before deployment",
+      "lead": "Correspondence with Mexican government officials concerning Mexican 5% and 6% bonds issued for the 1823 and 1824 loans, including instructions on bondholder dividends and debt liquidation.",
+      "evidence_scope": "Potentially establishes Baring's documented role in administration/management of Mexican sovereign debt; does not by itself establish broader banking dominance.",
+      "grade": "Candidate A/B pending passage lock",
+      "source_url": "https://baringarchive.org.uk/wp-content/uploads/2022/08/The-Baring-Archive_HC4.pdf"
+    }
+  ],
+  "banking_dynasty_expansion_2026_10_05": {
+    "status": "Primary-source lead expansion completed",
+    "new_candidates": 2,
+    "deployed_records_added": 0,
+    "reason": "Both leads require exact archival passage/locator verification before entering the 72-record evidence ledger.",
+    "next_target": "Lock the 1823 Rothschild Portuguese-loan copybook passage first, then the Baring Mexican-loan correspondence."
   }
 }
