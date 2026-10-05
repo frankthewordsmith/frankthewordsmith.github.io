@@ -2194,6 +2194,38 @@
       ]
     },
     {
+      "source_id": "basel-core-principles-revised-2024",
+      "title": "Revised Basel Core Principles for Effective Banking Supervision",
+      "date_label": "2024",
+      "historical_claim": "On 25 April 2024, banking supervisors endorsed the Basel Committee's revised Core Principles for Effective Banking Supervision, updating the global minimum standard for prudential banking supervision and making the revised text effective immediately.",
+      "bn_title": "কার্যকর ব্যাংকিং তদারকির সংশোধিত বাসেল কোর প্রিন্সিপলস, ২০২৪",
+      "bn_historical_claim": "২৫ এপ্রিল ২০২৪ সালে ব্যাংকিং তদারকিকারীরা Basel Committee-এর সংশোধিত Core Principles for Effective Banking Supervision অনুমোদন করেন। এতে prudential banking supervision-এর বৈশ্বিক ন্যূনতম মানদণ্ড হালনাগাদ করা হয় এবং সংশোধিত পাঠ তাৎক্ষণিকভাবে কার্যকর হয়।",
+      "source_url": "https://www.bis.org/publications/202404-standards-core-principles-effective-banking-supervision",
+      "verification_status": "Primary-source official BIS/BCBS revised standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "The revised Core Principles were endorsed by banking supervisors at the 23rd International Conference of Banking Supervisors held in Basel, Switzerland, on 24-25 April 2024. The revised Core Principles standard is effective immediately.",
+      "passage_locator": "Basel Committee on Banking Supervision, Core Principles for effective banking supervision, 25 April 2024, official publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee revised standard",
+      "passage_source_url": "https://www.bis.org/publications/202404-standards-core-principles-effective-banking-supervision",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Core Principles for effective banking supervision, 25 April 2024; official BIS publication.",
+      "edition": "April 2024 revised Core Principles.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2024,
+      "what_passage_establishes": "The passage establishes endorsement of the revised Core Principles by banking supervisors in April 2024 and their immediate effectiveness as the revised global supervisory standard.",
+      "evidence_limits": "The passage establishes the revised standard and its endorsement/effective date, not subsequent jurisdictional implementation or observed effectiveness.",
+      "related_banking_power_records": [
+        "basel-final-technical-amendments-2023",
+        "basel-core-principles-revised-2012",
+        "basel-iii-finalising-post-crisis-reforms-2017"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Core Principles for effective banking supervision (April 2024)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2299,7 +2331,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 69 records, A=58, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 70 records, A=59, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
