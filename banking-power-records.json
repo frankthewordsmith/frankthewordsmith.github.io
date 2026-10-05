@@ -1789,6 +1789,49 @@
       }
     },
     {
+      "source_id": "east-india-railway-loan-repayment-1862",
+      "title": "East India Railway Loan Repaid, 1862",
+      "date_label": "1862",
+      "year": 1862,
+      "historical_claim": "Contemporary parliamentary evidence reported that the £4,000,000 East India loan raised in London during the railway-finance pressure was subsequently repaid at 5 per cent after railway associations raised substantial funds as market conditions improved.",
+      "verification_status": "Verified against contemporary parliamentary evidence.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1863-07-03/debates/404b6119-ff88-40ea-974d-8676659ecd06/SelectCommitteeMovedFor",
+      "primary_passage": "they repaid the loan at 5 per cent",
+      "passage_locator": "House of Commons, 3 July 1863, Select Committee Moved For, Hansard; retrospective discussion of the 1861–62 East India railway-finance episode.",
+      "passage_status": "Exact contemporary parliamentary wording locked; retrospective 1863 account.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 3 July 1863.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1863,
+      "publication_status": "A-grade — contemporary parliamentary retrospective evidence.",
+      "evidence_limits": "The passage establishes repayment at 5 per cent but does not by itself provide the original loan contract, exact repayment date, lender identity, or complete transaction terms.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1862
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "east-india-loan-outcome-1862-64",
       "title": "East India Loan: Railway Companies Ultimately Supplied the Required Funds",
       "date_label": "1864",
@@ -6605,6 +6648,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 91,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v28": {
+    "status": "Completed after East India railway loan repayment deployment",
+    "records_audited": 97,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 92,
       "B": 5,
       "C": 0,
       "D": 0
