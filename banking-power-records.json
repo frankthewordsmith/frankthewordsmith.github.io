@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "141-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "142-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4597,6 +4597,37 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 exchange-rate and Indian Exchequer layer"
     },
     {
+      "source_id": "india-council-bills-exchange-gain-1890",
+      "title": "India Council Bills, 1890: One Penny Rise in Exchange Produces Rx.1.1 Million Gain",
+      "date_label": "25 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The India Office reported that a rise in the exchange rate from 1s. 6d. to 1s. 7d. per rupee produced a gain of Rx.1,100,000, and that Council bills were then fetching 3d. per rupee more than when silver was at 3s. 6d. per ounce.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/25/indian-exchequer-and-the-rate-of-exchange",
+      "primary_passage": "The gain produced by the rise of 1d. varies with the rate of exchange. The gain by a rise from 1s. 6d. to 1s. 7d. is Rx.1,100,000. Council bills are fetching 3d. per rupee more than when silver was at 3s. 6d. per ounce.",
+      "passage_locator": "Hansard, House of Commons, 25 July 1890, vol. 347, cols. 903–904, 'Indian Exchequer and the Rate of Exchange'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India on the fiscal effect of exchange movements and the price of Council bills.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes an official contemporary calculation of the Indian Exchequer's gain from a one-penny exchange-rate rise at a specified rate, and records the then-current premium on Council bills relative to the stated silver-price benchmark.",
+      "evidence_limits": "The answer gives an illustrative exchange-rate gain rather than a full-year audited result. It does not establish the aggregate annual gain from all exchange movements, the complete Council-bill pricing mechanism, or causation between silver prices and the quoted bill premium.",
+      "notes": "Distinct from the December 1890 exchange-budget variance record: this passage quantifies the marginal fiscal sensitivity of the Indian Exchequer to exchange-rate movement and explicitly connects the contemporary Council-bill rate to the silver-price benchmark.",
+      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: বিনিময় হারে এক পেনি বৃদ্ধি থেকে Rx.১.১ মিলিয়ন লাভ",
+      "bn_historical_claim": "ভারতীয় এক্সচেকার জানায়, বিনিময় হার ১ শিলিং ৬ পেনি থেকে ১ শিলিং ৭ পেনিতে উঠলে Rx.১,১০০,০০০ লাভ হয়; একই সময়ে কাউন্সিল বিল রুপিপ্রতি ৩ পেনি বেশি দামে বিক্রি হচ্ছিল, যখন রূপার দাম ছিল প্রতি আউন্স ৩ শিলিং ৬ পেনি।",
+      "related_banking_power_records": [
+        "india-rupee-exchange-fiscal-burden-1888",
+        "india-currency-commission-report-exchange-1888",
+        "india-rate-of-exchange-budget-surplus-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / monetary regime / Council bills and exchange exposure",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and exchange-sensitivity layer"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9175,7 +9206,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the South Indian Railway purchase borrowing authority and the newly deployed 1890 exchange-rate measurement.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the South Indian Railway borrowing authority, the December exchange-budget variance, and the newly deployed Council-bill exchange-sensitivity record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10561,6 +10592,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 136,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v73": {
+    "status": "Completed after 1890 India Council-bill exchange-gain deployment",
+    "records_audited": 142,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 137,
       "B": 5,
       "C": 0,
       "D": 0
