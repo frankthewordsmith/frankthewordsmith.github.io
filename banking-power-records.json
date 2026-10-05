@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "128-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "129-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3784,6 +3784,63 @@
         "chapter_number": null,
         "chapter_title": null,
         "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-rupee-debt-conversion-1888",
+      "title": "India Rupee Debt Conversion, 1888: Four-and-a-Half Per Cent Debt Begins Conversion to Four Per Cent",
+      "date_label": "1888",
+      "year": 1888,
+      "evidence_grade": "A",
+      "historical_claim": "After a 4 per cent Public Works Loan of Rx.3 million was successfully raised in India at an average price of 99.79, the Government of India began converting its 4½ per cent rupee debt into 4 per cent debt; the outstanding 4½ per cent loans totaled Rx.23.25 million.",
+      "verification_status": "Verified against the official Indian financial statement presented to the House of Commons on 9 August 1888.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1888/aug/09/committee",
+      "bn_title": "ভারতের রুপি ঋণ রূপান্তর, ১৮৮৮: ৪½ শতাংশ ঋণকে ৪ শতাংশে রূপান্তরের সূচনা",
+      "bn_historical_claim": "ভারতে ৩০ লক্ষ রুপির ৪ শতাংশ পাবলিক ওয়ার্কস ঋণ গড়ে ৯৯.৭৯ দামে সফলভাবে তোলার পর ভারত সরকার তাদের ৪½ শতাংশ রুপি ঋণকে ৪ শতাংশ ঋণে রূপান্তর শুরু করে; বিভিন্ন ৪½ শতাংশ ঋণের মোট পরিমাণ ছিল ২ কোটি ৩২.৫ লক্ষ রুপি।",
+      "notes": "This is a distinct domestic rupee-debt refinancing layer, separate from the sterling 3 per cent stock issue for the Oude and Rohilkund purchase and from the general exchange-burden records. The passage also records the 1870 Transfer Loan as immediately redeemable and provides the first concrete conversion step.",
+      "primary_passage": "In India, the usual Public Works Loan for Rx.3,000,000 was raised at 4 per cent, at an average price of 99.79. The loan almost immediately rose to a premium. The Government of India thereupon made a beginning in the conversion of their Four-and-a-Half per Cent into a Four per Cent Rupee Debt. The amount of the various Rupee Four-and-a-Half per Cent Loans is Rx.23,250,000.",
+      "passage_locator": "House of Commons, Hansard, 9 August 1888, vol. 330, col. 146, East India Revenue Accounts / Committee.",
+      "passage_status": "Passage locked — contemporary official financial statement.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in the Committee on the Indian financial statement.",
+      "edition": "Hansard, House of Commons, 9 August 1888, vol. 330, col. 146.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1888,
+      "what_passage_establishes": "The passage establishes the 4 per cent Public Works Loan amount and issue price, the beginning of conversion from 4½ per cent to 4 per cent rupee debt, and the aggregate amount of the 4½ per cent rupee loans.",
+      "evidence_limits": "It does not establish the complete terms or final scale of the conversion, the identity of holders participating, or the ultimate realized saving; those require later financial statements or debt returns.",
+      "related_banking_power_records": [
+        "oude-rohilkund-railway-purchase-financing-1888",
+        "conversion-of-india-stock-1887",
+        "india-stock-conversion-outcome-1887",
+        "india-rupee-exchange-fiscal-burden-1888"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 9 August 1888, vol. 330, col. 146, East India Revenue Accounts.",
+        "Hansard, House of Commons, 16 November 1888, discussion of Indian currency and exchange."
+      ],
+      "publication_status": "A-grade — direct contemporary official financial statement; conversion scope and limits explicitly qualified.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1888
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
           "monetary_regimes",
           "global_power_network"
         ]
@@ -8537,7 +8594,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically through 1888, prioritizing the strongest distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed railway financing, rupee-exchange burden, and Currency Commission employee-remittance records.",
+  "next_priority": "Continue chronologically through 1888, prioritizing distinct debt, monetary, institutional, or banking-network primary evidence; avoid duplication of the deployed sterling financing, exchange-burden, Currency Commission, and rupee-debt conversion records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9465,6 +9522,44 @@
       },
       "global_power_network": {
         "records": 103
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v59": {
+    "status": "Completed after 1888 rupee debt conversion deployment",
+    "records_audited": 129,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 124,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v35": {
+    "status": "Reconciled after 1888 rupee debt conversion deployment",
+    "records_mapped": 129,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 60
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 66
+      },
+      "global_power_network": {
+        "records": 104
       }
     }
   }
