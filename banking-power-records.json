@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "147-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "148-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4783,6 +4783,37 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 guarantee termination and railway acquisition mechanism"
     },
     {
+      "source_id": "india-council-bills-sale-policy-1890",
+      "title": "India Council Bills, 1890: Government Rejects Delaying Necessary Bill Sales for a Higher Silver Exchange",
+      "date_label": "21 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Secretary of State for India stated that Council-bill sales had not been increased because of anticipated United States silver legislation, that no surplus sale had occurred and therefore no loss had resulted, and that necessary bill sales could not be delayed merely in expectation of a future rise in silver.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/21/india-council-bills",
+      "primary_passage": "India Council Bills have not been sold for some time past much beyond the average monthly rate. The expectation of legislation in the United States has not influenced the amount of the sales. ... There has been no surplus sale, and consequently no loss. As regards the last paragraph, the Secretary of State cannot delay such sale of bills as is necessary to meet the wants of the Service on the chance of a future rise in the value of silver.",
+      "passage_locator": "Hansard, House of Commons, 21 July 1890, vol. 347, col. 331, 'India Council Bills'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning Council-bill sale policy and silver-exchange expectations.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes the Government's stated Council-bill sale policy: sales were not being deliberately increased in anticipation of U.S. silver legislation; no surplus sale had occurred; and necessary sales to meet service requirements could not be postponed in hope of a future rise in silver.",
+      "evidence_limits": "This passage does not quantify the full annual sales program, identify purchasers or intermediaries, or establish whether the policy maximized revenue. It records the Government's official answer rather than an independent assessment of the policy.",
+      "notes": "Distinct from the 1890 Council-bill volume and exchange-sensitivity records: this record captures the stated institutional decision rule governing when bill sales could be made or deferred.",
+      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: রূপার বিনিময় হার বাড়ার আশায় প্রয়োজনীয় বিল বিক্রি স্থগিত করা হয়নি",
+      "bn_historical_claim": "ভারত সরকারের বক্তব্য ছিল, মার্কিন রূপা-সংক্রান্ত আইন প্রত্যাশা করে কাউন্সিল বিলের বিক্রি বাড়ানো হয়নি; কোনো অতিরিক্ত বিক্রিও হয়নি, ফলে এমন বিক্রয়জনিত ক্ষতি ঘটেনি; এবং ভবিষ্যতে রূপার মূল্য বাড়তে পারে—এই আশায় পরিষেবার প্রয়োজনীয় বিল বিক্রি স্থগিত করা যায় না।",
+      "related_banking_power_records": [
+        "india-council-bill-sales-volume-1890",
+        "india-council-bills-exchange-gain-1890",
+        "india-official-exchange-rate-servants-transactions-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / India Office remittance mechanism / Council-bill policy",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill sale policy layer"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9361,7 +9392,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating the South Indian Railway borrowing authority and guarantee-termination records and the deployed exchange/Council-bill layers.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating the South Indian Railway purchase/guarantee records and the deployed exchange-rate and Council-bill records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10831,6 +10862,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 142,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v79": {
+    "status": "Completed after 1890 Council-bill sale-policy deployment",
+    "records_audited": 148,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 143,
       "B": 5,
       "C": 0,
       "D": 0
