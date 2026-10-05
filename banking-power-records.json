@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "145-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "146-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4719,6 +4719,37 @@
       "publication_status": "Deployed",
       "book_1_integration": "Banking Power / fiscal revenue / taxation",
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fiscal-revenue layer"
+    },
+    {
+      "source_id": "india-council-bill-sales-volume-1890",
+      "title": "India Council Bills, 1890: March–May Sales Rose to Rs.8.29 Crore",
+      "date_label": "25 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "Official parliamentary figures show Indian Council bill and telegraphic-transfer sales of Rs.8,29,00,000 in March–May 1890, versus Rs.6,55,48,015 in the corresponding months of 1889.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/25/sale-of-bills-and-telegraph-transfers-in",
+      "primary_passage": "The sales of bills and transfers during March, April, and May this year were Rs.8,29,00,000, against Rs.6,55,48,015 in the corresponding months of 1889.",
+      "passage_locator": "Hansard, House of Commons, 25 July 1890, vol. 347, col. 903, 'Sale of Bills and Telegraph Transfers in India'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer reporting India Council bill and telegraphic-transfer sales for March–May 1890 and the comparable 1889 period.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes the official volume of Council bill and telegraphic-transfer sales during March–May 1890 and provides the directly comparable 1889 figure.",
+      "evidence_limits": "The passage does not identify purchasers, individual maturities, prices, discount rates, allocation by bill versus transfer, or the full annual volume. It therefore does not by itself establish the identities or concentration of the financial intermediaries involved.",
+      "notes": "Distinct from the 1890 exchange-rate records: this record captures the scale of the India Office's bill/transfer sales mechanism itself, rather than the exchange rate or its fiscal sensitivity.",
+      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: মার্চ–মে বিক্রি বেড়ে Rs.৮.২৯ কোটি",
+      "bn_historical_claim": "সরকারি সংসদীয় তথ্য অনুযায়ী ১৮৯০ সালের মার্চ–মে মাসে ভারতীয় কাউন্সিল বিল ও টেলিগ্রাফিক ট্রান্সফারের বিক্রি ছিল Rs.৮,২৯,০০,০০০; ১৮৮৯ সালের একই সময়ে ছিল Rs.৬,৫৫,৪৮,০১৫।",
+      "related_banking_power_records": [
+        "india-council-bills-exchange-gain-1890",
+        "india-official-exchange-rate-servants-transactions-1890",
+        "india-rate-of-exchange-budget-surplus-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / India Office remittance mechanism / Council bills",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and telegraphic-transfer volume layer"
     },
     {
       "source_id": "panic-1907",
@@ -10741,6 +10772,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 140,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v77": {
+    "status": "Completed after 1890 Council-bill and telegraphic-transfer volume deployment",
+    "records_audited": 146,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 141,
       "B": 5,
       "C": 0,
       "D": 0
