@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "142-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "143-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4628,6 +4628,37 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and exchange-sensitivity layer"
     },
     {
+      "source_id": "india-official-exchange-rate-servants-transactions-1890",
+      "title": "India Official Exchange Rate, 1890: Fixed at 1s. 5d. for Nearly £1 Million of Transactions",
+      "date_label": "22 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Secretary of State for India stated that the official exchange rate fixed in March 1890 at 1s. 5d. per rupee could not be altered during the financial year because it applied to transactions amounting to nearly £1,000,000.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/22/rate-of-exchange-in-india",
+      "primary_passage": "The Secretary has no information of the matter. In reply to the question of the hon. Member for Hull (Mr. King), I have to say that the Secretary of State cannot alter the official rate of exchange after it has been once fixed. It is applied to very large transactions, amounting nearly to £1,000,000.",
+      "passage_locator": "Hansard, House of Commons, 22 July 1890, vol. 347, cols. 498–499, 'Rate of Exchange in India'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning the fixed official exchange rate used for large Government transactions.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes that the official rupee exchange rate had been fixed at 1s. 5d. in March 1890, could not be altered after fixation for that financial year, and applied to transactions totaling nearly £1,000,000.",
+      "evidence_limits": "The answer does not identify every transaction covered, explain the full administrative rule governing the fixed rate, or quantify the Government's net gain or loss from applying it. The questioner's claims about pensions and exchange gains are not treated as established facts here.",
+      "notes": "Distinct institutional monetary layer from the July and December 1890 exchange records: it documents the administrative use of a fixed official exchange rate for a substantial volume of Government transactions.",
+      "bn_title": "ভারতের সরকারি বিনিময় হার, ১৮৯০: প্রায় £১ মিলিয়ন লেনদেনে ১ শিলিং ৫ পেনি হার স্থির",
+      "bn_historical_claim": "১৮৯০ সালের মার্চে প্রতি রুপিতে ১ শিলিং ৫ পেনি সরকারি বিনিময় হার নির্ধারিত হয় এবং তা পরিবর্তন করা যায়নি; এই হার প্রায় £১,০০০,০০০ মূল্যের বৃহৎ সরকারি লেনদেনে প্রয়োগ করা হতো।",
+      "related_banking_power_records": [
+        "india-council-bills-exchange-gain-1890",
+        "india-rate-of-exchange-budget-surplus-1890",
+        "india-rupee-exchange-fiscal-burden-1888"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / monetary regime / official exchange administration",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fixed official exchange-rate administration layer"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9206,7 +9237,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the South Indian Railway borrowing authority, the December exchange-budget variance, and the newly deployed Council-bill exchange-sensitivity record.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the South Indian Railway borrowing authority and the deployed 1890 exchange-rate records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10606,6 +10637,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 137,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v74": {
+    "status": "Completed after 1890 official exchange-rate administration deployment",
+    "records_audited": 143,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 138,
       "B": 5,
       "C": 0,
       "D": 0
