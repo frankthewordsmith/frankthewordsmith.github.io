@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "139-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "140-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4532,6 +4532,37 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "south-indian-railway-purchase-borrowing-authority-1890",
+      "title": "South Indian Railway Purchase, 1890: £5.267 Million Borrowing Authority Against Indian Revenues",
+      "date_label": "17 March 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "Parliament authorized the Secretary of State in Council of India to raise up to £5,267,366 11s. 2d. in the United Kingdom, secured on Indian revenues, for the purchase of the South Indian Railway and redemption of its debentures.",
+      "verification_status": "Verified primary parliamentary borrowing authorization.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/mar/17/south-indian-railway-purchase",
+      "primary_passage": "Resolved, That it is expedient to authorise the Secretary of State in Council of India to raise in the United Kingdom, on the securities of the Revenues of India, any sum or sums of money, not exceeding in the whole the sum of £5,267,366 11s. 2d., for the purchase of the South Indian Railway, and for the discharge and redemption of debentures thereon.",
+      "passage_locator": "Hansard, House of Commons, 17 March 1890, vol. 342, col. 1091, 'South Indian Railway Purchase'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Parliamentary resolution authorizing borrowing in the United Kingdom on the security of Indian revenues.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "The House authorized a maximum borrowing power of £5,267,366 11s. 2d. in the United Kingdom, secured on Indian revenues, specifically for acquisition of the South Indian Railway and discharge/redemption of its debentures.",
+      "evidence_limits": "This resolution establishes borrowing authority, not the subsequent amount actually raised, issue price, coupon, lender or underwriting arrangements, timing of the borrowing, or final purchase accounting. It also does not by itself establish completion of the purchase.",
+      "notes": "Distinct from earlier Indian railway financing records because this is a specific 1890 sovereign borrowing authority for acquisition of an existing railway and redemption of its debentures.",
+      "bn_title": "সাউথ ইন্ডিয়ান রেলওয়ে ক্রয়, ১৮৯০: ভারতীয় রাজস্বের জামানতে £৫.২৬৭ মিলিয়ন ঋণগ্রহণের অনুমোদন",
+      "bn_historical_claim": "১৮৯০ সালে ব্রিটিশ পার্লামেন্ট ভারতীয় রাজস্বের জামানতে সর্বোচ্চ £৫,২৬৭,৩৬৬ ১১ শিলিং ২ পেনি ঋণ নিয়ে সাউথ ইন্ডিয়ান রেলওয়ে ক্রয় এবং তার ডিবেঞ্চার পরিশোধ/রিডেম্পশনের অনুমোদন দেয়।",
+      "related_banking_power_records": [
+        "oude-rohilkund-railway-purchase-financing-1888",
+        "india-public-works-loan-1889",
+        "british-government-railway-company-onlending-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / sovereign debt / railway acquisition",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 sovereign railway acquisition and debt redemption layer"
     },
     {
       "source_id": "panic-1907",
@@ -9112,7 +9143,7 @@
       }
     }
   },
-  "next_priority": "1889 screening completed for the strongest distinct Banking Power layers. Advance chronologically to 1890, prioritizing sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; do not add weaker 1889 fiscal-administrative or speaker-opinion material merely to increase record count.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating the South Indian Railway purchase borrowing authority and previously deployed railway-finance layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10470,6 +10501,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 134,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v71": {
+    "status": "Completed after 1890 South Indian Railway purchase borrowing-authority deployment",
+    "records_audited": 140,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 135,
       "B": 5,
       "C": 0,
       "D": 0
