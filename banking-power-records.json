@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "123-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "124-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3563,6 +3563,62 @@
         "chapter_number": null,
         "chapter_title": null,
         "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-stock-conversion-outcome-1887",
+      "title": "India Stock Conversion, 1887: £47.75 Million of 4 Per Cent Stock Converted",
+      "date_label": "1887",
+      "year": 1887,
+      "evidence_grade": "A",
+      "historical_claim": "By September 1887, approximately 90 per cent of the £53.26 million 4 per cent India Stock had been converted into 3½ per cent India Stock, with the Government estimating an eventual annual saving of about £240,000.",
+      "verification_status": "Verified against the contemporary Annual Financial Statement reported in the House of Commons.",
+      "source_url": "https://hansard.parliament.uk/%E2%80%8CCommons/1887-09-09/debates/53933e00-87d4-4e5f-a2de-0a893a96d3ba/India%E2%80%94EastIndia%28RevenueAccounts%29%E2%80%94TheAnnualFinancialStatement",
+      "bn_title": "ভারতীয় স্টক রূপান্তর, ১৮৮৭: ৫৩.২৬ মিলিয়ন পাউন্ডের মধ্যে ৪৭.৭৫ মিলিয়ন পাউন্ড ৪ শতাংশ স্টক রূপান্তরিত",
+      "bn_historical_claim": "১৮৮৭ সালের সেপ্টেম্বরের মধ্যে ৫৩.২৬ মিলিয়ন পাউন্ডের ৪ শতাংশ ভারতীয় স্টকের প্রায় ৯০ শতাংশ, অর্থাৎ ৪৭.৭৫ মিলিয়ন পাউন্ড, ৩½ শতাংশ ভারতীয় স্টকে রূপান্তরিত হয়; সরকার ভবিষ্যৎ বার্ষিক সাশ্রয় প্রায় ২৪০,০০০ পাউন্ড অনুমান করেছিল।",
+      "notes": "This record is intentionally separated from the May 1887 legislative record: it documents implementation and financial outcome rather than merely statutory authority. The statement also records £5,472,019 left to be paid off in October 1888 and identifies approximately £140,000 in broker commissions and Bank of England management charges. The annual saving is the Government's prospective estimate, not a realized audited saving at the date of the statement.",
+      "primary_passage": "Out of a total of £53,261,820 Stock, no less than £47,750,000, or approximately 90 per cent, was converted, leaving £5,472,019 to be paid off in October, 1888. The prospective annual saving from the conversion is about £240,000.",
+      "passage_locator": "House of Commons, Hansard, 9 September 1887, India—East India (Revenue Accounts)—The Annual Financial Statement; financial statement discussion, 1887.",
+      "passage_status": "Passage locked — exact contemporary financial figures and outcome verified.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Government of India financial statement presented to the House of Commons; reported in Hansard, 9 September 1887.",
+      "edition": "Hansard, House of Commons, 9 September 1887, India—East India (Revenue Accounts)—The Annual Financial Statement.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage directly establishes the amount of 4 per cent India Stock converted by 1887, the proportion converted, the residual amount scheduled for repayment in October 1888, and the Government's prospective annual saving estimate.",
+      "evidence_limits": "The £240,000 figure is prospective. The passage does not by itself establish the later realized saving, nor does it independently audit every transaction cost or identify individual participating holders.",
+      "related_banking_power_records": [
+        "conversion-of-india-stock-1887",
+        "india-rupee-gold-exchange-currency-commission-1887",
+        "nizams-state-railway-london-money-market-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 9 September 1887, India—East India (Revenue Accounts)—The Annual Financial Statement.",
+        "Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11."
+      ],
+      "publication_status": "A-grade — contemporary official financial statement reported in Parliament; prospective savings explicitly qualified.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
           "monetary_regimes",
           "global_power_network"
         ]
@@ -8259,7 +8315,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing, borrowing-powers, rupee-gold exchange, Nizam's State Railway, and India Stock conversion records; prioritize any genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing, borrowing-powers, rupee-gold exchange, Nizam's State Railway, and India Stock conversion authority/outcome records; prioritize any genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8997,6 +9053,44 @@
       },
       "global_power_network": {
         "records": 98
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v54": {
+    "status": "Completed after 1887 India Stock conversion outcome deployment",
+    "records_audited": 124,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 119,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v30": {
+    "status": "Reconciled after 1887 India Stock conversion outcome deployment",
+    "records_mapped": 124,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 56
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 63
+      },
+      "global_power_network": {
+        "records": 99
       }
     }
   }
