@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "132-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "133-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3944,6 +3944,57 @@
         "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1888
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "british-government-railway-company-onlending-1889",
+      "title": "British Government Railway-Company On-Lending, 1889: £3.5 Million Borrowed at 3 Per Cent and Re-Lent at 3¼ Per Cent",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "Under an Act passed by Parliament in 1888, £3.5 million was borrowed in Britain at 3 per cent and lent onward to railway companies at 3¼ per cent, producing a stated Government profit of £8,750 per year.",
+      "verification_status": "Verified against the contemporary official parliamentary financial statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "primary_passage": "In this country, under the Act which Parliament passed last year, 3½ millions was borrowed to lend to the Railway Companies. That sum was borrowed at 3 per cent at a rate little over 101. The money was lent to the companies at 3¼ per cent, and thus the Government reaped a small profit of £8,750 a year.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, col. 612, East India Revenue Accounts.",
+      "passage_status": "Passage locked — contemporary ministerial statement.",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in Committee on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, col. 612.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes the £3.5 million borrowing, 3% borrowing rate, issue price little over 101, 3¼% onward lending rate, and stated annual Government profit of £8,750.",
+      "evidence_limits": "It does not identify individual railway companies, loan maturities, security arrangements, allocations, or the full statutory text of the 1888 Act. The statement establishes the financial mechanism and reported annual margin, not a complete transaction ledger.",
+      "notes": "Distinct financial-intermediation layer: Government borrowing followed by onward lending to railway companies. It should not be merged with the separate India Public Works Loan or railway concession records.",
+      "bn_title": "ব্রিটিশ সরকারি রেলওয়ে-কোম্পানিকে পুনঃঋণ, ১৮৮৯: ৩ শতাংশে £৩.৫ মিলিয়ন ধার নিয়ে ৩¼ শতাংশে পুনঃঋণ",
+      "bn_historical_claim": "১৮৮৮ সালের সংসদীয় আইনের অধীনে ১৮৮৯ সালে ব্রিটেনে £৩.৫ মিলিয়ন ৩ শতাংশে ধার নিয়ে তা রেলওয়ে কোম্পানিগুলোকে ৩¼ শতাংশে পুনঃঋণ দেওয়া হয়; এতে সরকারের বছরে £৮,৭৫০ মুনাফা হয় বলে সরকারি বিবৃতিতে জানানো হয়।",
+      "related_banking_power_records": [
+        "india-public-works-loan-1889",
+        "oude-rohilkund-railway-purchase-financing-1888",
+        "nizams-state-railway-london-money-market-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, col. 612, East India Revenue Accounts."
+      ],
+      "publication_status": "A-grade — direct contemporary official parliamentary statement of the financing mechanism.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -8755,7 +8806,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, prioritizing distinct monetary, institutional, sovereign-debt, or banking-network evidence and avoiding duplication of the deployed 1889 rupee-debt conversion and railway concession records.",
+  "next_priority": "Continue through 1889, prioritizing distinct monetary, institutional, sovereign-debt, or banking-network evidence and avoiding duplication of the deployed 1889 debt, conversion, and railway-concession records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9835,6 +9886,44 @@
       },
       "global_power_network": {
         "records": 107
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v63": {
+    "status": "Completed after 1889 British Government railway-company on-lending deployment",
+    "records_audited": 133,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 128,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v39": {
+    "status": "Reconciled after 1889 British Government railway-company on-lending deployment",
+    "records_mapped": 133,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 63
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 67
+      },
+      "global_power_network": {
+        "records": 108
       }
     }
   }
