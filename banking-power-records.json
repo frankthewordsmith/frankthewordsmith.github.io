@@ -1308,6 +1308,48 @@
       }
     },
     {
+      "source_id": "rothschild-greek-loan-1833",
+      "title": "Rothschild Contract for the Greek Government Loan, 1833",
+      "date_label": "1833",
+      "historical_claim": "The Greek Government contracted with Messrs. Rothschild and Co. in January 1833 for the entire 60,000,000-franc Greek loan guaranteed by Great Britain, France, and Russia; the contemporary parliamentary record states that the loan was contracted at 94 for a 5 per cent bond.",
+      "verification_status": "Verified against a contemporary House of Commons record describing the treaty-backed Greek loan and the January 1833 contract.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1855-07-27/debates/3d97be53-fb0b-4d97-8365-9e9fabb752ee/CommonsChamber",
+      "primary_passage": "the two Commissioners, one a Greek, the other a Bavarian, met at Paris, and contracted with Messrs. Rothschild and Co. in January, 1833, for the whole 60,000,000f. at one and the same time, and at one and the same price—namely, 94 for a 5 per cent bond.",
+      "passage_locator": "House of Commons, 27 July 1855, debate on the Turkish loan; retrospective parliamentary account of the Greek loan of 1832/1833, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked as a retrospective record of the January 1833 contract; direct scan of the original Greek loan contract remains a desirable supplementary archival target.",
+      "passage_type": "contemporary-parliamentary-retrospective",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 27 July 1855.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1855,
+      "publication_status": "A-grade — direct parliamentary evidence for the contract and terms, with original contract scan still a supplementary target.",
+      "evidence_limits": "The source is a parliamentary retrospective from 1855 rather than the original 1833 contract; it establishes the reported contract, amount and price but not every contractual security or distribution detail.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1833
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "rothschild-british-government-loan-1856",
       "title": "Lionel de Rothschild and the British Government Loan, 1856",
       "date_label": "1856",
@@ -6011,5 +6053,17 @@
       "rothschild-baring-eight-million-loan-1847"
     ],
     "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt or banking-power primary record; preserve all B-grade scan-upgrade queues."
+  },
+  "structural_audit_2026_10_05_v16": {
+    "status": "Completed after Greek loan 1833 deployment",
+    "records_audited": 86,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 82,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
   }
 }
