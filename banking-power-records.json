@@ -1718,6 +1718,37 @@
       ]
     },
     {
+      "source_id": "basel-stress-testing-principles-2009",
+      "title": "Basel Principles for Sound Stress Testing Practices and Supervision",
+      "date_label": "2009",
+      "historical_claim": "On 20 May 2009, the Basel Committee issued Principles for Sound Stress Testing Practices and Supervision, drawing directly on lessons from the financial crisis and establishing expectations for the governance, design and implementation of bank stress-testing programmes.",
+      "bn_title": "সুস্থ স্ট্রেস টেস্টিং অনুশীলন ও তদারকির জন্য বাসেল নীতিমালা, ২০০৯",
+      "bn_historical_claim": "২০ মে ২০০৯ সালে Basel Committee আর্থিক সংকট থেকে প্রাপ্ত শিক্ষার ভিত্তিতে ব্যাংকের stress-testing programme-এর governance, design ও implementation-এর জন্য Principles for Sound Stress Testing Practices and Supervision প্রকাশ করে।",
+      "source_url": "https://www.bis.org/publications/200905-guidelines-principles-sound-stress-testing-practices-and-supervision",
+      "verification_status": "Primary-source official BIS/BCBS final guideline verified",
+      "evidence_grade": "A",
+      "primary_passage": "The depth and duration of the financial crisis has led many banks and supervisory authorities to question the adequacy of stress testing practices prior to and during the crisis.",
+      "passage_locator": "Basel Committee on Banking Supervision, Principles for Sound Stress Testing Practices and Supervision, 20 May 2009, Executive summary/opening discussion.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final guideline",
+      "passage_source_url": "https://www.bis.org/publ/bcbs155.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Principles for Sound Stress Testing Practices and Supervision, 20 May 2009; official BIS publication.",
+      "edition": "Principles for Sound Stress Testing Practices and Supervision, May 2009.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2009,
+      "what_passage_establishes": "The passage establishes the Basel Committee's crisis-driven review of stress-testing adequacy and the issuance of principles setting supervisory expectations for stress-testing programmes.",
+      "evidence_limits": "The passage establishes the Committee's assessment and issuance of principles, not the effectiveness or implementation of stress testing by individual banks.",
+      "related_banking_power_records": [
+        "basel-liquidity-principles-2008",
+        "basel-ii-comprehensive-framework-2006"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Principles for Sound Stress Testing Practices and Supervision (May 2009)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1823,7 +1854,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 54 records, A=43, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 55 records, A=44, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
