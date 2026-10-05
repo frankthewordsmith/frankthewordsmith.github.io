@@ -2258,6 +2258,38 @@
       ]
     },
     {
+      "source_id": "basel-final-technical-amendment-operational-risk-2026",
+      "title": "Basel Finalisation of Technical Amendment and Frequently Asked Questions",
+      "date_label": "2026",
+      "historical_claim": "On 23 March 2026, the Basel Committee finalised a technical amendment to the Basel Framework concerning the standardised approach to operational risk, incorporating stakeholder feedback from the June 2025 consultation, and also issued related FAQs on market risk.",
+      "bn_title": "Basel Framework-এর কারিগরি সংশোধন ও FAQ চূড়ান্তকরণ, ২০২৬",
+      "bn_historical_claim": "২৩ মার্চ ২০২৬ সালে Basel Committee Basel Framework-এর operational risk-এর standardised approach বিষয়ে একটি কারিগরি সংশোধন চূড়ান্ত করে। এতে জুন ২০২৫-এর consultation-এর stakeholder feedback অন্তর্ভুক্ত করা হয় এবং market risk বিষয়ে সংশ্লিষ্ট FAQ-ও প্রকাশ করা হয়।",
+      "source_url": "https://www.bis.org/publications/202603-standards-finalisation-technical-amendment-and-frequently-asked-questions",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "This document sets out a final technical amendment to the Basel Framework. Technical amendments are defined as changes in standards that are not substantial in nature but that cannot be unambiguously resolved based on the current text. The amendment relates to the standardised approach to operational risk. The amendment was published for consultation in June 2025 and has been finalised with some adjustments to reflect stakeholder feedback.",
+      "passage_locator": "Basel Committee on Banking Supervision, Finalisation of technical amendment and frequently asked questions, 23 March 2026, official publication summary.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/bcbs/publ/d610.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Finalisation of technical amendment and frequently asked questions, 23 March 2026; official BIS publication.",
+      "edition": "March 2026 final technical amendment and FAQs.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2026,
+      "what_passage_establishes": "The passage establishes the 2026 final technical amendment, its scope in the standardised approach to operational risk, and its revision following stakeholder feedback.",
+      "evidence_limits": "The passage establishes the final amendment and its consultation history, not subsequent national implementation or observed effects.",
+      "related_banking_power_records": [
+        "bcbs-iosco-margin-implementation-review-2025",
+        "basel-core-principles-revised-2024",
+        "basel-final-technical-amendments-2023"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Finalisation of technical amendment and frequently asked questions (March 2026)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2363,7 +2395,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 71 records, A=60, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=61, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
