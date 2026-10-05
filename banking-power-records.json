@@ -1193,6 +1193,39 @@
       ]
     },
     {
+      "source_id": "basel-accord-compliance-1993",
+      "title": "Basel Committee confirms G10 banks meeting minimum capital requirements",
+      "date_label": "1993",
+      "historical_claim": "In September 1993, the Basel Committee reported that banks in the G10 countries with material international banking business were meeting the minimum capital requirements established by the 1988 Basel Capital Accord.",
+      "bn_title": "G10 ব্যাংকগুলোর ন্যূনতম মূলধন মান পূরণ—বাসেল কমিটির ১৯৯৩ নিশ্চিতকরণ",
+      "bn_historical_claim": "সেপ্টেম্বর ১৯৯৩ সালে বাসেল কমিটি জানায় যে উল্লেখযোগ্য আন্তর্জাতিক ব্যাংকিং কার্যক্রম থাকা G10 দেশগুলোর ব্যাংকগুলো ১৯৮৮ সালের Basel Capital Accord-এ নির্ধারিত ন্যূনতম মূলধন মান পূরণ করছিল।",
+      "source_url": "https://www.bis.org/committees/bcbs/history",
+      "verification_status": "Primary-source official BIS/BCBS historical record verified",
+      "evidence_grade": "A",
+      "notes": "The official BIS Basel Committee history states that the 1988 Capital Accord required a minimum capital-to-risk-weighted-assets ratio of 8% to be implemented by the end of 1992, and that in September 1993 the Committee issued a statement confirming that G10 banks with material international banking business were meeting the Accord's minimum requirements. This provides a clear 1993 institutional checkpoint following the 1992 implementation deadline.",
+      "primary_passage": "In September 1993, the Committee issued a statement confirming that G10 countries' banks with material international banking business were meeting the minimum requirements set out in the Accord.",
+      "passage_locator": "Bank for International Settlements, Basel Committee on Banking Supervision History, section 'The Basel Capital Accord', paragraph beginning 'The 1988 Accord called for a minimum ratio...'; September 1993 confirmation.",
+      "passage_status": "Passage locked — official BIS/BCBS institutional history",
+      "passage_source_url": "https://www.bis.org/committees/bcbs/history",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Bank for International Settlements, Basel Committee on Banking Supervision, official history page documenting the September 1993 statement on implementation of the Basel Capital Accord.",
+      "edition": "BCBS History — The Basel Capital Accord section.",
+      "publisher": "Bank for International Settlements / Basel Committee on Banking Supervision",
+      "publication_year": 1993,
+      "what_passage_establishes": "The passage establishes the Basel Committee's September 1993 confirmation that G10 banks with material international banking business were meeting the minimum requirements of the 1988 Accord.",
+      "evidence_limits": "The passage establishes the Committee's institutional confirmation, not an independent bank-by-bank audit, the precise capital ratios of individual banks, or compliance outside the stated G10 population.",
+      "related_banking_power_records": [
+        "basel-capital-accord-1988",
+        "basel-minimum-standards-cross-border-1992"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, International convergence of capital measurement and capital standards (July 1988).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1298,7 +1331,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 38 records, A=27, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 39 records, A=28, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
