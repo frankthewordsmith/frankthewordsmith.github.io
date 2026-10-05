@@ -1093,6 +1093,39 @@
       ]
     },
     {
+      "source_id": "cpss-established-1990",
+      "title": "Committee on Payment and Settlement Systems established",
+      "date_label": "1990",
+      "historical_claim": "In 1990, the G10 Governors established the Committee on Payment and Settlement Systems (CPSS) as a permanent central bank committee to monitor and analyse payment and settlement developments, including cross-border and multicurrency arrangements.",
+      "bn_title": "কমিটি অন পেমেন্ট অ্যান্ড সেটেলমেন্ট সিস্টেমস প্রতিষ্ঠা",
+      "bn_historical_claim": "১৯৯০ সালে G10 গভর্নররা Committee on Payment and Settlement Systems (CPSS) প্রতিষ্ঠা করেন, যা আন্তঃদেশীয় ও বহু-মুদ্রাভিত্তিক পেমেন্ট ও সেটেলমেন্ট ব্যবস্থার উন্নয়ন পর্যবেক্ষণ ও বিশ্লেষণের জন্য একটি স্থায়ী কেন্দ্রীয় ব্যাংক কমিটি হিসেবে কাজ করে।",
+      "source_url": "https://www.bis.org/committees/cpmi/history",
+      "verification_status": "Primary institutional record verified",
+      "evidence_grade": "A",
+      "notes": "The BIS's official CPSS/CPMI history states that in 1990 the G10 Governors established the Committee on Payment and Settlement Systems as a follow-up to the Committee on Interbank Netting Schemes and the Group of Experts on Payment Systems. The BIS historical timeline places the creation in November 1990 and identifies the committee's remit as policy and oversight issues related to cross-border and multicurrency interbank netting schemes. The 1990 Lamfalussy Report provides contemporary institutional context for the transition from the ad hoc netting committee to the permanent CPSS.",
+      "primary_passage": "In 1990, the G10 Governors established the Committee on Payment and Settlement Systems (CPSS) as a follow-up to the work of the Committee on Interbank Netting Schemes.",
+      "passage_locator": "BIS, CPMI History, section “1990: Committee on Payment and Settlement Systems (CPSS)”; BIS institutional timeline identifies November 1990.",
+      "passage_status": "Passage locked — official institutional history with contemporary 1990 publication context",
+      "passage_source_url": "https://www.bis.org/committees/cpmi/history",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Committee on Payment and Settlement Systems (CPSS), established by the G10 Governors in 1990; institutional history maintained by the Bank for International Settlements.",
+      "edition": "BIS, CPMI History; BIS institutional timeline, November 1990 entry.",
+      "publisher": "Bank for International Settlements / G10 central bank Governors",
+      "publication_year": 1990,
+      "what_passage_establishes": "The official BIS record establishes the creation of CPSS by the G10 Governors in 1990 and its continuity from the 1989 interbank-netting work.",
+      "evidence_limits": "This record establishes the institutional creation and mandate. It does not by itself establish that CPSS possessed supranational regulatory or legally binding authority; BIS describes the committee as a central-bank cooperation and standard-setting forum.",
+      "related_banking_power_records": [
+        "basel-capital-accord-1988",
+        "asian-crisis-1997"
+      ],
+      "scholarly_references": [
+        "Bank for International Settlements, *History of the Basel Committee and its Membership* (2001), for the broader development of BIS-hosted G10 committees.",
+        "Bank for International Settlements, *Report of the Committee on Interbank Netting Schemes of the central banks of the Group of Ten countries* (Lamfalussy Report), November 1990."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1198,7 +1231,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the frozen audited distribution: 35 records, A=24, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 36 records, A=25, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
