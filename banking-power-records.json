@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "109-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "110-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2646,6 +2646,63 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1877
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-public-works-loan-policy-select-committee-1878",
+      "title": "India Public Works, 1878: Parliamentary Inquiry into Loan-Financed Works",
+      "date_label": "1878",
+      "historical_claim": "In January 1878 Parliament formally moved for a Select Committee to examine the expediency of constructing Indian public works with money raised by loan, amid a stated concern over the financial burden of public-works expenditure and the post-Mutiny shift from guaranteed companies toward State borrowing.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 22 January 1878.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1878/jan/22/motion-for-a-select-committee",
+      "bn_title": "ভারতের জনপূর্ত, ১৮৭৮: ঋণ-অর্থায়িত জনপূর্ত নিয়ে সংসদীয় তদন্ত",
+      "bn_historical_claim": "১৮৭৮ সালের জানুয়ারিতে ভারতীয় জনপূর্ত ঋণের অর্থে নির্মাণের যৌক্তিকতা পরীক্ষা করতে সংসদে একটি সিলেক্ট কমিটি গঠনের প্রস্তাব ওঠে; একই বিতর্কে গ্যারান্টিযুক্ত কোম্পানি থেকে সরকারি ঋণগ্রহণে রূপান্তর এবং এর আর্থিক বোঝা নিয়ে আলোচনা হয়।",
+      "notes": "This record is distinct from the 1877 borrowing-authority record: it captures the 1878 parliamentary institutional response and proposed scrutiny of loan-financed public works. The debate also gives a retrospective explanation of the transition from guaranteed railway companies to State borrowing.",
+      "primary_passage": "That was the origin of guaranteeing railways in India.",
+      "passage_locator": "Hansard, House of Commons, 22 January 1878, 'Motion for a Select Committee', vol. 237, cols. 323–356; Lord George Hamilton's opening statement, especially cols. 323–325.",
+      "passage_status": "Passage locked — contemporary parliamentary text verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1878/jan/22/motion-for-a-select-committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard, Motion for a Select Committee on East India (Public Works), 22 January 1878; motion by Lord George Hamilton.",
+      "edition": "Hansard, House of Commons, 22 January 1878, vol. 237, cols. 323–356.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1878,
+      "what_passage_establishes": "The debate records the historical origin of India's railway guarantee system and explains that the post-Mutiny public-works system drew on two sources of capital: guaranteed-company capital and loans raised in the market by the State. It also records the formal motion to inquire into the expediency of constructing public works in India with money raised on loan.",
+      "evidence_limits": "The quoted sentence alone establishes only the stated origin of the guarantee system; the broader institutional and financing claims depend on the surrounding Hansard passage. It does not establish a particular 1878 loan issue, lender, interest rate, price, or settlement date, and the Select Committee motion itself is not evidence that all proposed borrowing was actually undertaken.",
+      "related_banking_power_records": [
+        "india-famine-loan-and-direct-government-borrowing-1877",
+        "india-public-works-borrowing-and-state-railways-1876",
+        "india-railways-direct-borrowing-policy-1869"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 22 January 1878, vol. 237, cols. 323–356."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary evidence; documents the 1878 parliamentary scrutiny of loan-financed Indian public works and the institutional history of State borrowing.",
+      "year": 1878,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1878
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7422,7 +7479,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1878 primary evidence, avoiding duplicate coverage of the 1877 famine-loan and direct-government-borrowing record.",
+  "next_priority": "Continue chronologically with the strongest distinct 1879 primary evidence, avoiding duplicate coverage of the 1878 parliamentary public-works loan-policy record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7672,6 +7729,42 @@
       },
       "global_power_network": {
         "records": 85
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v40": {
+    "status": "Completed after 1878 India public-works loan-policy deployment",
+    "records_audited": 110,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 105,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v16": {
+    "status": "Reconciled after 1878 India public-works loan-policy deployment",
+    "records_mapped": 110,
+    "maps": {
+      "central_banks": {
+        "records": 76
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 44
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 86
       }
     }
   }
