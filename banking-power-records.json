@@ -1746,6 +1746,49 @@
       }
     },
     {
+      "source_id": "east-india-railway-finance-1862",
+      "title": "East India Railway Finance: Government Borrowing and Railway Company Payments",
+      "date_label": "1862",
+      "year": 1862,
+      "historical_claim": "In 1862 the Indian Government explained that railway expenditure was substantially financed through Government borrowing, while the railway companies were responsible for payments into the Home Treasury; contemporary debate recorded the resulting shortfall between railway expenditure and company payments.",
+      "verification_status": "Verified against contemporary House of Commons evidence.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1862-06-19/debates/8425fcff-7850-41cd-a722-d97c8dadad3b/TheCottonSupply",
+      "primary_passage": "the money spent on railways is substantially borrowed by the Government.",
+      "passage_locator": "House of Commons, 19 June 1862, The Cotton Supply, Hansard; discussion of Indian finance and railway expenditure.",
+      "passage_status": "Exact contemporary parliamentary wording locked.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 19 June 1862.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1862,
+      "publication_status": "A-grade — contemporary parliamentary evidence.",
+      "evidence_limits": "The passage establishes the financing structure at a high level; it does not by itself identify a particular lender, issue, interest rate, or loan contract.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1862
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "east-india-loan-outcome-1862-64",
       "title": "East India Loan: Railway Companies Ultimately Supplied the Required Funds",
       "date_label": "1864",
@@ -6550,6 +6593,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 90,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v27": {
+    "status": "Completed after 1862 East India railway-finance deployment",
+    "records_audited": 96,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 91,
       "B": 5,
       "C": 0,
       "D": 0
