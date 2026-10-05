@@ -1662,6 +1662,48 @@
       }
     },
     {
+      "source_id": "east-india-loan-1861-4m",
+      "title": "East India £4 Million Loan, 1861",
+      "date_label": "1861",
+      "historical_claim": "In June 1861 Parliament was asked to sanction a £4,000,000 loan for the service of India; the Secretary of State for India explained that the borrowing was required because railway receipts and expenditure had produced a shortfall, rather than because ordinary Indian government revenue was insufficient.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan Bill debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1861-06-13/debates/91b1cf03-4782-4526-879f-4f33d76da633/EastIndiaLoanBill",
+      "primary_passage": "the House was now asked to sanction a loan on account of India to the amount of £4,000,000.",
+      "passage_locator": "House of Commons, 13 June 1861, East India Loan Bill, Committee, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; the debate establishes the £4,000,000 loan request and the associated increase in Indian debt.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 13 June 1861.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1861,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £4,000,000 Indian loan.",
+      "evidence_limits": "This record does not establish the final lender, issue price, subscription result, or complete contractual terms. It also does not imply that the borrowing was for ordinary Indian revenue needs; the debate specifically linked the loan to railway-related requirements.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1861
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
@@ -6387,6 +6429,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 87,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v23": {
+    "status": "Completed after 1861 East India £4m loan deployment",
+    "records_audited": 93,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 88,
       "B": 5,
       "C": 0,
       "D": 0
