@@ -997,48 +997,6 @@
       "deployment_note": "Added as a qualified Sovereign Debt candidate; upgrade only after direct 1829 primary-document transcription."
     },
     {
-      "source_id": "greek-loan-guarantee-convention-1832",
-      "title": "Greek Loan Guarantee Convention, 1832",
-      "date_label": "1832",
-      "historical_claim": "The 1832 Convention among Great Britain, France, Russia and Bavaria provided for a Greek Government loan of up to 60,000,000 francs, guaranteed by Great Britain, France and Russia, with the interest and sinking fund secured on the first revenues of the Greek State and the loan to be raised in three 20,000,000-franc instalments.",
-      "verification_status": "Verified against the contemporary House of Commons record reproducing the Convention's financial provisions.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/Lords/1832-08-13/debates/ba5b08e8-bfe1-4e35-a022-8cbea576c5a7/GreekLoanConvention",
-      "primary_passage": "The loan proposed was 60,000,000 of livres to be equally divided between the Three Powers, each of which was to be liable only for its own quota. This sum was to be advanced by instalments, with securities upon the revenues of the country for the payment of the interest, and for the accumulation of a sinking fund to discharge the principal itself.",
-      "passage_locator": "House of Lords, 13 August 1832, Greek Loan Convention, Hansard; Earl Grey's second-reading explanation of the Convention.",
-      "passage_status": "Exact contemporary parliamentary wording locked; the debate records the Convention's guarantee structure and revenue security. The original treaty scan remains a supplementary archival target.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Lords, 13 August 1832.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1832,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the guarantee and security framework.",
-      "evidence_limits": "The passage establishes the governmental guarantee and security structure, not the later 1833 Rothschild contracting/issue terms, which are separately recorded in the 1833 Greek loan record.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1832
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "banking_dynasties",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
       "source_id": "rothschild-british-slavery-compensation-loan-1835",
       "title": "British Government Slavery Compensation Loan, 1835",
       "date_label": "1835",
@@ -1088,92 +1046,6 @@
         "research_maps": [
           "banking_dynasties",
           "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "rothschild-exchequer-bills-1839",
-      "title": "Rothschild Offer for Funding Exchequer Bills, 1839",
-      "date_label": "1839",
-      "historical_claim": "In August 1839, during the funding of Exchequer bills, Messrs. Rothschild submitted a tender alongside the Bank of England and the Commercial Bank of Scotland; the Bank of England's tender was accepted.",
-      "verification_status": "Verified against the contemporary House of Commons record.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1839-08-19/debates/c5edc859-fc4c-4ef5-8c4a-21a97661e58c/FundingOfExchequerBills",
-      "primary_passage": "The offer made by the Bank of England was 109 l. 5 s. 10 d.; the offer of Messrs. Rothschild was 110 l. 17 s. 6 d.; and the offer by the Commercial Bank of Scotland was 111 l.; while the proposal on the part of the Government, as expressed in the sealed paper, was 110 l. Of course the tender by the Bank of England was received.",
-      "passage_locator": "House of Commons, 19 August 1839, Funding of Exchequer Bills, Hansard.",
-      "passage_status": "Exact contemporary parliamentary wording locked; establishes competing tenders and acceptance of the Bank of England tender.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 19 August 1839.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1839,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the competing tender and outcome.",
-      "evidence_limits": "This record concerns funding Exchequer bills, not a long-term sovereign bond issue; it does not establish Rothschild's role beyond making the stated tender.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1839
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "banking_dynasties",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "french-consol-reduction-rothschild-baring-1839",
-      "title": "Rothschild and Baring French Government Loan Proposal, 1839",
-      "date_label": "1839",
-      "historical_claim": "A contemporary House of Commons report stated that, had the French proposal to reduce the Five per Cents passed, Mr. Rothschild and Mr. Alexander Baring had undertaken by a loan to the French Government to assist in carrying the reduction into effect, with Rothschild separately agreeing with the Bank of England for advances of up to £2,000,000 on stock.",
-      "verification_status": "Verified against the contemporary House of Commons record, but classified narrowly because the report is itself based on information given to a Member rather than a reproduced loan contract.",
-      "evidence_grade": "B",
-      "source_url": "https://hansard.parliament.uk/commons/1839-07-08/debates/a58c2e47-4b1f-4463-9692-edb428a16405/CommonsChamber",
-      "primary_passage": "Mr. Rothschild and Mr. Alexander Baring had undertaken by a loan to the French government to assist to carry the plan into effect, and that the former gentleman had made an agreement with the Bank of England, that it should make him advances of two millions on stock.",
-      "passage_locator": "House of Commons, 8 July 1839, Commons Chamber, Hansard; statement during discussion of Bank of England advances and the French Five per Cents proposal.",
-      "passage_status": "Qualified contemporary parliamentary report locked; wording is presented in the debate as information received from a source described as good authority, not as a reproduced original contract.",
-      "passage_type": "contemporary-parliamentary-report",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 8 July 1839.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1839,
-      "publication_status": "B-grade — useful contemporary lead; original French Government loan undertaking and Bank of England agreement should be located before any A-grade upgrade.",
-      "evidence_limits": "The debate does not reproduce the underlying agreement, and the French parliamentary proposal failed; therefore this record does not establish that the contemplated loan was actually completed.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1839
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "banking_dynasties",
-          "central_banks",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "central_banks",
           "global_power_network"
         ]
       }
@@ -1436,48 +1308,6 @@
       }
     },
     {
-      "source_id": "rothschild-greek-loan-1833",
-      "title": "Rothschild Contract for the Greek Government Loan, 1833",
-      "date_label": "1833",
-      "historical_claim": "The Greek Government contracted with Messrs. Rothschild and Co. in January 1833 for the entire 60,000,000-franc Greek loan guaranteed by Great Britain, France, and Russia; the contemporary parliamentary record states that the loan was contracted at 94 for a 5 per cent bond.",
-      "verification_status": "Verified against a contemporary House of Commons record describing the treaty-backed Greek loan and the January 1833 contract.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/Commons/1855-07-27/debates/3d97be53-fb0b-4d97-8365-9e9fabb752ee/CommonsChamber",
-      "primary_passage": "the two Commissioners, one a Greek, the other a Bavarian, met at Paris, and contracted with Messrs. Rothschild and Co. in January, 1833, for the whole 60,000,000f. at one and the same time, and at one and the same price—namely, 94 for a 5 per cent bond.",
-      "passage_locator": "House of Commons, 27 July 1855, debate on the Turkish loan; retrospective parliamentary account of the Greek loan of 1832/1833, Hansard.",
-      "passage_status": "Exact contemporary parliamentary wording locked as a retrospective record of the January 1833 contract; direct scan of the original Greek loan contract remains a desirable supplementary archival target.",
-      "passage_type": "contemporary-parliamentary-retrospective",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 27 July 1855.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1855,
-      "publication_status": "A-grade — direct parliamentary evidence for the contract and terms, with original contract scan still a supplementary target.",
-      "evidence_limits": "The source is a parliamentary retrospective from 1855 rather than the original 1833 contract; it establishes the reported contract, amount and price but not every contractual security or distribution detail.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1833
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "banking_dynasties",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
       "source_id": "rothschild-british-government-loan-1856",
       "title": "Lionel de Rothschild and the British Government Loan, 1856",
       "date_label": "1856",
@@ -1534,216 +1364,6 @@
         ]
       },
       "deployment_note": "Added during the Sovereign Debt expansion pass as a high-confidence official parliamentary primary record."
-    },
-    {
-      "source_id": "east-india-loan-1858",
-      "title": "East India Company £8 Million Home Loan Authority, 1858",
-      "date_label": "1858",
-      "historical_claim": "In 1858 Parliament authorized the East India Company to raise up to £8,000,000 by loan in the United Kingdom for the service of the Government of India during the financial emergency following the Indian revolt, while the contemporary debate addressed the relationship between Indian borrowing, the Bank of England, and possible British fiscal responsibility.",
-      "verification_status": "Verified against the contemporary House of Commons East India Loan Bill debate.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1858-02-22/debates/d987e587-b173-441b-936e-10153f922919/EastIndiaLoanBill",
-      "primary_passage": "Clause 1, empowering the Company to raise (£) by way of loan. THE CHANCELLOR OF THE EXCHEQUER proposed to fill up the blank with £8,000,000.",
-      "passage_locator": "House of Commons, 22 February 1858, East India Loan Bill, Committee, Hansard.",
-      "passage_status": "Contemporary parliamentary wording locked; the debate establishes the statutory borrowing authority and its purpose in meeting the Indian Government's financial emergency.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 22 February 1858.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1858,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the £8,000,000 borrowing authority.",
-      "evidence_limits": "This record establishes parliamentary borrowing authority, not the precise amount ultimately drawn, final lenders, or complete contractual terms. The debate separately records an existing £1,000,000 Bank of England loan and earlier East India loans.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1858
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "central_banks",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "central_banks",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loan-1859-7m",
-      "title": "East India £7 Million Loan on Indian Security, 1859",
-      "date_label": "1859",
-      "historical_claim": "In March 1859 the British Government sought parliamentary authority for a £7,000,000 loan on Indian security to meet the financial requirements arising from the Indian mutiny and its aftermath; the Government subsequently recognized that additional borrowing in England would be necessary.",
-      "verification_status": "Verified against the contemporary House of Lords Indian Finance debate.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/Lords/1859-03-25/debates/35c86b9a-dcea-4aa5-bfb7-65b2daf54ba9/LordsChamber",
-      "primary_passage": "the reasons which induced the Government to believe at the time they made a proposition to raise a loan of £7,000,000 on Indian security, that that amount would be sufficient, and the circumstances which have induced them within the last few days to entertain a different opinion.",
-      "passage_locator": "House of Lords, 25 March 1859, Indian Finance, Hansard; statement concerning the £7,000,000 loan on Indian security.",
-      "passage_status": "Exact contemporary parliamentary wording locked; establishes the £7,000,000 loan proposal on Indian security and the Government's subsequent recognition of additional requirements.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Lords, 25 March 1859.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1859,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the £7,000,000 Indian-security loan proposal.",
-      "evidence_limits": "This passage establishes the Government's loan proposal and financial context, but not the final lender, issue price, subscription result, or full statutory terms.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1859
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loan-1860-3m",
-      "title": "East India £3 Million Home Loan Authority, 1860",
-      "date_label": "1860",
-      "historical_claim": "In August 1860 Parliament moved to authorize the Secretary of State for India to raise £3,000,000 in the United Kingdom by loan for the service of the Government of India, against a background of a projected Indian revenue deficiency of £7,472,000 for the year.",
-      "verification_status": "Verified against the contemporary House of Lords East India Loan Bill debate.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/Lords/1860-08-21/debates/911bd174-f7a3-49c4-837e-98db2e39d736/EastIndiaLoanBill",
-      "primary_passage": "its object to enable the Secretary of State for India to raise in this country by loan a sum of £3,000,000.",
-      "passage_locator": "House of Lords, 21 August 1860, East India Loan Bill, First Reading, Hansard.",
-      "passage_status": "Exact contemporary parliamentary wording locked; establishes the proposed £3,000,000 home borrowing authority and its Indian Government purpose.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Lords, 21 August 1860.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1860,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the £3,000,000 borrowing authority.",
-      "evidence_limits": "This passage does not establish the eventual lender, issue terms, subscription result, or amount actually drawn. It is distinct from the earlier 1859 £7,000,000 Indian-security loan proposal.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1860
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "central_banks",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "central_banks",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loan-1861-4m",
-      "title": "East India £4 Million Loan, 1861",
-      "date_label": "1861",
-      "historical_claim": "In June 1861 Parliament was asked to sanction a £4,000,000 loan for the service of India; the Secretary of State for India explained that the borrowing was required because railway receipts and expenditure had produced a shortfall, rather than because ordinary Indian government revenue was insufficient.",
-      "verification_status": "Verified against the contemporary House of Commons East India Loan Bill debate.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/Commons/1861-06-13/debates/91b1cf03-4782-4526-879f-4f33d76da633/EastIndiaLoanBill",
-      "primary_passage": "the House was now asked to sanction a loan on account of India to the amount of £4,000,000.",
-      "passage_locator": "House of Commons, 13 June 1861, East India Loan Bill, Committee, Hansard.",
-      "passage_status": "Exact contemporary parliamentary wording locked; the debate establishes the £4,000,000 loan request and the associated increase in Indian debt.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 13 June 1861.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1861,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the £4,000,000 Indian loan.",
-      "evidence_limits": "This record does not establish the final lender, issue price, subscription result, or complete contractual terms. It also does not imply that the borrowing was for ordinary Indian revenue needs; the debate specifically linked the loan to railway-related requirements.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1861
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-railway-contingent-loan-1861",
-      "title": "East India Railway Contingent Borrowing Authority, 1861",
-      "date_label": "1861",
-      "historical_claim": "In July 1861 the Secretary of State for India sought discretionary authority to raise additional money if Indian railway companies failed to furnish the funds required for railway construction; the proposed borrowing was to be used only if the companies did not raise the necessary sums themselves.",
-      "verification_status": "Verified against the contemporary House of Commons East India Loan debate.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1861-07-25/debates/f36381b3-c055-45a9-bf32-1a25ab76b50e/EastIndiaLoan",
-      "primary_passage": "I now rise to ask for such powers to raise money to be used only in the event of the railway companies not furnishing the sum required.",
-      "passage_locator": "House of Commons, 25 July 1861, East India Loan, Hansard; Sir Charles Wood's explanation of proposed discretionary borrowing for Indian railway expenditure.",
-      "passage_status": "Exact contemporary parliamentary wording locked; establishes contingent borrowing authority tied to railway companies' failure to raise required funds.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 25 July 1861.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1861,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the contingent railway borrowing authority.",
-      "evidence_limits": "This is distinct from the £4,000,000 loan already recorded for 1861. It establishes a contingent power, not proof that the additional power was exercised or that the Government ultimately borrowed under it.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1861
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ]
-      }
     },
     {
       "source_id": "east-india-railway-finance-1861-home-treasury",
@@ -1968,6 +1588,119 @@
         "chapter_title": null,
         "research_maps": [
           "financial_crises"
+        ]
+      }
+    },
+    {
+      "source_id": "india-railways-finance-1867",
+      "title": "Indian Railways Finance: No Additional Guaranteed Capital Announced, 1867",
+      "date_label": "1867",
+      "historical_claim": "In July 1867 the Secretary of State for India stated that no additional guaranteed capital was required for Indian railway works beyond amounts already announced, while the amount to be raised for 1867–68 to meet current expenditure, repay debt due to Government, and maintain a small balance was estimated at £8–9 million.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from Hansard, House of Commons, 8 July 1867.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1867/jul/08/india-indian-railways-question",
+      "bn_title": "ভারতীয় রেলওয়ে অর্থায়ন: ১৮৬৭ সালে অতিরিক্ত গ্যারান্টিযুক্ত মূলধনের ঘোষণা নেই",
+      "bn_historical_claim": "১৮৬৭ সালের জুলাইয়ে ভারতের সচিব জানান যে ইতিমধ্যে ঘোষিত অর্থের বাইরে ভারতীয় রেলওয়ে নির্মাণের জন্য অতিরিক্ত গ্যারান্টিযুক্ত মূলধনের প্রয়োজন নেই; একই সময়ে ১৮৬৭–৬৮ সালে চলতি ব্যয়, সরকারের কাছে বকেয়া ঋণ পরিশোধ এবং সামান্য নগদ উদ্বৃত্ত রাখার জন্য £৮–৯ মিলিয়ন সংগ্রহের প্রয়োজন হবে বলে জানানো হয়।",
+      "notes": "This record captures the contemporary 1867 parliamentary financing position without importing the later 1877 retrospective explanation that the Government had decided to raise railway funds directly. The 1867 exchange is therefore evidence of the financing requirement and the absence of newly announced guaranteed railway capital, but not by itself proof of the precise legal instrument or lender used for the £8–9 million.",
+      "primary_passage": "there would be no capital required, except what had already been mentioned in the Report on these railways",
+      "passage_locator": "Hansard, House of Commons, 8 July 1867, 'India—Indian Railways.—Question', vol. 188, col. 1192; Sir Stafford Northcote's answer to Mr. Finlay.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1867/jul/08/india-indian-railways-question",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons parliamentary debate, 8 July 1867; question on additional guaranteed capital for Indian railway works and answer by Sir Stafford Northcote, Secretary of State for India.",
+      "edition": "Hansard, House of Commons, 8 July 1867, vol. 188, col. 1192.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1867,
+      "what_passage_establishes": "The passage establishes that, as of 8 July 1867, the Government did not expect additional guaranteed railway capital beyond amounts already announced; the same answer states that £8–9 million would be raised in 1867–68 for current expenditure, repayment of debt due to Government, and a small balance.",
+      "evidence_limits": "The passage does not by itself identify the precise borrowing instrument, lender, interest rate, issue terms, or prove that the full £8–9 million was raised specifically for railway construction. It should not be used alone to establish the later policy conclusion that the Indian Government had fully replaced guaranteed-company finance with direct borrowing.",
+      "related_banking_power_records": [
+        "east-india-loan-outcome-1862-64",
+        "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 8 July 1867, vol. 188, col. 1192."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; suitable as the 1867 financing-transition evidence anchor, with later retrospective sources kept as corroboration only.",
+      "year": 1867,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1867
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-revenue-accounts-1868-railway-guaranteed-interest",
+      "title": "India Revenue Accounts, 1868: Guaranteed Railway Interest Burden",
+      "date_label": "1868",
+      "historical_claim": "The 1868 Indian Revenue Accounts recorded a substantial increase in the charge for guaranteed interest on Indian railway capital: for the year ending 31 March 1867 the net guaranteed interest charge, after traffic receipts, was £731,049, while the accounts for 1867–68 showed a further increase in guaranteed-interest charges and the continuing separation of railway guaranteed-interest obligations from ordinary Indian revenue and public-works expenditure.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from Hansard, House of Commons, 27 July 1868.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1868-07-27/debates/50625bba-329c-43f7-8a48-a2ad0387394c/India%E2%80%94EastIndiaRevenueAccounts%E2%80%94Committee",
+      "bn_title": "ভারতের রাজস্ব হিসাব, ১৮৬৮: গ্যারান্টিযুক্ত রেলওয়ে সুদের বোঝা",
+      "bn_historical_claim": "১৮৬৮ সালের ভারতের রাজস্ব হিসাবগুলোতে ভারতীয় রেলওয়ে মূলধনের গ্যারান্টিযুক্ত সুদের ব্যয়কে পৃথক আর্থিক বোঝা হিসেবে দেখানো হয়। ১৮৬৭ সালের শেষ হওয়া বছরে ট্রাফিক রসিদ বাদ দেওয়ার পর এই গ্যারান্টিযুক্ত সুদের নিট ব্যয় ছিল £৭৩১,০৪৯; ১৮৬৭–৬৮ হিসাবেও এই খাতে উল্লেখযোগ্য বৃদ্ধি দেখা যায়।",
+      "notes": "This record is deliberately narrower than the later 1877 retrospective account of the 1867 policy shift. The 1868 contemporary accounts establish the continuing fiscal burden of guaranteed railway capital and its separate accounting treatment; they do not by themselves prove that all new railway borrowing had shifted to direct Government borrowing.",
+      "primary_passage": "the Guaranteed Interest on the Capital of Railway and other Companies, in India and in England, deducting net Traffic Receipts, was £731,049",
+      "passage_locator": "Hansard, House of Commons, 27 July 1868, 'India—East India Revenue Accounts—Committee'; resolution covering the year ending 31 March 1867.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://hansard.parliament.uk/commons/1868-07-27/debates/50625bba-329c-43f7-8a48-a2ad0387394c/India%E2%80%94EastIndiaRevenueAccounts%E2%80%94Committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons parliamentary financial accounts debate, 27 July 1868, reporting Indian revenue, expenditure, debt interest, public works and guaranteed railway-company interest.",
+      "edition": "Hansard, House of Commons, 27 July 1868.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1868,
+      "what_passage_establishes": "The passage establishes the separately reported guaranteed-interest burden on railway and other company capital in the Indian accounts, with £731,049 recorded after deduction of net traffic receipts for the year ending 31 March 1867. The same debate discusses an additional £660,000 increase in guaranteed railway interest in the 1867–68 estimate.",
+      "evidence_limits": "The passage does not identify individual lenders, loan instruments, issue prices, or prove the exact transition from guaranteed-company borrowing to direct Government borrowing. Those propositions require separate primary evidence.",
+      "related_banking_power_records": [
+        "india-railways-finance-1867",
+        "east-india-loan-outcome-1862-64",
+        "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 July 1868, India—East India Revenue Accounts—Committee."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary financial-account evidence with exact passage locked.",
+      "year": 1868,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1868
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
         ]
       }
     },
@@ -5195,44 +4928,242 @@
       }
     },
     {
-      "source_id": "india-railways-finance-1867",
-      "title": "Indian Railways Finance: No Additional Guaranteed Capital Announced, 1867",
-      "date_label": "1867",
-      "historical_claim": "In July 1867 the Secretary of State for India stated that no additional guaranteed capital was required for Indian railway works beyond amounts already announced, while the amount to be raised for 1867–68 to meet current expenditure, repay debt due to Government, and maintain a small balance was estimated at £8–9 million.",
-      "verification_status": "Contemporary parliamentary primary evidence verified from Hansard, House of Commons, 8 July 1867.",
+      "source_id": "greek-loan-guarantee-convention-1832",
+      "title": "Greek Loan Guarantee Convention, 1832",
+      "date_label": "1832",
+      "historical_claim": "The 1832 Convention among Great Britain, France, Russia and Bavaria provided for a Greek Government loan of up to 60,000,000 francs, guaranteed by Great Britain, France and Russia, with the interest and sinking fund secured on the first revenues of the Greek State and the loan to be raised in three 20,000,000-franc instalments.",
+      "verification_status": "Verified against the contemporary House of Commons record reproducing the Convention's financial provisions.",
       "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1867/jul/08/india-indian-railways-question",
-      "bn_title": "ভারতীয় রেলওয়ে অর্থায়ন: ১৮৬৭ সালে অতিরিক্ত গ্যারান্টিযুক্ত মূলধনের ঘোষণা নেই",
-      "bn_historical_claim": "১৮৬৭ সালের জুলাইয়ে ভারতের সচিব জানান যে ইতিমধ্যে ঘোষিত অর্থের বাইরে ভারতীয় রেলওয়ে নির্মাণের জন্য অতিরিক্ত গ্যারান্টিযুক্ত মূলধনের প্রয়োজন নেই; একই সময়ে ১৮৬৭–৬৮ সালে চলতি ব্যয়, সরকারের কাছে বকেয়া ঋণ পরিশোধ এবং সামান্য নগদ উদ্বৃত্ত রাখার জন্য £৮–৯ মিলিয়ন সংগ্রহের প্রয়োজন হবে বলে জানানো হয়।",
-      "notes": "This record captures the contemporary 1867 parliamentary financing position without importing the later 1877 retrospective explanation that the Government had decided to raise railway funds directly. The 1867 exchange is therefore evidence of the financing requirement and the absence of newly announced guaranteed railway capital, but not by itself proof of the precise legal instrument or lender used for the £8–9 million.",
-      "primary_passage": "there would be no capital required, except what had already been mentioned in the Report on these railways",
-      "passage_locator": "Hansard, House of Commons, 8 July 1867, 'India—Indian Railways.—Question', vol. 188, col. 1192; Sir Stafford Northcote's answer to Mr. Finlay.",
-      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1867/jul/08/india-indian-railways-question",
-      "passage_type": "english-primary-text",
+      "source_url": "https://hansard.parliament.uk/Lords/1832-08-13/debates/ba5b08e8-bfe1-4e35-a022-8cbea576c5a7/GreekLoanConvention",
+      "primary_passage": "The loan proposed was 60,000,000 of livres to be equally divided between the Three Powers, each of which was to be liable only for its own quota. This sum was to be advanced by instalments, with securities upon the revenues of the country for the payment of the interest, and for the accumulation of a sinking fund to discharge the principal itself.",
+      "passage_locator": "House of Lords, 13 August 1832, Greek Loan Convention, Hansard; Earl Grey's second-reading explanation of the Convention.",
+      "passage_status": "Exact contemporary parliamentary wording locked; the debate records the Convention's guarantee structure and revenue security. The original treaty scan remains a supplementary archival target.",
+      "passage_type": "contemporary-parliamentary-record",
       "language": "English",
       "last_verified": "2026-10-05",
-      "source_identity": "House of Commons parliamentary debate, 8 July 1867; question on additional guaranteed capital for Indian railway works and answer by Sir Stafford Northcote, Secretary of State for India.",
-      "edition": "Hansard, House of Commons, 8 July 1867, vol. 188, col. 1192.",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1867,
-      "what_passage_establishes": "The passage establishes that, as of 8 July 1867, the Government did not expect additional guaranteed railway capital beyond amounts already announced; the same answer states that £8–9 million would be raised in 1867–68 for current expenditure, repayment of debt due to Government, and a small balance.",
-      "evidence_limits": "The passage does not by itself identify the precise borrowing instrument, lender, interest rate, issue terms, or prove that the full £8–9 million was raised specifically for railway construction. It should not be used alone to establish the later policy conclusion that the Indian Government had fully replaced guaranteed-company finance with direct borrowing.",
-      "related_banking_power_records": [
-        "east-india-loan-outcome-1862-64",
-        "overend-gurney-crisis-1866"
-      ],
-      "scholarly_references": [
-        "Hansard, House of Commons, 8 July 1867, vol. 188, col. 1192."
-      ],
-      "publication_status": "A-grade — contemporary parliamentary primary passage locked; suitable as the 1867 financing-transition evidence anchor, with later retrospective sources kept as corroboration only.",
-      "year": 1867,
+      "edition": "Hansard, House of Lords, 13 August 1832.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1832,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the guarantee and security framework.",
+      "evidence_limits": "The passage establishes the governmental guarantee and security structure, not the later 1833 Rothschild contracting/issue terms, which are separately recorded in the 1833 Greek loan record.",
       "book_1_integration": {
         "status": "Provisional chronology mapping",
         "part": "part_2",
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1867
+        "sequence_year": 1832
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "rothschild-exchequer-bills-1839",
+      "title": "Rothschild Offer for Funding Exchequer Bills, 1839",
+      "date_label": "1839",
+      "historical_claim": "In August 1839, during the funding of Exchequer bills, Messrs. Rothschild submitted a tender alongside the Bank of England and the Commercial Bank of Scotland; the Bank of England's tender was accepted.",
+      "verification_status": "Verified against the contemporary House of Commons record.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1839-08-19/debates/c5edc859-fc4c-4ef5-8c4a-21a97661e58c/FundingOfExchequerBills",
+      "primary_passage": "The offer made by the Bank of England was 109 l. 5 s. 10 d.; the offer of Messrs. Rothschild was 110 l. 17 s. 6 d.; and the offer by the Commercial Bank of Scotland was 111 l.; while the proposal on the part of the Government, as expressed in the sealed paper, was 110 l. Of course the tender by the Bank of England was received.",
+      "passage_locator": "House of Commons, 19 August 1839, Funding of Exchequer Bills, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes competing tenders and acceptance of the Bank of England tender.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 19 August 1839.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1839,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the competing tender and outcome.",
+      "evidence_limits": "This record concerns funding Exchequer bills, not a long-term sovereign bond issue; it does not establish Rothschild's role beyond making the stated tender.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1839
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "french-consol-reduction-rothschild-baring-1839",
+      "title": "Rothschild and Baring French Government Loan Proposal, 1839",
+      "date_label": "1839",
+      "historical_claim": "A contemporary House of Commons report stated that, had the French proposal to reduce the Five per Cents passed, Mr. Rothschild and Mr. Alexander Baring had undertaken by a loan to the French Government to assist in carrying the reduction into effect, with Rothschild separately agreeing with the Bank of England for advances of up to £2,000,000 on stock.",
+      "verification_status": "Verified against the contemporary House of Commons record, but classified narrowly because the report is itself based on information given to a Member rather than a reproduced loan contract.",
+      "evidence_grade": "B",
+      "source_url": "https://hansard.parliament.uk/commons/1839-07-08/debates/a58c2e47-4b1f-4463-9692-edb428a16405/CommonsChamber",
+      "primary_passage": "Mr. Rothschild and Mr. Alexander Baring had undertaken by a loan to the French government to assist to carry the plan into effect, and that the former gentleman had made an agreement with the Bank of England, that it should make him advances of two millions on stock.",
+      "passage_locator": "House of Commons, 8 July 1839, Commons Chamber, Hansard; statement during discussion of Bank of England advances and the French Five per Cents proposal.",
+      "passage_status": "Qualified contemporary parliamentary report locked; wording is presented in the debate as information received from a source described as good authority, not as a reproduced original contract.",
+      "passage_type": "contemporary-parliamentary-report",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 8 July 1839.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1839,
+      "publication_status": "B-grade — useful contemporary lead; original French Government loan undertaking and Bank of England agreement should be located before any A-grade upgrade.",
+      "evidence_limits": "The debate does not reproduce the underlying agreement, and the French parliamentary proposal failed; therefore this record does not establish that the contemplated loan was actually completed.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1839
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "central_banks",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "rothschild-greek-loan-1833",
+      "title": "Rothschild Contract for the Greek Government Loan, 1833",
+      "date_label": "1833",
+      "historical_claim": "The Greek Government contracted with Messrs. Rothschild and Co. in January 1833 for the entire 60,000,000-franc Greek loan guaranteed by Great Britain, France, and Russia; the contemporary parliamentary record states that the loan was contracted at 94 for a 5 per cent bond.",
+      "verification_status": "Verified against a contemporary House of Commons record describing the treaty-backed Greek loan and the January 1833 contract.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1855-07-27/debates/3d97be53-fb0b-4d97-8365-9e9fabb752ee/CommonsChamber",
+      "primary_passage": "the two Commissioners, one a Greek, the other a Bavarian, met at Paris, and contracted with Messrs. Rothschild and Co. in January, 1833, for the whole 60,000,000f. at one and the same time, and at one and the same price—namely, 94 for a 5 per cent bond.",
+      "passage_locator": "House of Commons, 27 July 1855, debate on the Turkish loan; retrospective parliamentary account of the Greek loan of 1832/1833, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked as a retrospective record of the January 1833 contract; direct scan of the original Greek loan contract remains a desirable supplementary archival target.",
+      "passage_type": "contemporary-parliamentary-retrospective",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 27 July 1855.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1855,
+      "publication_status": "A-grade — direct parliamentary evidence for the contract and terms, with original contract scan still a supplementary target.",
+      "evidence_limits": "The source is a parliamentary retrospective from 1855 rather than the original 1833 contract; it establishes the reported contract, amount and price but not every contractual security or distribution detail.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1833
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-loan-1858",
+      "title": "East India Company £8 Million Home Loan Authority, 1858",
+      "date_label": "1858",
+      "historical_claim": "In 1858 Parliament authorized the East India Company to raise up to £8,000,000 by loan in the United Kingdom for the service of the Government of India during the financial emergency following the Indian revolt, while the contemporary debate addressed the relationship between Indian borrowing, the Bank of England, and possible British fiscal responsibility.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan Bill debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1858-02-22/debates/d987e587-b173-441b-936e-10153f922919/EastIndiaLoanBill",
+      "primary_passage": "Clause 1, empowering the Company to raise (£) by way of loan. THE CHANCELLOR OF THE EXCHEQUER proposed to fill up the blank with £8,000,000.",
+      "passage_locator": "House of Commons, 22 February 1858, East India Loan Bill, Committee, Hansard.",
+      "passage_status": "Contemporary parliamentary wording locked; the debate establishes the statutory borrowing authority and its purpose in meeting the Indian Government's financial emergency.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 22 February 1858.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1858,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £8,000,000 borrowing authority.",
+      "evidence_limits": "This record establishes parliamentary borrowing authority, not the precise amount ultimately drawn, final lenders, or complete contractual terms. The debate separately records an existing £1,000,000 Bank of England loan and earlier East India loans.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1858
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-loan-1859-7m",
+      "title": "East India £7 Million Loan on Indian Security, 1859",
+      "date_label": "1859",
+      "historical_claim": "In March 1859 the British Government sought parliamentary authority for a £7,000,000 loan on Indian security to meet the financial requirements arising from the Indian mutiny and its aftermath; the Government subsequently recognized that additional borrowing in England would be necessary.",
+      "verification_status": "Verified against the contemporary House of Lords Indian Finance debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Lords/1859-03-25/debates/35c86b9a-dcea-4aa5-bfb7-65b2daf54ba9/LordsChamber",
+      "primary_passage": "the reasons which induced the Government to believe at the time they made a proposition to raise a loan of £7,000,000 on Indian security, that that amount would be sufficient, and the circumstances which have induced them within the last few days to entertain a different opinion.",
+      "passage_locator": "House of Lords, 25 March 1859, Indian Finance, Hansard; statement concerning the £7,000,000 loan on Indian security.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes the £7,000,000 loan proposal on Indian security and the Government's subsequent recognition of additional requirements.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Lords, 25 March 1859.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1859,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £7,000,000 Indian-security loan proposal.",
+      "evidence_limits": "This passage establishes the Government's loan proposal and financial context, but not the final lender, issue price, subscription result, or full statutory terms.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1859
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -5251,45 +5182,114 @@
       }
     },
     {
-      "source_id": "india-revenue-accounts-1868-railway-guaranteed-interest",
-      "title": "India Revenue Accounts, 1868: Guaranteed Railway Interest Burden",
-      "date_label": "1868",
-      "historical_claim": "The 1868 Indian Revenue Accounts recorded a substantial increase in the charge for guaranteed interest on Indian railway capital: for the year ending 31 March 1867 the net guaranteed interest charge, after traffic receipts, was £731,049, while the accounts for 1867–68 showed a further increase in guaranteed-interest charges and the continuing separation of railway guaranteed-interest obligations from ordinary Indian revenue and public-works expenditure.",
-      "verification_status": "Contemporary parliamentary primary evidence verified from Hansard, House of Commons, 27 July 1868.",
+      "source_id": "east-india-loan-1860-3m",
+      "title": "East India £3 Million Home Loan Authority, 1860",
+      "date_label": "1860",
+      "historical_claim": "In August 1860 Parliament moved to authorize the Secretary of State for India to raise £3,000,000 in the United Kingdom by loan for the service of the Government of India, against a background of a projected Indian revenue deficiency of £7,472,000 for the year.",
+      "verification_status": "Verified against the contemporary House of Lords East India Loan Bill debate.",
       "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1868-07-27/debates/50625bba-329c-43f7-8a48-a2ad0387394c/India%E2%80%94EastIndiaRevenueAccounts%E2%80%94Committee",
-      "bn_title": "ভারতের রাজস্ব হিসাব, ১৮৬৮: গ্যারান্টিযুক্ত রেলওয়ে সুদের বোঝা",
-      "bn_historical_claim": "১৮৬৮ সালের ভারতের রাজস্ব হিসাবগুলোতে ভারতীয় রেলওয়ে মূলধনের গ্যারান্টিযুক্ত সুদের ব্যয়কে পৃথক আর্থিক বোঝা হিসেবে দেখানো হয়। ১৮৬৭ সালের শেষ হওয়া বছরে ট্রাফিক রসিদ বাদ দেওয়ার পর এই গ্যারান্টিযুক্ত সুদের নিট ব্যয় ছিল £৭৩১,০৪৯; ১৮৬৭–৬৮ হিসাবেও এই খাতে উল্লেখযোগ্য বৃদ্ধি দেখা যায়।",
-      "notes": "This record is deliberately narrower than the later 1877 retrospective account of the 1867 policy shift. The 1868 contemporary accounts establish the continuing fiscal burden of guaranteed railway capital and its separate accounting treatment; they do not by themselves prove that all new railway borrowing had shifted to direct Government borrowing.",
-      "primary_passage": "the Guaranteed Interest on the Capital of Railway and other Companies, in India and in England, deducting net Traffic Receipts, was £731,049",
-      "passage_locator": "Hansard, House of Commons, 27 July 1868, 'India—East India Revenue Accounts—Committee'; resolution covering the year ending 31 March 1867.",
-      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
-      "passage_source_url": "https://hansard.parliament.uk/commons/1868-07-27/debates/50625bba-329c-43f7-8a48-a2ad0387394c/India%E2%80%94EastIndiaRevenueAccounts%E2%80%94Committee",
-      "passage_type": "english-primary-text",
+      "source_url": "https://hansard.parliament.uk/Lords/1860-08-21/debates/911bd174-f7a3-49c4-837e-98db2e39d736/EastIndiaLoanBill",
+      "primary_passage": "its object to enable the Secretary of State for India to raise in this country by loan a sum of £3,000,000.",
+      "passage_locator": "House of Lords, 21 August 1860, East India Loan Bill, First Reading, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes the proposed £3,000,000 home borrowing authority and its Indian Government purpose.",
+      "passage_type": "contemporary-parliamentary-record",
       "language": "English",
       "last_verified": "2026-10-05",
-      "source_identity": "House of Commons parliamentary financial accounts debate, 27 July 1868, reporting Indian revenue, expenditure, debt interest, public works and guaranteed railway-company interest.",
-      "edition": "Hansard, House of Commons, 27 July 1868.",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1868,
-      "what_passage_establishes": "The passage establishes the separately reported guaranteed-interest burden on railway and other company capital in the Indian accounts, with £731,049 recorded after deduction of net traffic receipts for the year ending 31 March 1867. The same debate discusses an additional £660,000 increase in guaranteed railway interest in the 1867–68 estimate.",
-      "evidence_limits": "The passage does not identify individual lenders, loan instruments, issue prices, or prove the exact transition from guaranteed-company borrowing to direct Government borrowing. Those propositions require separate primary evidence.",
-      "related_banking_power_records": [
-        "india-railways-finance-1867",
-        "east-india-loan-outcome-1862-64",
-        "overend-gurney-crisis-1866"
-      ],
-      "scholarly_references": [
-        "Hansard, House of Commons, 27 July 1868, India—East India Revenue Accounts—Committee."
-      ],
-      "publication_status": "A-grade — contemporary parliamentary financial-account evidence with exact passage locked.",
-      "year": 1868,
+      "edition": "Hansard, House of Lords, 21 August 1860.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1860,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £3,000,000 borrowing authority.",
+      "evidence_limits": "This passage does not establish the eventual lender, issue terms, subscription result, or amount actually drawn. It is distinct from the earlier 1859 £7,000,000 Indian-security loan proposal.",
       "book_1_integration": {
         "status": "Provisional chronology mapping",
         "part": "part_2",
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1868
+        "sequence_year": 1860
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-loan-1861-4m",
+      "title": "East India £4 Million Loan, 1861",
+      "date_label": "1861",
+      "historical_claim": "In June 1861 Parliament was asked to sanction a £4,000,000 loan for the service of India; the Secretary of State for India explained that the borrowing was required because railway receipts and expenditure had produced a shortfall, rather than because ordinary Indian government revenue was insufficient.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan Bill debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1861-06-13/debates/91b1cf03-4782-4526-879f-4f33d76da633/EastIndiaLoanBill",
+      "primary_passage": "the House was now asked to sanction a loan on account of India to the amount of £4,000,000.",
+      "passage_locator": "House of Commons, 13 June 1861, East India Loan Bill, Committee, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; the debate establishes the £4,000,000 loan request and the associated increase in Indian debt.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 13 June 1861.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1861,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £4,000,000 Indian loan.",
+      "evidence_limits": "This record does not establish the final lender, issue price, subscription result, or complete contractual terms. It also does not imply that the borrowing was for ordinary Indian revenue needs; the debate specifically linked the loan to railway-related requirements.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1861
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-railway-contingent-loan-1861",
+      "title": "East India Railway Contingent Borrowing Authority, 1861",
+      "date_label": "1861",
+      "historical_claim": "In July 1861 the Secretary of State for India sought discretionary authority to raise additional money if Indian railway companies failed to furnish the funds required for railway construction; the proposed borrowing was to be used only if the companies did not raise the necessary sums themselves.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1861-07-25/debates/f36381b3-c055-45a9-bf32-1a25ab76b50e/EastIndiaLoan",
+      "primary_passage": "I now rise to ask for such powers to raise money to be used only in the event of the railway companies not furnishing the sum required.",
+      "passage_locator": "House of Commons, 25 July 1861, East India Loan, Hansard; Sir Charles Wood's explanation of proposed discretionary borrowing for Indian railway expenditure.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes contingent borrowing authority tied to railway companies' failure to raise required funds.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 25 July 1861.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1861,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the contingent railway borrowing authority.",
+      "evidence_limits": "This is distinct from the £4,000,000 loan already recorded for 1861. It establishes a contingent power, not proof that the additional power was exercised or that the Government ultimately borrowed under it.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1861
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -6896,6 +6896,20 @@
     "duplicate_source_ids": 0,
     "duplicate_primary_passages": 0,
     "chronological_order": false,
+    "missing_year_fields": 9,
+    "grade_counts": {
+      "A": 96,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v31": {
+    "status": "Completed after chronological reordering of the 101-record master ledger",
+    "records_audited": 101,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
     "missing_year_fields": 9,
     "grade_counts": {
       "A": 96,
