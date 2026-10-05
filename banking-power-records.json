@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "126-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "127-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3730,6 +3730,63 @@
         "chapter_number": null,
         "chapter_title": null,
         "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-rupee-exchange-fiscal-burden-1888",
+      "title": "India's Rupee Exchange Burden, 1888: Falling Silver Exchange Adds Rx.1.2 Million to Liabilities",
+      "date_label": "1888",
+      "year": 1888,
+      "evidence_grade": "A",
+      "historical_claim": "In the 1888–89 Indian budget, the fall in the sterling value of the silver rupee was estimated to have added Rx.1,202,000 to the Government of India's liabilities between January and July 1888, with the projected exchange charge for the coming year rising to Rx.7,132,000.",
+      "verification_status": "Verified against the contemporary Indian financial statement reported in Hansard, 9 August 1888.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1888/aug/09/committee",
+      "bn_title": "ভারতের রুপি-বিনিময় বোঝা, ১৮৮৮: রুপির অবমূল্যায়নে দায় বেড়েছে ১২.০২ লক্ষ রুপি",
+      "bn_historical_claim": "১৮৮৮–৮৯ সালের ভারতীয় বাজেটে বলা হয় যে রুপির স্টার্লিং বিনিময়মূল্য কমে যাওয়ায় জানুয়ারি থেকে জুলাই ১৮৮৮-এর মধ্যে ভারত সরকারের দায় ১২,০২,০০০ রুপি বেড়েছিল; পরবর্তী বছরের জন্য বিনিময়-সংক্রান্ত মোট চার্জ ৭১,৩২,০০০ রুপি ধরা হয়।",
+      "notes": "This is a monetary/fiscal-exchange layer distinct from the 1888 railway purchase financing. The figures come from the official financial statement and quantify the budgetary transmission of the rupee's falling exchange value. The record does not claim that exchange movements alone caused the entire Indian deficit; the same statement identifies other charges including stock-conversion payments, special defences, and Upper Burma military expenditure.",
+      "primary_passage": "The chief cause has been the fall in exchange. The Committee is aware that the exchange value of the rupee has again seriously declined, and the fall since last January has added to the liabilities of the Government of India no less a sum than Rx.1,202,000. ... In the coming year ... the total charge for exchange [is] Rx.7,132,000.",
+      "passage_locator": "House of Commons, Hansard, 9 August 1888, vol. 330, cols. 142–143, East India Revenue Accounts / Committee.",
+      "passage_status": "Passage locked — contemporary official financial statement with explicit exchange figures.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in the Committee on the Indian financial statement.",
+      "edition": "Hansard, House of Commons, 9 August 1888, vol. 330, cols. 142–143.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1888,
+      "what_passage_establishes": "The passage directly establishes a quantified increase in Indian Government liabilities attributable to the exchange decline and the scale of the projected exchange charge in the following year.",
+      "evidence_limits": "The passage does not establish that exchange was the sole cause of the deficit or that every rupee movement translated one-for-one into realized cash loss; the statement contains multiple offsetting and additional budget items.",
+      "related_banking_power_records": [
+        "india-rupee-gold-exchange-currency-commission-1887",
+        "oude-rohilkund-railway-purchase-financing-1888",
+        "conversion-of-india-stock-1887",
+        "india-stock-conversion-outcome-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 9 August 1888, vol. 330, cols. 142–143.",
+        "Hansard, House of Commons, 16 November 1888, vol. 330, cols. 1381–1382, Currency Commission report and fall in exchange."
+      ],
+      "publication_status": "A-grade — direct contemporary official financial statement; causal scope explicitly limited.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1888
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
           "sovereign_debt",
           "global_power_network"
         ]
@@ -8426,7 +8483,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically through 1888, prioritizing the strongest distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the Oude-Rohilkund financing record.",
+  "next_priority": "Continue chronologically through 1888, prioritizing the strongest distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed Oude-Rohilkund financing and rupee-exchange burden records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9278,6 +9335,44 @@
       },
       "global_power_network": {
         "records": 101
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v57": {
+    "status": "Completed after 1888 rupee exchange fiscal-burden deployment",
+    "records_audited": 127,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 122,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v33": {
+    "status": "Reconciled after 1888 rupee exchange fiscal-burden deployment",
+    "records_mapped": 127,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 59
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 64
+      },
+      "global_power_network": {
+        "records": 102
       }
     }
   }
