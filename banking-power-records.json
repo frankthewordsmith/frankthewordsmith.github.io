@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "120-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "121-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3451,6 +3451,62 @@
         "chapter_title": null,
         "research_maps": [
           "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-rupee-gold-exchange-currency-commission-1887",
+      "title": "India's Rupee–Gold Exchange, 1887: Currency Commission Examines the Exchange Problem",
+      "date_label": "1887",
+      "historical_claim": "On 28 February 1887 the Prime Minister stated in the House of Lords that the Royal Commission on currency was expressly considering the effect of the appreciation of gold and the difference in the exchange value of the rupee on British agriculture and production, while the Government regarded the India-Europe difference of monetary standard as a major unresolved problem.",
+      "verification_status": "Contemporary House of Lords primary evidence verified from Hansard, 28 February 1887.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/lords/1887/feb/28/question-observations-1",
+      "bn_title": "ভারতের রুপি–সোনা বিনিময়, ১৮৮৭: মুদ্রা কমিশনে বিনিময়-সমস্যা তদন্ত",
+      "bn_historical_claim": "১৮৮৭ সালের ২৮ ফেব্রুয়ারি হাউস অব লর্ডসে প্রধানমন্ত্রী জানান যে মুদ্রা-সংক্রান্ত রয়্যাল কমিশন সোনার মূল্যবৃদ্ধি এবং রুপির বিনিময়মূল্যের পার্থক্যের ব্রিটিশ কৃষি ও উৎপাদনের ওপর প্রভাব পরীক্ষা করছে; একই সঙ্গে সরকার ভারত ও ইউরোপের ভিন্ন মুদ্রামানের সমস্যাকে একটি গুরুত্বপূর্ণ ও অমীমাংসিত বিষয় হিসেবে দেখছিল।",
+      "notes": "This is a distinct monetary-regime evidence layer, not a railway-loan record. It documents the Government's contemporary recognition that the rupee/gold exchange problem was under formal Commission investigation and that the India-Europe monetary-standard difference posed a difficult policy problem. It does not establish the Commission's final findings or a policy change in 1887.",
+      "primary_passage": "the terms of Reference under which they act include the matter which the noble Duke desires to see included—namely, the effect which the appreciation of gold and the undoubted difference in the exchange value of the rupee has had upon the agriculture of this country.",
+      "passage_locator": "Hansard, House of Lords, 28 February 1887, vol. 311, cols. 676–678, 'Question. Observations'; statement by the Marquess of Salisbury.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/lords/1887/feb/28/question-observations-1",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Lords statement by the Marquess of Salisbury, Prime Minister and Secretary of State for Foreign Affairs, responding to the Duke of Marlborough's question on the Royal Commission on currency, 28 February 1887.",
+      "edition": "Hansard, House of Lords, 28 February 1887, vol. 311, cols. 671–678.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage establishes that the Royal Commission's terms of reference covered the effect of gold appreciation and the rupee's exchange-value difference on British agriculture; Salisbury further stated that the Commission was actively examining these matters and that the India-Europe difference in monetary standard was a difficult policy problem.",
+      "evidence_limits": "The passage does not establish the Commission's eventual conclusions, a causal finding that exchange differences caused the agricultural depression, or adoption of bimetallism, a gold/sterling standard, or any other monetary reform. The stronger causal claims in the Duke of Marlborough's speech are not treated as established facts here.",
+      "related_banking_power_records": [
+        "india-currency-commission-1892",
+        "india-monetary-standard-1893",
+        "india-london-sterling-borrowing-authority-1885"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Lords, 28 February 1887, vol. 311, cols. 671–678."
+      ],
+      "publication_status": "A-grade — contemporary ministerial parliamentary statement securely establishes the Commission's remit and the Government's recognition of the rupee/gold exchange problem; no later policy outcome is inferred.",
+      "year": 1887,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
           "global_power_network"
         ]
       }
@@ -8090,7 +8146,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the Bengal-Nagpur Railway financing and the 4 March 1887 borrowing-powers legislative-status record.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing and borrowing-powers records; prioritize a genuinely separate institutional or monetary layer.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8714,6 +8770,44 @@
       },
       "global_power_network": {
         "records": 95
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v51": {
+    "status": "Completed after 1887 rupee-gold exchange/currency-commission deployment",
+    "records_audited": 121,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 116,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v27": {
+    "status": "Reconciled after 1887 rupee-gold exchange/currency-commission deployment",
+    "records_mapped": 121,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 53
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 61
+      },
+      "global_power_network": {
+        "records": 96
       }
     }
   }
