@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "136-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "137-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4093,6 +4093,57 @@
         "Hansard, House of Commons, 2 April 1889, vol. 334, cols. 1383–1384."
       ],
       "publication_status": "A-grade — direct contemporary parliamentary record quoting the Indian Budget position and recording the British Treasury response.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-currency-royal-commission-divided-1889",
+      "title": "Indian Currency Commission, 1889: Commission Declines to Recommend a Bimetallic Treaty",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "The Royal Commission on the Currency of India was reported in Parliament as not prepared to recommend that Britain negotiate with other nations a treaty embodying a bimetallic arrangement, despite acknowledging difficulties affecting India.",
+      "verification_status": "Verified from the contemporary Hansard debate reporting the Commission's conclusion.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/jun/04/bi-metallism",
+      "primary_passage": "Under all these circumstances, whilst fully impressed with the difficulties of the present situation, and more especially with those which affect the Government of India, we are not prepared to recommend that this country should proceed to negotiate with other nations a treaty embodying a bi-metallic arrangement.",
+      "passage_locator": "House of Commons, Hansard, 4 June 1889, vol. 336, col. 1907, Bi-Metallism.",
+      "passage_status": "Passage locked — parliamentary quotation of the Royal Commission's conclusion.",
+      "source_identity": "Royal Commission on the Gold and Silver Question as quoted in the 4 June 1889 Commons debate; quotation introduced in debate on Mr. Chaplin's bimetallism motion.",
+      "edition": "Hansard, House of Commons, 4 June 1889, vol. 336, cols. 1869–1923.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The quoted Commission conclusion establishes that, despite recognizing India's monetary difficulties, it did not recommend that Britain negotiate an international treaty establishing bimetallism.",
+      "evidence_limits": "The Hansard passage is a parliamentary quotation of the Commission rather than the full Commission report; it does not establish the Commission's complete reasoning, voting process, or later policy developments.",
+      "notes": "Distinct from the April 1889 record stating that a currency solution required international agreement: this record locks the Commission's actual recommendation against negotiating a bimetallic treaty.",
+      "bn_title": "ভারতীয় মুদ্রা কমিশন, ১৮৮৯: দ্বিমুদ্রাবাদী চুক্তির সুপারিশ প্রত্যাখ্যান",
+      "bn_historical_claim": "ভারতের মুদ্রা-সংক্রান্ত রয়্যাল কমিশন ১৮৮৯ সালে ভারতীয় সমস্যার গুরুত্ব স্বীকার করেও অন্যান্য দেশের সঙ্গে দ্বিমুদ্রাবাদী চুক্তি নিয়ে আলোচনা শুরু করার সুপারিশ করেনি।",
+      "related_banking_power_records": [
+        "india-rupee-gold-exchange-currency-commission-1887",
+        "india-currency-commission-report-exchange-1888",
+        "india-currency-question-international-agreement-1889"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 4 June 1889, vol. 336, cols. 1869–1923, Bi-Metallism."
+      ],
+      "publication_status": "A-grade — direct parliamentary quotation of the Royal Commission's reported conclusion.",
       "book_1_integration": {
         "status": "Provisional chronology mapping",
         "part": "part_2",
@@ -8959,7 +9010,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, screening remaining official financial, monetary, institutional, and banking-network evidence; avoid duplicating the deployed 1889 debt, conversion, railway, defence-expenditure, and currency-position layers.",
+  "next_priority": "Continue through 1889, prioritizing remaining distinct official monetary, institutional, sovereign-debt, or banking-network evidence; avoid duplication of already deployed 1889 currency-position and currency-commission records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10191,6 +10242,44 @@
       },
       "global_power_network": {
         "records": 110
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v67": {
+    "status": "Completed after 1889 Indian Currency Commission conclusion deployment",
+    "records_audited": 137,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 132,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v43": {
+    "status": "Reconciled after 1889 Indian Currency Commission conclusion deployment",
+    "records_mapped": 137,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 65
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 70
+      },
+      "global_power_network": {
+        "records": 111
       }
     }
   }
