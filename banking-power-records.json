@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "108-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "109-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2588,6 +2588,64 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1876
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-famine-loan-and-direct-government-borrowing-1877",
+      "title": "India Finance, 1877: Famine Loan and Direct Government Borrowing",
+      "date_label": "1877",
+      "historical_claim": "In June 1877 the Indian Government sought parliamentary authority to raise £5,000,000 on the credit of Indian revenues to meet famine-related expenditure and other financing needs; the same statement explicitly described the post-1867 shift from borrowing through guaranteed railway companies to the Indian Government borrowing directly in the money market.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 21 June 1877.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1877/jun/21/committee",
+      "bn_title": "ভারতীয় অর্থব্যবস্থা, ১৮৭৭: দুর্ভিক্ষ ঋণ ও সরকারের প্রত্যক্ষ ঋণগ্রহণ",
+      "bn_historical_claim": "১৮৭৭ সালের জুনে ভারত সরকার দুর্ভিক্ষজনিত ব্যয় ও সংশ্লিষ্ট অর্থায়নের প্রয়োজনে ভারতীয় রাজস্বের জামানতে £৫,০০০,০০০ পর্যন্ত ঋণ তোলার সংসদীয় ক্ষমতা চায়; একই আর্থিক বিবৃতিতে ১৮৬৭-পরবর্তী গ্যারান্টিযুক্ত রেলওয়ে কোম্পানির মাধ্যমে ঋণ নেওয়ার বদলে ভারত সরকারের নিজে বাজারে গিয়ে ঋণ নেওয়ার পরিবর্তন স্পষ্টভাবে বর্ণিত হয়।",
+      "notes": "This record is distinct from the 1876 State-works performance record: it documents a specific 1877 borrowing-authority request and directly explains the institutional transition from indirect borrowing through guaranteed railway companies to Government borrowing on its own account. The £5 million authority was principally connected to famine and associated financing needs; it should not be treated as a single railway loan.",
+      "primary_passage": "The Indian Government adopted instead the simpler plan of going into the money-market themselves, borrowing money at a lower rate of interest, and expending it themselves.",
+      "passage_locator": "Hansard, House of Commons, 21 June 1877, 'Committee', vol. 235, cols. 92–144; statement by Lord George Hamilton, especially p. 105 of the digital report/col. 105 section.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1877/jun/21/committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard, Indian Financial Statement, 21 June 1877; statement by Lord George Hamilton.",
+      "edition": "Hansard, House of Commons, 21 June 1877, vol. 235, cols. 92–144.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1877,
+      "what_passage_establishes": "The debate records that the earlier guaranteed-company system borrowed indirectly through railway companies and that from 1867 the Indian Government instead went into the money market itself, borrowing at a lower rate and expending the funds itself. The same financial statement records that the Government had raised £5,000,000 in Britain in 1874 and the Indian Government £2,500,000 in that year for Bengal famine needs, and in 1877 sought authority to borrow up to £5,000,000 on the credit of Indian revenues.",
+      "evidence_limits": "The transition passage establishes the institutional financing change but does not identify a particular 1877 lender, issue price, maturity, or settlement date. The £5,000,000 requested in 1877 was a borrowing authority for Government service and famine-related needs, not evidence that the entire amount was immediately issued or that it financed railway construction.",
+      "related_banking_power_records": [
+        "india-public-works-borrowing-and-state-railways-1876",
+        "india-public-works-borrowing-india-1875",
+        "india-borrowing-powers-1874",
+        "india-railways-direct-borrowing-policy-1869"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 21 June 1877, vol. 235, cols. 92–144."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; distinct 1877 borrowing-authority and institutional-transition evidence.",
+      "year": 1877,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1877
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7364,7 +7422,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1877 primary evidence, avoiding duplicate coverage of the 1876 Indian public-works and State-railway performance record.",
+  "next_priority": "Continue chronologically with the strongest distinct 1878 primary evidence, avoiding duplicate coverage of the 1877 famine-loan and direct-government-borrowing record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7578,6 +7636,42 @@
       },
       "global_power_network": {
         "records": 84
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v39": {
+    "status": "Completed after 1877 India famine-loan and direct-government-borrowing deployment",
+    "records_audited": 109,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 104,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v15": {
+    "status": "Reconciled after 1877 India famine-loan and direct-government-borrowing deployment",
+    "records_mapped": 109,
+    "maps": {
+      "central_banks": {
+        "records": 75
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 43
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 85
       }
     }
   }
