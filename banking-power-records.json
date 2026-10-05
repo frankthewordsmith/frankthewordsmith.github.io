@@ -1557,6 +1557,39 @@
       ]
     },
     {
+      "source_id": "basel-ii-revised-framework-2004",
+      "title": "Basel II: International Convergence of Capital Measurement and Capital Standards — Revised Framework",
+      "date_label": "2004",
+      "historical_claim": "On 26 June 2004, the G10 central bank Governors and heads of banking supervision endorsed the Basel Committee's revised capital framework, commonly known as Basel II, following the Committee's approval of the text for their review.",
+      "bn_title": "Basel II: আন্তর্জাতিক মূলধন পরিমাপ ও মূলধন মানের সংশোধিত কাঠামো, ২০০৪",
+      "bn_historical_claim": "২৬ জুন ২০০৪ সালে G10 কেন্দ্রীয় ব্যাংকের গভর্নর ও ব্যাংকিং তদারকি কর্তৃপক্ষের প্রধানরা Basel Committee-এর সংশোধিত মূলধন কাঠামো, যা সাধারণভাবে Basel II নামে পরিচিত, অনুমোদন করেন। এর একদিন আগে Basel Committee চূড়ান্ত পাঠটি তাদের পর্যালোচনার জন্য অনুমোদন করেছিল।",
+      "source_url": "https://www.bis.org/publications/200406-standards-basel-ii-international-convergence-capital-measurement-and-capital-standards-revised-framework",
+      "verification_status": "Primary-source official BIS/BCBS publication and contemporaneous BIS release verified",
+      "evidence_grade": "A",
+      "primary_passage": "The present paper is now a statement of the Committee agreed by all its members. It sets out the details of the agreed Framework for measuring capital adequacy and the minimum standard to be achieved which the national supervisory authorities represented on the Committee will propose for adoption in their respective countries. This Framework and the standard it contains have been endorsed by the Central Bank Governors and Heads of Banking Supervision of the Group of Ten countries.",
+      "passage_locator": "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework, June 2004, Introduction, paragraph 1.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee standard; endorsement corroborated by contemporaneous BIS release dated 26 June 2004",
+      "passage_source_url": "https://www.bis.org/publ/bcbs107.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework, June 2004; official BIS/BIS-hosted publication.",
+      "edition": "International Convergence of Capital Measurement and Capital Standards: A Revised Framework, June 2004.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2004,
+      "what_passage_establishes": "The passage establishes the agreed 2004 revised capital framework and its endorsement by G10 central bank Governors and Heads of Banking Supervision; the framework contains minimum capital requirements, supervisory review and market discipline.",
+      "evidence_limits": "The passage establishes agreement and endorsement, not implementation by every national jurisdiction or bank.",
+      "related_banking_power_records": [
+        "basel-new-capital-accord-2001",
+        "basel-operational-risk-sound-practices-2003",
+        "basel-market-risk-amendment-1996"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework (June 2004).",
+        "Basel Committee on Banking Supervision, The Basel Committee's response to the financial crisis and the future of banking regulation (later institutional history)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1662,7 +1695,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 49 records, A=38, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 50 records, A=39, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
