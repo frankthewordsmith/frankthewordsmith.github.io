@@ -75,21 +75,21 @@
       "title": "Sveriges Riksbank, 1668",
       "date_label": "1668",
       "historical_claim": "Riksens Ständers Bank was established in 1668 from the remains of Stockholms Banco and became the institution now known as Sveriges Riksbank.",
-      "verification_status": "Primary-source official Riksbank historical document verified",
+      "verification_status": "Primary-source 1668 royal authorization verified in the official Riksbank historical document; page-level primary-document locator independently identified",
       "evidence_grade": "A",
       "source_url": "https://www.riksbank.se/globalassets/media/riksbanken-350-ar/tidslinjen/den-karolinska-tiden/46-74-caroline-years_eng.pdf",
       "bn_title": "স্ভেরিয়েস রিক্সব্যাংক, ১৬৬৮",
       "bn_historical_claim": "১৬৬৮ সালে স্টকহোমস ব্যাংকোর ধ্বংসাবশেষ থেকে রিক্সেনস স্ট্যান্ডার্স ব্যাংক প্রতিষ্ঠিত হয়, যা পরবর্তীতে স্ভেরিয়েস রিক্সব্যাংক নামে পরিচিত হয়।",
       "notes": "Sveriges Riksbank's historical publication reproduces an image identified as the charter for the Bank of the Estates of the Realm, dated 17 September 1668. The official Swedish Riksdag record independently records the same royal authorization and its operative transfer of the exchange and loan bank to the Estates for them to establish, organize and administer. This combination supports Grade A for the founding/transfer claim.",
       "primary_passage": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh.",
-      "passage_locator": "Växel Och LåneBanken I Stockholm, 1668, pp. 3–6, royal authorization to the Estates to take the bank under their administration.",
-      "passage_status": "Passage locked — official Riksbank-hosted primary historical document",
+      "passage_locator": "Växel Och LåneBanken I Stockholm, 1668, pp. 3–6, royal authorization to the Estates to take the bank under their administration; the charter is dated 17 September 1668.",
+      "passage_status": "Passage locked — exact royal authorization text and printed pp. 3–6 locator verified in the official Riksbank-hosted primary document",
       "passage_source_url": "https://alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A356430",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
       "last_verified": "2026-10-05",
       "source_identity": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh, Växel- och Lånebanken i Stockholm, 1668.; publisher/authority: Swedish Riksdag / Kingdom of Sweden; year: 1668.",
-      "edition": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh, Växel- och Lånebanken i Stockholm, 1668.",
+      "edition": "Kongl. Mayst:tz Nådige Tillståndh Gifwit Rijkzens Ständer, Til at taga Bancken vnder sin Förwaltningh, Växel- och Lånebanken i Stockholm, 1668, pp. 3–6.",
       "publisher": "Swedish Riksdag / Kingdom of Sweden",
       "publication_year": 1668,
       "what_passage_establishes": "The passage establishes the 1668 authorization by the Swedish Estates to take the bank under their administration.",
@@ -102,7 +102,7 @@
         "Ulrich Bindseil, *Central Banking before 1800: A Rehabilitation* (Oxford University Press, 2019), discussion of the transition from Stockholms Banco to Riksens Ständers Bank.",
         "Sveriges Riksbank, “1668 - Sveriges Riksbank is founded,” historical timeline, documenting the establishment of Riksens Ständers Bank from the remains of Stockholms Banco."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "A-grade — exact royal authorization passage and printed pp. 3–6 locator locked in the primary historical document; original archival manuscript remains a desirable supplementary check."
     },
     {
       "source_id": "boe-1694",
@@ -2397,7 +2397,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=68, B=4, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=69, B=3, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "stockholms-banco-1656",
