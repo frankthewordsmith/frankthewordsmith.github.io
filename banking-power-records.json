@@ -323,7 +323,7 @@
       "notes": "The Rothschild Archive identifies the British-government contract under which Nathan Mayer Rothschild supplied Wellington's troops with gold coin in 1814–1815 and displays a contemporary 1815 'Account of Bullion Specie' inscribed to J. C. Herries, Commissary-in-Chief. The Archive's gold-history page further dates the formal engagement to January 1814 and describes the instructions to Nathan to obtain gold for Wellington. The archive separately rejects the later legend that the Waterloo profit depended on advance knowledge of the victory. This record therefore supports the documented government gold-supply commission, not the later Waterloo-news legend.",
       "primary_passage": "Mr Rothschild is to receive Money immediately for all Bullion delivered to him",
       "passage_locator": "Memorandum signed by J. C. Herries, 14 April 1815, Herries Papers, British Library Add MS 57383, ff. 65–66.",
-      "passage_status": "Passage locked — archival primary document identified by British Library manuscript reference",
+      "passage_status": "Passage locked — exact memorandum wording and British Library manuscript folio locator verified",
       "passage_source_url": "https://searcharchives.bl.uk/catalog/040-001999322",
       "passage_type": "english-primary-text",
       "language": "English",
@@ -342,7 +342,7 @@
         "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999).",
         "The Rothschild Archive, historical documentation of Nathan Mayer Rothschild's 1814–1815 Waterloo Commission and bullion supply to Wellington."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "A-grade — exact memorandum passage locked to British Library Add MS 57383, ff. 65–66; archival primary-document locator verified."
     },
     {
       "source_id": "rothschild-prussian-loan-1818",
@@ -2397,7 +2397,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=69, B=3, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=70, B=2, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "stockholms-banco-1656",
