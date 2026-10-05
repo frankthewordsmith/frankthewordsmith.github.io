@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "105-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "106-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2417,6 +2417,63 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1873
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-borrowing-powers-1874",
+      "title": "India Finance, 1874: Parliamentary Borrowing Power for the Indian Government",
+      "date_label": "1874",
+      "historical_claim": "In April 1874 the Secretary of State for India reported that borrowing powers under previous Acts had been exhausted except for a temporary £2 million authority granted by the previous year's Loan Act, demonstrating that Parliament was actively regulating and extending the legal borrowing capacity of the Indian Government.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 23 April 1874.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1874/apr/23/finance-of-india-borrowing-powers",
+      "bn_title": "ভারতীয় অর্থব্যবস্থা, ১৮৭৪: ভারত সরকারের ঋণগ্রহণের সংসদীয় ক্ষমতা",
+      "bn_historical_claim": "১৮৭৪ সালের এপ্রিল মাসে ভারতের সেক্রেটারি অব স্টেট জানান যে পূর্ববর্তী আইনগুলোর অধীনে ঋণগ্রহণের ক্ষমতা প্রায় সম্পূর্ণ ব্যবহৃত হয়ে গেছে; কেবল আগের বছরের Loan Act-এর অধীনে সর্বোচ্চ ২০ লক্ষ পাউন্ড সাময়িকভাবে ঋণ নেওয়ার ক্ষমতা অবশিষ্ট ছিল।",
+      "notes": "This is a legal borrowing-authority record, not evidence of a particular loan issue. It establishes the statutory ceiling and exhaustion of earlier borrowing powers. A separate March 1874 parliamentary record proposed a new £10 million borrowing authority in response to the Bengal famine.",
+      "primary_passage": "the borrowing powers of the Secretary of State under all Acts previous to the Loan Act of the present Session had been exhausted, with the single exception of the power contained in the Loan Act of last Session, by which he was enabled to borrow temporarily a sum not exceeding £2,000,000.",
+      "passage_locator": "Hansard, House of Commons, 23 April 1874, vol. 218, col. 985.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1874/apr/23/finance-of-india-borrowing-powers",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard, Finance of India—Borrowing Powers, 23 April 1874; answer by Lord George Hamilton.",
+      "edition": "Hansard, House of Commons, 23 April 1874, vol. 218, col. 985.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1874,
+      "what_passage_establishes": "Parliamentary borrowing authority for the Secretary of State for India had been exhausted under earlier Acts except for a temporary £2 million authority from the previous year's Loan Act; the 1874 Session was therefore operating within a newly legislated borrowing framework.",
+      "evidence_limits": "The passage does not itself establish that the £2 million temporary authority was drawn, nor does it identify lender, issue price, interest rate, maturity, or settlement date. It establishes legal borrowing capacity only.",
+      "related_banking_power_records": [
+        "india-public-works-extraordinary-resolution-1873",
+        "india-state-railways-public-works-loans-1872"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 23 April 1874, vol. 218, col. 985.",
+        "Hansard, House of Commons, 20 March 1874, vol. 218, cols. 174–189."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; distinct statutory-borrowing-authority evidence.",
+      "year": 1874,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1874
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7193,7 +7250,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1874 primary evidence, avoiding duplicate coverage of the 1873 Public Works Extraordinary programme.",
+  "next_priority": "Continue chronologically with the strongest distinct 1875 primary evidence, avoiding duplicate coverage of the 1873–74 Indian borrowing-authority sequence.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7299,6 +7356,42 @@
       },
       "global_power_network": {
         "records": 81
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v36": {
+    "status": "Completed after 1874 Indian borrowing-authority deployment",
+    "records_audited": 106,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 101,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v12": {
+    "status": "Reconciled after 1874 Indian borrowing-authority deployment",
+    "records_mapped": 106,
+    "maps": {
+      "central_banks": {
+        "records": 72
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 40
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 82
       }
     }
   }
