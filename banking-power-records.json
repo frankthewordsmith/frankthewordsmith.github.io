@@ -1460,6 +1460,39 @@
       ]
     },
     {
+      "source_id": "basel-new-capital-accord-2001",
+      "title": "Basel II: The New Basel Capital Accord",
+      "date_label": "2001",
+      "historical_claim": "On 16 January 2001, the Basel Committee issued a new consultative package for the Basel Capital Accord, proposing a replacement for the 1988 Accord based on three mutually reinforcing pillars: minimum capital requirements, supervisory review, and market discipline.",
+      "bn_title": "Basel II: নতুন Basel Capital Accord, ২০০১",
+      "bn_historical_claim": "১৬ জানুয়ারি ২০০১ সালে Basel Committee ১৯৮৮ সালের Accord প্রতিস্থাপনের জন্য নতুন Basel Capital Accord-এর একটি পরামর্শমূলক প্যাকেজ প্রকাশ করে। এতে তিনটি পারস্পরিকভাবে শক্তিশালী স্তম্ভ ছিল: ন্যূনতম মূলধন প্রয়োজনীয়তা, তদারকি পর্যালোচনা এবং বাজার শৃঙ্খলা।",
+      "source_url": "https://www.bis.org/publications/200101-consultation-basel-ii-new-basel-capital-accord",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel Committee on Banking Supervision (the Committee) is issuing for comment a proposal for a new capital adequacy framework to replace the 1988 Accord.",
+      "passage_locator": "Basel Committee on Banking Supervision, The New Basel Capital Accord, 16 January 2001, Executive Summary/opening paragraph.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee consultative package",
+      "passage_source_url": "https://www.bis.org/publ/bcbsca.htm",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, The New Basel Capital Accord, January 2001; official BIS-hosted committee consultative package.",
+      "edition": "The New Basel Capital Accord, January 2001.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2001,
+      "what_passage_establishes": "The passage directly establishes the January 2001 proposal to replace the 1988 Accord; the official package describes the three-pillar architecture and detailed proposals for credit, operational and market risk.",
+      "evidence_limits": "This is a consultative proposal, not the final 2004 Basel II framework or evidence of implementation by individual jurisdictions or banks.",
+      "related_banking_power_records": [
+        "basel-new-capital-adequacy-framework-1999",
+        "basel-liquidity-sound-practices-2000",
+        "basel-market-risk-amendment-1996"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, The New Basel Capital Accord (January 2001).",
+        "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework (June 2004)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1565,7 +1598,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 46 records, A=35, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 47 records, A=36, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
