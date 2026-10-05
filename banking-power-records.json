@@ -2397,10 +2397,9 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=67, B=5, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=68, B=4, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
-      "wisselbank-1609",
       "stockholms-banco-1656",
       "riksbank-1668",
       "south-sea-bubble-1720",
