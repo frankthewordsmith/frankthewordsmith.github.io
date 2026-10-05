@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "119-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "120-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3395,6 +3395,63 @@
           "sovereign_debt",
           "global_power_network",
           "banking_dynasties"
+        ]
+      }
+    },
+    {
+      "source_id": "india-railways-borrowing-powers-legislation-1887",
+      "title": "Indian Railways Borrowing Powers, 1887: Proposed Legislation Still Under Consideration",
+      "date_label": "1887",
+      "historical_claim": "On 4 March 1887 the Under Secretary of State for India stated that a Bill concerning borrowing money for Indian Railways had been prepared by the previous Government, but that the question of proceeding with the measure was still under consideration by the Secretary of State.",
+      "verification_status": "Contemporary House of Commons primary evidence verified from Hansard, 4 March 1887.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1887/mar/04/railways-india-borrowing-powers",
+      "bn_title": "ভারতীয় রেলওয়ের ঋণগ্রহণের ক্ষমতা, ১৮৮৭: প্রস্তাবিত আইন তখনও বিবেচনাধীন",
+      "bn_historical_claim": "১৮৮৭ সালের ৪ মার্চ ভারতের আন্ডার সেক্রেটারি জানান যে ভারতীয় রেলওয়ের জন্য অর্থ ধার করার বিষয়ে আগের সরকার একটি বিল প্রস্তুত করেছিল, কিন্তু সেটি এগিয়ে নেওয়া হবে কি না—তা তখনও সেক্রেটারি অব স্টেটের বিবেচনাধীন ছিল।",
+      "notes": "This record is deliberately distinct from the 1886 East India Railways borrowing proposal and the 1887 Bengal-Nagpur financing record. It captures the subsequent 1887 legislative-status layer: Parliament was asked whether the Government would revive or introduce a Bill enabling London borrowing for Indian railways, and the official answer was that the matter remained under consideration. It therefore establishes policy/legislative status, not enacted borrowing authority or an executed loan.",
+      "primary_passage": "A Bill relating to the borrowing of money for Indian Railways was prepared by the late Government, and its object explained by Mr. Stafford Howard, on the 11th of June, 1886. The question of proceeding with this measure is still under the consideration of the Secretary of State.",
+      "passage_locator": "Hansard, House of Commons, 4 March 1887, vol. 311, col. 1272, 'Railways (India)—Borrowing Powers—Legislation'; question by Mr. Lionel Cohen and answer by Sir John Gorst.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1887/mar/04/railways-india-borrowing-powers",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons parliamentary question by Mr. Lionel Cohen and answer by Sir John Gorst, Under Secretary of State for India, 4 March 1887, concerning proposed legislation to enable London borrowing for Indian railways.",
+      "edition": "Hansard, House of Commons, 4 March 1887, vol. 311, col. 1272.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage establishes that legislation enabling borrowing for Indian Railways had been prepared by the previous Government and that, as of 4 March 1887, the Secretary of State had not yet decided to proceed with it.",
+      "evidence_limits": "The passage does not establish that the Bill was introduced, enacted, or that any borrowing authority was granted in 1887. It does not identify a loan amount actually raised, lender, underwriter, issue price, interest rate, maturity, or settlement date. It also does not by itself establish the precise legal text of the earlier 1886 Bill.",
+      "related_banking_power_records": [
+        "east-india-railways-loans-1886",
+        "bengal-nagpur-railway-loan-1887",
+        "india-london-sterling-borrowing-authority-1885"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 4 March 1887, vol. 311, col. 1272.",
+        "Hansard, House of Commons, 4 June 1886, vol. 306, col. 1112."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage securely establishes the 1887 legislative-status question and the Government's statement that the measure remained under consideration; it does not establish enactment or borrowing.",
+      "year": 1887,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "state_borrowing",
+          "railway_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
         ]
       }
     },
@@ -8033,7 +8090,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the Bengal-Nagpur Railway financing record.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the Bengal-Nagpur Railway financing and the 4 March 1887 borrowing-powers legislative-status record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8619,6 +8676,44 @@
       },
       "global_power_network": {
         "records": 94
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v50": {
+    "status": "Completed after 1887 Indian Railways borrowing-powers legislative-status deployment",
+    "records_audited": 120,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 115,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v26": {
+    "status": "Reconciled after 1887 Indian Railways borrowing-powers legislative-status deployment",
+    "records_mapped": 120,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 53
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 60
+      },
+      "global_power_network": {
+        "records": 95
       }
     }
   }
