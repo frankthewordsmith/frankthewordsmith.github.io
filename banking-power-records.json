@@ -1158,6 +1158,60 @@
       }
     },
     {
+      "source_id": "ottoman-turkish-loan-1854",
+      "title": "Ottoman Turkish Loan, 1854",
+      "date_label": "1854",
+      "historical_claim": "The Ottoman Government's 1854 loan was raised in the English and French markets with the knowledge and stated satisfaction of the British Government, secured in part by an assignment of Egyptian tribute; contemporary parliamentary evidence also records that Rothschild had initially been entrusted with a proposed £6,000,000 Turkish loan before withdrawing that proposal.",
+      "verification_status": "Contemporary parliamentary record reproduces the 1854 prospectus and general-bond terms and records the British Government's stated authorization/knowledge; the Rothschild-specific preliminary role is preserved in the same later parliamentary account.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1876-07-21/debates/8c7d477a-4724-4c1f-bca4-a48ac62ac6eb/TheTurkishDebt%E2%80%94TheLoanOf1854%E2%80%94Resolution",
+      "bn_title": "অটোমান তুর্কি ঋণ, ১৮৫৪",
+      "bn_historical_claim": "১৮৫৪ সালের অটোমান ঋণ ইংরেজ ও ফরাসি বাজারে তোলা হয়; ব্রিটিশ সরকারের জ্ঞান ও সন্তুষ্টির কথা সমসাময়িক ঋণ-প্রসপেক্টাসে উল্লেখ ছিল এবং ঋণের একটি নিরাপত্তা ছিল মিশরীয় খাজনার নির্দিষ্ট অংশ। একই সংসদীয় নথিতে প্রাথমিকভাবে রথসচাইল্ডদের হাতে £৬,০০,০০০ প্রস্তাবিত ঋণের দায়িত্ব দেওয়ার কথাও উল্লেখ আছে।",
+      "primary_passage": "The undersigned have the satisfaction to acquaint the public that they are authorized by the Earl of Clarendon, Her Majesty's Principal Secretary of State for Foreign Affairs, to state that this Loan is negotiated with the knowledge of the English Government; that Her Majesty's Government is satisfied that the Loan and the appropriation of the above-mentioned 30,000,000 piastres (£282,000 sterling) per annum of the Egyptian Tribute are duly authorized by His Majesty the Sultan.",
+      "passage_locator": "House of Commons, 21 July 1876, The Turkish Debt—The Loan of 1854—Resolution, Hansard; the debate reproduces the 1854 loan prospectus and general bond, including the 16 August prospectus statement and 24 August 1854 general bond.",
+      "passage_status": "Qualified contemporary-document reproduction locked — the parliamentary debate reproduces the 1854 prospectus/bond wording; direct scan of the original 1854 prospectus or bond remains a desirable supplementary target.",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1876-07-21/debates/8c7d477a-4724-4c1f-bca4-a48ac62ac6eb/TheTurkishDebt%E2%80%94TheLoanOf1854%E2%80%94Resolution",
+      "passage_type": "contemporary-document-reproduced-in-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, 21 July 1876, The Turkish Debt—The Loan of 1854—Resolution; reproduces portions of the 1854 prospectus and 24 August 1854 general bond.",
+      "edition": "Hansard, House of Commons, 21 July 1876, Turkish Debt—The Loan of 1854—Resolution.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1876,
+      "what_passage_establishes": "The reproduced prospectus establishes that the 1854 Ottoman loan was negotiated with the knowledge of the English Government, that the Government was satisfied with the authorization of the loan and the allocation of 30,000,000 piastres of Egyptian tribute, and that the loan was secured by that tribute assignment.",
+      "evidence_limits": "This record does not establish that Rothschild ultimately issued the 1854 loan; the parliamentary account states that Rothschild withdrew their proposed £6,000,000 loan and that the subsequent issue was placed under Anglo-French auspices. The direct 1854 prospectus/bond scan remains a supplementary archival target.",
+      "related_banking_power_records": [
+        "rothschild-british-government-loan-1855"
+      ],
+      "scholarly_references": [
+        "House of Commons, Hansard, 21 July 1876, The Turkish Debt—The Loan of 1854—Resolution."
+      ],
+      "publication_status": "A-grade for the reproduced contemporary prospectus/bond wording and government-knowledge claim; original 1854 document scan remains a supplementary archival target.",
+      "year": 1854,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1854
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "rothschild-british-government-loan-1855",
       "title": "Rothschild British Government Loan, 1855",
       "date_label": "1855",
@@ -5865,5 +5919,27 @@
       "C": 0,
       "D": 0
     }
+  },
+  "structural_audit_2026_10_05_v13": {
+    "status": "Completed after 1854 Ottoman Turkish loan deployment",
+    "records_audited": 84,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 80,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v10": {
+    "status": "1854 Ottoman Turkish loan evidence deployed as Grade A with explicit Rothschild-role limitation",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "ottoman-turkish-loan-1854"
+    ],
+    "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt or banking-power primary record; preserve all B-grade scan-upgrade queues."
   }
 }
