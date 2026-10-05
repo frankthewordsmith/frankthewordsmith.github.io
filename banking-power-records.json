@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "131-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "132-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4010,6 +4010,57 @@
         "research_maps": [
           "global_power_network",
           "sovereign_debt"
+        ]
+      }
+    },
+    {
+      "source_id": "india-public-works-loan-1889",
+      "title": "India Public Works Loan, 1889: Two Crore Rupees Negotiated at 99.93",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "In 1889 the Government of India negotiated its usual Public Works Loan of two crores of rupees at an average price of 99.93, improving on the previous year's 99.79.",
+      "verification_status": "Verified against the contemporary East India Revenue Accounts debate.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "primary_passage": "The usual loan for public works in India has taken two crores of rupees. It was negotiated at 99.93, compared with 99.79 last year.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, col. 621, East India Revenue Accounts.",
+      "passage_status": "Passage locked — contemporary ministerial financial statement.",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in Committee on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, col. 621.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes the size and negotiated price of the usual Indian Public Works Loan for 1889 and provides the prior-year comparison.",
+      "evidence_limits": "It does not by itself establish the lender syndicate, maturity, coupon rate, issue timetable, security terms, allocation of proceeds, or full statutory authority.",
+      "notes": "Distinct sovereign-debt issuance layer; not a duplicate of the 1888 rupee-debt conversion or the 1888 Oude and Rohilkund Railway purchase financing.",
+      "bn_title": "ভারতের পাবলিক ওয়ার্কস ঋণ, ১৮৮৯: ৯৯.৯৩ দরে দুই কোটি রুপি ঋণ",
+      "bn_historical_claim": "১৮৮৯ সালে ভারত সরকার তার প্রচলিত পাবলিক ওয়ার্কস ঋণ হিসেবে দুই কোটি রুপি ৯৯.৯৩ গড় দরে সংগ্রহ করে, যা আগের বছরের ৯৯.৭৯ দরের তুলনায় উন্নত ছিল।",
+      "related_banking_power_records": [
+        "india-rupee-debt-conversion-1888",
+        "india-rupee-debt-conversion-outcome-1889",
+        "oude-rohilkund-railway-purchase-financing-1888"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, col. 621, East India Revenue Accounts."
+      ],
+      "publication_status": "A-grade — direct contemporary official parliamentary statement.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
         ]
       }
     },
@@ -8704,7 +8755,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically through 1889, prioritizing distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed rupee-debt conversion and Delhi-Umballa-Kalka concession records.",
+  "next_priority": "Continue through 1889, prioritizing distinct monetary, institutional, sovereign-debt, or banking-network evidence and avoiding duplication of the deployed 1889 rupee-debt conversion and railway concession records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9746,6 +9797,44 @@
       },
       "global_power_network": {
         "records": 106
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v62": {
+    "status": "Completed after 1889 India Public Works Loan deployment",
+    "records_audited": 132,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 127,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v38": {
+    "status": "Reconciled after 1889 India Public Works Loan deployment",
+    "records_mapped": 132,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 62
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 67
+      },
+      "global_power_network": {
+        "records": 107
       }
     }
   }
