@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "107-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "108-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2531,6 +2531,63 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1875
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-public-works-borrowing-and-state-railways-1876",
+      "title": "India Public Works and State Railways, 1876: Borrowing, Reproductive Capital, and State Railway Returns",
+      "date_label": "1876",
+      "historical_claim": "In August 1876 the Indian Government reaffirmed that remunerative public works were to be financed from money borrowed in India, while State railways were being constructed more cheaply than the guaranteed system; the debate reported £14 million already spent on State railways and £17 million on irrigation works, within £125 million of Government-connected public-works capital, with State railways beginning to earn a return on borrowed capital.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 10 August 1876.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1876/aug/10/committee-1",
+      "bn_title": "ভারতের জনপূর্ত ও সরকারি রেলওয়ে, ১৮৭৬: ঋণ, উৎপাদনশীল মূলধন ও সরকারি রেলওয়ের আয়",
+      "bn_historical_claim": "১৮৭৬ সালের আগস্টে ভারত সরকার পুনরায় নিশ্চিত করে যে উৎপাদনশীল জনপূর্ত ভারতে তোলা ঋণের অর্থে করা হবে; একই সময়ে সরকারি রেলওয়ে গ্যারান্টিযুক্ত ব্যবস্থার তুলনায় কম ব্যয়ে নির্মিত হচ্ছিল এবং সরকারি রেলওয়ে ও সেচকাজে বিপুল মূলধন বিনিয়োগের হিসাব সংসদে উপস্থাপিত হয়।",
+      "notes": "This record is distinct from the 1875 policy record because it documents the 1876 operating results and capital scale of the State-works system, including State-railway returns and the contemporaneous decision to raise a £4 million home loan for ways-and-means reasons. It does not claim that all public-works capital was debt-financed in India.",
+      "primary_passage": "the Secretary of State the first year he was in office laid down three principles as to public works; none were to be undertaken but those which would pay interest on borrowed capital; those that would not be remunerative were to be constructed out of Revenue, and loans were to be raised in India for public works.",
+      "passage_locator": "Hansard, House of Commons, 10 August 1876, 'Committee', vol. 231, cols. 990–992.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1876/aug/10/committee-1",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard, Committee on Indian Finance, 10 August 1876; statement by Lord George Hamilton.",
+      "edition": "Hansard, House of Commons, 10 August 1876, vol. 231, cols. 990–992.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1876,
+      "what_passage_establishes": "The 1876 debate reaffirmed the India-borrowing principle for remunerative public works and described the financial performance and capital scale of State works. State railways had cost about £4,300 per mile without the Agra Bridge and £5,300 with it, versus £16,000 per mile under the earlier comparison; a 4% capital cost could be covered by a £200-per-mile return. The debate also reported £125 million of Government-connected public-works capital, including £14 million on State railways and £17 million on irrigation works, producing £4.296 million in net working receipts.",
+      "evidence_limits": "The return figures are aggregate financial-performance evidence and do not identify a particular loan issue, lender, maturity, or issue price. The £4 million home loan mentioned in the same debate was raised for ways-and-means reasons and should not be treated as a State-railway loan.",
+      "related_banking_power_records": [
+        "india-public-works-borrowing-india-1875",
+        "india-borrowing-powers-1874",
+        "india-state-railways-public-works-loans-1872"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 10 August 1876, vol. 231, cols. 990–992."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; distinct State-works performance and financing evidence.",
+      "year": 1876,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1876
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7307,7 +7364,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1876 primary evidence, avoiding duplicate coverage of the 1875 Indian public-works borrowing policy.",
+  "next_priority": "Continue chronologically with the strongest distinct 1877 primary evidence, avoiding duplicate coverage of the 1876 Indian public-works and State-railway performance record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7485,6 +7542,42 @@
       },
       "global_power_network": {
         "records": 83
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v38": {
+    "status": "Completed after 1876 Indian public-works and State-railway deployment",
+    "records_audited": 108,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 103,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v14": {
+    "status": "Reconciled after 1876 Indian public-works and State-railway deployment",
+    "records_mapped": 108,
+    "maps": {
+      "central_banks": {
+        "records": 74
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 42
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 84
       }
     }
   }
