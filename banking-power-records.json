@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "116-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "117-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3220,6 +3220,65 @@
         "research_maps": [
           "banking_dynasties",
           "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-london-sterling-borrowing-authority-1885",
+      "title": "India Public Works Finance, 1885: £10 Million London Sterling-Borrowing Authority",
+      "date_label": "1885",
+      "historical_claim": "In May 1885 Parliament was asked to authorize the Secretary of State for India to borrow up to £10 million in the London market over three years for Indian public works, marking an explicit policy shift from the recent practice of rupee borrowing in India toward sterling borrowing in England when the interest-rate advantage justified the exchange risk.",
+      "verification_status": "Contemporary parliamentary statement by the Under Secretary of State for India records the proposed borrowing authority, its public-works purpose, and the stated change from rupee borrowing in India to sterling borrowing in England.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1885/may/21/bill-109-second-reading",
+      "bn_title": "ভারতের পাবলিক ওয়ার্কস অর্থায়ন, ১৮৮৫: লন্ডনে ১ কোটি পাউন্ড স্টার্লিং ঋণগ্রহণের ক্ষমতা",
+      "bn_historical_claim": "১৮৮৫ সালের মে মাসে ভারতীয় পাবলিক ওয়ার্কসের জন্য তিন বছরে সর্বোচ্চ ১ কোটি পাউন্ড স্টার্লিং লন্ডন বাজার থেকে ঋণ নেওয়ার ক্ষমতা চাওয়া হয়; এটি ভারতে রুপি ঋণের বদলে প্রয়োজনে ইংল্যান্ডে স্টার্লিং ঋণ নেওয়ার নীতিগত পরিবর্তনকে স্পষ্ট করে।",
+      "notes": "On 21 May 1885 J. K. Cross explained the East India Loan Bill. He said the Secretary of State needed power to borrow £10,000,000 in the London market within three years, charging interest to Indian revenues. He expressly described the proposal to borrow in sterling in England instead of rupees in India as a distinct change in policy, justified when the interest-rate differential was large enough to compensate for exchange risk. The same speech states that Public Works and East Indian Railway borrowings had been £11.13 million in 1880–83.",
+      "primary_passage": "We now ask for permission to borrow in sterling in England, when we consider it desirable, in place of borrowing in rupees in India, and as this is a distinct change in policy",
+      "passage_locator": "Hansard, House of Commons, 21 May 1885, vol. 298, cols. 1042–1045; Bill 109, Second Reading. The £10,000,000 authority is stated at col. 1043 and the policy-change explanation at col. 1044.",
+      "passage_status": "Passage locked — contemporary parliamentary statement directly records the £10 million proposed authority and the explicit shift toward sterling borrowing in England when economically justified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1885/may/21/bill-109-second-reading",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, statement by Mr. J. K. Cross, Under Secretary of State for India, during the Second Reading of Bill 109, 21 May 1885.",
+      "edition": "Hansard, House of Commons, 21 May 1885, vol. 298, cols. 1042–1077; Bill 109, Second Reading.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1885,
+      "what_passage_establishes": "The passage establishes that the Secretary of State sought parliamentary power to borrow up to £10 million in the London market within three years for works sanctioned by the Government of India, and that borrowing in sterling in England rather than rupees in India was explicitly presented as a distinct policy change. The statement also explains the trade-off: lower sterling interest costs versus exchange-rate risk.",
+      "evidence_limits": "This record establishes the proposed parliamentary borrowing authority and the policy rationale; it does not by itself prove that the full £10 million was subsequently borrowed, identify lenders or underwriters, establish final issue price/coupon/maturity, or show that sterling borrowing permanently replaced Indian rupee borrowing.",
+      "related_banking_power_records": [
+        "india-paper-currency-reserve-regime-1884",
+        "india-public-works-loan-1883-rupee",
+        "india-public-works-loan-1881",
+        "india-public-works-borrowing-india-1875"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 21 May 1885, vol. 298, cols. 1042–1045."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary evidence directly locks the proposed £10 million authority and the stated policy shift toward London sterling borrowing; actual subsequent loan issuance remains a separate verification target.",
+      "year": 1885,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1885
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "public_works_finance",
+          "sterling_borrowing",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
           "global_power_network"
         ]
       }
@@ -7859,7 +7918,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1885 primary evidence, avoiding duplicate coverage of the 1884 Indian paper-currency reserve regime.",
+  "next_priority": "Continue chronologically with the strongest distinct 1886 primary evidence, avoiding duplicate coverage of the 1885 London sterling-borrowing authority.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8331,6 +8390,44 @@
       },
       "global_power_network": {
         "records": 91
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v47": {
+    "status": "Completed after 1885 India London sterling-borrowing authority deployment",
+    "records_audited": 117,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 112,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v23": {
+    "status": "Reconciled after 1885 India London sterling-borrowing authority deployment",
+    "records_mapped": 117,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 50
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 60
+      },
+      "global_power_network": {
+        "records": 92
       }
     }
   }
