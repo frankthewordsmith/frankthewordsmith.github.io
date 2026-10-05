@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "138-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "139-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4315,6 +4315,57 @@
         "research_maps": [
           "sovereign_debt",
           "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-revenue-deficit-capital-outlay-1888-89",
+      "title": "India Revenue Deficit and Capital Outlay, 1888–89: Rx.2.03 Million Revenue Deficit and Rx.2.78 Million Capital Works",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "The official 1889 parliamentary accounts reported a revenue deficit of Rx.2,028,832 for the year ending 31 March 1888, alongside capital outlay of Rx.2,781,824 on railways and irrigation works.",
+      "verification_status": "Verified against the contemporary East India Revenue Accounts motion and official financial statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "primary_passage": "That it appears, by the Accounts laid before this House, that the Total Revenue of India for the year ending the 31st day of March, 1888, was Rx.78,759,744; that the Total Expenditure in India and in England charged to Revenue was Rx.80,788,576; that there was an excess of Expenditure over Revenue of Rx.2,028,832; and that the Capital Outlay on Railways and Irrigation Works was Rx.2,781,824.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, cols. 621–622, East India Revenue Accounts.",
+      "passage_status": "Passage locked — formal parliamentary statement of the accounts placed before the House.",
+      "source_identity": "Formal motion based on the Accounts laid before the House during the Committee stage of the East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, cols. 621–622.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes the reported total revenue, revenue-charged expenditure, resulting deficit, and capital outlay on railways and irrigation works for the stated financial year.",
+      "evidence_limits": "It is an aggregate account statement and does not identify individual projects, financing sources, debt instruments, or the allocation of capital outlay between railways and irrigation.",
+      "notes": "Distinct aggregate fiscal/accounting layer. It should not be read as evidence that the capital outlay itself was funded entirely by new borrowing.",
+      "bn_title": "ভারতের রাজস্ব ঘাটতি ও মূলধনী ব্যয়, ১৮৮৮–৮৯: Rx.২.০৩ মিলিয়ন রাজস্ব ঘাটতি ও Rx.২.৭৮ মিলিয়ন মূলধনী কাজ",
+      "bn_historical_claim": "১৮৮৯ সালের সরকারি সংসদীয় হিসাবে ৩১ মার্চ ১৮৮৮-এ শেষ হওয়া বছরে ভারতের রাজস্ব ঘাটতি Rx.২,০২৮,৮৩২ এবং রেলওয়ে ও সেচকাজে মূলধনী ব্যয় Rx.২,৭৮১,৮২৪ দেখানো হয়।",
+      "related_banking_power_records": [
+        "india-public-works-loan-1889",
+        "india-frontier-defence-railways-expenditure-1889",
+        "india-famine-insurance-fund-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, cols. 621–622, East India Revenue Accounts."
+      ],
+      "publication_status": "A-grade — formal contemporary parliamentary account statement.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "financial_crises"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "financial_crises"
         ]
       }
     },
@@ -9061,7 +9112,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, screening remaining official financial, monetary, institutional, and banking-network evidence; avoid duplicating the deployed currency, debt, railway, defence-expenditure, and fiscal-governance layers.",
+  "next_priority": "Continue through 1889, screening remaining official financial, monetary, institutional, and banking-network evidence; avoid duplicating the deployed aggregate fiscal, debt, conversion, railway, defence-expenditure, and currency layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10363,6 +10414,44 @@
       },
       "financial_crises": {
         "records": 10
+      },
+      "monetary_regimes": {
+        "records": 70
+      },
+      "global_power_network": {
+        "records": 112
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v69": {
+    "status": "Completed after 1889 India revenue deficit and capital outlay deployment",
+    "records_audited": 139,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 134,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v45": {
+    "status": "Reconciled after 1889 India revenue deficit and capital outlay deployment",
+    "records_mapped": 139,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 65
+      },
+      "financial_crises": {
+        "records": 11
       },
       "monetary_regimes": {
         "records": 70
