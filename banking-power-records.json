@@ -1158,6 +1158,54 @@
       }
     },
     {
+      "source_id": "rothschild-british-government-loan-1855",
+      "title": "Rothschild British Government Loan, 1855",
+      "date_label": "1855",
+      "historical_claim": "Messrs. Rothschild & Co. entered into the British Government's £16,000,000 public-service loan contract in April 1855.",
+      "verification_status": "Contemporary House of Commons record directly identifies the contract and loan.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1855-06-26/debates/65b13d9e-9cc5-427d-bd43-02987ca75093/NewWritForLondon",
+      "bn_title": "রথসচাইল্ড ব্রিটিশ সরকারি ঋণ, ১৮৫৫",
+      "bn_historical_claim": "১৮৫৫ সালের এপ্রিল মাসে রথসচাইল্ড অ্যান্ড কোং ব্রিটিশ সরকারের £১৬,০০,০০,০০০ জনসেবা ঋণের চুক্তিতে প্রবেশ করে।",
+      "primary_passage": "The contract entered into by Messrs. Rothschild and Co. with Her Majesty's Government, on the 20th day of April last, for a loan of sixteen millions for the Public Service.",
+      "passage_locator": "House of Commons, 26 June 1855, New Writ for London, Hansard vol. 139.",
+      "passage_status": "Passage locked — contemporary parliamentary identification of the contract and loan.",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1855-06-26/debates/65b13d9e-9cc5-427d-bd43-02987ca75093/NewWritForLondon",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, 26 June 1855, New Writ for London — Baron de Rothschild.",
+      "edition": "Hansard, House of Commons, 26 June 1855, vol. 139.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1855,
+      "what_passage_establishes": "The passage establishes that Messrs. Rothschild & Co. had a £16,000,000 public-service loan contract with Her Majesty's Government dated 20 April 1855.",
+      "evidence_limits": "The passage does not by itself establish the complete loan terms or the precise personal role of Baron Lionel de Rothschild.",
+      "publication_status": "A-grade — direct contemporary parliamentary evidence locked; underlying Treasury contract remains a supplementary archival target.",
+      "year": 1855,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1855
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "rothschild-british-government-loan-1856",
       "title": "Lionel de Rothschild and the British Government Loan, 1856",
       "date_label": "1856",
@@ -5803,5 +5851,19 @@
       "rothschild-egypt-advance-1885"
     ],
     "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt or banking-power primary record; preserve all B-grade scan-upgrade queues."
+  },
+  "structural_audit_2026_10_05_v12": {
+    "status": "Completed after 1855 British government loan deployment",
+    "records_audited": 83,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 79,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
   }
 }
