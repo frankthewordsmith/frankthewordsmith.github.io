@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "110-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "111-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2717,6 +2717,65 @@
           "sovereign_debt",
           "global_power_network",
           "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-loan-issued-1879",
+      "title": "India Finance, 1879: £5 Million Indian Loan Issued at 94¾",
+      "date_label": "1879",
+      "historical_claim": "The Government of India issued a £5,000,000 loan in India in 1879; £4,000,000 of that issue was accepted at 94¾, while the remaining £1,000,000 had not yet been secured at the time of the statement.",
+      "verification_status": "Primary contemporary parliamentary record verified in Hansard, including the reported amount issued and the accepted issue price.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1879/may/22/committee-first-night",
+      "bn_title": "ভারতীয় অর্থব্যবস্থা, ১৮৭৯: ৫০ লক্ষ পাউন্ডের ভারতীয় ঋণ ৯৪¾ দরে ইস্যু",
+      "bn_historical_claim": "১৮৭৯ সালে ভারত সরকার ভারতে ৫০ লক্ষ পাউন্ডের একটি ঋণ ইস্যু করে; এর ৪০ লক্ষ পাউন্ড ৯৪¾ দরে গৃহীত হয়, আর বিবৃতির সময় অবশিষ্ট ১০ লক্ষ পাউন্ডের ব্যবস্থা এখনো সম্পন্ন হয়নি।",
+      "notes": "This record is distinct from the 1878 parliamentary inquiry/policy record because it documents an actual 1879 Indian loan issue and gives a specific accepted issue price. The statement also distinguishes the £5,000,000 Indian borrowing from the separate proposed £2,000,000 temporary advance from England.",
+      "primary_passage": "Accordingly, the amount to be borrowed in India was £5,000,000, and a loan was issued to that amount; £4,000,000 of that loan was accepted at 94¾.",
+      "passage_locator": "Hansard, House of Commons, 22 May 1879, vol. 246, col. 1067, within the East India Revenue Accounts—Financial Statement debate.",
+      "passage_status": "Passage locked — exact contemporary parliamentary statement records the Indian loan issue and the accepted amount/price.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1879/may/22/committee-first-night",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "East India Revenue Accounts—Financial Statement, statement by Mr. E. Stanhope, House of Commons, 22 May 1879; contemporary parliamentary record reporting the 1879 Government of India loan issued in India.",
+      "edition": "Hansard, House of Commons Debates, 22 May 1879, vol. 246, cols. 1040–1093.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1879,
+      "what_passage_establishes": "The passage establishes that the Government of India actually issued a £5,000,000 loan in India in 1879 and that £4,000,000 of that loan was accepted at an issue price of 94¾. The surrounding statement also says the remaining £1,000,000 was not yet known to have been obtained.",
+      "evidence_limits": "The passage establishes the reported issue amount and accepted price but does not identify individual lenders or subscribers, allotment details, maturity, coupon rate, or the complete final disposition of the remaining £1,000,000. It should not be used to infer a particular private banking house's role without separate primary evidence.",
+      "related_banking_power_records": [
+        "india-public-works-loan-policy-select-committee-1878",
+        "india-famine-loan-and-direct-government-borrowing-1877",
+        "india-public-works-and-state-railways-1876"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons Debates, 22 May 1879, vol. 246, cols. 1040–1093.",
+        "John Strachey and Sir Richard Temple, financial discussions on Indian public finance and borrowing in the late nineteenth century."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary evidence directly records the 1879 Indian loan issue and accepted issue price; lender-level attribution remains outside the passage.",
+      "year": 1879,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1879
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance",
+          "public_works_finance",
+          "state_borrowing"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
         ]
       }
     },
@@ -7479,7 +7538,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1879 primary evidence, avoiding duplicate coverage of the 1878 parliamentary public-works loan-policy record.",
+  "next_priority": "Continue chronologically with the strongest distinct 1880 primary evidence, avoiding duplicate coverage of the 1879 Indian loan-issue record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7765,6 +7824,42 @@
       },
       "global_power_network": {
         "records": 86
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v41": {
+    "status": "Completed after 1879 India loan-issue deployment",
+    "records_audited": 111,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 106,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v17": {
+    "status": "Reconciled after 1879 India loan-issue deployment",
+    "records_mapped": 111,
+    "maps": {
+      "central_banks": {
+        "records": 77
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 45
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 55
+      },
+      "global_power_network": {
+        "records": 87
       }
     }
   }
