@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "135-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "136-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4061,6 +4061,56 @@
         "research_maps": [
           "global_power_network",
           "sovereign_debt"
+        ]
+      }
+    },
+    {
+      "source_id": "india-currency-question-international-agreement-1889",
+      "title": "India Currency Question, 1889: Government of India States No Solution Without International Agreement",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "In the 1889 Indian Budget statement, the Government of India stated that the existing silver position was not in permanent equilibrium and that no solution of the currency question was possible without international agreement; the British Chancellor of the Exchequer confirmed this in the context of bimetallism while noting division within the Royal Commission.",
+      "verification_status": "Verified against the contemporary parliamentary exchange on the 1889 Indian Financial Statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/apr/02/india-financial-statement-1889-position",
+      "primary_passage": "the present condition is not one of permanent equilibrium ... no solution of the currency question is possible without international agreement",
+      "passage_locator": "House of Commons, Hansard, 2 April 1889, vol. 334, cols. 1383–1384, India—Financial Statement, 1889—Position of Silver—The Currency Question.",
+      "passage_status": "Passage locked — parliamentary quotation of the 1889 Indian Budget position, with ministerial confirmation.",
+      "source_identity": "Question by Mr. Hoyle and replies by Sir J. Gorst and Mr. Goschen concerning the Indian Financial Statement for 1889–90.",
+      "edition": "Hansard, House of Commons, 2 April 1889, vol. 334, cols. 1383–1384.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The record establishes that the 1889 Indian Budget formally characterized the silver/currency position as unstable and stated that a currency solution required international agreement; Goschen explicitly treated the issue as bimetallism and noted the Royal Commission was divided.",
+      "evidence_limits": "This record does not establish adoption of bimetallism, a British Government commitment to international monetary negotiations, or the final recommendation of the Royal Commission.",
+      "notes": "Distinct 1889 monetary-policy layer following the 1887 Currency Commission and 1888 report records. It captures the official policy diagnosis and the limits of what Parliament had decided by April 1889.",
+      "bn_title": "ভারতের মুদ্রা-প্রশ্ন, ১৮৮৯: আন্তর্জাতিক সমঝোতা ছাড়া সমাধান সম্ভব নয়—সরকারি অবস্থান",
+      "bn_historical_claim": "১৮৮৯ সালের ভারতীয় বাজেট বিবৃতিতে বলা হয় যে রৌপ্য-মুদ্রার বর্তমান অবস্থা স্থায়ী ভারসাম্যে নেই এবং আন্তর্জাতিক সমঝোতা ছাড়া মুদ্রা-প্রশ্নের কোনো সমাধান সম্ভব নয়; ব্রিটিশ অর্থমন্ত্রী দ্বিমুদ্রাবাদ প্রসঙ্গে এ অবস্থান নিশ্চিত করেন এবং রয়্যাল কমিশনের বিভক্ত মতের কথা জানান।",
+      "related_banking_power_records": [
+        "india-rupee-gold-exchange-currency-commission-1887",
+        "india-currency-commission-report-exchange-1888"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 2 April 1889, vol. 334, cols. 1383–1384."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary record quoting the Indian Budget position and recording the British Treasury response.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
         ]
       }
     },
@@ -8909,7 +8959,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, screening remaining official financial and institutional evidence for genuinely distinct layers; avoid duplicating the deployed 1889 debt, conversion, railway-concession, on-lending, and frontier-defence expenditure records.",
+  "next_priority": "Continue through 1889, screening remaining official financial, monetary, institutional, and banking-network evidence; avoid duplicating the deployed 1889 debt, conversion, railway, defence-expenditure, and currency-position layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10103,6 +10153,44 @@
       },
       "global_power_network": {
         "records": 109
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v66": {
+    "status": "Completed after 1889 India currency-question international-agreement deployment",
+    "records_audited": 136,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 131,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v42": {
+    "status": "Reconciled after 1889 India currency-question deployment",
+    "records_mapped": 136,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 65
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 69
+      },
+      "global_power_network": {
+        "records": 110
       }
     }
   }
