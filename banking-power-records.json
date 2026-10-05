@@ -3868,6 +3868,63 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "rothschild-portuguese-loan-1823",
+      "title": "Rothschild Portuguese Government Loan, 1823",
+      "date_label": "1823",
+      "historical_claim": "Nathan Mayer Rothschild's London house negotiated to undertake the Portuguese Government's 5% loan of £1.5 million, secured on Brazilian revenues.",
+      "verification_status": "Primary-source archival correspondence verified through The Rothschild Archive; archival contract reference independently corroborated",
+      "evidence_grade": "A",
+      "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor",
+      "bn_title": "রথসচাইল্ডের পর্তুগিজ সরকারি ঋণ, ১৮২৩",
+      "bn_historical_claim": "নাথান মেয়ার রথসচাইল্ডের লন্ডন ব্যাংক ১৮২৩ সালের £১৫ লক্ষের পর্তুগিজ ৫% সরকারি ঋণ গ্রহণের জন্য আলোচনা করেছিল; ঋণটি ব্রাজিলীয় রাজস্বের ওপর সুরক্ষিত ছিল।",
+      "notes": "The Rothschild Archive states that Nathan Mayer Rothschild contracted to undertake the Portuguese Government five per cent loan in 1823 and that a letter copybook records his approaches to Baron de Teixeira, Portuguese Minister of Finance, in July 1823. The archive's published transcription is used as the primary passage; the underlying loan contract is identified in the literature as Rothschild Archive RAL 000/401 A and dated Lisbon, 8 September 1823.",
+      "primary_passage": "The permanent interest of the Portuguese Governments will be best consulted by concluding the loan with ourselves, inasmuch as from the resources & credit we possess it would be more effectually in our power to advance and maintain the price of your securities than any other parties.",
+      "passage_locator": "Nathan Mayer Rothschild letter copybook, approaches to Baron de Teixeira, Portuguese Minister of Finance, July 1823; published by The Rothschild Archive in its Portugal collection. Related underlying loan contract: Rothschild Archive RAL 000/401 A, dated Lisbon, 8 September 1823.",
+      "passage_status": "Passage locked — exact wording reproduced by The Rothschild Archive; underlying contract reference independently corroborated as RAL 000/401 A.",
+      "passage_source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Nathan Mayer Rothschild correspondence concerning the Portuguese Government loan of 1823; The Rothschild Archive; underlying contract RAL 000/401 A.",
+      "edition": "The Rothschild Archive, Archivist's Choice: 200 years of Rothschild business with Portugal; underlying contract RAL 000/401 A.",
+      "publisher": "The Rothschild Archive",
+      "publication_year": "1823",
+      "what_passage_establishes": "The passage establishes Rothschild's contemporary proposal that his house undertake the Portuguese loan and his stated claim that its resources and credit would support the securities.",
+      "evidence_limits": "The passage does not establish that Rothschild ultimately won the Portuguese issue; contemporary contract evidence shows the loan was ultimately issued by B. A. Goldschmidt. It also does not establish broader Rothschild control of Portuguese finance.",
+      "related_banking_power_records": [
+        "rothschild-prussian-loan-1818",
+        "rothschild-waterloo-1814-15"
+      ],
+      "scholarly_references": [
+        "Marc Flandreau and Juan H. Flores, “Bonds and Brands: Foundations of Sovereign Debt Markets, 1820–1830,” *The Journal of Economic History* 69, no. 3 (2009), discussion and note identifying Rothschild Archive 000/401 A."
+      ],
+      "publication_status": "A-grade — contemporary Rothschild correspondence is reproduced by The Rothschild Archive and the underlying contract reference RAL 000/401 A is independently corroborated; scope limited to the documented proposal and loan negotiation.",
+      "year": 1823,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1823
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Added after primary-source passage and archival locator review; this record does not claim that Rothschild ultimately issued the loan."
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -4399,10 +4456,14 @@
     }
   ],
   "banking_dynasty_expansion_2026_10_05": {
-    "status": "Primary-source lead expansion completed",
-    "new_candidates": 2,
-    "deployed_records_added": 0,
-    "reason": "Both leads require exact archival passage/locator verification before entering the 72-record evidence ledger.",
-    "next_target": "Lock the 1823 Rothschild Portuguese-loan copybook passage first, then the Baring Mexican-loan correspondence."
+    "status": "1823 Rothschild Portuguese-loan evidence deployed",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-portuguese-loan-1823"
+    ],
+    "remaining_candidates": [
+      "baring-mexican-loans-1829-1836"
+    ],
+    "note": "The 1823 record is intentionally scoped to Rothschild's documented proposal/negotiation; it does not claim the house ultimately won the issue."
   }
 }
