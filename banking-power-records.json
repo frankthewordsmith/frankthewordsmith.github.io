@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "103-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "104-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2248,6 +2248,63 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1871
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-state-railways-public-works-loans-1872",
+      "title": "Indian State Railways and Public Works, 1872: £2.5 Million of Loan-Funded Works",
+      "date_label": "1872",
+      "historical_claim": "In August 1872 the Indian Government reported that about £2.5 million was money raised by loan and intended for public works funded from loans, and separately stated that State railways and canals were being advanced as rapidly as conditions permitted; by the same accounting, £2.75 million had been spent on State railways up to the end of the period covered.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 6 August 1872.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1872/aug/06/committee",
+      "bn_title": "ভারতের সরকারি রেলওয়ে ও জনপূর্ত, ১৮৭২: ঋণভিত্তিক ২৫ লক্ষ পাউন্ডের অর্থায়ন",
+      "bn_historical_claim": "১৮৭২ সালের আগস্টে ভারত সরকার জানায় যে প্রায় ২৫ লক্ষ পাউন্ড ঋণ নিয়ে জনপূর্তে ব্যয় করার জন্য তোলা হয়েছিল; একই সময়ে সরকারি রেলওয়ে ও খাল দ্রুত এগিয়ে নেওয়া হচ্ছিল এবং সংশ্লিষ্ট হিসাবে সরকারি রেলওয়েতে ২৭.৫ লক্ষ পাউন্ড ব্যয়ের কথা উল্লেখ করা হয়।",
+      "notes": "This record uses a contemporary parliamentary financial statement to connect loan-raised funds with India's public-works programme and State railways. The passage does not isolate the £2.5 million exclusively for railways, and it does not identify a particular loan issue, lender, rate, or maturity.",
+      "primary_passage": "About £2,500,000 is money raised by loan, and intended to be laid out on that class of public works for which we pay out of loans, but which has not yet been paid away.",
+      "passage_locator": "Hansard, House of Commons, 6 August 1872, 'Committee', vol. 212, cols. 566–567; financial statement concerning Indian public works and cash balances.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1872/aug/06/committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons committee debate on Indian finances, 6 August 1872; statement by Sir Richard Temple concerning loan-raised funds and public works.",
+      "edition": "Hansard, House of Commons, 6 August 1872, vol. 212, cols. 566–567.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1872,
+      "what_passage_establishes": "The passage establishes that about £2.5 million had been raised by loan for public works ordinarily funded from loans but had not yet been disbursed; the same statement says the Government was proceeding with State railways and canals and records £2.75 million of State-railway expenditure.",
+      "evidence_limits": "The £2.5 million is for the wider class of loan-funded public works, not railways alone. The passage does not identify a particular loan issue, lender, issue price, interest rate, maturity, or settlement date.",
+      "related_banking_power_records": [
+        "india-government-railways-lahore-peshawur-1871",
+        "india-railways-state-agency-borrowing-1870",
+        "india-railways-direct-borrowing-policy-1869"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 6 August 1872, vol. 212, cols. 566–567."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; suitable as the 1872 loan-funded State-public-works evidence anchor.",
+      "year": 1872,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1872
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7078,7 +7135,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest 1872 primary evidence, preserving strict passage verification and avoiding duplicate coverage.",
+  "next_priority": "Continue chronologically with the strongest 1873 primary evidence, preserving strict passage verification and avoiding duplicate coverage.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7112,6 +7169,42 @@
       },
       "global_power_network": {
         "records": 79
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v34": {
+    "status": "Completed after 1872 Indian State railway/public-works loan deployment",
+    "records_audited": 104,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 99,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v10": {
+    "status": "Reconciled after 1872 Indian State railway/public-works loan deployment",
+    "records_mapped": 104,
+    "maps": {
+      "central_banks": {
+        "records": 70
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 38
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 80
       }
     }
   }
