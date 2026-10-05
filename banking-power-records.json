@@ -1843,6 +1843,38 @@
       ]
     },
     {
+      "source_id": "basel-risk-data-aggregation-2013",
+      "title": "Basel Principles for Effective Risk Data Aggregation and Risk Reporting",
+      "date_label": "2013",
+      "historical_claim": "On 9 January 2013, the Basel Committee issued Principles for effective risk data aggregation and risk reporting, responding to weaknesses exposed by the financial crisis and setting principles to strengthen banks' risk-data aggregation and internal risk reporting, particularly at G-SIBs.",
+      "bn_title": "কার্যকর ঝুঁকি-তথ্য সমন্বয় ও ঝুঁকি প্রতিবেদন বিষয়ে বাসেল নীতিমালা, ২০১৩",
+      "bn_historical_claim": "৯ জানুয়ারি ২০১৩ সালে Basel Committee আর্থিক সংকটে প্রকাশিত দুর্বলতার প্রতিক্রিয়ায় কার্যকর risk-data aggregation ও risk reporting-এর জন্য নীতিমালা প্রকাশ করে, বিশেষ করে G-SIB ব্যাংকগুলোর ঝুঁকি-তথ্য সমন্বয় ও অভ্যন্তরীণ রিপোর্টিং শক্তিশালী করার লক্ষ্যে।",
+      "source_url": "https://www.bis.org/publications/201301-standards-principles-effective-risk-data-aggregation-and-risk-reporting",
+      "verification_status": "Primary-source official BIS/BCBS final principles verified",
+      "evidence_grade": "A",
+      "primary_passage": "The financial crisis that began in 2007 revealed that many banks, including global systemically important banks (G-SIBs), were unable to aggregate risk exposures and identify concentrations fully, quickly and accurately.",
+      "passage_locator": "Basel Committee on Banking Supervision, Principles for effective risk data aggregation and risk reporting, 9 January 2013, Executive summary.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final principles",
+      "passage_source_url": "https://www.bis.org/publ/bcbs239.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Principles for effective risk data aggregation and risk reporting, 9 January 2013; official BIS publication.",
+      "edition": "January 2013 final principles (BCBS 239).",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2013,
+      "what_passage_establishes": "The passage establishes the crisis-exposed weakness in banks' ability to aggregate and report risk information and the rationale for the Committee's principles.",
+      "evidence_limits": "The passage establishes the identified weakness and regulatory response, not later implementation or compliance by particular banks.",
+      "related_banking_power_records": [
+        "basel-core-principles-revised-2012",
+        "basel-gsib-framework-2011",
+        "basel-stress-testing-principles-2009"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Principles for effective risk data aggregation and risk reporting (January 2013), BCBS 239."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1948,7 +1980,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 58 records, A=47, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 59 records, A=48, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
