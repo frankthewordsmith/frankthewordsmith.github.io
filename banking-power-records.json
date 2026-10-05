@@ -2035,6 +2035,38 @@
       ]
     },
     {
+      "source_id": "basel-minimum-capital-market-risk-2019",
+      "title": "Basel Minimum Capital Requirements for Market Risk",
+      "date_label": "2019",
+      "historical_claim": "On 14 January 2019, the Basel Committee published the final Minimum capital requirements for market risk, replacing the 2016 framework and revising the treatment of trading-book risks through a revised standardised approach, internal models approach and related supervisory requirements.",
+      "bn_title": "বাজার ঝুঁকির জন্য Basel ন্যূনতম মূলধন প্রয়োজনীয়তা, ২০১৯",
+      "bn_historical_claim": "১৪ জানুয়ারি ২০১৯ সালে Basel Committee বাজার ঝুঁকির জন্য চূড়ান্ত Minimum capital requirements প্রকাশ করে। এটি ২০১৬ সালের কাঠামো প্রতিস্থাপন করে এবং trading-book risk-এর জন্য standardised approach, internal models approach ও সংশ্লিষ্ট তদারকি প্রয়োজনীয়তা সংশোধন করে।",
+      "source_url": "https://www.bis.org/publications/201901-standards-minimum-capital-requirements-market-risk",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "The standard has been revised to address issues that the Basel Committee identified in the course of monitoring the implementation and impact of the framework. This final standard incorporates changes that were proposed in a March 2018 consultative document and has been informed by a quantitative impact based on data as of end-December 2017.",
+      "passage_locator": "Basel Committee on Banking Supervision, Minimum capital requirements for market risk, 14 January 2019, publication summary.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/bcbs/publ/d457.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Minimum capital requirements for market risk, 14 January 2019; official BIS publication.",
+      "edition": "January 2019 final market risk standard; corrected version February 2019.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2019,
+      "what_passage_establishes": "The passage establishes that the 2019 standard was a final revision responding to identified implementation and impact issues, incorporating changes from the March 2018 consultation and quantitative-impact analysis.",
+      "evidence_limits": "The passage establishes the final regulatory revision and its development basis, not subsequent national implementation or observed market effects.",
+      "related_banking_power_records": [
+        "basel-iii-finalising-post-crisis-reforms-2017",
+        "basel-standardised-counterparty-credit-risk-2014",
+        "basel-market-risk-amendment-1996"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Minimum capital requirements for market risk (January 2019)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2140,7 +2172,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 64 records, A=53, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 65 records, A=54, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
