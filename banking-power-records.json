@@ -1620,6 +1620,48 @@
       }
     },
     {
+      "source_id": "east-india-loan-1860-3m",
+      "title": "East India £3 Million Home Loan Authority, 1860",
+      "date_label": "1860",
+      "historical_claim": "In August 1860 Parliament moved to authorize the Secretary of State for India to raise £3,000,000 in the United Kingdom by loan for the service of the Government of India, against a background of a projected Indian revenue deficiency of £7,472,000 for the year.",
+      "verification_status": "Verified against the contemporary House of Lords East India Loan Bill debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Lords/1860-08-21/debates/911bd174-f7a3-49c4-837e-98db2e39d736/EastIndiaLoanBill",
+      "primary_passage": "its object to enable the Secretary of State for India to raise in this country by loan a sum of £3,000,000.",
+      "passage_locator": "House of Lords, 21 August 1860, East India Loan Bill, First Reading, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes the proposed £3,000,000 home borrowing authority and its Indian Government purpose.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Lords, 21 August 1860.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1860,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £3,000,000 borrowing authority.",
+      "evidence_limits": "This passage does not establish the eventual lender, issue terms, subscription result, or amount actually drawn. It is distinct from the earlier 1859 £7,000,000 Indian-security loan proposal.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1860
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
@@ -6333,6 +6375,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 86,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v22": {
+    "status": "Completed after 1860 East India £3m loan deployment",
+    "records_audited": 92,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 87,
       "B": 5,
       "C": 0,
       "D": 0
