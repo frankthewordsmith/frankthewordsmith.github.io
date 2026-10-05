@@ -5136,6 +5136,62 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-railways-finance-1867",
+      "title": "Indian Railways Finance: No Additional Guaranteed Capital Announced, 1867",
+      "date_label": "1867",
+      "historical_claim": "In July 1867 the Secretary of State for India stated that no additional guaranteed capital was required for Indian railway works beyond amounts already announced, while the amount to be raised for 1867–68 to meet current expenditure, repay debt due to Government, and maintain a small balance was estimated at £8–9 million.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from Hansard, House of Commons, 8 July 1867.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1867/jul/08/india-indian-railways-question",
+      "bn_title": "ভারতীয় রেলওয়ে অর্থায়ন: ১৮৬৭ সালে অতিরিক্ত গ্যারান্টিযুক্ত মূলধনের ঘোষণা নেই",
+      "bn_historical_claim": "১৮৬৭ সালের জুলাইয়ে ভারতের সচিব জানান যে ইতিমধ্যে ঘোষিত অর্থের বাইরে ভারতীয় রেলওয়ে নির্মাণের জন্য অতিরিক্ত গ্যারান্টিযুক্ত মূলধনের প্রয়োজন নেই; একই সময়ে ১৮৬৭–৬৮ সালে চলতি ব্যয়, সরকারের কাছে বকেয়া ঋণ পরিশোধ এবং সামান্য নগদ উদ্বৃত্ত রাখার জন্য £৮–৯ মিলিয়ন সংগ্রহের প্রয়োজন হবে বলে জানানো হয়।",
+      "notes": "This record captures the contemporary 1867 parliamentary financing position without importing the later 1877 retrospective explanation that the Government had decided to raise railway funds directly. The 1867 exchange is therefore evidence of the financing requirement and the absence of newly announced guaranteed railway capital, but not by itself proof of the precise legal instrument or lender used for the £8–9 million.",
+      "primary_passage": "there would be no capital required, except what had already been mentioned in the Report on these railways",
+      "passage_locator": "Hansard, House of Commons, 8 July 1867, 'India—Indian Railways.—Question', vol. 188, col. 1192; Sir Stafford Northcote's answer to Mr. Finlay.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1867/jul/08/india-indian-railways-question",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons parliamentary debate, 8 July 1867; question on additional guaranteed capital for Indian railway works and answer by Sir Stafford Northcote, Secretary of State for India.",
+      "edition": "Hansard, House of Commons, 8 July 1867, vol. 188, col. 1192.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1867,
+      "what_passage_establishes": "The passage establishes that, as of 8 July 1867, the Government did not expect additional guaranteed railway capital beyond amounts already announced; the same answer states that £8–9 million would be raised in 1867–68 for current expenditure, repayment of debt due to Government, and a small balance.",
+      "evidence_limits": "The passage does not by itself identify the precise borrowing instrument, lender, interest rate, issue terms, or prove that the full £8–9 million was raised specifically for railway construction. It should not be used alone to establish the later policy conclusion that the Indian Government had fully replaced guaranteed-company finance with direct borrowing.",
+      "related_banking_power_records": [
+        "east-india-loan-outcome-1862-64",
+        "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 8 July 1867, vol. 188, col. 1192."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; suitable as the 1867 financing-transition evidence anchor, with later retrospective sources kept as corroboration only.",
+      "year": 1867,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1867
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
