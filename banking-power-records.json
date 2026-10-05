@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "115-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "116-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3112,6 +3112,60 @@
           "banking_dynasties",
           "sovereign_debt",
           "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-paper-currency-reserve-regime-1884",
+      "title": "India Paper Currency, 1884: Reserve Rule and Government Securities Backing",
+      "date_label": "1884",
+      "historical_claim": "In July 1884 the Under Secretary of State for India described India's paper-currency reserve regime: Government was required to retain coin or bullion equal to the notes issued, except that up to six crores of rupees could be invested in Government of India securities; gold was not required as the reserve because the rupee was legal tender.",
+      "verification_status": "Contemporary parliamentary statement by the Under Secretary of State for India records the reserve rule and the statutory basis then governing Indian paper currency.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1884/jul/08/india-finance-c-the-paper-currency",
+      "bn_title": "ভারতের কাগুজে মুদ্রা, ১৮৮৪: রিজার্ভ বিধি ও সরকারি সিকিউরিটিতে সমর্থন",
+      "bn_historical_claim": "১৮৮৪ সালের জুলাইয়ে ভারতের কাগুজে মুদ্রার রিজার্ভ ব্যবস্থার বর্ণনায় বলা হয় যে সরকারকে ইস্যুকৃত নোটের পূর্ণ মূল্যের সমপরিমাণ মুদ্রা বা বুলিয়ন ধরে রাখতে হতো; তবে সর্বোচ্চ ৬ কোটি রুপি ভারত সরকারের সিকিউরিটিতে বিনিয়োগ করা যেত।",
+      "notes": "On 8 July 1884 the Under Secretary of State for India, J. K. Cross, described the Indian paper-currency reserve arrangement in Parliament. He stated that coin or bullion had to be retained to the full value of notes issued, subject to an exception allowing up to six crores of rupees to be invested in Government of India securities. He also stated that the reserve was not necessarily gold because the rupee was legal tender in India, and identified the Government of India Act 20 of 1882 as containing the conditions of guarantee.",
+      "primary_passage": "Government must retain coin or bullion as a reserve to the full value of the notes issued; except a sum of six crores of rupees, or nominally £6,000,000 sterling, which may be invested in securities of the Government of India.",
+      "passage_locator": "Hansard, House of Commons, 8 July 1884, vol. 290, col. 505; 'India (Finance, &c.)—The Paper Currency.'",
+      "passage_status": "Passage locked — contemporary parliamentary statement records the reserve requirement and six-crore exception.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1884/jul/08/india-finance-c-the-paper-currency",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, statement by Mr. J. K. Cross, Under Secretary of State for India, 8 July 1884, answering questions on the Indian paper currency.",
+      "edition": "Hansard, House of Commons, 8 July 1884, vol. 290, col. 505.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1884,
+      "what_passage_establishes": "The passage establishes the contemporary official description of India's paper-currency backing rule: full-value coin or bullion reserve, with up to six crores of rupees permitted in Government of India securities. The same answer states that gold was not mandatory because the rupee was legal tender and identifies the Government of India Act 20 of 1882 as the source of the guarantee conditions.",
+      "evidence_limits": "The passage is a contemporary parliamentary statement describing the operating/legal framework; it is not itself the 1882 Act text. It does not establish actual reserve composition on a particular date, note circulation beyond the figures separately stated in the answer, or the subsequent development of the currency system.",
+      "related_banking_power_records": [
+        "india-public-works-loan-1883-rupee",
+        "bank-charter-act-1844"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 8 July 1884, vol. 290, col. 505."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary statement locks the reserve rule and six-crore securities exception; the underlying 1882 statutory text remains the preferred supplementary primary-law check.",
+      "year": 1884,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1884
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "paper_currency",
+          "state_banking"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
         ]
       }
     },
@@ -7805,7 +7859,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1884 primary evidence, avoiding duplicate coverage of the 1883 India Public Works rupee-loan announcement.",
+  "next_priority": "Continue chronologically with the strongest distinct 1885 primary evidence, avoiding duplicate coverage of the 1884 Indian paper-currency reserve regime.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8236,6 +8290,44 @@
       },
       "monetary_regimes": {
         "records": 58
+      },
+      "global_power_network": {
+        "records": 91
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v46": {
+    "status": "Completed after 1884 India paper-currency reserve-regime deployment",
+    "records_audited": 116,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 111,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v22": {
+    "status": "Reconciled after 1884 India paper-currency reserve-regime deployment",
+    "records_mapped": 116,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 49
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 59
       },
       "global_power_network": {
         "records": 91
