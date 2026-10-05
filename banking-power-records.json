@@ -1811,6 +1811,38 @@
       ]
     },
     {
+      "source_id": "basel-core-principles-revised-2012",
+      "title": "Revised Basel Core Principles for Effective Banking Supervision",
+      "date_label": "2012",
+      "historical_claim": "On 14 September 2012, banking supervisors endorsed the Basel Committee's revised Core Principles for Effective Banking Supervision, expanding the global supervisory standard from 25 to 29 principles and incorporating lessons from the financial crisis.",
+      "bn_title": "কার্যকর ব্যাংকিং তদারকির সংশোধিত বাসেল কোর প্রিন্সিপলস, ২০১২",
+      "bn_historical_claim": "১৪ সেপ্টেম্বর ২০১২ সালে ব্যাংকিং তদারকি কর্তৃপক্ষগুলো Basel Committee-এর সংশোধিত Core Principles অনুমোদন করে। এতে নীতির সংখ্যা ২৫ থেকে ২৯-এ বৃদ্ধি পায় এবং আর্থিক সংকটের শিক্ষা অন্তর্ভুক্ত হয়।",
+      "source_url": "https://www.bis.org/publications/201209-standards-core-principles-effective-banking-supervision",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "The revised Core Principles were endorsed by banking supervisors at the 17th International Conference of Banking Supervisors held in Istanbul, Turkey, on 13-14 September 2012.",
+      "passage_locator": "Basel Committee on Banking Supervision, Core Principles for Effective Banking Supervision, September 2012, opening publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/publ/bcbs230.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Core Principles for Effective Banking Supervision, September 2012; official BIS publication.",
+      "edition": "September 2012 revised Core Principles.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2012,
+      "what_passage_establishes": "Completion and endorsement of the revised global Core Principles standard in September 2012.",
+      "evidence_limits": "The passage establishes the revised standard and its endorsement, not later implementation or compliance.",
+      "related_banking_power_records": [
+        "basel-gsib-framework-2011",
+        "basel-iii-global-regulatory-framework-2010",
+        "basel-core-principles-1997"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Core Principles for Effective Banking Supervision (September 2012)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1916,7 +1948,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 57 records, A=46, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 58 records, A=47, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
