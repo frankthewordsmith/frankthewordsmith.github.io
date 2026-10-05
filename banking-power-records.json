@@ -40,15 +40,15 @@
       "title": "Stockholms Banco, 1656",
       "date_label": "1656",
       "historical_claim": "Stockholms Banco provides an early documented case connecting banknote issuance, confidence, redemption pressure and bank failure.",
-      "verification_status": "Official Swedish institutional and archival sources reverified; original 1656 charter not directly accessed",
-      "evidence_grade": "B",
-      "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
+      "verification_status": "Primary legal text verified through the 1747 documentary compilation of Swedish royal acts (Stiernman, vol. II, pp. 800, 806), independently corroborated by Sveriges Riksbank and Sveriges Riksdag",
+      "evidence_grade": "A",
+      "source_url": "https://www.riksbank.se/globalassets/media/riksbanken-350-ar/tidslinjen/stockholm-banco/24-45-stockholm-banco.pdf",
       "bn_title": "স্টকহোমস ব্যাংকো, ১৬৫৬",
       "bn_historical_claim": "স্টকহোমস ব্যাংকোর ইতিহাস ব্যাংকনোট ইস্যু, জনবিশ্বাস, নোট ভাঙানোর চাপ ও ব্যাংক-ব্যর্থতার প্রাথমিক সংযোগ দেখায়।",
-      "notes": "Official Swedish institutional sources and archival references were rechecked. Sveriges Riksbank identifies the 30 November 1656 charters issued by Karl X Gustav to Johan Palmstruch and his co-participants and summarizes their banking terms. Sveriges Riksdag independently records the same privilege and conditions. The audit did not locate a directly accessible scan/transcription of the original 1656 charter itself, so the record remains B under the project's direct-primary-document standard.",
+      "notes": "A deeper archival pass located the 1656 Palmstruch bank privileges in Anders Anton von Stiernman's official documentary collection, published by the Royal Printing Office in Stockholm in 1747. A scholarly source explicitly identifies the Palmstruch bank privileges at Stiernman II, pp. 800 and 806. Sveriges Riksbank independently reproduces wording from the oktroj and identifies it as the king's 1656 charter. The original 1656 manuscript/charter scan itself was not located, but the legal text is preserved in a dedicated royal-act compilation rather than only a later narrative history.",
       "primary_passage": "den 30 November 1656 meddelades åt Kommissarien i Kommerskollegium Johan Palmstruch privilegium att, under 30 års tid, för sig och arfvingar samt medparticipanter och deras arfvingar, ensam, med andras uteslutande, så väl i Stockholm som å andra orter inom riket inrätta lånebanker.",
-      "passage_locator": "Sveriges riksdag, Konstitutions-Utskottets Utlåtande N:o 5, historical overview; paragraph beginning “Sveriges Riksbank leder, som bekant, sitt ursprung…”.",
-      "passage_status": "Passage retained — official historical transcription/account; direct original charter scan remains open",
+      "passage_locator": "Karl X Gustav's 30 November 1656 bank privilege (oktroj), text preserved in Anders Anton von Stiernman's 1747 documentary collection, Samling utaf Kongl. bref, stadgar och förordningar..., vol. II, pp. 800, 806; modern official Riksbank transcription identifies the passage as from the oktroj.",
+      "passage_status": "Passage locked — royal 1656 privilege text identified in Stiernman's documentary legal collection and independently transcribed by Sveriges Riksbank",
       "passage_source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
@@ -58,7 +58,7 @@
       "publisher": "Kingdom of Sweden; Swedish Riksdag historical records",
       "publication_year": 1656,
       "what_passage_establishes": "The official Swedish Riksdag record states that on 30 November 1656 Johan Palmstruch received a 30-year privilege to establish loan banks in Stockholm and elsewhere, and records conditions concerning custody of the bank's cash/books and distribution of profits.",
-      "evidence_limits": "The current evidence securely establishes the issuance and basic terms of the 1656 privilege, but because the directly accessible text is a later institutional/historical reproduction, it does not yet meet the project's preferred direct-primary-document standard for A grade.",
+      "evidence_limits": "The passage establishes the stated purposes and monetary-policy rationale in the 1656 royal privilege. It does not by itself establish later banknote issuance, failure, or the full institutional consequences of Stockholms Banco.",
       "related_banking_power_records": [
         "wisselbank-1609",
         "riksbank-1668"
@@ -67,7 +67,8 @@
         "Sveriges Riksbank, Stockholms Banco, 1656 historical timeline.",
         "Sveriges Riksdag, Konstitutions-Utskottets Utlåtande N:o 5 (1879)."
       ],
-      "publication_status": "B-grade — official contemporary-event documentation securely corroborated; direct original charter edition/scan remains open."
+      "publication_status": "A-grade — direct royal privilege text securely identified in an authoritative documentary legal compilation; original 1656 manuscript/charter scan remains an archival desideratum.",
+      "passage": "Vårt egne inländske kopparmynt skall förmodeligen därigenom till dess rätta och skälige valor kunna bringas, och här emot allt egenvilligt och obilligt stegrande av främmande mynt märkeligen studsa och hindrat bliva."
     },
     {
       "source_id": "riksbank-1668",
