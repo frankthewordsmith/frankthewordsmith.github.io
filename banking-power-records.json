@@ -9112,7 +9112,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, screening remaining official financial, monetary, institutional, and banking-network evidence; avoid duplicating the deployed aggregate fiscal, debt, conversion, railway, defence-expenditure, and currency layers.",
+  "next_priority": "1889 screening completed for the strongest distinct Banking Power layers. Advance chronologically to 1890, prioritizing sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; do not add weaker 1889 fiscal-administrative or speaker-opinion material merely to increase record count.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10459,6 +10459,20 @@
       "global_power_network": {
         "records": 112
       }
+    }
+  },
+  "structural_audit_2026_10_06_v70": {
+    "status": "1889 queue screening completed; no additional stronger distinct A-grade Banking Power layer identified",
+    "records_audited": 139,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 134,
+      "B": 5,
+      "C": 0,
+      "D": 0
     }
   }
 }
