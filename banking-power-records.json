@@ -1259,6 +1259,40 @@
       ]
     },
     {
+      "source_id": "basel-market-risk-supplement-1995",
+      "title": "Basel planned supplement to the Capital Accord for market risk",
+      "date_label": "1995",
+      "historical_claim": "On 21 April 1995, the Basel Committee issued a revised consultative package to refine the 1988 Capital Accord by incorporating capital requirements for banks' market risks, including a standardised approach and an internal-models approach subject to supervisory approval.",
+      "bn_title": "বাজার ঝুঁকি অন্তর্ভুক্ত করতে বাসেল ক্যাপিটাল অ্যাকর্ডের প্রস্তাবিত পরিপূরক, ১৯৯৫",
+      "bn_historical_claim": "২১ এপ্রিল ১৯৯৫ সালে বাসেল কমিটি ব্যাংকের বাজার ঝুঁকির জন্য মূলধন প্রয়োজনীয়তা অন্তর্ভুক্ত করে ১৯৮৮ সালের Capital Accord পরিমার্জনের একটি সংশোধিত পরামর্শমূলক প্যাকেজ প্রকাশ করে; এতে একটি মানসম্মত পদ্ধতি এবং তদারকি কর্তৃপক্ষের অনুমোদনসাপেক্ষ অভ্যন্তরীণ-মডেল পদ্ধতি ছিল।",
+      "source_url": "https://www.bis.org/publications/199504-consultation-planned-supplement-capital-accord-incorporate-market-risks",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "notes": "The official BIS publication is dated 21 April 1995. Its introduction explains that the Committee had reviewed comments on its 1993 market-risk proposal and was issuing a revised package consisting of a planned Supplement to the July 1988 Capital Accord plus a discussion paper on internal risk measurement systems. The BIS 1995 Annual Report independently identifies this consultative proposal as the main product of the Committee's market-risk work during the year.",
+      "primary_passage": "The revised proposal consists of this cover note, a planned Supplement to the Basle Capital Accord of July 1988 and a discussion paper analysing the issues which arise in relation to the use of banks' internal risk measurement systems as a basis for applying capital charges.",
+      "passage_locator": "Basel Committee on Banking Supervision, Planned supplement to the Capital Accord to incorporate market risks, 21 April 1995, Introduction.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee consultative publication",
+      "passage_source_url": "https://www.bis.org/publ/bcbs23.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Planned supplement to the Capital Accord to incorporate market risks, 21 April 1995; official BIS-hosted committee publication.",
+      "edition": "Planned supplement to the Capital Accord to incorporate market risks, April 1995.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 1995,
+      "what_passage_establishes": "The passage directly establishes the April 1995 revised proposal to supplement the 1988 Capital Accord for market-risk capital charges and the Committee's consideration of internal risk-measurement models.",
+      "evidence_limits": "The passage establishes the proposal and its structure, not final adoption, implementation dates, actual bank capital charges, or later 1996 amendment outcomes.",
+      "related_banking_power_records": [
+        "basel-accord-compliance-1993",
+        "derivatives-risk-management-guidelines-1994",
+        "global-financial-crisis-2008"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Overview of the Amendment to the Capital Accord to incorporate market risks (January 1996).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1364,7 +1398,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 40 records, A=29, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 41 records, A=30, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
