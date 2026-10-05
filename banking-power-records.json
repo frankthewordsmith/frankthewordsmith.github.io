@@ -1590,6 +1590,38 @@
       ]
     },
     {
+      "source_id": "basel-trading-double-default-2005",
+      "title": "Basel II application to trading activities and double default effects",
+      "date_label": "2005",
+      "historical_claim": "On 30 July 2005, the Basel Committee and IOSCO issued final guidance applying Basel II to certain trading-related exposures and double default effects, refining capital treatment for counterparty credit risk and related exposures.",
+      "bn_title": "Basel II-তে ট্রেডিং কার্যক্রম ও ডাবল ডিফল্ট ইফেক্টের প্রয়োগ, ২০০৫",
+      "bn_historical_claim": "৩০ জুলাই ২০০৫ সালে Basel Committee ও IOSCO Basel II-এর অধীনে নির্দিষ্ট ট্রেডিং-সম্পর্কিত এক্সপোজার ও ডাবল ডিফল্ট ইফেক্টের জন্য চূড়ান্ত নির্দেশনা জারি করে; এতে counterparty credit riskসহ সংশ্লিষ্ট এক্সপোজারের মূলধন ব্যবস্থাপনা পরিমার্জন করা হয়।",
+      "source_url": "https://www.bis.org/publications/200507-standards-application-basel-ii-trading-activities-and-treatment-double-default-effects",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The proposals in this paper are intended to bring the capital treatment of trading activities and double default effects abreast of the Basel Committee's revised capital framework for banking organisations, also known as Basel II.",
+      "passage_locator": "Basel Committee on Banking Supervision and IOSCO, The Application of Basel II to Trading Activities and the Treatment of Double Default Effects, 30 July 2005, Introduction.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee/IOSCO final paper",
+      "passage_source_url": "https://www.bis.org/publ/bcbs115.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision and IOSCO, The Application of Basel II to Trading Activities and the Treatment of Double Default Effects, 30 July 2005; official BIS-hosted publication.",
+      "edition": "The Application of Basel II to Trading Activities and the Treatment of Double Default Effects, July 2005.",
+      "publisher": "Basel Committee on Banking Supervision / IOSCO",
+      "publication_year": 2005,
+      "what_passage_establishes": "The passage establishes the final joint BCBS/IOSCO effort to align capital treatment for trading activities and double default effects with Basel II.",
+      "evidence_limits": "The passage establishes issuance and regulatory treatment, not implementation by individual jurisdictions or banks.",
+      "related_banking_power_records": [
+        "basel-ii-revised-framework-2004",
+        "basel-new-capital-accord-2001",
+        "basel-market-risk-amendment-1996"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision and IOSCO, The Application of Basel II to Trading Activities and the Treatment of Double Default Effects (July 2005)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1695,7 +1727,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 50 records, A=39, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 51 records, A=40, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
