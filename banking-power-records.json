@@ -1746,6 +1746,49 @@
       }
     },
     {
+      "source_id": "east-india-loan-outcome-1862-64",
+      "title": "East India Loan: Railway Companies Ultimately Supplied the Required Funds",
+      "date_label": "1864",
+      "year": 1864,
+      "historical_claim": "The 1861 East India borrowing was ultimately not needed: Sir Charles Wood reported in 1864 that railway companies paid in the full estimated amount before the end of the year, leaving the £4,000,000 borrowed unnecessary.",
+      "verification_status": "Verified against contemporary parliamentary evidence.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1864-07-21/debates/7b13493c-19f4-4c8c-84c5-f1033e5be5ab/EastIndiaRevenueAccounts",
+      "primary_passage": "before the end of the year the railway companies paid in to the full extent of the estimate, so that the sum borrowed was not required ... £4,000,000.",
+      "passage_locator": "House of Commons, 21 July 1864, East India Revenue Accounts, Hansard; Sir Charles Wood's statement on Indian finance covering 1 May 1862–30 April 1864.",
+      "passage_status": "Exact contemporary parliamentary wording locked.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 21 July 1864.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1864,
+      "publication_status": "A-grade — contemporary parliamentary retrospective evidence.",
+      "evidence_limits": "This establishes the reported outcome of the borrowing episode, not the original loan contract, issue price, lender, or a separate 1862 repayment instrument.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1864
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
@@ -6495,6 +6538,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 89,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v26": {
+    "status": "Completed after East India loan outcome deployment",
+    "records_audited": 95,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 90,
       "B": 5,
       "C": 0,
       "D": 0
