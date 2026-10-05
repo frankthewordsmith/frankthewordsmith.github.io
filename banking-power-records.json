@@ -5192,6 +5192,63 @@
           "central_banks"
         ]
       }
+    },
+    {
+      "source_id": "india-revenue-accounts-1868-railway-guaranteed-interest",
+      "title": "India Revenue Accounts, 1868: Guaranteed Railway Interest Burden",
+      "date_label": "1868",
+      "historical_claim": "The 1868 Indian Revenue Accounts recorded a substantial increase in the charge for guaranteed interest on Indian railway capital: for the year ending 31 March 1867 the net guaranteed interest charge, after traffic receipts, was £731,049, while the accounts for 1867–68 showed a further increase in guaranteed-interest charges and the continuing separation of railway guaranteed-interest obligations from ordinary Indian revenue and public-works expenditure.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from Hansard, House of Commons, 27 July 1868.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1868-07-27/debates/50625bba-329c-43f7-8a48-a2ad0387394c/India%E2%80%94EastIndiaRevenueAccounts%E2%80%94Committee",
+      "bn_title": "ভারতের রাজস্ব হিসাব, ১৮৬৮: গ্যারান্টিযুক্ত রেলওয়ে সুদের বোঝা",
+      "bn_historical_claim": "১৮৬৮ সালের ভারতের রাজস্ব হিসাবগুলোতে ভারতীয় রেলওয়ে মূলধনের গ্যারান্টিযুক্ত সুদের ব্যয়কে পৃথক আর্থিক বোঝা হিসেবে দেখানো হয়। ১৮৬৭ সালের শেষ হওয়া বছরে ট্রাফিক রসিদ বাদ দেওয়ার পর এই গ্যারান্টিযুক্ত সুদের নিট ব্যয় ছিল £৭৩১,০৪৯; ১৮৬৭–৬৮ হিসাবেও এই খাতে উল্লেখযোগ্য বৃদ্ধি দেখা যায়।",
+      "notes": "This record is deliberately narrower than the later 1877 retrospective account of the 1867 policy shift. The 1868 contemporary accounts establish the continuing fiscal burden of guaranteed railway capital and its separate accounting treatment; they do not by themselves prove that all new railway borrowing had shifted to direct Government borrowing.",
+      "primary_passage": "the Guaranteed Interest on the Capital of Railway and other Companies, in India and in England, deducting net Traffic Receipts, was £731,049",
+      "passage_locator": "Hansard, House of Commons, 27 July 1868, 'India—East India Revenue Accounts—Committee'; resolution covering the year ending 31 March 1867.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://hansard.parliament.uk/commons/1868-07-27/debates/50625bba-329c-43f7-8a48-a2ad0387394c/India%E2%80%94EastIndiaRevenueAccounts%E2%80%94Committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons parliamentary financial accounts debate, 27 July 1868, reporting Indian revenue, expenditure, debt interest, public works and guaranteed railway-company interest.",
+      "edition": "Hansard, House of Commons, 27 July 1868.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1868,
+      "what_passage_establishes": "The passage establishes the separately reported guaranteed-interest burden on railway and other company capital in the Indian accounts, with £731,049 recorded after deduction of net traffic receipts for the year ending 31 March 1867. The same debate discusses an additional £660,000 increase in guaranteed railway interest in the 1867–68 estimate.",
+      "evidence_limits": "The passage does not identify individual lenders, loan instruments, issue prices, or prove the exact transition from guaranteed-company borrowing to direct Government borrowing. Those propositions require separate primary evidence.",
+      "related_banking_power_records": [
+        "india-railways-finance-1867",
+        "east-india-loan-outcome-1862-64",
+        "overend-gurney-crisis-1866"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 July 1868, India—East India Revenue Accounts—Committee."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary financial-account evidence with exact passage locked.",
+      "year": 1868,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1868
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
