@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "113-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "114-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2860,12 +2860,39 @@
       "publication_year": 1881,
       "what_passage_establishes": "The passage establishes that in July 1881 a 300-lakh loan for Public Works was actually raised in India, at 4 per cent interest and at an issue price of 105 3–16.",
       "evidence_limits": "The passage does not identify individual subscribers or underwriting houses, does not give maturity or coupon terms beyond the stated interest rate, and does not by itself establish the full allocation of proceeds among particular public-works projects. It also does not establish that all Indian borrowing was conducted on these terms.",
-      "related_banking_power_records": ["uk-loan-to-india-funded-as-repayable-debt-1880","india-loan-issued-1879","india-public-works-borrowing-india-1875"],
-      "scholarly_references": ["Hansard, House of Commons, Annual Financial Statement, 22 August 1881, vol. 265, cols. 628–698."],
+      "related_banking_power_records": [
+        "uk-loan-to-india-funded-as-repayable-debt-1880",
+        "india-loan-issued-1879",
+        "india-public-works-borrowing-india-1875"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, Annual Financial Statement, 22 August 1881, vol. 265, cols. 628–698."
+      ],
       "publication_status": "A-grade — contemporary parliamentary financial statement directly records the July 1881 Indian Public Works loan, including amount, purpose, rate, and issue price.",
       "year": 1881,
-      "book_1_integration": {"status":"Provisional chronology mapping","part":"part_2","part_label":"Book 1 — Part II: National banking and nineteenth-century state finance","chapter_assignment":"Pending final chapter-wise manuscript structure","sequence_year":1881},
-      "book_1_chapter_mapping": {"status":"Pending authoritative chapter assignment","candidate_research_clusters":["sovereign_debt","public_works_finance","state_borrowing"],"chapter_number":null,"chapter_title":null,"research_maps":["central_banks","sovereign_debt","monetary_regimes","global_power_network"]}
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1881
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "public_works_finance",
+          "state_borrowing"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     },
     {
       "source_id": "bank-japan-1882",
@@ -2916,6 +2943,62 @@
         "chapter_title": null,
         "research_maps": [
           "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "southern-maratta-railway-private-capital-guarantee-1882",
+      "title": "Southern Maratta Railway, 1882: Private Capital Substituted for Direct Government Borrowing",
+      "date_label": "1882",
+      "historical_claim": "In May 1882 the Government of India approved an exceptional Southern Maratta Railway financing arrangement in which a private company would raise the capital and construct and operate the line, instead of the Government borrowing directly; the company was promised at least 4 per cent for its first five years, with a 3½ per cent base rate plus one-fourth of net receipts thereafter.",
+      "verification_status": "Contemporary parliamentary statement by the Secretary of State for India records the financing arrangement, its rationale, and the Government's limited guarantee terms.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1882/may/25/railways-india-southern-maratta-railway",
+      "bn_title": "সাউদার্ন মারাঠা রেলওয়ে, ১৮৮২: সরাসরি সরকারি ঋণের বদলে বেসরকারি মূলধন",
+      "bn_historical_claim": "১৮৮২ সালের মে মাসে ভারত সরকার সাউদার্ন মারাঠা রেলওয়ের জন্য একটি ব্যতিক্রমী অর্থায়ন ব্যবস্থা অনুমোদন করে, যেখানে সরকার সরাসরি ঋণ নেওয়ার বদলে একটি বেসরকারি কোম্পানিকে মূলধন সংগ্রহ, রেলপথ নির্মাণ ও পরিচালনার দায়িত্ব দেয়; প্রথম পাঁচ বছরে কোম্পানিকে অন্তত ৪ শতাংশ রিটার্নের নিশ্চয়তা দেওয়া হয়।",
+      "notes": "The Secretary of State stated that the line could not be constructed under the usual rule allowing borrowing for works likely to be remunerative because it would absorb the provision for protective works. The Government therefore accepted an offer for a company to raise the money and construct and work the line. The company was promised a 3½ per cent rate, with one-fourth of net receipts, but was given assurance of at least 4 per cent during the first five years to attract investors. The statement expressly contrasts this with State Railways normally financed by direct Government agency.",
+      "primary_passage": "the effect of the arrangement is that the money is raised by private capitalists instead of by the direct agency of the Government",
+      "passage_locator": "Hansard, House of Commons, 25 May 1882, vol. 269, cols. 1596–1599; Southern Maratta Railway Company question and answer.",
+      "passage_status": "Passage locked — contemporary Secretary of State statement directly records the substitution of private capital for direct Government agency and the associated limited guarantee terms.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1882/may/25/railways-india-southern-maratta-railway",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, statement by the Marquess of Hartington, Secretary of State for India, concerning the Southern Maratta Railway concession, 25 May 1882.",
+      "edition": "Hansard, House of Commons, 25 May 1882, vol. 269, cols. 1596–1599.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1882,
+      "what_passage_establishes": "The passage establishes that, for this exceptional railway case, capital was to be raised by private investors rather than through the direct borrowing agency of the Government, while the Government accepted a limited return guarantee and retained ownership of the line.",
+      "evidence_limits": "The passage does not identify individual investors, banks, underwriters, total subscribed capital, issue price, or a completed loan transaction. It establishes a financing/concession structure and contingent Government obligation, not a conventional sovereign loan. The Secretary of State expressly stated that the arrangement was exceptional and was not intended as a general guarantee policy.",
+      "related_banking_power_records": [
+        "india-public-works-loan-1881",
+        "india-public-works-borrowing-india-1875",
+        "india-government-railways-lahore-peshawur-1871"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 25 May 1882, vol. 269, cols. 1596–1599."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary statement directly records the exceptional private-capital financing structure and limited Government guarantee; individual investor and underwriting identities remain unestablished.",
+      "year": 1882,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1882
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "public_works_finance",
+          "state_borrowing"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
         ]
       }
     },
@@ -7633,21 +7716,38 @@
     "duplicate_primary_passages": 0,
     "chronological_order": true,
     "missing_year_fields": 0,
-    "grade_counts": {"A": 108, "B": 5, "C": 0, "D": 0}
+    "grade_counts": {
+      "A": 108,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
   },
   "book_1_research_maps_2026_10_05_v19": {
     "status": "Reconciled after 1881 India Public Works loan deployment",
     "records_mapped": 113,
     "maps": {
-      "central_banks": {"records": 79},
-      "banking_dynasties": {"records": 20},
-      "sovereign_debt": {"records": 47},
-      "financial_crises": {"records": 10},
-      "monetary_regimes": {"records": 57},
-      "global_power_network": {"records": 89}
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 47
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 57
+      },
+      "global_power_network": {
+        "records": 89
+      }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1882 primary evidence, avoiding duplicate coverage of the 1881 India Public Works loan.",
+  "next_priority": "Continue chronologically with the strongest distinct 1883 primary evidence, avoiding duplicate coverage of the 1882 Southern Maratta Railway concession.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8008,6 +8108,42 @@
       }
     }
   },
-  "structural_audit_2026_10_05_v43": {"status":"Completed after 1881 India Public Works loan deployment","records_audited":113,"duplicate_source_ids":0,"duplicate_primary_passages":0,"chronological_order":true,"missing_year_fields":0,"grade_counts":{"A":108,"B":5,"C":0,"D":0}},
-  "book_1_research_maps_2026_10_05_v19": {"status":"Reconciled after 1881 India Public Works loan deployment","records_mapped":113,"maps":{"central_banks":{"records":79},"banking_dynasties":{"records":20},"sovereign_debt":{"records":47},"financial_crises":{"records":10},"monetary_regimes":{"records":57},"global_power_network":{"records":89}}}
+  "structural_audit_2026_10_05_v44": {
+    "status": "Completed after 1882 Southern Maratta Railway private-capital financing deployment",
+    "records_audited": 114,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 109,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v20": {
+    "status": "Reconciled after 1882 Southern Maratta Railway private-capital financing deployment",
+    "records_mapped": 114,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 48
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 57
+      },
+      "global_power_network": {
+        "records": 90
+      }
+    }
+  }
 }
