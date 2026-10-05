@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "133-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "134-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4168,6 +4168,58 @@
           "sovereign_debt",
           "monetary_regimes",
           "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-stock-conversion-final-saving-1889",
+      "title": "India Stock Conversion Final Saving, 1889: £266,300 Annual Saving Realized",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "By August 1889 the conversion of £53,261,820 of 4 per cent India Stock into 3½ per cent stock was complete, its cost fully paid, and the stated continuing saving to Indian revenues was £266,300 per annum.",
+      "verification_status": "Verified against the contemporary official East India Revenue Accounts statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "primary_passage": "The conversion of £53,261,820 Four per Cent Stock is now complete. It is reduced to 3½ per cent. The whole cost of the operation is now paid for, and the saving henceforth to the revenues of India by the operation will be £266,300 per annum.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, col. 621, East India Revenue Accounts.",
+      "passage_status": "Passage locked — contemporary official statement of completed conversion and continuing saving.",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in Committee on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, col. 621.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes completion of the £53,261,820 conversion, reduction from 4% to 3½%, payment of the operation's cost, and the stated ongoing annual saving of £266,300.",
+      "evidence_limits": "The statement does not independently provide the full conversion schedule, holder-level participation, issue mechanics, or an audited realization schedule beyond the ministerial figure.",
+      "notes": "This is the final implementation/savings layer of the India Stock conversion sequence, distinct from the 1887 legislative record and 1887 reported conversion outcome. The £266,300 is the contemporary official stated continuing saving.",
+      "bn_title": "ভারতীয় স্টক রূপান্তরের চূড়ান্ত সাশ্রয়, ১৮৮৯: বছরে £২৬৬,৩০০ সাশ্রয়",
+      "bn_historical_claim": "আগস্ট ১৮৮৯ নাগাদ £৫৩,২৬১,৮২০ মূল্যের ৪ শতাংশ ভারতীয় স্টককে ৩½ শতাংশ স্টকে রূপান্তর সম্পন্ন হয়; এর ব্যয় সম্পূর্ণ পরিশোধিত হয় এবং ভারতীয় রাজস্বে বছরে £২৬৬,৩০০ সাশ্রয় হবে বলে সরকারি বিবৃতিতে জানানো হয়।",
+      "related_banking_power_records": [
+        "conversion-of-india-stock-1887",
+        "india-stock-conversion-outcome-1887",
+        "india-rupee-debt-conversion-1888",
+        "india-rupee-debt-conversion-outcome-1889"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, col. 621, East India Revenue Accounts."
+      ],
+      "publication_status": "A-grade — direct contemporary official statement of completed debt conversion and continuing saving.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes"
         ]
       }
     },
@@ -8806,7 +8858,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, prioritizing distinct monetary, institutional, sovereign-debt, or banking-network evidence and avoiding duplication of the deployed 1889 debt, conversion, and railway-concession records.",
+  "next_priority": "Continue through 1889, prioritizing any remaining distinct monetary, institutional, sovereign-debt, or banking-network primary evidence; avoid duplicating the completed India Stock conversion sequence except where a materially distinct implementation layer is documented.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9921,6 +9973,44 @@
       },
       "monetary_regimes": {
         "records": 67
+      },
+      "global_power_network": {
+        "records": 108
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v64": {
+    "status": "Completed after 1889 India Stock conversion final-saving deployment",
+    "records_audited": 134,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 129,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v40": {
+    "status": "Reconciled after 1889 India Stock conversion final-saving deployment",
+    "records_mapped": 134,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 64
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 68
       },
       "global_power_network": {
         "records": 108
