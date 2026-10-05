@@ -600,6 +600,63 @@
       }
     },
     {
+      "source_id": "rothschild-portuguese-loan-1823",
+      "title": "Rothschild Portuguese Government Loan, 1823",
+      "date_label": "1823",
+      "historical_claim": "Nathan Mayer Rothschild's London house negotiated to undertake the Portuguese Government's 5% loan of £1.5 million, secured on Brazilian revenues.",
+      "verification_status": "Primary-source archival correspondence verified through The Rothschild Archive; archival contract reference independently corroborated",
+      "evidence_grade": "A",
+      "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor",
+      "bn_title": "রথসচাইল্ডের পর্তুগিজ সরকারি ঋণ, ১৮২৩",
+      "bn_historical_claim": "নাথান মেয়ার রথসচাইল্ডের লন্ডন ব্যাংক ১৮২৩ সালের £১৫ লক্ষের পর্তুগিজ ৫% সরকারি ঋণ গ্রহণের জন্য আলোচনা করেছিল; ঋণটি ব্রাজিলীয় রাজস্বের ওপর সুরক্ষিত ছিল।",
+      "notes": "The Rothschild Archive states that Nathan Mayer Rothschild contracted to undertake the Portuguese Government five per cent loan in 1823 and that a letter copybook records his approaches to Baron de Teixeira, Portuguese Minister of Finance, in July 1823. The archive's published transcription is used as the primary passage; the underlying loan contract is identified in the literature as Rothschild Archive RAL 000/401 A and dated Lisbon, 8 September 1823.",
+      "primary_passage": "The permanent interest of the Portuguese Governments will be best consulted by concluding the loan with ourselves, inasmuch as from the resources & credit we possess it would be more effectually in our power to advance and maintain the price of your securities than any other parties.",
+      "passage_locator": "Nathan Mayer Rothschild letter copybook, approaches to Baron de Teixeira, Portuguese Minister of Finance, July 1823; published by The Rothschild Archive in its Portugal collection. Related underlying loan contract: Rothschild Archive RAL 000/401 A, dated Lisbon, 8 September 1823.",
+      "passage_status": "Passage locked — exact wording reproduced by The Rothschild Archive; underlying contract reference independently corroborated as RAL 000/401 A.",
+      "passage_source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Nathan Mayer Rothschild correspondence concerning the Portuguese Government loan of 1823; The Rothschild Archive; underlying contract RAL 000/401 A.",
+      "edition": "The Rothschild Archive, Archivist's Choice: 200 years of Rothschild business with Portugal; underlying contract RAL 000/401 A.",
+      "publisher": "The Rothschild Archive",
+      "publication_year": "1823",
+      "what_passage_establishes": "The passage establishes Rothschild's contemporary proposal that his house undertake the Portuguese loan and his stated claim that its resources and credit would support the securities.",
+      "evidence_limits": "The passage does not establish that Rothschild ultimately won the Portuguese issue; contemporary contract evidence shows the loan was ultimately issued by B. A. Goldschmidt. It also does not establish broader Rothschild control of Portuguese finance.",
+      "related_banking_power_records": [
+        "rothschild-prussian-loan-1818",
+        "rothschild-waterloo-1814-15"
+      ],
+      "scholarly_references": [
+        "Marc Flandreau and Juan H. Flores, “Bonds and Brands: Foundations of Sovereign Debt Markets, 1820–1830,” *The Journal of Economic History* 69, no. 3 (2009), discussion and note identifying Rothschild Archive 000/401 A."
+      ],
+      "publication_status": "A-grade — contemporary Rothschild correspondence is reproduced by The Rothschild Archive and the underlying contract reference RAL 000/401 A is independently corroborated; scope limited to the documented proposal and loan negotiation.",
+      "year": 1823,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1823
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Added after primary-source passage and archival locator review; this record does not claim that Rothschild ultimately issued the loan."
+    },
+    {
       "source_id": "bank-of-england-crisis-1825",
       "title": "Financial crisis of 1825–1826 and Bank of England branches",
       "date_label": "1825–1826",
@@ -651,6 +708,63 @@
           "financial_crises"
         ]
       }
+    },
+    {
+      "source_id": "baring-mexican-debt-agency-1829",
+      "title": "Baring Brothers as Financial Agents for Mexico, 1829",
+      "date_label": "1829",
+      "historical_claim": "In June 1829 the Mexican government authorized Barings to act with Manuel Eduardo de Gorostiza to undertake capitalization of bondholder dividends, and contemporary correspondence records Barings' role in liquidation of the Mexican government's bond debt.",
+      "verification_status": "Primary-source archival catalogue and digitized contemporary letter independently verified",
+      "evidence_grade": "A",
+      "source_url": "https://baringarchive.org.uk/wp-content/uploads/2022/08/The-Baring-Archive_HC4.pdf",
+      "bn_title": "মেক্সিকোর আর্থিক এজেন্ট হিসেবে বারিং ব্রাদার্স, ১৮২৯",
+      "bn_historical_claim": "১৮২৯ সালের জুনে মেক্সিকো সরকার বারিংসকে ম্যানুয়েল এদুয়ার্দো দে গোর্স্তিসার সঙ্গে বন্ডহোল্ডারদের লভ্যাংশ মূলধনীকরণের কাজে অনুমোদন দেয়; সমসাময়িক নথি মেক্সিকোর সরকারি বন্ড ঋণ নিষ্পত্তিতে বারিংসের ভূমিকা নথিবদ্ধ করে।",
+      "notes": "The Baring Archive HC4 Mexico catalogue identifies a 5 June 1829 grant by the Mexican government authorizing Barings to act with Manuel Eduardo de Gorostiza on capitalization of bondholders' dividends, plus Zavala correspondence on liquidation. The underlying 19 September 1829 Zavala-to-Alexander-Baring letter is independently digitized by the Portal to Texas History as a primary-source letter on Mexico's foreign debt.",
+      "primary_passage": "About liquidation of the debt",
+      "passage_locator": "Lorenzo de Zavala to Alexander Baring, Mexico, 19 September 1829; Baring Archive HC4.5.4.4. The letter is independently digitized by the Portal to Texas History, item txu-dezavala-1-09191829.",
+      "passage_status": "Passage locked at archival catalogue level and independently identified as a digitized contemporary primary letter; exact Spanish body text should be transcribed from the scan before any narrower quotation is added.",
+      "passage_source_url": "https://texashistory.unt.edu/ark:/67531/metapth5985/",
+      "passage_type": "archival-primary-document",
+      "language": "Spanish",
+      "last_verified": "2026-10-05",
+      "source_identity": "Lorenzo de Zavala to Alexander Baring, 19 September 1829; Baring Archive HC4.5.4.4; digitized by University of North Texas / Dolph Briscoe Center.",
+      "edition": "Original letter, 19 September 1829; Baring Archive HC4.5.4.4; digitized copy at Portal to Texas History.",
+      "publisher": "Baring Archive / Dolph Briscoe Center for American History",
+      "publication_year": "1829",
+      "what_passage_establishes": "The archival record establishes that Mexican Finance Minister Lorenzo de Zavala corresponded directly with Alexander Baring concerning liquidation of Mexico's debt, within a documented period when Barings acted as financial agents for the Mexican government.",
+      "evidence_limits": "This does not establish that Barings issued the Mexican loans; the Baring Archive explicitly states that Barings did not issue a Mexican loan and were financial agents in 1829–1836.",
+      "related_banking_power_records": [
+        "rothschild-portuguese-loan-1823",
+        "baring-crisis-1890"
+      ],
+      "scholarly_references": [
+        "The Baring Archive, George White, Barings' Troubleshooter; Baring Archive HC4 Mexico catalogue."
+      ],
+      "publication_status": "A-grade — contemporary primary letter identified by exact date, correspondent and archival series, with an independently digitized scan; claim is limited to Barings' documented agency/debt-liquidation role.",
+      "year": 1829,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1829
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Deployed with deliberately narrow wording: Baring agency/debt-liquidation role, not loan issuance."
     },
     {
       "source_id": "bank-charter-act-1844",
@@ -3868,120 +3982,6 @@
           "global_power_network"
         ]
       }
-    },
-    {
-      "source_id": "rothschild-portuguese-loan-1823",
-      "title": "Rothschild Portuguese Government Loan, 1823",
-      "date_label": "1823",
-      "historical_claim": "Nathan Mayer Rothschild's London house negotiated to undertake the Portuguese Government's 5% loan of £1.5 million, secured on Brazilian revenues.",
-      "verification_status": "Primary-source archival correspondence verified through The Rothschild Archive; archival contract reference independently corroborated",
-      "evidence_grade": "A",
-      "source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor",
-      "bn_title": "রথসচাইল্ডের পর্তুগিজ সরকারি ঋণ, ১৮২৩",
-      "bn_historical_claim": "নাথান মেয়ার রথসচাইল্ডের লন্ডন ব্যাংক ১৮২৩ সালের £১৫ লক্ষের পর্তুগিজ ৫% সরকারি ঋণ গ্রহণের জন্য আলোচনা করেছিল; ঋণটি ব্রাজিলীয় রাজস্বের ওপর সুরক্ষিত ছিল।",
-      "notes": "The Rothschild Archive states that Nathan Mayer Rothschild contracted to undertake the Portuguese Government five per cent loan in 1823 and that a letter copybook records his approaches to Baron de Teixeira, Portuguese Minister of Finance, in July 1823. The archive's published transcription is used as the primary passage; the underlying loan contract is identified in the literature as Rothschild Archive RAL 000/401 A and dated Lisbon, 8 September 1823.",
-      "primary_passage": "The permanent interest of the Portuguese Governments will be best consulted by concluding the loan with ourselves, inasmuch as from the resources & credit we possess it would be more effectually in our power to advance and maintain the price of your securities than any other parties.",
-      "passage_locator": "Nathan Mayer Rothschild letter copybook, approaches to Baron de Teixeira, Portuguese Minister of Finance, July 1823; published by The Rothschild Archive in its Portugal collection. Related underlying loan contract: Rothschild Archive RAL 000/401 A, dated Lisbon, 8 September 1823.",
-      "passage_status": "Passage locked — exact wording reproduced by The Rothschild Archive; underlying contract reference independently corroborated as RAL 000/401 A.",
-      "passage_source_url": "https://www.rothschildarchive.org/collections/archivists_choice/archivists_choice_200_years_of_rothschild_business_with_portugal_and_the_wedding_cake_at_waddesdon_manor",
-      "passage_type": "english-primary-text",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "source_identity": "Nathan Mayer Rothschild correspondence concerning the Portuguese Government loan of 1823; The Rothschild Archive; underlying contract RAL 000/401 A.",
-      "edition": "The Rothschild Archive, Archivist's Choice: 200 years of Rothschild business with Portugal; underlying contract RAL 000/401 A.",
-      "publisher": "The Rothschild Archive",
-      "publication_year": "1823",
-      "what_passage_establishes": "The passage establishes Rothschild's contemporary proposal that his house undertake the Portuguese loan and his stated claim that its resources and credit would support the securities.",
-      "evidence_limits": "The passage does not establish that Rothschild ultimately won the Portuguese issue; contemporary contract evidence shows the loan was ultimately issued by B. A. Goldschmidt. It also does not establish broader Rothschild control of Portuguese finance.",
-      "related_banking_power_records": [
-        "rothschild-prussian-loan-1818",
-        "rothschild-waterloo-1814-15"
-      ],
-      "scholarly_references": [
-        "Marc Flandreau and Juan H. Flores, “Bonds and Brands: Foundations of Sovereign Debt Markets, 1820–1830,” *The Journal of Economic History* 69, no. 3 (2009), discussion and note identifying Rothschild Archive 000/401 A."
-      ],
-      "publication_status": "A-grade — contemporary Rothschild correspondence is reproduced by The Rothschild Archive and the underlying contract reference RAL 000/401 A is independently corroborated; scope limited to the documented proposal and loan negotiation.",
-      "year": 1823,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1823
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      },
-      "deployment_note": "Added after primary-source passage and archival locator review; this record does not claim that Rothschild ultimately issued the loan."
-    },
-    {
-      "source_id": "baring-mexican-debt-agency-1829",
-      "title": "Baring Brothers as Financial Agents for Mexico, 1829",
-      "date_label": "1829",
-      "historical_claim": "In June 1829 the Mexican government authorized Barings to act with Manuel Eduardo de Gorostiza to undertake capitalization of bondholder dividends, and contemporary correspondence records Barings' role in liquidation of the Mexican government's bond debt.",
-      "verification_status": "Primary-source archival catalogue and digitized contemporary letter independently verified",
-      "evidence_grade": "A",
-      "source_url": "https://baringarchive.org.uk/wp-content/uploads/2022/08/The-Baring-Archive_HC4.pdf",
-      "bn_title": "মেক্সিকোর আর্থিক এজেন্ট হিসেবে বারিং ব্রাদার্স, ১৮২৯",
-      "bn_historical_claim": "১৮২৯ সালের জুনে মেক্সিকো সরকার বারিংসকে ম্যানুয়েল এদুয়ার্দো দে গোর্স্তিসার সঙ্গে বন্ডহোল্ডারদের লভ্যাংশ মূলধনীকরণের কাজে অনুমোদন দেয়; সমসাময়িক নথি মেক্সিকোর সরকারি বন্ড ঋণ নিষ্পত্তিতে বারিংসের ভূমিকা নথিবদ্ধ করে।",
-      "notes": "The Baring Archive HC4 Mexico catalogue identifies a 5 June 1829 grant by the Mexican government authorizing Barings to act with Manuel Eduardo de Gorostiza on capitalization of bondholders' dividends, plus Zavala correspondence on liquidation. The underlying 19 September 1829 Zavala-to-Alexander-Baring letter is independently digitized by the Portal to Texas History as a primary-source letter on Mexico's foreign debt.",
-      "primary_passage": "About liquidation of the debt",
-      "passage_locator": "Lorenzo de Zavala to Alexander Baring, Mexico, 19 September 1829; Baring Archive HC4.5.4.4. The letter is independently digitized by the Portal to Texas History, item txu-dezavala-1-09191829.",
-      "passage_status": "Passage locked at archival catalogue level and independently identified as a digitized contemporary primary letter; exact Spanish body text should be transcribed from the scan before any narrower quotation is added.",
-      "passage_source_url": "https://texashistory.unt.edu/ark:/67531/metapth5985/",
-      "passage_type": "archival-primary-document",
-      "language": "Spanish",
-      "last_verified": "2026-10-05",
-      "source_identity": "Lorenzo de Zavala to Alexander Baring, 19 September 1829; Baring Archive HC4.5.4.4; digitized by University of North Texas / Dolph Briscoe Center.",
-      "edition": "Original letter, 19 September 1829; Baring Archive HC4.5.4.4; digitized copy at Portal to Texas History.",
-      "publisher": "Baring Archive / Dolph Briscoe Center for American History",
-      "publication_year": "1829",
-      "what_passage_establishes": "The archival record establishes that Mexican Finance Minister Lorenzo de Zavala corresponded directly with Alexander Baring concerning liquidation of Mexico's debt, within a documented period when Barings acted as financial agents for the Mexican government.",
-      "evidence_limits": "This does not establish that Barings issued the Mexican loans; the Baring Archive explicitly states that Barings did not issue a Mexican loan and were financial agents in 1829–1836.",
-      "related_banking_power_records": [
-        "rothschild-portuguese-loan-1823",
-        "baring-crisis-1890"
-      ],
-      "scholarly_references": [
-        "The Baring Archive, George White, Barings' Troubleshooter; Baring Archive HC4 Mexico catalogue."
-      ],
-      "publication_status": "A-grade — contemporary primary letter identified by exact date, correspondent and archival series, with an independently digitized scan; claim is limited to Barings' documented agency/debt-liquidation role.",
-      "year": 1829,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1829
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      },
-      "deployment_note": "Deployed with deliberately narrow wording: Baring agency/debt-liquidation role, not loan issuance."
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -4996,5 +4996,20 @@
       }
     },
     "next_priority": "Sovereign Debt evidence expansion, followed by Financial Crises, while preserving strict passage verification."
+  },
+  "structural_audit_2026_10_05_v3": {
+    "status": "Completed after chronological reordering",
+    "records_audited": 74,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": "verified",
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 73,
+      "B": 1,
+      "C": 0,
+      "D": 0
+    },
+    "finding": "The 74-record ledger was reordered by explicit numeric year after the two newly deployed nineteenth-century records exposed an append-order issue. No evidence records were altered."
   }
 }
