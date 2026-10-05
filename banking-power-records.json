@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "140-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "141-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4563,6 +4563,38 @@
       "publication_status": "Deployed",
       "book_1_integration": "Banking Power / sovereign debt / railway acquisition",
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 sovereign railway acquisition and debt redemption layer"
+    },
+    {
+      "source_id": "india-rate-of-exchange-budget-surplus-1890",
+      "title": "India Rate of Exchange, 1890: Exchange Gains Put £995,063 Above the Budget Estimate",
+      "date_label": "8 December 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Government of India reported that the 1890–91 estimated exchange rate was 16.552 pence per rupee; actual rates had ranged from 17 1/16d. to 20 15/16d., producing £995,063 in excess of the estimate by 8 December 1890.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/dec/08/rate-of-exchange-in-india",
+      "primary_passage": "The estimated rate of exchange for 1890–91 was 16.552 pence per rupee. The lowest rate realised during the year has been 17 1–16d.; the highest 20 15–16d. The excess over the estimate is £995,063.",
+      "passage_locator": "Hansard, House of Commons, 8 December 1890, vol. 349, col. 695, 'Rate of Exchange in India'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India reporting the Indian Finance Minister's exchange estimate and realized range.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes the official budget exchange assumption for 1890–91, the lowest and highest realized rates reported to Parliament by 8 December, and an excess of £995,063 over the estimate.",
+      "evidence_limits": "The answer does not establish the full mechanism producing the excess, the precise accounting treatment of the £995,063, or the final full-year realized exchange result. It also does not by itself establish a causal attribution to silver-market movements or any later currency-policy decision.",
+      "notes": "Distinct monetary-regime/fiscal-exchange layer from the earlier 1887–1889 records: this is a contemporaneous 1890 official measurement of exchange performance against the budget assumption.",
+      "bn_title": "ভারতের বিনিময় হার, ১৮৯০: বিনিময়-লাভ বাজেট-অনুমানের চেয়ে £৯৯৫,০৬৩ বেশি",
+      "bn_historical_claim": "১৮৯০–৯১ সালের জন্য নির্ধারিত রুপি-বিনিময় হার ছিল প্রতি রুপিতে ১৬.৫৫২ পেনি; ৮ ডিসেম্বর ১৮৯০ পর্যন্ত বাস্তব হার ১৭ ১/১৬d. থেকে ২০ ১৫/১৬d. পর্যন্ত ছিল এবং এতে বাজেট-অনুমানের তুলনায় £৯৯৫,০৬৩ অতিরিক্ত প্রাপ্তি দেখা যায়।",
+      "related_banking_power_records": [
+        "india-rupee-exchange-fiscal-burden-1888",
+        "india-currency-commission-report-exchange-1888",
+        "india-currency-question-international-agreement-1889",
+        "india-currency-royal-commission-divided-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / monetary regime / sovereign fiscal exposure to exchange",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 exchange-rate and Indian Exchequer layer"
     },
     {
       "source_id": "panic-1907",
@@ -9143,7 +9175,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating the South Indian Railway purchase borrowing authority and previously deployed railway-finance layers.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the South Indian Railway purchase borrowing authority and the newly deployed 1890 exchange-rate measurement.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10515,6 +10547,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 135,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v72": {
+    "status": "Completed after 1890 India rate-of-exchange deployment",
+    "records_audited": 141,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 136,
       "B": 5,
       "C": 0,
       "D": 0
