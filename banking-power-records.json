@@ -1093,6 +1093,48 @@
       }
     },
     {
+      "source_id": "rothschild-exchequer-bills-1839",
+      "title": "Rothschild Offer for Funding Exchequer Bills, 1839",
+      "date_label": "1839",
+      "historical_claim": "In August 1839, during the funding of Exchequer bills, Messrs. Rothschild submitted a tender alongside the Bank of England and the Commercial Bank of Scotland; the Bank of England's tender was accepted.",
+      "verification_status": "Verified against the contemporary House of Commons record.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1839-08-19/debates/c5edc859-fc4c-4ef5-8c4a-21a97661e58c/FundingOfExchequerBills",
+      "primary_passage": "The offer made by the Bank of England was 109 l. 5 s. 10 d.; the offer of Messrs. Rothschild was 110 l. 17 s. 6 d.; and the offer by the Commercial Bank of Scotland was 111 l.; while the proposal on the part of the Government, as expressed in the sealed paper, was 110 l. Of course the tender by the Bank of England was received.",
+      "passage_locator": "House of Commons, 19 August 1839, Funding of Exchequer Bills, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes competing tenders and acceptance of the Bank of England tender.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 19 August 1839.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1839,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the competing tender and outcome.",
+      "evidence_limits": "This record concerns funding Exchequer bills, not a long-term sovereign bond issue; it does not establish Rothschild's role beyond making the stated tender.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1839
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "bank-charter-act-1844",
       "title": "Bank Charter Act, 1844",
       "date_label": "1844",
@@ -6115,6 +6157,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 83,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v18": {
+    "status": "Completed after 1839 Exchequer Bills deployment",
+    "records_audited": 88,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 84,
       "B": 4,
       "C": 0,
       "D": 0
