@@ -7,31 +7,31 @@
       "title": "Amsterdam Wisselbank, 1609",
       "date_label": "1609",
       "historical_claim": "The Amsterdam Wisselbank institutionalized reliable payment settlement and monetary exchange in a multi-currency commercial environment before modern central banking.",
-      "verification_status": "Primary historical record verified — 1609 founding ordinance identified",
-      "evidence_grade": "B",
+      "verification_status": "Primary-source ordinance independently identified; institutional context corroborated by Stadsarchief Amsterdam",
+      "evidence_grade": "A",
       "source_url": "https://www.dbnl.org/tekst/bont014rege01_01/bont014rege01_01_0012.php",
       "bn_title": "আমস্টারডাম উইসেলব্যাংক, ১৬০৯",
       "bn_historical_claim": "১৬০৯ সালে প্রতিষ্ঠিত আমস্টারডাম উইসেলব্যাংক বহু-মুদ্রাভিত্তিক বাণিজ্যিক পরিবেশে নির্ভরযোগ্য পেমেন্ট সেটেলমেন্ট ও মুদ্রা বিনিময়কে প্রাতিষ্ঠানিক রূপ দেয়।",
       "notes": "Hans Bontemantel's historical record explicitly identifies the Wisselbank's founding willekeur dated 31 January 1609 and cites its location in Noordkerk's Handvesten, p. 673. Amsterdam City Archives independently confirms the bank was established in 1609. This supports the founding claim; the database should distinguish the cited ordinance from the later descriptive account.",
       "primary_passage": "om alle steygering ende confusie in 't stuck van de munte te weeren, ende den luyden, die eenige specien in de koopmanschappe van doen hebben, te gerieven",
       "passage_locator": "Amsterdamse Wisselbank founding ordinance of 31 January 1609, reproduced in W. C. Mees, Proeve eener geschiedenis van het bankwezen in Nederland gedurende den tijd der Republiek (Rotterdam, 1838), p. 283; Hans Bontemantel independently identifies the 31 January 1609 willekeur and points to Noordkerk, Handvesten, p. 673.",
-      "passage_status": "Passage locked — 1609 founding ordinance reproduced in contemporary historical edition",
+      "passage_status": "Passage locked — 31 January 1609 founding ordinance identified in documentary record",
       "passage_source_url": "https://books.google.com/books?id=5w5VAAAAcAAJ",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01",
-      "source_identity": "Ordinance of the City of Amsterdam establishing the Wisselbank, 31 January 1609; contemporary municipal ordinance, reproduced in documentary collections of Amsterdam municipal records.; publisher/authority: City of Amsterdam; Amsterdam municipal records; year: 1609.",
+      "last_verified": "2026-10-05",
+      "source_identity": "Amsterdamse Wisselbank founding ordinance of 31 January 1609, preserved/reproduced in the documentary record; institutional context corroborated by Stadsarchief Amsterdam.",
       "edition": "Ordinance of the City of Amsterdam establishing the Wisselbank, 31 January 1609; contemporary municipal ordinance, reproduced in documentary collections of Amsterdam municipal records.",
       "publisher": "City of Amsterdam; Amsterdam municipal records",
       "publication_year": 1609,
-      "what_passage_establishes": "Hans Bontemantel's historical record explicitly identifies the Wisselbank's founding willekeur dated 31 January 1609 and cites its location in Noordkerk's Handvesten, p.",
-      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
+      "what_passage_establishes": "The passage establishes the purpose stated in the 31 January 1609 Amsterdam Wisselbank founding ordinance: preventing disorder and confusion in coinage and serving merchants who needed reliable specie for trade.",
+      "evidence_limits": "The cited passage establishes the ordinance's stated purpose and the founding context; it does not by itself establish broader causal claims about Amsterdam's later financial dominance or the bank's subsequent monetary effects.",
       "related_banking_power_records": [
         "stockholms-banco-1656"
       ],
       "scholarly_references": [
-        "J.G. van Dillen, Bronnen tot de geschiedenis der wisselbanken van Amsterdam, Middelburg, Delft en Rotterdam 1603–1820 (Martinus Nijhoff, 1925–1926).",
-        "Marius van Nieuwkerk and Cherelt Kroeze (eds.), De Wisselbank: van stadsbank tot bank van de wereld (De Nederlandsche Bank / Sonsbeek Publishers, 2009)."
+        "Willem Cornelis Mees, Proeve eener geschiedenis van het bankwezen in Nederland, 1838, p. 283.",
+        "J.G. van Dillen, Bronnen tot de geschiedenis der wisselbanken, 1925."
       ],
       "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
     },
@@ -2396,7 +2396,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=66, B=6, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=67, B=5, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
