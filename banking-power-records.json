@@ -1376,6 +1376,61 @@
       }
     },
     {
+      "source_id": "rothschild-egypt-loan-1884",
+      "title": "Rothschild Loan to the Egyptian Government, 1884",
+      "date_label": "1884",
+      "historical_claim": "Messrs. Rothschild arranged a substantial temporary loan for the Egyptian Government in early 1884, with the British Government informed of and expressing approval for the transaction.",
+      "verification_status": "Contemporary House of Commons record reproduces Government correspondence with Sir Nathaniel Rothschild concerning the proposed £1,000,000 loan and records the Government's knowledge and favorable view.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1884/feb/08/egypt-finance-c-loan-by-messrs-rothschild",
+      "bn_title": "মিশরীয় সরকারকে রথসচাইল্ড ঋণ, ১৮৮৪",
+      "bn_historical_claim": "১৮৮৪ সালের শুরুতে রথসচাইল্ডরা মিশরীয় সরকারকে একটি উল্লেখযোগ্য অস্থায়ী ঋণের ব্যবস্থা করে; সমকালীন সংসদীয় নথিতে ব্রিটিশ সরকারের অবগত থাকা ও অনুকূল মতামত নথিভুক্ত হয়েছে।",
+      "notes": "Hansard records Lord Granville's 22 and 28 January 1884 letters to Sir Nathaniel Rothschild. The first states that Mr. Vincent had approached Rothschild for a £1,000,000 loan to be repaid in six months and that the Cabinet was favorable to Rothschild proceeding if terms could be agreed. The second thanks Rothschild for information on negotiations and treats repayment conditions as a business detail. The record does not establish the final contractual terms.",
+      "primary_passage": "the Cabinet expressed itself in favour of Sir Evelyn Baring's having done so, and we are glad at your agreeing to the request if you find that you will be able to come to terms with the Egyptian Government.",
+      "passage_locator": "House of Commons, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild, Hansard vol. 284, cols. 309–313; Government letters of 22 and 28 January 1884 read into the debate.",
+      "passage_status": "Passage locked — contemporary parliamentary reproduction of Government correspondence.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1884/feb/08/egypt-finance-c-loan-by-messrs-rothschild",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons debate, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild.",
+      "edition": "Hansard, House of Commons, 8 February 1884, vol. 284, cols. 309–313.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1884,
+      "what_passage_establishes": "The passage establishes Cabinet awareness and favorable disposition toward Rothschild advancing a £1,000,000 six-month loan to the Egyptian Government, subject to terms being agreed.",
+      "evidence_limits": "It does not establish that the Cabinet guaranteed repayment, the final contractual terms, or broader British control over Egyptian finance.",
+      "related_banking_power_records": [
+        "rothschild-british-government-loan-1856"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary evidence; final contract remains a useful supplementary archival target.",
+      "year": 1884,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1884
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "baring-crisis-1890",
       "title": "Baring Crisis, 1890",
       "date_label": "1890",
@@ -5649,5 +5704,27 @@
       "rothschild-british-slavery-compensation-loan-1835"
     ],
     "next_priority": "Continue the nineteenth-century sovereign-debt sequence while preserving all qualified scan-upgrade queues."
+  },
+  "structural_audit_2026_10_05_v10": {
+    "status": "Completed after 1884 Egyptian sovereign-debt deployment",
+    "records_audited": 81,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 77,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v7": {
+    "status": "1884 Egyptian loan evidence deployed as Grade A",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-egypt-loan-1884"
+    ],
+    "next_priority": "Continue the nineteenth-century sovereign-debt sequence with the strongest remaining direct parliamentary or archival evidence."
   }
 }
