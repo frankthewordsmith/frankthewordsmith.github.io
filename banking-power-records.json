@@ -1293,6 +1293,40 @@
       ]
     },
     {
+      "source_id": "basel-market-risk-amendment-1996",
+      "title": "Basel Amendment to the Capital Accord to incorporate market risks",
+      "date_label": "1996",
+      "historical_claim": "On 4 January 1996, the Basel Committee, with the endorsement of the G-10 central-bank Governors, issued an amendment to the 1988 Capital Accord to apply capital charges to banks' market risks, using either a standardised measurement method or an internal-models approach subject to supervisory standards.",
+      "bn_title": "বাজার ঝুঁকি অন্তর্ভুক্ত করতে বাসেল ক্যাপিটাল অ্যাকর্ড সংশোধন, ১৯৯৬",
+      "bn_historical_claim": "৪ জানুয়ারি ১৯৯৬ সালে Basel Committee, G10 কেন্দ্রীয় ব্যাংকের গভর্নরদের অনুমোদনক্রমে, ১৯৮৮ সালের Capital Accord-এ সংশোধন জারি করে ব্যাংকের বাজার ঝুঁকির ওপর মূলধন চার্জ প্রয়োগের ব্যবস্থা করে; এতে মানসম্মত পরিমাপ পদ্ধতি অথবা তদারকি-নির্দেশিত অভ্যন্তরীণ-মডেল পদ্ধতি ব্যবহারের সুযোগ রাখা হয়।",
+      "source_url": "https://www.bis.org/publications/199601-standards-amendment-capital-accord-incorporate-market-risks",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "notes": "The official BIS publication is dated 4 January 1996 and identifies the document as the main section of a three-part package amending the July 1988 Capital Accord for market risks. The companion overview states that the package was issued with the approval of the G-10 central-bank Governors and that the standards were to be implemented by G-10 supervisory authorities by year-end 1997 at the latest.",
+      "primary_passage": "The Committee, with the endorsement of the central bank Governors of the G-10 countries, has decided to amend the Basle Capital Accord of July 1988 to incorporate market risks.",
+      "passage_locator": "Basel Committee on Banking Supervision, Amendment to the Capital Accord to incorporate market risks, January 1996, opening paragraph.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee amendment",
+      "passage_source_url": "https://www.bis.org/publ/bcbs24.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Amendment to the Capital Accord to incorporate market risks, January 1996; official BIS-hosted committee publication.",
+      "edition": "Amendment to the Capital Accord to incorporate market risks, January 1996.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 1996,
+      "what_passage_establishes": "The passage directly establishes the Committee's January 1996 amendment of the 1988 Capital Accord to incorporate market risks, with G-10 central-bank Governor endorsement.",
+      "evidence_limits": "The passage establishes the amendment and institutional approval, not the subsequent implementation by every national supervisor or the quantitative capital impact on individual banks.",
+      "related_banking_power_records": [
+        "basel-market-risk-supplement-1995",
+        "derivatives-risk-management-guidelines-1994",
+        "basel-accord-compliance-1993"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Overview of the Amendment to the Capital Accord to incorporate market risks (January 1996).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1398,7 +1432,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 41 records, A=30, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 42 records, A=31, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
