@@ -1578,6 +1578,48 @@
       }
     },
     {
+      "source_id": "east-india-loan-1859-7m",
+      "title": "East India £7 Million Loan on Indian Security, 1859",
+      "date_label": "1859",
+      "historical_claim": "In March 1859 the British Government sought parliamentary authority for a £7,000,000 loan on Indian security to meet the financial requirements arising from the Indian mutiny and its aftermath; the Government subsequently recognized that additional borrowing in England would be necessary.",
+      "verification_status": "Verified against the contemporary House of Lords Indian Finance debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Lords/1859-03-25/debates/35c86b9a-dcea-4aa5-bfb7-65b2daf54ba9/LordsChamber",
+      "primary_passage": "the reasons which induced the Government to believe at the time they made a proposition to raise a loan of £7,000,000 on Indian security, that that amount would be sufficient, and the circumstances which have induced them within the last few days to entertain a different opinion.",
+      "passage_locator": "House of Lords, 25 March 1859, Indian Finance, Hansard; statement concerning the £7,000,000 loan on Indian security.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes the £7,000,000 loan proposal on Indian security and the Government's subsequent recognition of additional requirements.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Lords, 25 March 1859.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1859,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £7,000,000 Indian-security loan proposal.",
+      "evidence_limits": "This passage establishes the Government's loan proposal and financial context, but not the final lender, issue price, subscription result, or full statutory terms.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1859
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
@@ -6279,6 +6321,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 85,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v21": {
+    "status": "Completed after 1859 East India £7m loan deployment",
+    "records_audited": 91,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 86,
       "B": 5,
       "C": 0,
       "D": 0
