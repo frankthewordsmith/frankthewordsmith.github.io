@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "125-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "126-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3726,6 +3726,62 @@
         "candidate_research_clusters": [
           "sovereign_debt",
           "global_financial_networks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "oude-rohilkund-railway-purchase-financing-1888",
+      "title": "Oude and Rohilkund Railway Purchase Financing, 1888: £7 Million Three Per Cent Stock Issue",
+      "date_label": "1888",
+      "year": 1888,
+      "evidence_grade": "A",
+      "historical_claim": "In 1888 the Secretary of State in Council used authority to raise £7 million in 3 per cent India Stock to finance the purchase of the Oude and Rohilkund Railway, with the issue subscribed at an average price of £96 9s. 7d.; £1.885 million was used to discharge matured debentures and £5,036,049 was allocated to the company's share capital under the purchase contract.",
+      "verification_status": "Verified against the contemporary Indian financial statement presented to the House of Commons on 9 August 1888.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1888/aug/09/committee",
+      "bn_title": "ওধ ও রোহিলখণ্ড রেলওয়ে ক্রয়-অর্থায়ন, ১৮৮৮: ৭ মিলিয়ন পাউন্ডের ৩ শতাংশ স্টক ইস্যু",
+      "bn_historical_claim": "১৮৮৮ সালে ওধ ও রোহিলখণ্ড রেলওয়ে ক্রয়ের অর্থায়নে ভারত সচিব-ইন-কাউন্সিল ৭ মিলিয়ন পাউন্ডের ৩ শতাংশ ভারতীয় স্টক ইস্যু করেন; স্টকটি গড়ে প্রতি ১০০ পাউন্ডে ৯৬ পাউন্ড ৯ শিলিং ৭ পেনিতে সাবস্ক্রাইব হয়। এর ১.৮৮৫ মিলিয়ন পাউন্ড পরিপক্ব ডিবেঞ্চার পরিশোধে এবং ৫,০৩৬,০৪৯ পাউন্ড কোম্পানির চুক্তিভিত্তিক শেয়ার মূলধন পরিশোধে ব্যবহারের জন্য নির্ধারিত হয়।",
+      "notes": "This is a distinct sovereign-debt/capital-financing layer: the earlier 1887 railway records concern borrowing authority, guarantees, commissions, or direct money-market participation, while this record documents a completed 1888 government stock financing tied to acquisition of an existing railway. The passage does not by itself establish the full statutory text of the purchase authorization, the complete subscription list, or the final accounting of all acquisition costs.",
+      "primary_passage": "Early in the Session an Act was passed authorizing the Secretary of State in Council to raise the money required for the purchase of the Oude and Rohilkund Railway; and, as soon as it became law, advantage was taken of the favourable state of the Money Market to invite tenders for Three per Cent Stock to the amount of £7,000,000, the instalments being spread over six months, as the money was not needed all at once. The Stock was subscribed at an average price of £96 9 s. 7 d. Part of the money has been used in discharging the Debentures, amounting to £1,885,000, which have already fallen due, and the remainder will be applied in the payment to the Railway Company on December 31 of £5,036,049, which is the value of their share capital under the contract.",
+      "passage_locator": "House of Commons, Hansard, 9 August 1888, vol. 330, cols. 146–147, East India Revenue Accounts / Committee.",
+      "passage_status": "Passage locked — contemporary official financial statement with transaction amounts and issue price.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, reporting the Government of India's 1888 financing operation.",
+      "edition": "Hansard, House of Commons, 9 August 1888, vol. 330, cols. 146–147.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1888,
+      "what_passage_establishes": "The passage establishes the statutory authorization, £7 million 3 per cent stock issue, average subscription price, staged issuance, use of £1.885 million for matured debentures, and £5,036,049 payment obligation to the railway company.",
+      "evidence_limits": "It does not independently reproduce the Act authorizing the borrowing or establish the complete terms of the railway purchase contract, the identities of subscribers, or all transaction expenses.",
+      "related_banking_power_records": [
+        "east-india-railways-loans-1886",
+        "bengal-nagpur-railway-loan-1887",
+        "india-railways-borrowing-powers-legislation-1887",
+        "conversion-of-india-stock-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 9 August 1888, vol. 330, cols. 146–147, East India Revenue Accounts.",
+        "Hansard, House of Commons, 27 August 1889, East India Revenue Accounts, for subsequent accounting context."
+      ],
+      "publication_status": "A-grade — direct contemporary official financial statement; transaction terms explicitly stated.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1888
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
         ],
         "chapter_number": null,
         "chapter_title": null,
@@ -8370,7 +8426,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of railway financing, borrowing powers, rupee-gold exchange, Nizam's State Railway, India Stock conversion, and famine-allocation layers already deployed; prioritize any genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
+  "next_priority": "Continue chronologically through 1888, prioritizing the strongest distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the Oude-Rohilkund financing record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9184,6 +9240,44 @@
       },
       "global_power_network": {
         "records": 100
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v56": {
+    "status": "Completed after 1888 Oude and Rohilkund Railway purchase financing deployment",
+    "records_audited": 126,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 121,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v32": {
+    "status": "Reconciled after 1888 Oude and Rohilkund Railway purchase financing deployment",
+    "records_mapped": 126,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 58
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 63
+      },
+      "global_power_network": {
+        "records": 101
       }
     }
   }
