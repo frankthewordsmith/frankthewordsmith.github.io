@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "104-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "105-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2373,6 +2373,64 @@
         "chapter_title": null,
         "research_maps": [
           "financial_crises"
+        ]
+      }
+    },
+    {
+      "source_id": "india-public-works-extraordinary-resolution-1873",
+      "title": "India Public Works Extraordinary, 1873: Five-Year Reproductive Works Programme",
+      "date_label": "1873",
+      "historical_claim": "In July 1873 the Government of India resolved to devote £4.5 million annually for five years to Public Works Extraordinary, with the works to be reproductive in character; contemporary parliamentary discussion tied the programme to State railway and canal construction and to the need to manage financing through cash balances and borrowing.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 31 July 1873.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1873/jul/31/committee",
+      "bn_title": "ভারতের অসাধারণ জনপূর্ত, ১৮৭৩: পাঁচ বছরের উৎপাদনশীল জনপূর্ত কর্মসূচি",
+      "bn_historical_claim": "১৮৭৩ সালের জুলাইয়ে ভারত সরকার পাঁচ বছরের জন্য বছরে ৪৫ লক্ষ পাউন্ড অসাধারণ জনপূর্তে ব্যয়ের সিদ্ধান্ত নেয়, এবং এসব কাজকে উৎপাদনশীল প্রকৃতির হওয়ার কথা বলা হয়; সমসাময়িক সংসদীয় আলোচনায় এই কর্মসূচিকে সরকারি রেলওয়ে ও খাল নির্মাণ এবং নগদ সঞ্চয় ও ঋণের মাধ্যমে অর্থায়নের সঙ্গে যুক্ত করা হয়।",
+      "notes": "This record captures the 1873 policy commitment and financing framework, not a particular loan issue. The contemporary debate notes that remunerative works could initially be paid from cash balances; it therefore should not be read as proof that the full £4.5 million annual programme was immediately debt-financed.",
+      "primary_passage": "In July last the Government of India determined to expend, during the four years ending 1877–8, the sum of £17,000,000, of which sum they proposed to expend £4,500,000 during the present year.",
+      "passage_locator": "Hansard, House of Commons, 3 August 1874, vol. 220, cols. 1185–1186, retrospectively describing the July 1873 Government of India resolution; contemporary 31 July 1873 debate separately records the financing context.",
+      "passage_status": "Passage locked — exact parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1874/aug/03/committee",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard: 1873 Indian Public Works Extraordinary programme and its financing context; retrospective official statement in 1874 records the July 1873 resolution.",
+      "edition": "Hansard, House of Commons, 3 August 1874, vol. 220, cols. 1185–1186; see also 31 July 1873, vol. 220, cols. 1408–1410.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1873,
+      "what_passage_establishes": "The 1873 resolution committed £17 million over four years, including £4.5 million in the first year, for Public Works Extraordinary; the programme was intended to cover reproductive works. The 31 July 1873 debate shows that about £4 million of remunerative works in the current year could be paid from cash balances, while the financing question was explicitly framed around the need to borrow in subsequent years if balances were insufficient.",
+      "evidence_limits": "The quoted £17 million/£4.5 million passage is a 1874 parliamentary retrospective on the 1873 resolution, not the original resolution text. It does not identify a specific loan issue, lender, issue price, interest rate, or maturity. The £4.5 million was not necessarily all borrowed.",
+      "related_banking_power_records": [
+        "india-state-railways-public-works-loans-1872",
+        "india-government-railways-lahore-peshawur-1871",
+        "india-railways-state-agency-borrowing-1870"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 31 July 1873, vol. 220, cols. 1408–1410.",
+        "Hansard, House of Commons, 3 August 1874, vol. 220, cols. 1185–1186."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary financing context plus parliamentary retrospective of the July 1873 resolution.",
+      "year": 1873,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1873
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
         ]
       }
     },
@@ -7135,7 +7193,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest 1873 primary evidence, preserving strict passage verification and avoiding duplicate coverage.",
+  "next_priority": "Continue chronologically with the strongest distinct 1874 primary evidence, avoiding duplicate coverage of the 1873 Public Works Extraordinary programme.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -7205,6 +7263,42 @@
       },
       "global_power_network": {
         "records": 80
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v35": {
+    "status": "Completed after 1873 Indian Public Works Extraordinary deployment",
+    "records_audited": 105,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 100,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v11": {
+    "status": "Reconciled after 1873 Indian Public Works Extraordinary deployment",
+    "records_mapped": 105,
+    "maps": {
+      "central_banks": {
+        "records": 71
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 39
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 81
       }
     }
   }
