@@ -1126,6 +1126,39 @@
       ]
     },
     {
+      "source_id": "bcci-closure-1991",
+      "title": "BCCI closure and coordinated international supervisory action",
+      "date_label": "1991",
+      "historical_claim": "On 5 July 1991, banking supervisors in multiple jurisdictions coordinated the closure and provisional liquidation of Bank of Credit and Commerce International (BCCI), following serious findings concerning fraud and falsified financial records.",
+      "bn_title": "BCCI বন্ধ ও সমন্বিত আন্তর্জাতিক ব্যাংকিং তদারকি পদক্ষেপ",
+      "bn_historical_claim": "৫ জুলাই ১৯৯১ সালে গুরুতর জালিয়াতি ও আর্থিক নথি বিকৃতির তথ্যের পর একাধিক দেশের ব্যাংকিং তদারকি কর্তৃপক্ষ সমন্বিতভাবে Bank of Credit and Commerce International (BCCI)-এর কার্যক্রম বন্ধ ও অস্থায়ী অবসায়নের পদক্ষেপ নেয়।",
+      "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/archive/banking-act-report/1991-1992.pdf",
+      "verification_status": "Primary-source contemporary official record verified",
+      "evidence_grade": "A",
+      "notes": "The Bank of England Banking Act Report 1991-92 identifies the closure of BCCI as the most prominent event of 1991 and records that, following the Bank's receipt of a Price Waterhouse report commissioned under section 41 of the Banking Act, action was taken to protect depositors. It documents the coordinated worldwide operation on 5 July 1991, including provisional liquidation proceedings in the UK and Luxembourg and supervisory action in Grand Cayman and other jurisdictions. The Basel Committee's later report independently documents the same 5 July actions and the cross-border supervisory coordination.",
+      "primary_passage": "The closure was a co-ordinated worldwide operation by banking supervisors.",
+      "passage_locator": "Bank of England, Banking Act Report 1991-92, section on Bank of Credit and Commerce International (BCCI), p. 5.",
+      "passage_status": "Passage locked — contemporary official central-bank report",
+      "passage_source_url": "https://www.bankofengland.co.uk/-/media/boe/files/archive/banking-act-report/1991-1992.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Bank of England Banking Act Report 1991-92, contemporary report on the closure and supervision of BCCI; publisher/authority: Bank of England; reporting year: 1991-92.",
+      "edition": "Banking Act Report 1991-92, Bank of England, section on BCCI.",
+      "publisher": "Bank of England",
+      "publication_year": 1992,
+      "what_passage_establishes": "The passage directly establishes that BCCI's July 1991 closure was a coordinated worldwide operation by banking supervisors, with the report identifying 5 July as the date of the UK action.",
+      "evidence_limits": "The record establishes the closure and supervisory coordination. It does not by itself establish the full extent of BCCI's fraud, ultimate liability figures, or all subsequent regulatory reforms; those require separate documentary records.",
+      "related_banking_power_records": [
+        "basel-capital-accord-1988",
+        "cpss-established-1990"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, *The insolvency liquidation of a multinational bank* (December 1992).",
+        "Thomas C. Baxter, “BCCI: The Lessons for Banking Supervision,” in *Current Legal Issues Affecting Central Banks*, Vol. IV (1997)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1231,7 +1264,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 36 records, A=25, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 37 records, A=26, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
