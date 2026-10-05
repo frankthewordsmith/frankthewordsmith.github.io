@@ -2226,6 +2226,38 @@
       ]
     },
     {
+      "source_id": "bcbs-iosco-margin-implementation-review-2025",
+      "title": "Review of Implementation of Margin Requirements for Non-Centrally Cleared Derivatives",
+      "date_label": "2025",
+      "historical_claim": "On 12 December 2025, the Basel Committee on Banking Supervision and IOSCO published a joint review of the implementation of margin requirements for non-centrally cleared derivatives, concluding that the framework had been effectively implemented, identifying no material issues, and recommending continued supervisory monitoring.",
+      "bn_title": "Non-centrally cleared derivatives-এর margin requirements বাস্তবায়ন পর্যালোচনা, ২০২৫",
+      "bn_historical_claim": "১২ ডিসেম্বর ২০২৫ সালে Basel Committee on Banking Supervision এবং IOSCO non-centrally cleared derivatives-এর margin requirements বাস্তবায়নের যৌথ পর্যালোচনা প্রকাশ করে। এতে framework কার্যকরভাবে বাস্তবায়িত হয়েছে, কোনো material issue পাওয়া যায়নি এবং অব্যাহত supervisory monitoring-এর সুপারিশ করা হয়।",
+      "source_url": "https://www.bis.org/publications/review-implementation-margin-requirements-non-centrally-cleared-derivatives",
+      "verification_status": "Primary-source official BIS/BCBS-IOSCO joint review verified",
+      "evidence_grade": "A",
+      "primary_passage": "The assessment found no material issues with the framework. The amount of margin exchanged for non-centrally cleared derivatives has increased materially since 2012, contributing to greater financial system resilience.",
+      "passage_locator": "Basel Committee on Banking Supervision and International Organization of Securities Commissions, Review of the implementation of margin requirements for non-centrally cleared derivatives, December 2025, Executive summary/publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted BCBS-IOSCO final review",
+      "passage_source_url": "https://www.bis.org/bcbs/publ/d606.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision and International Organization of Securities Commissions, Review of the implementation of margin requirements for non-centrally cleared derivatives, 12 December 2025; official BIS publication.",
+      "edition": "December 2025 joint implementation review.",
+      "publisher": "Basel Committee on Banking Supervision / International Organization of Securities Commissions / Bank for International Settlements",
+      "publication_year": 2025,
+      "what_passage_establishes": "The passage establishes the joint assessment's finding that the margin framework had no material implementation issues and that increased margin exchange contributed to financial-system resilience.",
+      "evidence_limits": "The passage reports the review's assessment and stated contribution; it does not independently establish causal magnitude beyond the review's conclusion.",
+      "related_banking_power_records": [
+        "basel-core-principles-revised-2024",
+        "basel-final-technical-amendments-2023",
+        "basel-iii-finalising-post-crisis-reforms-2017"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision and IOSCO, Review of the implementation of margin requirements for non-centrally cleared derivatives (December 2025)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2331,7 +2363,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 70 records, A=59, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 71 records, A=60, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
