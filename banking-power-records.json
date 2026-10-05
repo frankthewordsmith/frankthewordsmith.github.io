@@ -716,6 +716,61 @@
       "deployment_note": "Added as a deliberately qualified sovereign-debt record. Upgrade to A only after direct transcription and locator verification from the digitized Baring scan."
     },
     {
+      "source_id": "rothschild-neapolitan-loan-1824",
+      "title": "Neapolitan Government Loan / Rothschild, 1824",
+      "date_label": "1824",
+      "historical_claim": "Nathan Mayer Rothschild was documented as contractor for a Neapolitan Government loan and marketed the resulting Neapolitan stock through scrip receipts.",
+      "verification_status": "Contemporary judicial report verifies the underlying 1823 contract and Rothschild's role; direct original loan contract has not yet been locked.",
+      "evidence_grade": "B",
+      "source_url": "https://vlex.co.uk/vid/doloret-v-rothschild-803500249",
+      "bn_title": "নেপলস সরকারের ঋণ / রথসচাইল্ড, ১৮২৪",
+      "bn_historical_claim": "সমকালীন বিচারিক প্রতিবেদনে নেপলস সরকারের একটি ঋণচুক্তিতে রথসচাইল্ডের ভূমিকা এবং বাজারে নেপলস স্টক বিক্রির জন্য সিক্রিপ ব্যবহারের তথ্য নথিভুক্ত হয়েছে।",
+      "notes": "The High Court of Chancery report in Doloret v Rothschild records that in September 1823 the defendant contracted to grant a loan to the Neapolitan Government in consideration of Neapolitan rentes/stock, and that the stock was brought into the market through scrip receipts. The report is contemporary legal evidence, but it is not the original government-loan contract.",
+      "primary_passage": "In the month of September 1823 the Defendant contracted to grant a loan to the Neapolitan Government, in consideration of a certain annual sum to be paid by that Government, called Neapolitan rentes, or Neapolitan stock.",
+      "passage_locator": "Doloret v. Rothschild, High Court of Chancery, 4 February 1824, English Reports 57 E.R. 233, report of the September 1823 contract and subsequent Neapolitan scrip transactions.",
+      "passage_status": "Qualified passage locked — contemporary judicial report located; direct original loan contract still pending.",
+      "passage_source_url": "https://vlex.co.uk/vid/doloret-v-rothschild-803500249",
+      "passage_type": "contemporary-judicial-report",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Doloret v. Rothschild, High Court of Chancery, 4 February 1824, English Reports 57 E.R. 233.",
+      "edition": "English Reports, 57 E.R. 233, Doloret v. Rothschild, reported from the High Court of Chancery judgment of 4 February 1824.",
+      "publisher": "High Court of Chancery / English Reports",
+      "publication_year": 1824,
+      "what_passage_establishes": "The passage establishes that Rothschild had contracted to grant a loan to the Neapolitan Government and that Neapolitan stock was subsequently marketed through scrip receipts.",
+      "evidence_limits": "This record does not treat the judicial report as the original loan contract. It does not by itself establish the full loan amount, issue price, syndicate structure, security terms, Rothschild's own capital contribution, or broader claims about financial dominance. Those points require the underlying contract or bond documentation.",
+      "related_banking_power_records": [
+        "rothschild-prussian-loan-1818"
+      ],
+      "scholarly_references": [
+        "Doloret v. Rothschild, High Court of Chancery, 4 February 1824, English Reports 57 E.R. 233.",
+        "The Rothschild Archive, The public debt in Naples and the early history of C M de Rothschild."
+      ],
+      "publication_status": "B-grade — contemporary judicial evidence is locked; direct original Neapolitan loan contract remains an upgrade target.",
+      "year": 1824,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1824
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "bank-of-england-crisis-1825",
       "title": "Financial crisis of 1825–1826 and Bank of England branches",
       "date_label": "1825–1826",
@@ -5491,5 +5546,32 @@
         "records": 54
       }
     }
+  },
+  "structural_audit_2026_10_05_v8": {
+    "status": "Completed after 1824 Neapolitan sovereign-debt deployment",
+    "records_audited": 79,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 75,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v5": {
+    "status": "1824 Neapolitan Government loan evidence deployed as qualified Grade B",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-neapolitan-loan-1824"
+    ],
+    "qualified_records_pending_direct_scan": [
+      "baring-buenos-aires-loan-1824",
+      "rothschild-brazil-debt-service-loan-1829",
+      "rothschild-neapolitan-loan-1824"
+    ],
+    "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt primary-source candidate while preserving all scan-upgrade queues."
   }
 }
