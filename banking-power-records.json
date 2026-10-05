@@ -1135,6 +1135,50 @@
       }
     },
     {
+      "source_id": "french-consol-reduction-rothschild-baring-1839",
+      "title": "Rothschild and Baring French Government Loan Proposal, 1839",
+      "date_label": "1839",
+      "historical_claim": "A contemporary House of Commons report stated that, had the French proposal to reduce the Five per Cents passed, Mr. Rothschild and Mr. Alexander Baring had undertaken by a loan to the French Government to assist in carrying the reduction into effect, with Rothschild separately agreeing with the Bank of England for advances of up to £2,000,000 on stock.",
+      "verification_status": "Verified against the contemporary House of Commons record, but classified narrowly because the report is itself based on information given to a Member rather than a reproduced loan contract.",
+      "evidence_grade": "B",
+      "source_url": "https://hansard.parliament.uk/commons/1839-07-08/debates/a58c2e47-4b1f-4463-9692-edb428a16405/CommonsChamber",
+      "primary_passage": "Mr. Rothschild and Mr. Alexander Baring had undertaken by a loan to the French government to assist to carry the plan into effect, and that the former gentleman had made an agreement with the Bank of England, that it should make him advances of two millions on stock.",
+      "passage_locator": "House of Commons, 8 July 1839, Commons Chamber, Hansard; statement during discussion of Bank of England advances and the French Five per Cents proposal.",
+      "passage_status": "Qualified contemporary parliamentary report locked; wording is presented in the debate as information received from a source described as good authority, not as a reproduced original contract.",
+      "passage_type": "contemporary-parliamentary-report",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 8 July 1839.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1839,
+      "publication_status": "B-grade — useful contemporary lead; original French Government loan undertaking and Bank of England agreement should be located before any A-grade upgrade.",
+      "evidence_limits": "The debate does not reproduce the underlying agreement, and the French parliamentary proposal failed; therefore this record does not establish that the contemplated loan was actually completed.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1839
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "central_banks",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "bank-charter-act-1844",
       "title": "Bank Charter Act, 1844",
       "date_label": "1844",
@@ -6224,6 +6268,18 @@
     "grade_counts": {
       "A": 85,
       "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v20": {
+    "status": "Completed after 1839 French Five per Cents loan proposal deployment",
+    "records_audited": 90,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 85,
+      "B": 5,
       "C": 0,
       "D": 0
     }
