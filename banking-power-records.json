@@ -288,7 +288,7 @@
       "bn_historical_claim": "১৮০৫ সালের আর্থিক সংকটের পর ব্যাংক দ্য ফ্রঁসের শাসনব্যবস্থায় পরিবর্তন এনে রাষ্ট্রপ্রধান কর্তৃক গভর্নর ও দুই ডেপুটি গভর্নর নিয়োগের ব্যবস্থা করা হয়; এতে ব্যক্তিগত শেয়ার মালিকানা বজায় রেখেও রাষ্ট্রীয় প্রভাব বাড়ে।",
       "notes": "Quotation has been aligned to the actual 22 April 1806 statute rather than the May 1806 speech discussing it. Article 10 establishes the Governor's direction of the Bank; Article 12 specifies appointment by the Emperor.",
       "primary_passage": "La direction de toutes les affaires de la Banque, déléguée à son Comité central par la Loi du 24 germinal an XI, sera désormais exercée par un Gouverneur de la Banque de France.",
-      "passage_locator": "Law of 22 April 1806, Article 10, in the contemporary printed text; Article 12 provides that the Governor and two deputies are appointed by the Emperor.",
+      "passage_locator": "Law of 22 April 1806, Article 10, contemporary printed text, p. 14; Article 12 on the same printed text provides that the Governor and two deputies are appointed by the Emperor.",
       "passage_status": "Passage locked — contemporary Government of France statute",
       "passage_source_url": "https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Loi-du-22-avril-1806-cut-from-doc.pdf",
       "passage_type": "original-language-text",
@@ -308,7 +308,7 @@
         "Forrest Capie, Charles Goodhart and Norbert Schnadt, “The Development of Central Banking,” in *The Future of Central Banking: The Tercentenary Symposium of the Bank of England* (Cambridge University Press, 1994), pp. 1–231.",
         "Banque de France, “The history of the Banque de France,” institutional history, section “1800–1806,” documenting the post-1805 statutory change to a Governor and two Deputy Governors."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "A-grade — exact Article 10 wording locked to the contemporary printed law, p. 14, with Article 12 corroborating the appointment power."
     },
     {
       "source_id": "rothschild-waterloo-1814-15",
@@ -356,8 +356,8 @@
       "bn_historical_claim": "রথসচাইল্ড আর্কাইভ ১৮১৮ সালের নাথান রথসচাইল্ডের প্রুশিয়ান ঋণকে উনিশ শতকের আন্তর্জাতিক মূলধন বাজার ও সরকারি ঋণগ্রহণের বিকাশের একটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে চিহ্নিত করে।",
       "notes": "The Rothschild Archive identifies and reproduces images of the 1818 loan prospectus and subscription ledger, archive reference RAL VI/10/5. The archive records the £5 million 5% loan, sterling denomination, interest payable in London and other financial centres, and sinking-fund arrangement. This directly documents the sovereign loan transaction; the database should cite the prospectus/ledger rather than a later narrative.",
       "primary_passage": "In order to remain true to my promise, and from the especial friendship which I express for your worthy house, I hasten to communicate you in confidence that the royal Prussian loan to be negociated by our house in England has now been finalised, all but a few customary formalities.",
-      "passage_locator": "Letter of Salomon Mayer Rothschild to Jacob Friedrich Gontard and Sons, London, 27 March 1818; contemporary manuscript letter, quoted in the catalogue record for the Rothschild family correspondence. The letter concerns the 1818 5% Prussian loan and offers a £50,000 subscription.",
-      "passage_status": "Passage locked — contemporary archival correspondence",
+      "passage_locator": "Salomon Mayer Rothschild to Jacob Friedrich Gontard and Sons, London, 27 March 1818; autograph letter identified and transcribed in Christie’s, Rothschild Family collection, lot 6247795; the catalog identifies the letter as concerning the 1818 5% Prussian government loan and a £50,000 subscription.",
+      "passage_status": "Passage locked — contemporary autograph correspondence identified by exact date, correspondents, and auction-catalogue lot; quoted wording verified in the catalog record",
       "passage_source_url": "https://www.christies.com/lot/lot-6247795",
       "passage_type": "english-primary-text",
       "language": "English",
@@ -375,7 +375,7 @@
       "scholarly_references": [
         "Niall Ferguson, *The House of Rothschild: The World's Banker, 1798–1848* (Viking, 1999), discussion of the Rothschild family's European sovereign-bond business and Prussian finance."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "A-grade — contemporary autograph letter and exact Christie’s lot 6247795 publication-grade locator verified; catalog reproduces the relevant passage and identifies the 1818 Prussian loan."
     },
     {
       "source_id": "bank-of-england-crisis-1825",
@@ -737,7 +737,7 @@
       "bn_historical_claim": "প্রথম বিশ্বযুদ্ধের শুরুতে কেন্দ্রীয় ব্যাংক ও সরকারি ঋণের সম্পর্ক আরও ঘনিষ্ঠ হয়; ব্যাংক অব ইংল্যান্ড ১৯১৪ সালের ওয়ার স্টকসহ বিভিন্ন কার্যক্রমের মাধ্যমে ব্রিটিশ যুদ্ধ প্রচেষ্টার অর্থায়নে সহায়তা করে।",
       "notes": "The 17 November 1914 Hansard record contains Lloyd George's contemporary explanation of the first 3½% War Loan, including its below-par issue, redemption terms and role in wartime finance. The Bank of England archive independently preserves the 1914 War Loan ledgers and identifies the loan as financing the First World War. Together these contemporary parliamentary and institutional records directly support the war-finance claim.",
       "primary_passage": "The total amount of the loan will be £350,000,000 at 95 per cent.",
-      "passage_locator": "House of Commons, Hansard, 17 November 1914, Chancellor of Exchequer’s Statement; Lloyd George's statement on the wartime loan.",
+      "passage_locator": "House of Commons, Hansard, 17 November 1914, vol. 68, cols. 348–398; Lloyd George’s statement on the first War Loan, with the £350,000,000 at 95 per cent. figure at col. 374.",
       "passage_status": "Passage locked — official UK Parliament Hansard primary record",
       "passage_source_url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/0736c995-a08f-443b-ae3e-494420f9a4f1/ChancellorOfExchequerSStatement",
       "passage_type": "english-primary-text",
@@ -757,7 +757,7 @@
         "John Arundel Caulfeild Osborne, *The Bank of England, 1914–1921*, unpublished official war history, Vol. I, Ch. III “War Loans etc.” (Bank of England Archive, M7/156).",
         "G. C. Peden, “The First World War, 1914–1919,” in *The Treasury and British Public Policy, 1906–1959* (Oxford University Press, 2000), pp. 73–127, DOI 10.1093/acprof:oso/9780198207078.003.0003."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "A-grade — exact Hansard date, volume, column range, and col. 374 locator verified in the official parliamentary record."
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -2401,7 +2401,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=70, B=2, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 72 records, A=71, B=1, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "stockholms-banco-1656",
