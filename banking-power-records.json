@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "122-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "123-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3395,6 +3395,63 @@
           "sovereign_debt",
           "global_power_network",
           "banking_dynasties"
+        ]
+      }
+    },
+    {
+      "source_id": "conversion-of-india-stock-1887",
+      "title": "Conversion of India Stock Act, 1887: Conversion of 4 Per Cent India Stock into 3½ Per Cent Stock",
+      "date_label": "1887",
+      "historical_claim": "Parliament enacted a conversion mechanism allowing holders of 4 per cent India Stock to exchange it for 3½ per cent India Stock, restructuring the interest burden on existing Indian government stock.",
+      "verification_status": "Primary parliamentary legislation verified through the House of Commons passage of the Bill and independent statutory identification of the enacted Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1887/may/19/east-india-stock-conversion-bill",
+      "bn_title": "কনভার্সন অব ইন্ডিয়া স্টক অ্যাক্ট, ১৮৮৭: ৪ শতাংশ ভারতীয় স্টককে ৩½ শতাংশ স্টকে রূপান্তর",
+      "bn_historical_claim": "১৮৮৭ সালের আইনে ৪ শতাংশ ভারতীয় স্টকের ধারকদের ৩½ শতাংশ ভারতীয় স্টকে রূপান্তরের ব্যবস্থা করা হয়, ফলে বিদ্যমান ভারতীয় সরকারি স্টকের সুদের বোঝা পুনর্গঠিত হয়।",
+      "notes": "The 19 May 1887 House of Commons record shows the Bill being considered and amended, including provisions for exchange into India Three and a-half Per Cent Stock. Sir John Gorst stated that 3½ per cent and 4 per cent Stock were then practically of equal value and supported a provision facilitating conversion for certain small holders. Independent statutory listings identify the measure as the Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11. The record should not be used to infer the aggregate amount actually converted without a separate return or statutory/financial account.",
+      "primary_passage": "No doubt, at the present time, 3½ per cent Stock and 4 per cent Stock are practically of equal value; and by this clause, if the House should think fit to add it to the Bill, these persons will have the exchange effected without any expense or trouble on their part, or on the part of those who represent them.",
+      "passage_locator": "House of Commons, Hansard, 19 May 1887, vol. 315, cols. 625–626, East India Stock Conversion Bill; Bill subsequently enacted as Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11.",
+      "passage_status": "Passage locked — exact parliamentary wording and printed Hansard column locator verified; enactment independently identified in statutory records.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1887/may/19/east-india-stock-conversion-bill",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "East India Stock Conversion Bill, House of Commons, 1887; enacted as Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11.",
+      "edition": "Hansard, House of Commons, 19 May 1887, vol. 315, cols. 623–627; Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage establishes that Parliament was facilitating conversion of 4 per cent India Stock into 3½ per cent Stock and that the Government regarded the two stocks as practically equal in value at the time. The enacted Act provides the statutory basis for the conversion.",
+      "evidence_limits": "The cited parliamentary passage does not establish the total amount converted, the final aggregate saving to Indian revenues, the market price of every issue, or the distribution of conversion among holders. Those claims require separate primary financial returns or accounts.",
+      "related_banking_power_records": [
+        "india-london-sterling-borrowing-authority-1885",
+        "india-rupee-gold-exchange-currency-commission-1887",
+        "nizams-state-railway-london-money-market-1887"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 19 May 1887, vol. 315, cols. 623–627.",
+        "Conversion of India Stock Act 1887, 50 & 51 Vict. c. 11."
+      ],
+      "publication_status": "A-grade — parliamentary record plus independently identified enacted statute; quantitative conversion totals remain outside this record.",
+      "year": 1887,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
         ]
       }
     },
@@ -8202,7 +8259,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing, borrowing-powers, rupee-gold exchange, and Nizam's State Railway records; prioritize a genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing, borrowing-powers, rupee-gold exchange, Nizam's State Railway, and India Stock conversion records; prioritize any genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8902,6 +8959,44 @@
       },
       "global_power_network": {
         "records": 97
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v53": {
+    "status": "Completed after 1887 Conversion of India Stock Act deployment",
+    "records_audited": 123,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 118,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v29": {
+    "status": "Reconciled after 1887 Conversion of India Stock Act deployment",
+    "records_mapped": 123,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 55
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 62
+      },
+      "global_power_network": {
+        "records": 98
       }
     }
   }
