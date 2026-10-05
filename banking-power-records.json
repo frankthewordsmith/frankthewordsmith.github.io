@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "146-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "147-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4752,6 +4752,37 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and telegraphic-transfer volume layer"
     },
     {
+      "source_id": "south-indian-railway-guarantee-termination-economy-1890",
+      "title": "South Indian Railway Guarantee, 1890: Government Purchase Ends Guarantee and Saves £36,000",
+      "date_label": "24 March 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Government stated that its 1890 purchase of the South Indian Railway exercised a power reserved under the 1873 guarantee to terminate the guarantee and purchase the railway, producing an estimated annual economy of £36,000.",
+      "verification_status": "Verified direct official parliamentary statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/mar/24/south-indian-railway-purchase-bill-no-105",
+      "primary_passage": "The policy of the Government is to construct railways in the cheapest possible manner for the people of India. No fresh guarantee is proposed under this Bill. The proposal is to carry out an arrangement by which an economy of, £36,000 will be effected in the interest of the people of India. Under the conditions of the guarantee entered into in 1873, power was reserved to the Secretary of State for India to terminate the guarantee in 1890, and purchase on terms there specified. ... It is to give effect to that power reserved to the Government, and, to effect the economy I have mentioned, we ask the House to sanction the purchase.",
+      "passage_locator": "Hansard, House of Commons, 24 March 1890, vol. 342, cols. 1796–1797, 'South Indian Railway Purchase Bill.—(No. 105.)'",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official statement by the First Lord of the Treasury during debate on the South Indian Railway Purchase Bill.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "The Government explicitly linked the 1890 purchase to a termination-and-purchase power reserved in the 1873 guarantee and stated that the arrangement would effect an economy of £36,000.",
+      "evidence_limits": "The £36,000 is the Government's stated expected economy, not an independently audited realized saving. The passage does not give the full 1873 guarantee terms, purchase price, or subsequent financial results.",
+      "notes": "This is a distinct contractual/guarantee layer within the South Indian Railway transaction: the March 17 record establishes borrowing authority, while this record establishes the legal mechanism and stated fiscal rationale for terminating the guarantee and purchasing the railway.",
+      "bn_title": "সাউথ ইন্ডিয়ান রেলওয়ে গ্যারান্টি, ১৮৯০: সরকারি ক্রয়ে গ্যারান্টি সমাপ্ত ও £৩৬,০০০ সাশ্রয়",
+      "bn_historical_claim": "১৮৯০ সালে সরকার জানায় যে ১৮৭৩ সালের গ্যারান্টিতে সংরক্ষিত ক্ষমতা ব্যবহার করে সাউথ ইন্ডিয়ান রেলওয়ের গ্যারান্টি সমাপ্ত করে রেলওয়েটি কেনা হবে এবং এতে বছরে আনুমানিক £৩৬,০০০ সাশ্রয় হবে।",
+      "related_banking_power_records": [
+        "south-indian-railway-purchase-borrowing-authority-1890",
+        "british-government-railway-company-onlending-1889",
+        "delhi-umballa-kalka-railway-concession-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / railway guarantees / public acquisition / sovereign finance",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 guarantee termination and railway acquisition mechanism"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9330,7 +9361,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of deployed railway, exchange-rate, Council-bill, Tirhoot, and salt-tax layers.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating the South Indian Railway borrowing authority and guarantee-termination records and the deployed exchange/Council-bill layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10786,6 +10817,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 141,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v78": {
+    "status": "Completed after 1890 South Indian Railway guarantee-termination deployment",
+    "records_audited": 147,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 142,
       "B": 5,
       "C": 0,
       "D": 0
