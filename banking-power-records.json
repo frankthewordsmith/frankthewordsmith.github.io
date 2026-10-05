@@ -997,6 +997,48 @@
       "deployment_note": "Added as a qualified Sovereign Debt candidate; upgrade only after direct 1829 primary-document transcription."
     },
     {
+      "source_id": "greek-loan-guarantee-convention-1832",
+      "title": "Greek Loan Guarantee Convention, 1832",
+      "date_label": "1832",
+      "historical_claim": "The 1832 Convention among Great Britain, France, Russia and Bavaria provided for a Greek Government loan of up to 60,000,000 francs, guaranteed by Great Britain, France and Russia, with the interest and sinking fund secured on the first revenues of the Greek State and the loan to be raised in three 20,000,000-franc instalments.",
+      "verification_status": "Verified against the contemporary House of Commons record reproducing the Convention's financial provisions.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Lords/1832-08-13/debates/ba5b08e8-bfe1-4e35-a022-8cbea576c5a7/GreekLoanConvention",
+      "primary_passage": "The loan proposed was 60,000,000 of livres to be equally divided between the Three Powers, each of which was to be liable only for its own quota. This sum was to be advanced by instalments, with securities upon the revenues of the country for the payment of the interest, and for the accumulation of a sinking fund to discharge the principal itself.",
+      "passage_locator": "House of Lords, 13 August 1832, Greek Loan Convention, Hansard; Earl Grey's second-reading explanation of the Convention.",
+      "passage_status": "Exact contemporary parliamentary wording locked; the debate records the Convention's guarantee structure and revenue security. The original treaty scan remains a supplementary archival target.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Lords, 13 August 1832.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1832,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the guarantee and security framework.",
+      "evidence_limits": "The passage establishes the governmental guarantee and security structure, not the later 1833 Rothschild contracting/issue terms, which are separately recorded in the 1833 Greek loan record.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1832
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "rothschild-british-slavery-compensation-loan-1835",
       "title": "British Government Slavery Compensation Loan, 1835",
       "date_label": "1835",
@@ -6061,6 +6103,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 82,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v17": {
+    "status": "Completed after 1832 Greek Loan Guarantee Convention deployment",
+    "records_audited": 87,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 83,
       "B": 4,
       "C": 0,
       "D": 0
