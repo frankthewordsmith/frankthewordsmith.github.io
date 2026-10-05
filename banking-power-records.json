@@ -1907,6 +1907,38 @@
       ]
     },
     {
+      "source_id": "basel-corporate-governance-principles-2015",
+      "title": "Basel Corporate Governance Principles for Banks",
+      "date_label": "2015",
+      "historical_claim": "On 8 July 2015, the Basel Committee issued revised Corporate Governance Principles for Banks, superseding its 2010 guidance and setting a framework for robust and transparent risk management and decision-making.",
+      "bn_title": "ব্যাংকের জন্য বাসেল কর্পোরেট গভর্ন্যান্স নীতিমালা, ২০১৫",
+      "bn_historical_claim": "৮ জুলাই ২০১৫ সালে Basel Committee ব্যাংকের জন্য সংশোধিত Corporate Governance Principles প্রকাশ করে।",
+      "source_url": "https://www.bis.org/publications/201507-guidelines-corporate-governance-principles-banks",
+      "verification_status": "Primary-source official BIS/BCBS final guideline verified",
+      "evidence_grade": "A",
+      "primary_passage": "The revised principles provide a framework within which banks and supervisors should operate to achieve robust and transparent risk management and decision-making and, in doing so, promote public confidence and uphold the safety and soundness of the banking system.",
+      "passage_locator": "Basel Committee on Banking Supervision, Corporate governance principles for banks, 8 July 2015, opening publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final guideline",
+      "passage_source_url": "https://www.bis.org/publ/bcbs294.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Corporate governance principles for banks, 8 July 2015; official BIS publication.",
+      "edition": "July 2015 revised Corporate Governance Principles.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2015,
+      "what_passage_establishes": "The revised governance framework's purpose: robust and transparent risk management and decision-making, public confidence, and banking-system safety and soundness.",
+      "evidence_limits": "The passage establishes the issuance and purpose of the revised governance principles, not later implementation or effectiveness.",
+      "related_banking_power_records": [
+        "basel-core-principles-revised-2012",
+        "basel-risk-data-aggregation-2013",
+        "basel-gsib-framework-2011"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Corporate governance principles for banks (July 2015)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2012,7 +2044,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 60 records, A=49, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 61 records, A=50, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
