@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "118-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "119-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3338,6 +3338,63 @@
         "research_maps": [
           "sovereign_debt",
           "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "bengal-nagpur-railway-loan-1887",
+      "title": "Bengal-Nagpur Railway Loan, 1887: Government-Guaranteed Interest and Rothschild Commission",
+      "date_label": "1887",
+      "historical_claim": "In 1887 the Bengal-Nagpur Railway Company was authorised to raise £3 million on 4 per cent guaranteed interest, with the Indian Government providing the guarantee; Parliament recorded that Messrs. Rothschild & Co. were authorised to receive and in fact received a 1 per cent commission, and the Secretary of State considered this the most judicious and economical method of raising the money.",
+      "verification_status": "Contemporary House of Commons statement directly records the £3 million amount, 4 per cent perpetual guarantee, one-fourth profit participation, the 1 per cent Rothschild commission, and the official rationale for the financing method.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1887/mar/04/india-railways-bengal-nagpur-railway",
+      "bn_title": "বেঙ্গল-নাগপুর রেলওয়ে ঋণ, ১৮৮৭: সরকারি গ্যারান্টিযুক্ত সুদ ও রথসচাইল্ড কমিশন",
+      "bn_historical_claim": "১৮৮৭ সালে বেঙ্গল-নাগপুর রেলওয়ে কোম্পানিকে ৪ শতাংশ চিরস্থায়ী গ্যারান্টিযুক্ত সুদের ভিত্তিতে ৩০ লক্ষ পাউন্ড সংগ্রহের অনুমতি দেওয়া হয়; ভারত সরকার এই গ্যারান্টির সঙ্গে যুক্ত ছিল। সংসদে নথিভুক্ত হয় যে মেসার্স রথসচাইল্ড অ্যান্ড কোম্পানিকে ১ শতাংশ কমিশন দেওয়ার অনুমতি ছিল এবং তা বাস্তবে দেওয়া হয়; অর্থ সংগ্রহের এই পদ্ধতিকে সেক্রেটারি অব স্টেট সবচেয়ে বিচক্ষণ ও অর্থসাশ্রয়ী বলে বিবেচনা করেছিলেন।",
+      "notes": "On 4 March 1887 Dr. Tanner asked the Under Secretary of State for India whether £3,000,000 was to be raised on 4 per cent guaranteed interest in perpetuity by the Indian Government and one-fourth of railway profits, whether Rothschild & Co. underwrote the loan, and whether they received a commission. Sir John Gorst answered that the first proposition was true, the underwriting proposition was false, and that the company was authorised to pay Rothschild & Co. a 1 per cent commission, which was in fact paid. He stated that the money was raised in this mode because, in the Secretary of State in Council's opinion, it was the most judicious and economical method.",
+      "primary_passage": "The Bengal-Nagpur Railway Company was authorized to pay a commission of 1 per cent to Messrs. Rothschild & Co.; and the amount was, in fact, paid. The money was raised in this mode, because, in the opinion of the Secretary of State in Council, it was the most judicious and economical mode of raising it.",
+      "passage_locator": "Hansard, House of Commons, 4 March 1887, vol. 311, cols. 1257–1258, 'India (Railways)—Bengal-Nagpur Railway.'",
+      "passage_status": "Passage locked — contemporary parliamentary answer records the commission and official financing rationale.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1887/mar/04/india-railways-bengal-nagpur-railway",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons, answer by Sir John Gorst, Under Secretary of State for India, 4 March 1887, concerning the Bengal-Nagpur Railway financing.",
+      "edition": "Hansard, House of Commons, 4 March 1887, vol. 311, cols. 1257–1258.",
+      "publisher": "Parliament of the United Kingdom; Hansard",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage establishes that the Bengal-Nagpur Railway financing involved a £3 million raising on 4 per cent guaranteed interest in perpetuity, and that Rothschild & Co. received a 1 per cent commission authorised by the company. It also establishes the contemporary official rationale that this method was considered the most judicious and economical.",
+      "evidence_limits": "The passage does not establish that Rothschild & Co. underwrote the loan; the Under Secretary explicitly answered that proposition 'No.' It also does not by itself establish the complete loan contract, subscription allocation, final issue price, or the full legal mechanics of the guarantee.",
+      "related_banking_power_records": [
+        "east-india-railways-loans-1886",
+        "india-london-sterling-borrowing-authority-1885",
+        "india-public-works-loan-1883-rupee"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 4 March 1887, vol. 311, cols. 1257–1258."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary evidence locks the financing terms reported to Parliament and the 1 per cent commission; the record explicitly does not support an underwriting claim.",
+      "year": 1887,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "railway_finance",
+          "banking_dynasties"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "banking_dynasties"
         ]
       }
     },
@@ -7976,7 +8033,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the 1886 East India Railways borrowing proposal.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the Bengal-Nagpur Railway financing record.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8524,6 +8581,44 @@
       },
       "global_power_network": {
         "records": 93
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v49": {
+    "status": "Completed after 1887 Bengal-Nagpur Railway financing deployment",
+    "records_audited": 119,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 114,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v25": {
+    "status": "Reconciled after 1887 Bengal-Nagpur Railway financing deployment",
+    "records_mapped": 119,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 52
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 60
+      },
+      "global_power_network": {
+        "records": 94
       }
     }
   }
