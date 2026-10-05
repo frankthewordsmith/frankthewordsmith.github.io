@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "121-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "122-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -1137,49 +1137,6 @@
       }
     },
     {
-      "source_id": "rothschild-exchequer-bills-1839",
-      "title": "Rothschild Offer for Funding Exchequer Bills, 1839",
-      "date_label": "1839",
-      "historical_claim": "In August 1839, during the funding of Exchequer bills, Messrs. Rothschild submitted a tender alongside the Bank of England and the Commercial Bank of Scotland; the Bank of England's tender was accepted.",
-      "verification_status": "Verified against the contemporary House of Commons record.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1839-08-19/debates/c5edc859-fc4c-4ef5-8c4a-21a97661e58c/FundingOfExchequerBills",
-      "primary_passage": "The offer made by the Bank of England was 109 l. 5 s. 10 d.; the offer of Messrs. Rothschild was 110 l. 17 s. 6 d.; and the offer by the Commercial Bank of Scotland was 111 l.; while the proposal on the part of the Government, as expressed in the sealed paper, was 110 l. Of course the tender by the Bank of England was received.",
-      "passage_locator": "House of Commons, 19 August 1839, Funding of Exchequer Bills, Hansard.",
-      "passage_status": "Exact contemporary parliamentary wording locked; establishes competing tenders and acceptance of the Bank of England tender.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 19 August 1839.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1839,
-      "publication_status": "A-grade — contemporary parliamentary evidence for the competing tender and outcome.",
-      "evidence_limits": "This record concerns funding Exchequer bills, not a long-term sovereign bond issue; it does not establish Rothschild's role beyond making the stated tender.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1839
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "banking_dynasties",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      },
-      "year": 1839
-    },
-    {
       "source_id": "french-consol-reduction-rothschild-baring-1839",
       "title": "Rothschild and Baring French Government Loan Proposal, 1839",
       "date_label": "1839",
@@ -1219,6 +1176,49 @@
           "banking_dynasties",
           "sovereign_debt",
           "central_banks",
+          "global_power_network"
+        ]
+      },
+      "year": 1839
+    },
+    {
+      "source_id": "rothschild-exchequer-bills-1839",
+      "title": "Rothschild Offer for Funding Exchequer Bills, 1839",
+      "date_label": "1839",
+      "historical_claim": "In August 1839, during the funding of Exchequer bills, Messrs. Rothschild submitted a tender alongside the Bank of England and the Commercial Bank of Scotland; the Bank of England's tender was accepted.",
+      "verification_status": "Verified against the contemporary House of Commons record.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1839-08-19/debates/c5edc859-fc4c-4ef5-8c4a-21a97661e58c/FundingOfExchequerBills",
+      "primary_passage": "The offer made by the Bank of England was 109 l. 5 s. 10 d.; the offer of Messrs. Rothschild was 110 l. 17 s. 6 d.; and the offer by the Commercial Bank of Scotland was 111 l.; while the proposal on the part of the Government, as expressed in the sealed paper, was 110 l. Of course the tender by the Bank of England was received.",
+      "passage_locator": "House of Commons, 19 August 1839, Funding of Exchequer Bills, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked; establishes competing tenders and acceptance of the Bank of England tender.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 19 August 1839.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1839,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the competing tender and outcome.",
+      "evidence_limits": "This record concerns funding Exchequer bills, not a long-term sovereign bond issue; it does not establish Rothschild's role beyond making the stated tender.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1839
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
           "global_power_network"
         ]
       },
@@ -1669,49 +1669,6 @@
       "year": 1860
     },
     {
-      "source_id": "east-india-railway-finance-1861-home-treasury",
-      "title": "East India Railway Finance: Home Treasury Dependence on Company Payments",
-      "date_label": "1861",
-      "year": 1861,
-      "historical_claim": "In June 1861 the Secretary of State explained that Indian railway expenditure was paid through advances from the India Treasury while Home Government expenses were met from sums paid by railway companies into the Treasury in England; the shortfall in company payments created pressure for borrowing.",
-      "verification_status": "Verified against the contemporary House of Commons East India Loan debate.",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1861-06-03/debates/f47d1c0f-305e-404f-80af-08047d3b4050/EastIndiaLoan%E2%80%94Committee",
-      "primary_passage": "the expenditure for railways in India is paid by advances from the India Treasury, while the expenses of the Home Government are defrayed from the sums paid by the railway companies into the Treasury in England.",
-      "passage_locator": "House of Commons, 3 June 1861, East India Loan—Committee, Hansard.",
-      "passage_status": "Exact contemporary parliamentary wording locked.",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "edition": "Hansard, House of Commons, 3 June 1861.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1861,
-      "publication_status": "A-grade — contemporary parliamentary evidence.",
-      "evidence_limits": "This establishes the financing mechanism and liquidity pressure; it does not identify a particular lender or prove that all railway expenditure was financed by borrowing.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1861
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "central_banks"
-        ]
-      }
-    },
-    {
       "source_id": "east-india-loan-1861-4m",
       "title": "East India £4 Million Loan, 1861",
       "date_label": "1861",
@@ -1796,6 +1753,49 @@
         ]
       },
       "year": 1861
+    },
+    {
+      "source_id": "east-india-railway-finance-1861-home-treasury",
+      "title": "East India Railway Finance: Home Treasury Dependence on Company Payments",
+      "date_label": "1861",
+      "year": 1861,
+      "historical_claim": "In June 1861 the Secretary of State explained that Indian railway expenditure was paid through advances from the India Treasury while Home Government expenses were met from sums paid by railway companies into the Treasury in England; the shortfall in company payments created pressure for borrowing.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1861-06-03/debates/f47d1c0f-305e-404f-80af-08047d3b4050/EastIndiaLoan%E2%80%94Committee",
+      "primary_passage": "the expenditure for railways in India is paid by advances from the India Treasury, while the expenses of the Home Government are defrayed from the sums paid by the railway companies into the Treasury in England.",
+      "passage_locator": "House of Commons, 3 June 1861, East India Loan—Committee, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 3 June 1861.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1861,
+      "publication_status": "A-grade — contemporary parliamentary evidence.",
+      "evidence_limits": "This establishes the financing mechanism and liquidity pressure; it does not identify a particular lender or prove that all railway expenditure was financed by borrowing.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1861
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
     },
     {
       "source_id": "east-india-railway-finance-1862",
@@ -2323,60 +2323,6 @@
       }
     },
     {
-      "source_id": "panic-1873",
-      "title": "Panic of 1873",
-      "date_label": "1873",
-      "historical_claim": "The 1873 crisis spread across financial markets and banking systems, with railroad investment, securities losses and banking failures contributing to a wider international financial disruption.",
-      "verification_status": "Primary-source / contemporary official record verified",
-      "evidence_grade": "A",
-      "source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
-      "bn_title": "১৮৭৩ সালের আর্থিক আতঙ্ক",
-      "bn_historical_claim": "১৮৭৩ সালের সংকট আর্থিক বাজার ও ব্যাংকিং ব্যবস্থায় ছড়িয়ে পড়ে; রেলপথ বিনিয়োগ, সিকিউরিটিজের ক্ষতি ও ব্যাংক-ব্যর্থতা বৃহত্তর আন্তর্জাতিক আর্থিক অস্থিরতায় ভূমিকা রাখে।",
-      "notes": "The 1873 Annual Report of the Comptroller of the Currency is the contemporary U.S. government record and contains a dedicated section, 'The Panic of 1873,' describing the September failures, banking disruption and spread of the panic. This direct primary report replaces the former secondary Federal Reserve History link.",
-      "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
-      "status": "Primary-source verified",
-      "primary_passage": "The monetary crisis of 1873 may be said to have had its beginning in New York City on September 8",
-      "passage_locator": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, 28 November 1873, section “The Panic of 1873.”",
-      "passage_status": "Passage locked — contemporary government report",
-      "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
-      "passage_type": "english-primary-text",
-      "language": "English",
-      "last_verified": "2026-10-01",
-      "source_identity": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, Office of the Comptroller of the Currency, issued 28 November 1873; section “The Panic of 1873,” p. XXVI.; publisher/authority: U.S. Department of the Treasury, Office of the Comptroller of the Currency; year: 1873.",
-      "edition": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, Office of the Comptroller of the Currency, issued 28 November 1873; section “The Panic of 1873,” p. XXVI.",
-      "publisher": "U.S. Department of the Treasury, Office of the Comptroller of the Currency",
-      "publication_year": 1873,
-      "what_passage_establishes": "The 1873 Annual Report of the Comptroller of the Currency is the contemporary U.S.",
-      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
-      "related_banking_power_records": [
-        "overend-gurney-crisis-1866",
-        "bank-japan-1882"
-      ],
-      "scholarly_references": [
-        "Charles P. Kindleberger, *Manias, Panics, and Crashes: A History of Financial Crises* (Wiley, later editions), discussion of the 1873 crisis.",
-        "Michael D. Bordo, “The Lender of Last Resort: Alternative Views and Historical Experience,” Federal Reserve Bank of Richmond *Economic Review* 84 (1998), historical discussion of nineteenth-century banking crises."
-      ],
-      "year": 1873,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1873
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "banking_crises_and_liquidity"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "financial_crises"
-        ]
-      }
-    },
-    {
       "source_id": "india-public-works-extraordinary-resolution-1873",
       "title": "India Public Works Extraordinary, 1873: Five-Year Reproductive Works Programme",
       "date_label": "1873",
@@ -2431,6 +2377,60 @@
           "sovereign_debt",
           "global_power_network",
           "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "panic-1873",
+      "title": "Panic of 1873",
+      "date_label": "1873",
+      "historical_claim": "The 1873 crisis spread across financial markets and banking systems, with railroad investment, securities losses and banking failures contributing to a wider international financial disruption.",
+      "verification_status": "Primary-source / contemporary official record verified",
+      "evidence_grade": "A",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
+      "bn_title": "১৮৭৩ সালের আর্থিক আতঙ্ক",
+      "bn_historical_claim": "১৮৭৩ সালের সংকট আর্থিক বাজার ও ব্যাংকিং ব্যবস্থায় ছড়িয়ে পড়ে; রেলপথ বিনিয়োগ, সিকিউরিটিজের ক্ষতি ও ব্যাংক-ব্যর্থতা বৃহত্তর আন্তর্জাতিক আর্থিক অস্থিরতায় ভূমিকা রাখে।",
+      "notes": "The 1873 Annual Report of the Comptroller of the Currency is the contemporary U.S. government record and contains a dedicated section, 'The Panic of 1873,' describing the September failures, banking disruption and spread of the panic. This direct primary report replaces the former secondary Federal Reserve History link.",
+      "url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
+      "status": "Primary-source verified",
+      "primary_passage": "The monetary crisis of 1873 may be said to have had its beginning in New York City on September 8",
+      "passage_locator": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, 28 November 1873, section “The Panic of 1873.”",
+      "passage_status": "Passage locked — contemporary government report",
+      "passage_source_url": "https://fraser.stlouisfed.org/title/annual-report-comptroller-currency-56/1873-19089/fulltext",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01",
+      "source_identity": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, Office of the Comptroller of the Currency, issued 28 November 1873; section “The Panic of 1873,” p. XXVI.; publisher/authority: U.S. Department of the Treasury, Office of the Comptroller of the Currency; year: 1873.",
+      "edition": "Annual Report of the Comptroller of the Currency for 1873, Treasury Department, Office of the Comptroller of the Currency, issued 28 November 1873; section “The Panic of 1873,” p. XXVI.",
+      "publisher": "U.S. Department of the Treasury, Office of the Comptroller of the Currency",
+      "publication_year": 1873,
+      "what_passage_establishes": "The 1873 Annual Report of the Comptroller of the Currency is the contemporary U.S.",
+      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
+      "related_banking_power_records": [
+        "overend-gurney-crisis-1866",
+        "bank-japan-1882"
+      ],
+      "scholarly_references": [
+        "Charles P. Kindleberger, *Manias, Panics, and Crashes: A History of Financial Crises* (Wiley, later editions), discussion of the 1873 crisis.",
+        "Michael D. Bordo, “The Lender of Last Resort: Alternative Views and Historical Experience,” Federal Reserve Bank of Richmond *Economic Review* 84 (1998), historical discussion of nineteenth-century banking crises."
+      ],
+      "year": 1873,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1873
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_crises_and_liquidity"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
         ]
       }
     },
@@ -3061,61 +3061,6 @@
       }
     },
     {
-      "source_id": "rothschild-egypt-loan-1884",
-      "title": "Rothschild Loan to the Egyptian Government, 1884",
-      "date_label": "1884",
-      "historical_claim": "Messrs. Rothschild arranged a substantial temporary loan for the Egyptian Government in early 1884, with the British Government informed of and expressing approval for the transaction.",
-      "verification_status": "Contemporary House of Commons record reproduces Government correspondence with Sir Nathaniel Rothschild concerning the proposed £1,000,000 loan and records the Government's knowledge and favorable view.",
-      "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1884/feb/08/egypt-finance-c-loan-by-messrs-rothschild",
-      "bn_title": "মিশরীয় সরকারকে রথসচাইল্ড ঋণ, ১৮৮৪",
-      "bn_historical_claim": "১৮৮৪ সালের শুরুতে রথসচাইল্ডরা মিশরীয় সরকারকে একটি উল্লেখযোগ্য অস্থায়ী ঋণের ব্যবস্থা করে; সমকালীন সংসদীয় নথিতে ব্রিটিশ সরকারের অবগত থাকা ও অনুকূল মতামত নথিভুক্ত হয়েছে।",
-      "notes": "Hansard records Lord Granville's 22 and 28 January 1884 letters to Sir Nathaniel Rothschild. The first states that Mr. Vincent had approached Rothschild for a £1,000,000 loan to be repaid in six months and that the Cabinet was favorable to Rothschild proceeding if terms could be agreed. The second thanks Rothschild for information on negotiations and treats repayment conditions as a business detail. The record does not establish the final contractual terms.",
-      "primary_passage": "the Cabinet expressed itself in favour of Sir Evelyn Baring's having done so, and we are glad at your agreeing to the request if you find that you will be able to come to terms with the Egyptian Government.",
-      "passage_locator": "House of Commons, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild, Hansard vol. 284, cols. 309–313; Government letters of 22 and 28 January 1884 read into the debate.",
-      "passage_status": "Passage locked — contemporary parliamentary reproduction of Government correspondence.",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1884/feb/08/egypt-finance-c-loan-by-messrs-rothschild",
-      "passage_type": "contemporary-parliamentary-record",
-      "language": "English",
-      "last_verified": "2026-10-05",
-      "source_identity": "House of Commons debate, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild.",
-      "edition": "Hansard, House of Commons, 8 February 1884, vol. 284, cols. 309–313.",
-      "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1884,
-      "what_passage_establishes": "The passage establishes Cabinet awareness and favorable disposition toward Rothschild advancing a £1,000,000 six-month loan to the Egyptian Government, subject to terms being agreed.",
-      "evidence_limits": "It does not establish that the Cabinet guaranteed repayment, the final contractual terms, or broader British control over Egyptian finance.",
-      "related_banking_power_records": [
-        "rothschild-british-government-loan-1856"
-      ],
-      "scholarly_references": [
-        "Hansard, House of Commons, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild."
-      ],
-      "publication_status": "A-grade — direct contemporary parliamentary evidence; final contract remains a useful supplementary archival target.",
-      "year": 1884,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1884
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "banking_dynasties",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "banking_dynasties",
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
       "source_id": "india-paper-currency-reserve-regime-1884",
       "title": "India Paper Currency, 1884: Reserve Rule and Government Securities Backing",
       "date_label": "1884",
@@ -3170,43 +3115,43 @@
       }
     },
     {
-      "source_id": "rothschild-egypt-advance-1885",
-      "title": "Rothschild Temporary Advance to the Egyptian Government, 1885",
-      "date_label": "1885",
-      "historical_claim": "Messrs. Rothschild supplied or continued a temporary financial advance to the Egyptian Government in 1885, with the British Government acknowledging that the advance met Egypt's temporary necessities while its detailed terms were settled directly between Rothschild and Egypt.",
-      "verification_status": "Contemporary House of Commons record directly confirms the advance and the parties' settlement of its terms.",
+      "source_id": "rothschild-egypt-loan-1884",
+      "title": "Rothschild Loan to the Egyptian Government, 1884",
+      "date_label": "1884",
+      "historical_claim": "Messrs. Rothschild arranged a substantial temporary loan for the Egyptian Government in early 1884, with the British Government informed of and expressing approval for the transaction.",
+      "verification_status": "Contemporary House of Commons record reproduces Government correspondence with Sir Nathaniel Rothschild concerning the proposed £1,000,000 loan and records the Government's knowledge and favorable view.",
       "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1885/apr/13/the-egyptian-loan-messrs-rothschild",
-      "bn_title": "মিশরীয় সরকারকে রথসচাইল্ডের অস্থায়ী অগ্রিম, ১৮৮৫",
-      "bn_historical_claim": "১৮৮৫ সালে রথসচাইল্ডরা মিশরীয় সরকারকে অস্থায়ী আর্থিক অগ্রিম প্রদান বা অব্যাহত রাখে; ব্রিটিশ সরকার সংসদে এই অগ্রিমের কথা স্বীকার করে এবং জানায় যে এর শর্ত রথসচাইল্ড ও মিশরীয় সরকার সরাসরি নির্ধারণ করেছে।",
-      "notes": "The Chancellor of the Exchequer stated in the House of Commons on 13 April 1885 that Messrs. Rothschild, knowing the British Government regarded itself as pledged to the pending Egypt legislation, had supplied the temporary necessities of the Egyptian Government; he said the transaction's details had been settled between Rothschild and the Egyptian Government. This record is stronger than a later narrative but does not expose the underlying private contract.",
-      "primary_passage": "Messrs. Rothschild are aware that we regard ourselves pledged to the Bill now before Parliament, and with this knowledge have supplied the temporary necessities of the Egyptian Government.",
-      "passage_locator": "House of Commons, 13 April 1885, The Egyptian Loan—Messrs. Rothschild, Hansard vol. 296, cols. 1457–1458.",
-      "passage_status": "Passage locked — contemporary parliamentary statement; private transaction terms remain outside the parliamentary record.",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1885/apr/13/the-egyptian-loan-messrs-rothschild",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1884/feb/08/egypt-finance-c-loan-by-messrs-rothschild",
+      "bn_title": "মিশরীয় সরকারকে রথসচাইল্ড ঋণ, ১৮৮৪",
+      "bn_historical_claim": "১৮৮৪ সালের শুরুতে রথসচাইল্ডরা মিশরীয় সরকারকে একটি উল্লেখযোগ্য অস্থায়ী ঋণের ব্যবস্থা করে; সমকালীন সংসদীয় নথিতে ব্রিটিশ সরকারের অবগত থাকা ও অনুকূল মতামত নথিভুক্ত হয়েছে।",
+      "notes": "Hansard records Lord Granville's 22 and 28 January 1884 letters to Sir Nathaniel Rothschild. The first states that Mr. Vincent had approached Rothschild for a £1,000,000 loan to be repaid in six months and that the Cabinet was favorable to Rothschild proceeding if terms could be agreed. The second thanks Rothschild for information on negotiations and treats repayment conditions as a business detail. The record does not establish the final contractual terms.",
+      "primary_passage": "the Cabinet expressed itself in favour of Sir Evelyn Baring's having done so, and we are glad at your agreeing to the request if you find that you will be able to come to terms with the Egyptian Government.",
+      "passage_locator": "House of Commons, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild, Hansard vol. 284, cols. 309–313; Government letters of 22 and 28 January 1884 read into the debate.",
+      "passage_status": "Passage locked — contemporary parliamentary reproduction of Government correspondence.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1884/feb/08/egypt-finance-c-loan-by-messrs-rothschild",
       "passage_type": "contemporary-parliamentary-record",
       "language": "English",
       "last_verified": "2026-10-05",
-      "source_identity": "House of Commons debate, 13 April 1885, The Egyptian Loan—Messrs. Rothschild.",
-      "edition": "Hansard, House of Commons, 13 April 1885, vol. 296, cols. 1457–1458.",
+      "source_identity": "House of Commons debate, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild.",
+      "edition": "Hansard, House of Commons, 8 February 1884, vol. 284, cols. 309–313.",
       "publisher": "Parliament of the United Kingdom",
-      "publication_year": 1885,
-      "what_passage_establishes": "The passage establishes that Rothschild supplied temporary financial necessities to the Egyptian Government and that the transaction's details were settled directly between the two parties.",
-      "evidence_limits": "It does not establish the precise amount, interest rate, security, maturity, or whether the advance was legally a loan in the final contractual form.",
+      "publication_year": 1884,
+      "what_passage_establishes": "The passage establishes Cabinet awareness and favorable disposition toward Rothschild advancing a £1,000,000 six-month loan to the Egyptian Government, subject to terms being agreed.",
+      "evidence_limits": "It does not establish that the Cabinet guaranteed repayment, the final contractual terms, or broader British control over Egyptian finance.",
       "related_banking_power_records": [
-        "rothschild-egypt-loan-1884"
+        "rothschild-british-government-loan-1856"
       ],
       "scholarly_references": [
-        "Hansard, House of Commons, 13 April 1885, The Egyptian Loan—Messrs. Rothschild."
+        "Hansard, House of Commons, 8 February 1884, Egypt (Finance, &c.)—Loan by Messrs. Rothschild."
       ],
-      "publication_status": "A-grade — direct contemporary parliamentary evidence locked; private contract remains a supplementary archival target.",
-      "year": 1885,
+      "publication_status": "A-grade — direct contemporary parliamentary evidence; final contract remains a useful supplementary archival target.",
+      "year": 1884,
       "book_1_integration": {
         "status": "Provisional chronology mapping",
         "part": "part_2",
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1885
+        "sequence_year": 1884
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -3279,6 +3224,61 @@
         "research_maps": [
           "sovereign_debt",
           "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "rothschild-egypt-advance-1885",
+      "title": "Rothschild Temporary Advance to the Egyptian Government, 1885",
+      "date_label": "1885",
+      "historical_claim": "Messrs. Rothschild supplied or continued a temporary financial advance to the Egyptian Government in 1885, with the British Government acknowledging that the advance met Egypt's temporary necessities while its detailed terms were settled directly between Rothschild and Egypt.",
+      "verification_status": "Contemporary House of Commons record directly confirms the advance and the parties' settlement of its terms.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1885/apr/13/the-egyptian-loan-messrs-rothschild",
+      "bn_title": "মিশরীয় সরকারকে রথসচাইল্ডের অস্থায়ী অগ্রিম, ১৮৮৫",
+      "bn_historical_claim": "১৮৮৫ সালে রথসচাইল্ডরা মিশরীয় সরকারকে অস্থায়ী আর্থিক অগ্রিম প্রদান বা অব্যাহত রাখে; ব্রিটিশ সরকার সংসদে এই অগ্রিমের কথা স্বীকার করে এবং জানায় যে এর শর্ত রথসচাইল্ড ও মিশরীয় সরকার সরাসরি নির্ধারণ করেছে।",
+      "notes": "The Chancellor of the Exchequer stated in the House of Commons on 13 April 1885 that Messrs. Rothschild, knowing the British Government regarded itself as pledged to the pending Egypt legislation, had supplied the temporary necessities of the Egyptian Government; he said the transaction's details had been settled between Rothschild and the Egyptian Government. This record is stronger than a later narrative but does not expose the underlying private contract.",
+      "primary_passage": "Messrs. Rothschild are aware that we regard ourselves pledged to the Bill now before Parliament, and with this knowledge have supplied the temporary necessities of the Egyptian Government.",
+      "passage_locator": "House of Commons, 13 April 1885, The Egyptian Loan—Messrs. Rothschild, Hansard vol. 296, cols. 1457–1458.",
+      "passage_status": "Passage locked — contemporary parliamentary statement; private transaction terms remain outside the parliamentary record.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1885/apr/13/the-egyptian-loan-messrs-rothschild",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons debate, 13 April 1885, The Egyptian Loan—Messrs. Rothschild.",
+      "edition": "Hansard, House of Commons, 13 April 1885, vol. 296, cols. 1457–1458.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1885,
+      "what_passage_establishes": "The passage establishes that Rothschild supplied temporary financial necessities to the Egyptian Government and that the transaction's details were settled directly between the two parties.",
+      "evidence_limits": "It does not establish the precise amount, interest rate, security, maturity, or whether the advance was legally a loan in the final contractual form.",
+      "related_banking_power_records": [
+        "rothschild-egypt-loan-1884"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 13 April 1885, The Egyptian Loan—Messrs. Rothschild."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary evidence locked; private contract remains a supplementary archival target.",
+      "year": 1885,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1885
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
           "global_power_network"
         ]
       }
@@ -3507,6 +3507,62 @@
         "chapter_title": null,
         "research_maps": [
           "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "nizams-state-railway-london-money-market-1887",
+      "title": "Nizam's State Railway, 1887: Native State Borrowing Directly in the London Money Market",
+      "date_label": "1887",
+      "historical_claim": "The Nizam's Government negotiated directly with a company for financing connected with the Nizam's State Railway, while the Secretary of State for India expressly disclaimed responsibility for the transaction.",
+      "verification_status": "Primary parliamentary record verified in Hansard; official ministerial answer directly establishes the negotiating parties and the Secretary of State's disclaimer of responsibility.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1887/aug/22/india-the-nizams-state-railway",
+      "bn_title": "নিজামের স্টেট রেলওয়ে, ১৮৮৭: লন্ডন মানি মার্কেটে দেশীয় রাজ্যের সরাসরি ঋণগ্রহণ",
+      "bn_historical_claim": "নিজামের সরকার নিজামের স্টেট রেলওয়ের অর্থায়ন-সংক্রান্ত আলোচনায় একটি কোম্পানির সঙ্গে সরাসরি যুক্ত ছিল, এবং ভারতের সেক্রেটারি অব স্টেট এই লেনদেনের দায় স্পষ্টভাবে অস্বীকার করেছিলেন।",
+      "notes": "This is a distinct institutional layer from the British Indian Government's railway borrowing powers and the Bengal-Nagpur financing record. Sir George Campbell's question states that this was the first occasion of a Native Prince coming directly into the London Money Market to obtain money for the Nizam's State Railway and referred to at least £138,000 in promotion money. The ministerial answer did not verify that £138,000 figure; therefore it is retained only as a reported allegation in the parliamentary question, not as an established fact. The answer does establish that negotiations were conducted between the Nizam's Government and the Company and that the then Secretary of State distinctly disclaimed responsibility.",
+      "primary_passage": "In the case of the Nizam's State Railway the negotiations were conducted between the Nizam's Government and the Company; and the then Secretary of State distinctly disclaimed all responsibility in the matter.",
+      "passage_locator": "House of Commons, Hansard, 22 August 1887, vol. 319, cols. 1352–1353, 'India—The Nizam's State Railway.'",
+      "passage_status": "Passage locked — exact ministerial answer and printed Hansard column locator verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1887/aug/22/india-the-nizams-state-railway",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons Hansard, answer by Sir John Gorst, Under Secretary of State for India, concerning the Nizam's State Railway; 22 August 1887.",
+      "edition": "Hansard, House of Commons, 22 August 1887, vol. 319, cols. 1352–1353.",
+      "publisher": "House of Commons / Hansard",
+      "publication_year": 1887,
+      "what_passage_establishes": "The passage establishes that the Nizam's Government and the Company conducted the negotiations and that the then Secretary of State for India expressly disclaimed responsibility for the transaction. It therefore documents a financing arrangement involving a Native State and a private company outside direct British Indian Government borrowing responsibility.",
+      "evidence_limits": "The ministerial answer does not establish the full loan amount, issue price, interest rate, maturity, security, lender identities, or contractual terms. It also does not itself verify the £138,000 promotion-money figure stated in the question. It should not be used to claim that the British Government guaranteed or financed the transaction.",
+      "related_banking_power_records": [
+        "bengal-nagpur-railway-loan-1887",
+        "india-railways-borrowing-powers-legislation-1887",
+        "india-london-sterling-borrowing-authority-1885"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 22 August 1887, vol. 319, cols. 1352–1353.",
+        "Hansard, House of Commons, 1 August 1887, discussion concerning Sirdar Diler-ul-Mulk and the Nizam's State Railway conversion."
+      ],
+      "publication_status": "A-grade — direct parliamentary ministerial answer locked; financial contract terms remain outside the evidence established by this passage.",
+      "year": 1887,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1887
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_financial_networks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
           "global_power_network"
         ]
       }
@@ -4706,6 +4762,58 @@
       }
     },
     {
+      "source_id": "asian-crisis-1997",
+      "title": "Asian financial crisis",
+      "date_label": "1997",
+      "historical_claim": "The Asian financial crisis began in Thailand in July 1997 after the baht was floated and spread across the region, producing severe financial and economic disruption and requiring international support programs.",
+      "bn_title": "এশীয় আর্থিক সংকট",
+      "bn_historical_claim": "১৯৯৭ সালের জুলাইয়ে থাইল্যান্ডে বাত ভাসমান করার পর এশীয় আর্থিক সংকট শুরু হয় এবং অঞ্চলজুড়ে ছড়িয়ে পড়ে; এতে গুরুতর আর্থিক ও অর্থনৈতিক অস্থিরতা সৃষ্টি হয় এবং আন্তর্জাতিক সহায়তা কর্মসূচির প্রয়োজন হয়।",
+      "source_url": "https://www.imf.org/external/np/loi/081497.HTM",
+      "verification_status": "Primary-source contemporary official record verified",
+      "evidence_grade": "A",
+      "notes": "The 14 August 1997 Thailand Memorandum on Economic Policies, submitted in connection with the IMF-supported program, records the currency attacks, depletion of Bank of Thailand reserves, suspension of finance companies, and the float of the baht on 2 July 1997. The IMF's contemporaneous 2 July 1997 News Brief independently records Thailand's change to a managed float effective that date. The 20 August 1997 IMF approval release documents the subsequent stand-by arrangement and describes the spread of financial stress. These contemporary official records support the crisis-origin and international-assistance claims; broader claims about the crisis spreading across Asia should be treated as regional consequences rather than inferred solely from the Thai documents.",
+      "primary_passage": "the combination of a fixed exchange rate, an increasingly open capital account, and high domestic interest rates to combat inflation, attracted short-term capital flows that left the economy vulnerable to sudden shifts in market sentiment and external shocks.",
+      "passage_locator": "Thailand Memorandum on Economic Policies, 14 August 1997, section I, paragraph 1.",
+      "passage_status": "Passage locked — contemporary government record",
+      "passage_source_url": "https://www.imf.org/external/np/loi/081497.HTM",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01",
+      "source_identity": "Measures for Economic Recovery and Restructuring, Memorandum of Understanding between the Government of Thailand and the IMF, 14 August 1997; contemporary official IMF program document.; publisher/authority: Government of Thailand; International Monetary Fund; year: 1997.",
+      "edition": "Measures for Economic Recovery and Restructuring, Memorandum of Understanding between the Government of Thailand and the IMF, 14 August 1997; contemporary official IMF program document.",
+      "publisher": "Government of Thailand; International Monetary Fund",
+      "publication_year": 1997,
+      "what_passage_establishes": "The 14 August 1997 Thailand Memorandum on Economic Policies, submitted in connection with the IMF-supported program, records the currency attacks, depletion of Bank of Thailand reserves, suspension of finance companies, and the float of the baht on 2 July 1997.",
+      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
+      "related_banking_power_records": [
+        "basel-capital-accord-1988",
+        "ecb-established-1998"
+      ],
+      "scholarly_references": [
+        "Giancarlo Corsetti, Paolo Pesenti and Nouriel Roubini, “What Caused the Asian Currency and Financial Crisis?” *Japan and the World Economy* 11 (1999), 305–373.",
+        "International Monetary Fund, *The Asian Crisis: Causes and Cures* (Finance & Development, June 1998)."
+      ],
+      "year": 1997,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_4",
+        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1997
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_crises_and_liquidity"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
+      }
+    },
+    {
       "source_id": "basel-core-principles-1997",
       "title": "Basel Core Principles for Effective Banking Supervision",
       "date_label": "1997",
@@ -4757,58 +4865,6 @@
           "central_banks",
           "monetary_regimes",
           "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "asian-crisis-1997",
-      "title": "Asian financial crisis",
-      "date_label": "1997",
-      "historical_claim": "The Asian financial crisis began in Thailand in July 1997 after the baht was floated and spread across the region, producing severe financial and economic disruption and requiring international support programs.",
-      "bn_title": "এশীয় আর্থিক সংকট",
-      "bn_historical_claim": "১৯৯৭ সালের জুলাইয়ে থাইল্যান্ডে বাত ভাসমান করার পর এশীয় আর্থিক সংকট শুরু হয় এবং অঞ্চলজুড়ে ছড়িয়ে পড়ে; এতে গুরুতর আর্থিক ও অর্থনৈতিক অস্থিরতা সৃষ্টি হয় এবং আন্তর্জাতিক সহায়তা কর্মসূচির প্রয়োজন হয়।",
-      "source_url": "https://www.imf.org/external/np/loi/081497.HTM",
-      "verification_status": "Primary-source contemporary official record verified",
-      "evidence_grade": "A",
-      "notes": "The 14 August 1997 Thailand Memorandum on Economic Policies, submitted in connection with the IMF-supported program, records the currency attacks, depletion of Bank of Thailand reserves, suspension of finance companies, and the float of the baht on 2 July 1997. The IMF's contemporaneous 2 July 1997 News Brief independently records Thailand's change to a managed float effective that date. The 20 August 1997 IMF approval release documents the subsequent stand-by arrangement and describes the spread of financial stress. These contemporary official records support the crisis-origin and international-assistance claims; broader claims about the crisis spreading across Asia should be treated as regional consequences rather than inferred solely from the Thai documents.",
-      "primary_passage": "the combination of a fixed exchange rate, an increasingly open capital account, and high domestic interest rates to combat inflation, attracted short-term capital flows that left the economy vulnerable to sudden shifts in market sentiment and external shocks.",
-      "passage_locator": "Thailand Memorandum on Economic Policies, 14 August 1997, section I, paragraph 1.",
-      "passage_status": "Passage locked — contemporary government record",
-      "passage_source_url": "https://www.imf.org/external/np/loi/081497.HTM",
-      "passage_type": "english-primary-text",
-      "language": "English",
-      "last_verified": "2026-10-01",
-      "source_identity": "Measures for Economic Recovery and Restructuring, Memorandum of Understanding between the Government of Thailand and the IMF, 14 August 1997; contemporary official IMF program document.; publisher/authority: Government of Thailand; International Monetary Fund; year: 1997.",
-      "edition": "Measures for Economic Recovery and Restructuring, Memorandum of Understanding between the Government of Thailand and the IMF, 14 August 1997; contemporary official IMF program document.",
-      "publisher": "Government of Thailand; International Monetary Fund",
-      "publication_year": 1997,
-      "what_passage_establishes": "The 14 August 1997 Thailand Memorandum on Economic Policies, submitted in connection with the IMF-supported program, records the currency attacks, depletion of Bank of Thailand reserves, suspension of finance companies, and the float of the baht on 2 July 1997.",
-      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
-      "related_banking_power_records": [
-        "basel-capital-accord-1988",
-        "ecb-established-1998"
-      ],
-      "scholarly_references": [
-        "Giancarlo Corsetti, Paolo Pesenti and Nouriel Roubini, “What Caused the Asian Currency and Financial Crisis?” *Japan and the World Economy* 11 (1999), 305–373.",
-        "International Monetary Fund, *The Asian Crisis: Causes and Cures* (Finance & Development, June 1998)."
-      ],
-      "year": 1997,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_4",
-        "part_label": "Book 1 — Part IV: Bretton Woods to modern supervisory architecture",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1997
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "banking_crises_and_liquidity"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "financial_crises"
         ]
       }
     },
@@ -8146,7 +8202,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing and borrowing-powers records; prioritize a genuinely separate institutional or monetary layer.",
+  "next_priority": "Continue chronologically with the strongest distinct 1887 primary evidence, avoiding duplicate coverage of the deployed railway-financing, borrowing-powers, rupee-gold exchange, and Nizam's State Railway records; prioritize a genuinely separate institutional or monetary layer, then advance to 1888 when no stronger distinct 1887 layer remains.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -8808,6 +8864,44 @@
       },
       "global_power_network": {
         "records": 96
+      }
+    }
+  },
+  "structural_audit_2026_10_05_v52": {
+    "status": "Completed after 1887 Nizam's State Railway direct London money-market deployment",
+    "records_audited": 122,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 117,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v28": {
+    "status": "Reconciled after 1887 Nizam's State Railway direct London money-market deployment",
+    "records_mapped": 122,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 54
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 61
+      },
+      "global_power_network": {
+        "records": 97
       }
     }
   }
