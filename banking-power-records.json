@@ -40,15 +40,15 @@
       "title": "Stockholms Banco, 1656",
       "date_label": "1656",
       "historical_claim": "Stockholms Banco provides an early documented case connecting banknote issuance, confidence, redemption pressure and bank failure.",
-      "verification_status": "Official institutional sources verified; original 1656 charter not yet directly accessed",
+      "verification_status": "Official Swedish institutional and archival sources reverified; original 1656 charter not directly accessed",
       "evidence_grade": "B",
       "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
       "bn_title": "স্টকহোমস ব্যাংকো, ১৬৫৬",
       "bn_historical_claim": "স্টকহোমস ব্যাংকোর ইতিহাস ব্যাংকনোট ইস্যু, জনবিশ্বাস, নোট ভাঙানোর চাপ ও ব্যাংক-ব্যর্থতার প্রাথমিক সংযোগ দেখায়।",
-      "notes": "Official Swedish sources confirm that Karl X Gustav issued the 30 November 1656 charters at Marienburg to Johan Palmstruch and his co-participants for an exchange bank and a loan bank. Sveriges Riksbank's institutional history confirms the charters and their banking terms; Sveriges Riksdag likewise records the 30-year privilege and conditions. The evidence remains B-grade because the directly accessible passage is not yet the original 1656 charter itself.",
+      "notes": "Official Swedish institutional sources and archival references were rechecked. Sveriges Riksbank identifies the 30 November 1656 charters issued by Karl X Gustav to Johan Palmstruch and his co-participants and summarizes their banking terms. Sveriges Riksdag independently records the same privilege and conditions. The audit did not locate a directly accessible scan/transcription of the original 1656 charter itself, so the record remains B under the project's direct-primary-document standard.",
       "primary_passage": "den 30 November 1656 meddelades åt Kommissarien i Kommerskollegium Johan Palmstruch privilegium att, under 30 års tid, för sig och arfvingar samt medparticipanter och deras arfvingar, ensam, med andras uteslutande, så väl i Stockholm som å andra orter inom riket inrätta lånebanker.",
       "passage_locator": "Sveriges riksdag, Konstitutions-Utskottets Utlåtande N:o 5, historical overview; paragraph beginning “Sveriges Riksbank leder, som bekant, sitt ursprung…”.",
-      "passage_status": "Passage retained — official historical transcription/account, pending direct primary charter scan",
+      "passage_status": "Passage retained — official historical transcription/account; direct original charter scan remains open",
       "passage_source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/utlatande/konstitutions-utskottets-utlatande-no-5_cc10ku5/html/",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
@@ -67,7 +67,7 @@
         "Sveriges Riksbank, Stockholms Banco, 1656 historical timeline.",
         "Sveriges Riksdag, Konstitutions-Utskottets Utlåtande N:o 5 (1879)."
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "B-grade — official contemporary-event documentation securely corroborated; direct original charter edition/scan remains open."
     },
     {
       "source_id": "riksbank-1668",
