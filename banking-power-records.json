@@ -1226,6 +1226,39 @@
       ]
     },
     {
+      "source_id": "derivatives-risk-management-guidelines-1994",
+      "title": "Basel Committee risk management guidelines for derivatives",
+      "date_label": "1994",
+      "historical_claim": "On 28 July 1994, the Basel Committee issued guidance on sound risk management of banks' derivatives activities and distributed it to supervisors worldwide to strengthen prudential supervision of derivatives operations.",
+      "bn_title": "ডেরিভেটিভস ঝুঁকি ব্যবস্থাপনা বিষয়ে বাসেল কমিটির ১৯৯৪ নির্দেশিকা",
+      "bn_historical_claim": "২৮ জুলাই ১৯৯৪ সালে বাসেল কমিটি ব্যাংকের ডেরিভেটিভস কার্যক্রমের ঝুঁকি ব্যবস্থাপনার জন্য সুস্থ ও বিচক্ষণ পদ্ধতির নির্দেশিকা জারি করে এবং ডেরিভেটিভস কার্যক্রমের প্রুডেনশিয়াল তদারকি শক্তিশালী করার লক্ষ্যে তা বিশ্বব্যাপী তদারকি কর্তৃপক্ষগুলোর মধ্যে বিতরণ করে।",
+      "source_url": "https://www.bis.org/publications/199407-practices-risk-management-guidelines-derivatives",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "notes": "The official BIS publication page dates the guidelines to 28 July 1994. The accompanying Basel Committee text states that the paper provides guidance on sound risk management of derivatives activities for supervisory authorities and banking organisations, and that the Committee was distributing it to supervisors worldwide. It also explicitly stresses that capital requirements alone are not sufficient and that sound internal risk management is essential.",
+      "primary_passage": "The Basel Committee is distributing these guidelines to supervisors worldwide with the expectation that they will facilitate the further development of a prudent supervisory approach to the risk management of derivatives activities.",
+      "passage_locator": "Basel Committee on Banking Supervision, Risk management guidelines for derivatives, 28 July 1994, Preface, paragraph 2.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee guideline",
+      "passage_source_url": "https://www.bis.org/publ/bcbsc211.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Risk management guidelines for derivatives, 28 July 1994; official BIS-hosted committee publication.",
+      "edition": "Risk management guidelines for derivatives, July 1994.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 1994,
+      "what_passage_establishes": "The passage directly establishes the worldwide distribution of the 1994 derivatives risk-management guidelines and their intended role in developing prudent supervisory approaches.",
+      "evidence_limits": "The passage establishes issuance and intended supervisory use; it does not by itself establish implementation by individual supervisors or banks, the volume of derivatives activity, or subsequent market outcomes.",
+      "related_banking_power_records": [
+        "basel-accord-compliance-1993",
+        "global-financial-crisis-2008"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Prudential supervision of banks' derivatives activities (December 1994).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1331,7 +1364,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 39 records, A=28, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 40 records, A=29, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
