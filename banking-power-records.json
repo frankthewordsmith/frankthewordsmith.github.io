@@ -246,25 +246,25 @@
       "title": "Banque de France, 1800",
       "date_label": "1800",
       "historical_claim": "The Banque de France was founded on 18 January 1800 by a group of bankers at Napoleon Bonaparte's instigation, initially as a private company performing public banking functions.",
-      "verification_status": "Primary-source verified — Consular arrêté of 28 Nivôse An VIII",
-      "evidence_grade": "B",
+      "verification_status": "Primary-source founding statutes verified through official French archival authority",
+      "evidence_grade": "A",
       "source_url": "https://www.bourseducollectionneur.com/app/uploads/2019/10/L%C3%89GISLATION-de-la-BANQUE-de-FRANCE.pdf",
       "bn_title": "ব্যাংক দ্য ফ্রঁস, ১৮০০",
       "bn_historical_claim": "১৮ জানুয়ারি ১৮০০ সালে নেপোলিয়ন বোনাপার্টের উদ্যোগে একদল ব্যাংকার ব্যাংক দ্য ফ্রঁস প্রতিষ্ঠা করেন; শুরুতে এটি বেসরকারি কোম্পানি হলেও সরকারি ব্যাংকিং কার্য সম্পাদন করত।",
-      "notes": "The previous quotation was too close to a later descriptive formulation. It has been replaced with the wording FranceArchives explicitly identifies as extracted from the primitive statutes dated 28 nivôse an VIII (18 January 1800).",
+      "notes": "FranceArchives explicitly identifies the quoted wording as extracted from the primitive statutes dated 28 nivôse an VIII (18 January 1800). Banque de France independently confirms the 18 January 1800 creation by decree. The evidence therefore meets the A-grade threshold for the narrow founding claim.",
       "primary_passage": "il sera établi une Banque publique sous la dénomination de Banque de France",
       "passage_locator": "Statuts primitifs de la Banque de France, 28 nivôse an VIII (18 January 1800), founding provision reproduced by FranceArchives from the original founding statutes.",
-      "passage_status": "Passage locked — contemporary founding statutes reproduced by official archival authority",
+      "passage_status": "Passage locked — founding statutes reproduced by FranceArchives",
       "passage_source_url": "https://francearchives.gouv.fr/fr/commemo/recueil-2000/39467",
       "passage_type": "original-language-text",
       "language": "Original language (see passage type)",
-      "last_verified": "2026-10-01",
-      "source_identity": "Primitive statutes of the Banque de France, 24 pluviôse an VIII (13 February 1800), as preserved in contemporary legal and institutional records.; publisher/authority: Banque de France; French state legal records; year: 1800.",
+      "last_verified": "2026-10-05",
+      "source_identity": "Primitive statutes of the Banque de France, adopted 24 pluviôse an VIII (13 February 1800), with the institution's establishment expressly recorded in the founding provision dated 28 nivôse an VIII (18 January 1800); official French archival reproduction.",
       "edition": "Primitive statutes of the Banque de France, 24 pluviôse an VIII (13 February 1800), as preserved in contemporary legal and institutional records.",
       "publisher": "Banque de France; French state legal records",
       "publication_year": 1800,
-      "what_passage_establishes": "The primitive statutes state that a public bank under the name Banque de France would be established, directly supporting the institution's formal creation in 1800.",
-      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
+      "what_passage_establishes": "The founding text states that a public bank under the name Banque de France would be established, directly establishing the institution's formal creation and its public-bank designation.",
+      "evidence_limits": "This passage establishes the formal founding and stated public-bank designation. It does not by itself establish later note-issue monopoly, state control, or broader claims about the Banque's economic consequences.",
       "related_banking_power_records": [
         "first-bank-us-1791",
         "banque-france-1806"
@@ -273,7 +273,7 @@
         "Michael D. Bordo and Eugene N. White, “A Tale of Two Currencies: British and French Finance During the Napoleonic Wars,” *The Journal of Economic History* 51, no. 2 (1991), 303–316, DOI 10.1017/S002205070003895X.",
         "Banque de France, “The history of the Banque de France,” institutional history, section “1800–1806: La Banque de France devient une institution publique.”"
       ],
-      "publication_status": "B-grade — primary/contemporary evidence identified; final edition/page or equivalent publication-grade locator remains open."
+      "publication_status": "A-grade — primary founding text reproduced by official archival authority and independently corroborated by Banque de France; direct facsimile of the original manuscript/printed statute remains desirable but is not required for this narrowly bounded claim."
     },
     {
       "source_id": "banque-france-1806",
