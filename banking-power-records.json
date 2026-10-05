@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "130-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "131-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -3956,6 +3956,60 @@
         "research_maps": [
           "sovereign_debt",
           "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "delhi-umballa-kalka-railway-concession-1889",
+      "title": "Delhi–Umballa–Kalka Railway Concession, 1889: Private Construction Without Government Guarantee",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "In 1889 the Government agreed to provide land for the Delhi–Umballa–Kalka Railway and arranged for private construction, with the East India Railway Company to work the completed line for 50 per cent of gross receipts; no subsidy or guarantee was granted, and the Government retained a purchase option after 25 years.",
+      "verification_status": "Verified against the contemporary East India Revenue Accounts debate, 27 August 1889.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "bn_title": "দিল্লি–আম্বালা–কালকা রেলওয়ে ছাড়, ১৮৮৯: সরকারি গ্যারান্টি ছাড়া বেসরকারি নির্মাণ",
+      "bn_historical_claim": "১৮৮৯ সালে সরকার দিল্লি–আম্বালা–কালকা রেলওয়ের জন্য জমি দেওয়ার ব্যবস্থা করে এবং বেসরকারি কোম্পানিকে নির্মাণের দায় দেয়; সম্পন্ন হলে ইস্ট ইন্ডিয়া রেলওয়ে কোম্পানি মোট আয়ের ৫০ শতাংশের বিনিময়ে লাইনটি পরিচালনা করবে। কোনো ভর্তুকি বা গ্যারান্টি দেওয়া হয়নি এবং ২৫ বছর পর সরকার ক্রয়ের অধিকার রাখে।",
+      "notes": "This is a distinct institutional railway-finance/concession layer, not a borrowing record. The parliamentary statement expressly says there was no subsidy or guarantee of any kind. The record does not establish the private company's capitalization, construction cost, shareholder structure, or whether the 25-year purchase option was ultimately exercised.",
+      "primary_passage": "With regard to the Delhi-Umballa-Kalka Railway, the Government have agreed to provide the land, and have arranged that, on the completion of the line, which will be constructed by a private company, the East India Railway Company shall work it for 50 per cent of the gross receipts. There is no other expense and no other subsidy or guarantee of any kind given to the new company. ... In 25 years the Government will have the right to buy at 25 years' purchase of the average receipts of the last five years.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, cols. 678–679, East India Revenue Accounts.",
+      "passage_status": "Passage locked — contemporary ministerial statement on concession terms.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-06",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in Committee on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, cols. 678–679.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes land provision by Government, private construction, East India Railway Company operation for 50% of gross receipts, absence of subsidy or guarantee, and a 25-year Government purchase option based on average receipts.",
+      "evidence_limits": "It does not establish construction cost, private capitalization, ownership structure, final traffic receipts, or exercise of the purchase option.",
+      "related_banking_power_records": [
+        "nizams-state-railway-london-money-market-1887",
+        "bengal-nagpur-railway-loan-1887",
+        "oude-rohilkund-railway-purchase-financing-1888"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, cols. 678–679, East India Revenue Accounts."
+      ],
+      "publication_status": "A-grade — direct contemporary ministerial statement; concession terms and absence of guarantee explicitly stated.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "global_power_network",
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "global_power_network",
+          "sovereign_debt"
         ]
       }
     },
@@ -8650,7 +8704,7 @@
       }
     }
   },
-  "next_priority": "Continue chronologically through 1889, prioritizing distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed 1889 rupee-debt conversion outcome.",
+  "next_priority": "Continue chronologically through 1889, prioritizing distinct sovereign-debt, monetary, institutional, or banking-network primary evidence and avoiding duplication of the deployed rupee-debt conversion and Delhi-Umballa-Kalka concession records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -9654,6 +9708,44 @@
       },
       "global_power_network": {
         "records": 105
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v61": {
+    "status": "Completed after 1889 Delhi-Umballa-Kalka Railway concession deployment",
+    "records_audited": 131,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 126,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v37": {
+    "status": "Reconciled after 1889 Delhi-Umballa-Kalka concession deployment",
+    "records_mapped": 131,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 61
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 67
+      },
+      "global_power_network": {
+        "records": 106
       }
     }
   }
