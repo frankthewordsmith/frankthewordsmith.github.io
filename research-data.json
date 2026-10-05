@@ -9810,6 +9810,75 @@
         "checked": "2026-10-05",
         "verification_note": "Primary 30-page BIS PDF directly inspected. Printed p.1 confirms the agreed framework and endorsement; printed pp.14–15 lock the 8% target standard and end-1992 implementation. No page number is inferred."
       }
+    },
+    {
+      "source_id": "bis-relationship-bank-supervisors-external-auditors-1989",
+      "title": "The relationship between bank supervisors and external auditors",
+      "source_type": "Joint supervisory and auditing statement",
+      "date_start": "1989-07-27",
+      "date_end": "1989-07-27",
+      "date_label": "27 July 1989",
+      "civilization": "Modern international financial institutions",
+      "region": "International",
+      "language": "English",
+      "original_term": "The Relationship Between Bank Supervisors and External Auditors",
+      "original_text": "",
+      "translation": "",
+      "translator": "Site research translation",
+      "edition": "International Statement on Auditing — July 1989",
+      "publisher": "International Federation of Accountants, in association with the Basel Supervisors' Committee",
+      "publication_year": "1989",
+      "reference_number": "International Statement on Auditing; July 1989",
+      "page": "1; 3–4; 7–8",
+      "chapter": "",
+      "section": "Introduction; The Role of the Banking Supervisor",
+      "source_url": "https://www.bis.org/publications/198907-practices-relationship-between-bank-supervisors-and-external-auditors-statement-issued-international-auditing-practices-committee",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary institutional statement",
+      "historical_claim": "On 27 July 1989, the International Auditing Practices Committee issued a joint statement prepared in association with the Basel Supervisors' Committee on the relationship between bank supervisors and external auditors. The statement sought clearer mutual understanding and communication between the two functions, described their complementary roles, and connected prudential supervision with capital adequacy, risk measurement, internal controls and audit information.",
+      "context": "The statement was approved for publication by both committees at meetings in March 1989 and released jointly in July 1989. It followed the December 1987 exposure draft and converted that earlier consultative work into an issued international statement.",
+      "interpretation": "1989 marks a formalisation of the interface between prudential supervisors and external auditors. The document did not create a supranational audit law; rather, it provided an international institutional framework for cooperation, clarification of roles and more effective use of audit work within banking supervision.",
+      "counter_interpretations": [
+        "This was guidance rather than a binding supranational regulation; the statement expressly recognised differences among national institutional frameworks and said it was not intended to be prescriptive.",
+        "The July 1989 release date should not be confused with the March 1989 approval meetings.",
+        "The statement concerns the relationship between supervisory and auditing functions and should not be treated as a new capital standard; its discussion of the 8% capital standard reflects the already-agreed Basel framework."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "bis-proposals-international-convergence-capital-measurement-standards-1987",
+        "bis-international-convergence-capital-measurement-standards-1988",
+        "bis-management-banks-off-balance-sheet-exposures-1986"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified directly against the official 21-page BIS-hosted PDF. Printed p.1 states the purpose of the statement and its July 1989 release; printed pp.3–4 describe the complementary roles and coordination of supervisors and auditors; printed pp.7–8 state the supervisory role, capital adequacy framework and 8% minimum standard for major international banks.",
+      "web_sources": [
+        "https://www.bis.org/publications/198907-practices-relationship-between-bank-supervisors-and-external-auditors-statement-issued-international-auditing-practices-committee"
+      ],
+      "bn_title": "ব্যাংক তদারকি কর্তৃপক্ষ ও বহিরাগত নিরীক্ষকদের সম্পর্ক",
+      "bn_historical_claim": "২৭ জুলাই ১৯৮৯-এ International Auditing Practices Committee Basel Supervisors' Committee-এর সহযোগিতায় ব্যাংক তদারকি কর্তৃপক্ষ ও বহিরাগত নিরীক্ষকদের সম্পর্ক নিয়ে একটি যৌথ statement প্রকাশ করে। এতে উভয় পক্ষের ভূমিকার পারস্পরিক বোঝাপড়া, যোগাযোগ, coordination এবং supervisory process-এ audit work-এর কার্যকর ব্যবহারকে গুরুত্ব দেওয়া হয়।",
+      "bn_context": "এটি ১৯৮৭ সালের exposure draft-এর পরবর্তী issued framework। দুই কমিটি মার্চ ১৯৮৯-এ publication অনুমোদন করে এবং July 1989-এ যৌথভাবে প্রকাশ করে।",
+      "bn_interpretation": "১৯৮৯ সালে prudential supervision ও external audit-এর interface আরও formalised হয়। এটি কোনো supranational audit law নয়; বরং international institutional guidance, role clarification এবং cooperation-এর framework।",
+      "bn_notes": "অফিসিয়াল ২১-পৃষ্ঠার BIS-hosted PDF সরাসরি যাচাই করা হয়েছে। মুদ্রিত পৃষ্ঠা ১, ৩–৪ এবং ৭–৮-এ মূল propositions lock করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "evidence_grade": "A",
+      "evidence_grade_basis": "Contemporary joint institutional statement with exact publication date, directly inspected 21-page primary PDF, and printed-page locks for its purpose, supervisory/auditor relationship and supervisory capital framework.",
+      "publication_status": "A-grade — primary institutional evidence",
+      "passage_record": {
+        "status": "Passage locked — contemporary joint institutional statement",
+        "locator": "27 July 1989, official BIS publication; Introduction, printed p.1; sections 1.2–1.5, printed pp.3–4; section 3.4, printed pp.7–8",
+        "evidence": "The statement says greater mutual understanding and communication would improve the effectiveness of bank audit and supervision, and it proposes more effective coordination between supervisors and auditors. It also records that major international banks were subject to an agreed 8% minimum capital standard.",
+        "significance": "Direct 1989 evidence of formal international coordination between banking supervision and external auditing, following the 1987 exposure draft.",
+        "source_url": "https://www.bis.org/publications/198907-practices-relationship-between-bank-supervisors-and-external-auditors-statement-issued-international-auditing-practices-committee",
+        "checked": "2026-10-05",
+        "verification_note": "Primary 21-page PDF directly inspected. Page references use the document's printed page numbers, not the PDF viewer page index."
+      }
     }
   ],
   "audit_5_4": {
