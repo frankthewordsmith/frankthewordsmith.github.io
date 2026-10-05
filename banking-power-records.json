@@ -2003,6 +2003,38 @@
       ]
     },
     {
+      "source_id": "basel-stress-testing-principles-2018",
+      "title": "Basel Stress Testing Principles",
+      "date_label": "2018",
+      "historical_claim": "On 17 October 2018, the Basel Committee issued final Stress Testing Principles, replacing its 2009 principles and updating the supervisory framework to reflect the growing role of stress testing as a critical risk-management and supervisory tool.",
+      "bn_title": "বাসেল স্ট্রেস টেস্টিং নীতিমালা, ২০১৮",
+      "bn_historical_claim": "১৭ অক্টোবর ২০১৮ সালে Basel Committee চূড়ান্ত Stress Testing Principles প্রকাশ করে। এটি ২০০৯ সালের নীতিমালাকে প্রতিস্থাপন করে এবং stress testing-এর ক্রমবর্ধমান ঝুঁকি ব্যবস্থাপনা ও তদারকি ভূমিকার প্রতিফলন ঘটায়।",
+      "source_url": "https://www.bis.org/publications/201810-standards-stress-testing-principles",
+      "verification_status": "Primary-source official BIS/BCBS final principles verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel Committee on Banking Supervision today issued the final version of its Stress testing principles. This document replaces the Committee's 2009 Principles for sound stress testing practices and supervision, which addressed key weaknesses in stress testing practices as highlighted by the global financial crisis.",
+      "passage_locator": "Basel Committee on Banking Supervision, Stress testing principles, 17 October 2018, opening publication statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final principles",
+      "passage_source_url": "https://www.bis.org/publ/bcbs255.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Stress testing principles, 17 October 2018; official BIS publication.",
+      "edition": "October 2018 final Stress Testing Principles.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2018,
+      "what_passage_establishes": "The passage establishes issuance of the final 2018 stress-testing principles, their replacement of the 2009 framework, and their direct continuity with crisis-exposed weaknesses.",
+      "evidence_limits": "The passage establishes the revised principles and rationale, not their subsequent implementation or effectiveness.",
+      "related_banking_power_records": [
+        "basel-stress-testing-principles-2009",
+        "basel-iii-finalising-post-crisis-reforms-2017",
+        "basel-core-principles-revised-2012"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Stress testing principles (October 2018)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2108,7 +2140,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 63 records, A=52, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 64 records, A=53, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
