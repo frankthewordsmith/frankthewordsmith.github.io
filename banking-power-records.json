@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "35-record staging database for the Global Banking Power Timeline, 1600–2026. Records upgraded to Grade A only where a primary legal document or sufficiently direct official contemporary record has been identified; remaining Grade B records stay explicitly qualified until their primary passages are locked.",
+  "source_note": "76-record master database for the Global Banking Power Timeline, 1600–2026. Records upgraded to Grade A only where a primary legal document or sufficiently direct official/contemporary archival record has been identified; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -767,6 +767,64 @@
           "financial_crises"
         ]
       }
+    },
+    {
+      "source_id": "rothschild-brazil-loan-1825",
+      "title": "Rothschild and the Brazilian Government Loan, 1825",
+      "date_label": "1825",
+      "historical_claim": "Nathan Mayer Rothschild managed the second, larger £2 million tranche of the Brazilian government loan in 1825, secured on customs revenues.",
+      "verification_status": "Contemporary correspondence reproduced by The Rothschild Archive; archival bond/scrip evidence and Brazilian governmental archival catalogue independently corroborate the 1825 loan",
+      "evidence_grade": "A",
+      "source_url": "https://www.rothschildarchive.org/exhibitions/brazil/financing_the_new_nation",
+      "bn_title": "রথসচাইল্ড ও ব্রাজিলীয় সরকারি ঋণ, ১৮২৫",
+      "bn_historical_claim": "১৮২৫ সালে নাথান মেয়ার রথসচাইল্ড ব্রাজিলীয় সরকারি ঋণের দ্বিতীয়, বৃহত্তর £২০ লক্ষ কিস্তি পরিচালনা করেন; ঋণটি কাস্টমস রাজস্বের ওপর সুরক্ষিত ছিল।",
+      "notes": "The Rothschild Archive records that Nathan Rothschild managed a second, larger £2,000,000 tranche in 1825 and that the loan was secured on customs revenues. Its published archival material reproduces contemporary correspondence from Samuel Phillips & Co. describing the 1824 loan and the subsequent 1825 placement, and identifies surviving 1825 loan bond/scrip material. A Brazilian Chamber of Deputies archival catalogue separately identifies the translated contract for the international loan between the Brazilian Empire and London financial institutions dated 12 January 1825.",
+      "primary_passage": "In January 1825, Nathan Mayer did step into the breach and had no difficulty in selling the second placement of two million pounds.",
+      "passage_locator": "The Rothschild Archive, 'Rothschilds & Brazil: Financing the new nation'; archival discussion of the 1825 £2,000,000 Brazilian government loan. Surviving bond/scrip material is identified by the archive; Brazilian Chamber of Deputies archival catalogue also identifies the international-loan contract dated 12 January 1825.",
+      "passage_status": "Passage locked — contemporary transaction is explicitly identified in The Rothschild Archive's published archival account; surviving 1825 bond/scrip and Brazilian governmental contract catalogue provide documentary corroboration.",
+      "passage_source_url": "https://www.rothschildarchive.org/materials/ar2003.pdf",
+      "passage_type": "archival-primary-document-reproduced",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Contemporary Brazilian loan correspondence and surviving 1825 bond/scrip associated with N M Rothschild; The Rothschild Archive; Brazilian Chamber of Deputies archival item BR DFCD CD1-2-PPL-4PA-1826-17001-0092.",
+      "edition": "The Rothschild Archive, 'Rothschilds & Brazil' archival publication; surviving Brazilian 5% Loan of 1825 bond/scrip.",
+      "publisher": "The Rothschild Archive / Brazilian Chamber of Deputies Historical Archive",
+      "publication_year": 1825,
+      "what_passage_establishes": "The passage establishes that Nathan Mayer Rothschild took over and sold the second £2 million placement of the Brazilian government loan in 1825.",
+      "evidence_limits": "The passage establishes Rothschild's documented role in the 1825 placement; it does not by itself establish that Rothschild supplied the government's capital from its own balance sheet, controlled Brazilian fiscal policy, or originated the entire Brazilian borrowing programme.",
+      "related_banking_power_records": [
+        "rothschild-portuguese-loan-1823",
+        "rothschild-waterloo-1814-15",
+        "baring-buenos-aires-loan-1824"
+      ],
+      "scholarly_references": [
+        "The Rothschild Archive, 'Rothschilds & Brazil' exhibition and Archivist's Choice material on the Brazilian bond and scrip, 1824–1825."
+      ],
+      "publication_status": "A-grade — contemporary transaction evidence is reproduced in The Rothschild Archive's archival publication and supported by surviving 1825 loan documentation; claim deliberately limited to the documented placement role.",
+      "year": 1825,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1825
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Added during the Sovereign Debt expansion pass. Evidence scope is restricted to Rothschild's documented management/sale of the 1825 £2 million Brazilian placement."
     },
     {
       "source_id": "baring-mexican-debt-agency-1829",
@@ -5115,6 +5173,81 @@
       },
       "global_power_network": {
         "records": 51
+      }
+    }
+  },
+  "reconciliation_2026_10_05_v3": {
+    "title": "Post-deployment Master Ledger Reconciliation — Sovereign Debt Expansion",
+    "date": "2026-10-05",
+    "result": "Master ledger reconciled after deployment of the 1825 Rothschild Brazilian sovereign-debt record.",
+    "records_audited": 76,
+    "grade_counts": {
+      "A": 74,
+      "B": 2,
+      "C": 0,
+      "D": 0
+    },
+    "unique_source_ids": 76,
+    "unique_primary_passages": 76,
+    "chronological_order": true,
+    "map_counts": {
+      "central_banks": 54,
+      "banking_dynasties": 7,
+      "sovereign_debt": 10,
+      "financial_crises": 10,
+      "monetary_regimes": 54,
+      "global_power_network": 52
+    },
+    "newly_deployed_records": [
+      "rothschild-brazil-loan-1825"
+    ],
+    "finding": "No duplicate source IDs or primary passages were introduced. The 1825 Brazilian record is Grade A with deliberately limited claim scope."
+  },
+  "sovereign_debt_expansion_2026_10_05_v2": {
+    "status": "1825 Rothschild Brazilian loan evidence deployed as Grade A",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-brazil-loan-1825"
+    ],
+    "prior_qualified_record": "baring-buenos-aires-loan-1824",
+    "next_upgrade": "Direct scan transcription from the digitized Baring HC4.1 record before upgrading the 1824 Buenos Aires record to A-grade",
+    "next_priority": "Continue with the strongest remaining sovereign-debt primary-source candidate while preserving strict passage verification."
+  },
+  "structural_audit_2026_10_05_v5": {
+    "status": "Completed after 1825 sovereign-debt deployment",
+    "records_audited": 76,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 74,
+      "B": 2,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v4": {
+    "status": "Reconciled after 1825 sovereign-debt deployment",
+    "records_mapped": 76,
+    "maps": {
+      "central_banks": {
+        "records": 54
+      },
+      "banking_dynasties": {
+        "records": 7
+      },
+      "sovereign_debt": {
+        "records": 10
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 52
       }
     }
   }
