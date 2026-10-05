@@ -1427,6 +1427,39 @@
       ]
     },
     {
+      "source_id": "basel-liquidity-sound-practices-2000",
+      "title": "Basel Sound Practices for Managing Liquidity in Banking Organisations",
+      "date_label": "2000",
+      "historical_claim": "On 1 February 2000, the Basel Committee issued Sound Practices for Managing Liquidity in Banking Organisations, updating its 1992 liquidity framework and setting out supervisory sound practices for liquidity risk management.",
+      "bn_title": "ব্যাংকিং প্রতিষ্ঠানে তারল্য ব্যবস্থাপনার জন্য বাসেল সাউন্ড প্র্যাকটিসেস, ২০০০",
+      "bn_historical_claim": "১ ফেব্রুয়ারি ২০০০ সালে Basel Committee ব্যাংকিং প্রতিষ্ঠানে তারল্য ব্যবস্থাপনার জন্য Sound Practices প্রকাশ করে, যা ১৯৯২ সালের liquidity framework হালনাগাদ করে এবং তারল্য ঝুঁকি ব্যবস্থাপনার জন্য তদারকি-ভিত্তিক সাউন্ড প্র্যাকটিস নির্ধারণ করে।",
+      "source_url": "https://www.bis.org/publications/200002-guidelines-sound-practices-managing-liquidity-banking-organisations",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Committee believes that liquidity - the ability to fund increases in assets and meet obligations as they come due - is crucial to the ongoing viability of any banking organisation.",
+      "passage_locator": "Basel Committee on Banking Supervision, Sound Practices for Managing Liquidity in Banking Organisations, 1 February 2000, opening discussion.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee sound-practices paper",
+      "passage_source_url": "https://www.bis.org/publ/bcbs69.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Sound Practices for Managing Liquidity in Banking Organisations, 1 February 2000; official BIS-hosted committee publication.",
+      "edition": "Sound Practices for Managing Liquidity in Banking Organisations, February 2000.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2000,
+      "what_passage_establishes": "The passage establishes the Committee's 2000 sound-practices guidance and the central prudential importance it assigned to liquidity management; the publication explicitly replaces the 1992 liquidity framework.",
+      "evidence_limits": "The passage establishes issuance and supervisory guidance, not actual implementation or liquidity outcomes at individual banks.",
+      "related_banking_power_records": [
+        "basel-new-capital-adequacy-framework-1999",
+        "basel-internal-controls-framework-1998",
+        "global-financial-crisis-2008"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Sound Practices for Managing Liquidity in Banking Organisations (February 2000).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1532,7 +1565,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 45 records, A=34, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 46 records, A=35, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
