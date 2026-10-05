@@ -1622,6 +1622,38 @@
       ]
     },
     {
+      "source_id": "basel-ii-comprehensive-framework-2006",
+      "title": "Basel II Comprehensive Framework",
+      "date_label": "2006",
+      "historical_claim": "In June 2006, the Basel Committee published a comprehensive version of the Basel II Framework, bringing together the June 2004 revised framework, relevant elements of the 1988 Accord, the 1996 market-risk amendment and the July 2005 trading-activities and double-default treatment.",
+      "bn_title": "Basel II সমন্বিত পূর্ণাঙ্গ কাঠামো, ২০০৬",
+      "bn_historical_claim": "জুন ২০০৬ সালে Basel Committee Basel II-এর একটি পূর্ণাঙ্গ সংস্করণ প্রকাশ করে। এতে ২০০৪ সালের Basel II Framework, ১৯৮৮ সালের Accord-এর অপরিবর্তিত উপাদান, ১৯৯৬ সালের market-risk amendment এবং ২০০৫ সালের trading activities ও double-default treatment একত্রিত করা হয়।",
+      "source_url": "https://www.bis.org/publications/200606-standards-international-convergence-capital-measurement-capital-standards-revised-framework-comprehensive-version",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel Committee on Banking Supervision has today published a comprehensive version of the Basel II Framework. This document brings together the June 2004 Basel II Framework, the elements of the 1988 Accord that were not revised during the Basel II process, the 1996 Amendment to the Capital Accord to incorporate market risks, and the July 2005 paper on The application of Basel II to trading activities and the treatment of double default effects.",
+      "passage_locator": "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework — Comprehensive Version, June 2006, opening statement.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee comprehensive framework",
+      "passage_source_url": "https://www.bis.org/publ/bcbs128.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework — Comprehensive Version, June 2006; official BIS-hosted publication.",
+      "edition": "Basel II Comprehensive Version, June 2006.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2006,
+      "what_passage_establishes": "The passage directly establishes publication of the comprehensive Basel II framework and identifies the prior capital standards and amendments consolidated into it.",
+      "evidence_limits": "The passage establishes publication and consolidation, not the degree of implementation by individual national authorities or banks.",
+      "related_banking_power_records": [
+        "basel-ii-revised-framework-2004",
+        "basel-trading-double-default-2005",
+        "basel-market-risk-amendment-1996"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, International Convergence of Capital Measurement and Capital Standards: A Revised Framework — Comprehensive Version (June 2006)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1727,7 +1759,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 51 records, A=40, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 52 records, A=41, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
