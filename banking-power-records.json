@@ -48,7 +48,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -99,7 +103,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -149,7 +157,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -201,7 +213,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -252,7 +268,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -301,7 +321,10 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
       }
     },
     {
@@ -351,7 +374,12 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "sovereign_debt",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -401,7 +429,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -451,7 +483,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -501,7 +537,12 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -550,7 +591,12 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -599,7 +645,11 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "financial_crises"
+        ]
       }
     },
     {
@@ -650,7 +700,10 @@
           "general_chronology"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -699,7 +752,11 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -750,7 +807,10 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
       }
     },
     {
@@ -801,7 +861,10 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
       }
     },
     {
@@ -850,7 +913,10 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks"
+        ]
       }
     },
     {
@@ -901,7 +967,12 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "financial_crises",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -953,7 +1024,10 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
       }
     },
     {
@@ -1007,7 +1081,10 @@
           "general_chronology"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1058,7 +1135,10 @@
           "institutional_origins"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks"
+        ]
       }
     },
     {
@@ -1108,7 +1188,11 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1157,7 +1241,10 @@
           "international_monetary_order"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -1207,7 +1294,10 @@
           "general_chronology"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
       }
     },
     {
@@ -1257,7 +1347,11 @@
           "international_monetary_order"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1307,7 +1401,12 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1357,7 +1456,11 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -1406,7 +1509,10 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks"
+        ]
       }
     },
     {
@@ -1457,7 +1563,11 @@
           "war_and_state_finance"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -1506,7 +1616,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1556,7 +1671,12 @@
           "international_monetary_order"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1607,7 +1727,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1656,7 +1781,12 @@
           "international_monetary_order"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1705,7 +1835,11 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1755,7 +1889,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1804,7 +1943,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1853,7 +1997,10 @@
           "general_chronology"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1903,7 +2050,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -1953,7 +2105,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2003,7 +2160,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2052,7 +2214,10 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises"
+        ]
       }
     },
     {
@@ -2101,7 +2266,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2150,7 +2320,12 @@
           "international_monetary_order"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2199,7 +2374,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2248,7 +2428,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2297,7 +2482,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2345,7 +2535,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2393,7 +2588,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2442,7 +2642,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2490,7 +2695,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2538,7 +2748,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2586,7 +2801,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2634,7 +2854,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2685,7 +2910,12 @@
           "banking_crises_and_liquidity"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "financial_crises",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2732,7 +2962,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2779,7 +3014,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2826,7 +3066,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2874,7 +3119,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2922,7 +3172,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -2970,7 +3225,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3018,7 +3278,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3066,7 +3331,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3115,7 +3385,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3163,7 +3438,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3211,7 +3491,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3259,7 +3544,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3307,7 +3597,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3355,7 +3650,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3403,7 +3703,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3451,7 +3756,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     },
     {
@@ -3499,7 +3809,11 @@
           "general_chronology"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes"
+        ]
       }
     },
     {
@@ -3547,7 +3861,12 @@
           "prudential_regulatory_architecture"
         ],
         "chapter_number": null,
-        "chapter_title": null
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "monetary_regimes",
+          "global_power_network"
+        ]
       }
     }
   ],
@@ -3635,5 +3954,36 @@
     "authoritative_chapter_structure": "Not yet present in repository/context; no chapter numbers or titles invented",
     "site_restructure": "Deferred until chapter-wise research is finalized",
     "cluster_purpose": "Research clustering only; these are not chapter assignments."
+  },
+  "book_1_research_maps_2026_10_05": {
+    "status": "Evidence-layer mapping completed",
+    "records_mapped": 72,
+    "maps": [
+      {
+        "map": "central_banks",
+        "records": 54
+      },
+      {
+        "map": "banking_dynasties",
+        "records": 3
+      },
+      {
+        "map": "sovereign_debt",
+        "records": 6
+      },
+      {
+        "map": "financial_crises",
+        "records": 10
+      },
+      {
+        "map": "monetary_regimes",
+        "records": 54
+      },
+      {
+        "map": "global_power_network",
+        "records": 48
+      }
+    ],
+    "note": "Research-map tags are analytical cross-references, not final chapter assignments. Chapter numbers and titles remain pending the user's manuscript chapter sequence."
   }
 }
