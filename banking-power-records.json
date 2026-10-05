@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "76-record master database for the Global Banking Power Timeline, 1600–2026. Records upgraded to Grade A only where a primary legal document or sufficiently direct official/contemporary archival record has been identified; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "77-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -989,6 +989,64 @@
           "monetary_regimes"
         ]
       }
+    },
+    {
+      "source_id": "rothschild-british-government-loan-1856",
+      "title": "Lionel de Rothschild and the British Government Loan, 1856",
+      "date_label": "1856",
+      "historical_claim": "Baron Lionel de Rothschild contracted with the British Government for a government loan in May 1856.",
+      "verification_status": "Contemporary House of Commons record verified in Hansard, 19 May 1856",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1856-05-19/debates/798749d6-d56d-4482-8f25-f3e876d127c3/TheBudget%E2%80%94FinancialStatement",
+      "bn_title": "লায়নেল দে রথসচাইল্ড ও ব্রিটিশ সরকারি ঋণ, ১৮৫৬",
+      "bn_historical_claim": "১৮৫৬ সালের মে মাসে ব্যারন লায়নেল দে রথসচাইল্ড ব্রিটিশ সরকারের ঋণের ঠিকাদার হন।",
+      "notes": "The Chancellor of the Exchequer stated in the House of Commons on 19 May 1856 that the Government's five-million-pound loan had been accepted by Baron Lionel de Rothschild and that a provisional agreement had been signed.",
+      "primary_passage": "The terms fixed by the Government were accepted by the contractor, Baron Lionel de Rothschild, and the provisional agreement was signed by both parties this morning.",
+      "passage_locator": "House of Commons, 19 May 1856, Hansard, The Budget—Financial Statement; statement by the Chancellor of the Exchequer concerning the government loan.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified in Hansard.",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1856-05-19/debates/798749d6-d56d-4482-8f25-f3e876d127c3/TheBudget%E2%80%94FinancialStatement",
+      "passage_type": "official-parliamentary-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons debate, 19 May 1856; Chancellor of the Exchequer's statement concerning the government loan and Baron Lionel de Rothschild.",
+      "edition": "Hansard, House of Commons, 19 May 1856.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1856,
+      "what_passage_establishes": "The passage establishes that Baron Lionel de Rothschild accepted the Government's terms for the loan and that a provisional agreement was signed.",
+      "evidence_limits": "The passage establishes Rothschild's role as contractor for this specific government loan. It does not establish exclusive control of British public borrowing.",
+      "related_banking_power_records": [
+        "rothschild-brazil-loan-1825",
+        "rothschild-prussian-loan-1818",
+        "baring-crisis-1890"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 19 May 1856, The Budget—Financial Statement."
+      ],
+      "publication_status": "A-grade — exact contemporary parliamentary record and transaction wording locked.",
+      "year": 1856,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1856
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "banking_dynasties",
+          "global_power_network"
+        ]
+      },
+      "deployment_note": "Added during the Sovereign Debt expansion pass as a high-confidence official parliamentary primary record."
     },
     {
       "source_id": "overend-gurney-crisis-1866",
@@ -5248,6 +5306,81 @@
       },
       "global_power_network": {
         "records": 52
+      }
+    }
+  },
+  "reconciliation_2026_10_05_v4": {
+    "title": "Post-deployment Master Ledger Reconciliation — Sovereign Debt Expansion",
+    "date": "2026-10-05",
+    "records_audited": 77,
+    "grade_counts": {
+      "A": 75,
+      "B": 2,
+      "C": 0,
+      "D": 0
+    },
+    "unique_source_ids": 77,
+    "unique_primary_passages": 77,
+    "chronological_order": true,
+    "map_counts": {
+      "central_banks": 54,
+      "banking_dynasties": 8,
+      "sovereign_debt": 11,
+      "financial_crises": 10,
+      "monetary_regimes": 54,
+      "global_power_network": 53
+    },
+    "newly_deployed_records": [
+      "rothschild-british-government-loan-1856"
+    ],
+    "finding": "No duplicate source IDs or primary passages were introduced."
+  },
+  "sovereign_debt_expansion_2026_10_05_v3": {
+    "status": "1856 British government loan evidence deployed as Grade A",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-british-government-loan-1856"
+    ],
+    "qualified_records_pending_direct_scan": [
+      "baring-buenos-aires-loan-1824"
+    ],
+    "next_priority": "Continue with the strongest remaining sovereign-debt primary-source candidate while preserving the 1824 Baring scan-upgrade queue."
+  },
+  "structural_audit_2026_10_05_v6": {
+    "status": "Completed after 1856 sovereign-debt deployment",
+    "records_audited": 77,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 75,
+      "B": 2,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_05_v5": {
+    "status": "Reconciled after 1856 sovereign-debt deployment",
+    "records_mapped": 77,
+    "maps": {
+      "central_banks": {
+        "records": 54
+      },
+      "banking_dynasties": {
+        "records": 8
+      },
+      "sovereign_debt": {
+        "records": 11
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 53
       }
     }
   }
