@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "144-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "145-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4690,6 +4690,37 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Government-owned railway management and profit-sharing layer"
     },
     {
+      "source_id": "india-salt-tax-revenue-1889-90",
+      "title": "India Salt Tax Revenue, 1889–90: Gross Receipts of Rx.8.19 Million",
+      "date_label": "21 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Government of India reported gross Salt Tax receipts of 8,192,500 tens of rupees for the 1889–90 financial year.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/21/the-salt-tax-in-india",
+      "primary_passage": "The gross receipts from the Salt Tax for 1889–90 were 8,192,500 tens of rupees.",
+      "passage_locator": "Hansard, House of Commons, 21 July 1890, vol. 347, col. 332, The Salt Tax in India.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer reporting Indian Exchequer receipts from the Salt Tax.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "Gross Salt Tax receipts reported for 1889–90: 8,192,500 tens of rupees.",
+      "evidence_limits": "Gross receipts only; it does not establish net revenue, collection costs, regional distribution, commodity volumes, or policy effects.",
+      "notes": "Distinct fiscal-revenue layer from the exchange-rate records.",
+      "bn_title": "ভারতের লবণ কর রাজস্ব, ১৮৮৯–৯০: মোট আদায় Rx.৮.১৯ মিলিয়ন",
+      "bn_historical_claim": "ভারত সরকার জানায়, ১৮৮৯–৯০ অর্থবছরে লবণ কর থেকে মোট ৮,১৯২,৫০০ দশ-রুপি আদায় হয়েছিল।",
+      "related_banking_power_records": [
+        "india-provincial-finance-decentralisation-1889",
+        "india-revenue-deficit-capital-outlay-1888-89",
+        "india-rate-of-exchange-budget-surplus-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / fiscal revenue / taxation",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fiscal-revenue layer"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9268,7 +9299,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of the deployed railway purchase, exchange-rate, Council-bill, and Tirhoot management layers.",
+  "next_priority": "Continue through 1890, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplication of deployed railway, exchange-rate, Council-bill, Tirhoot, and salt-tax layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10696,6 +10727,20 @@
     "missing_year_fields": 0,
     "grade_counts": {
       "A": 139,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_06_v76": {
+    "status": "Completed after 1890 Salt Tax revenue deployment",
+    "records_audited": 145,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 140,
       "B": 5,
       "C": 0,
       "D": 0
