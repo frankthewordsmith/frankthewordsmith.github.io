@@ -1780,6 +1780,37 @@
       ]
     },
     {
+      "source_id": "basel-gsib-framework-2011",
+      "title": "Basel framework for global systemically important banks",
+      "date_label": "2011",
+      "historical_claim": "On 4 November 2011, the Basel Committee issued final rules for global systemically important banks (G-SIBs), establishing an indicator-based methodology to identify G-SIBs and additional loss-absorbency requirements of 1% to 2.5% of Common Equity Tier 1 capital, with an additional 3.5% empty bucket.",
+      "bn_title": "বৈশ্বিকভাবে সিস্টেমগতভাবে গুরুত্বপূর্ণ ব্যাংকের (G-SIB) জন্য বাসেল কাঠামো, ২০১১",
+      "bn_historical_claim": "৪ নভেম্বর ২০১১ সালে Basel Committee বৈশ্বিকভাবে সিস্টেমগতভাবে গুরুত্বপূর্ণ ব্যাংক (G-SIB) চিহ্নিতকরণ এবং তাদের জন্য অতিরিক্ত loss-absorbency requirement নির্ধারণের চূড়ান্ত নিয়ম প্রকাশ করে।",
+      "source_url": "https://www.bis.org/publications/201111-standards-global-systemically-important-banks-assessment-methodology-and-additional-loss-absorbency-requirement",
+      "verification_status": "Primary-source official BIS/BCBS final rules verified",
+      "evidence_grade": "A",
+      "primary_passage": "The measures will enhance the going-concern loss absorbency of G-SIBs and reduce the probability of their failure.",
+      "passage_locator": "Basel Committee on Banking Supervision, Global systemically important banks: Assessment methodology and the additional loss absorbency requirement, 4 November 2011, Executive summary.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final rules",
+      "passage_source_url": "https://www.bis.org/publ/bcbs207.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Global systemically important banks: Assessment methodology and the additional loss absorbency requirement, 4 November 2011; official BIS publication.",
+      "edition": "November 2011 final G-SIB framework.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2011,
+      "what_passage_establishes": "The passage establishes the purpose of the final G-SIB framework: increasing going-concern loss absorbency and reducing the probability of failure of globally systemically important banks.",
+      "evidence_limits": "The passage establishes the framework and its stated purpose, not its later implementation or measured effect on particular banks.",
+      "related_banking_power_records": [
+        "basel-iii-global-regulatory-framework-2010",
+        "basel-ii-comprehensive-framework-2006"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Global systemically important banks: Assessment methodology and the additional loss absorbency requirement (November 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1885,7 +1916,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 56 records, A=45, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 57 records, A=46, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
