@@ -1361,6 +1361,39 @@
       ]
     },
     {
+      "source_id": "basel-internal-controls-framework-1998",
+      "title": "Basel Framework for Internal Control Systems in Banking Organisations",
+      "date_label": "1998",
+      "historical_claim": "On 22 September 1998, the Basel Committee issued a framework for internal control systems in banking organisations, setting out thirteen principles covering essential elements of sound internal control and recommending supervisory use.",
+      "bn_title": "ব্যাংকিং প্রতিষ্ঠানে অভ্যন্তরীণ নিয়ন্ত্রণ ব্যবস্থার বাসেল ফ্রেমওয়ার্ক, ১৯৯৮",
+      "bn_historical_claim": "২২ সেপ্টেম্বর ১৯৯৮ সালে Basel Committee ব্যাংকিং প্রতিষ্ঠানে অভ্যন্তরীণ নিয়ন্ত্রণ ব্যবস্থার জন্য একটি ফ্রেমওয়ার্ক জারি করে। এতে কার্যকর অভ্যন্তরীণ নিয়ন্ত্রণের অপরিহার্য উপাদান নিয়ে ১৩টি নীতি নির্ধারণ করা হয় এবং তদারকি কর্তৃপক্ষকে ব্যাংকের অভ্যন্তরীণ নিয়ন্ত্রণ মূল্যায়নে এসব নীতি ব্যবহারের সুপারিশ করা হয়।",
+      "source_url": "https://www.bis.org/publications/199809-guidelines-framework-internal-control-systems-banking-organisations",
+      "verification_status": "Primary-source official BIS/BCBS publication verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basle Committee on Banking Supervision today issued a framework for internal control systems in banks. The paper sets out thirteen principles covering the essential elements of a sound internal control system.",
+      "passage_locator": "Basel Committee on Banking Supervision, Framework for Internal Control Systems in Banking Organisations, September 1998; contemporaneous BIS press release, 22 September 1998.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee framework and contemporaneous BIS release",
+      "passage_source_url": "https://www.bis.org/media-releases/19980922-basle-committee-issues-framework-internal-control-systems-banking-organisations",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Framework for Internal Control Systems in Banking Organisations, September 1998; official BIS/BIS-hosted publication.",
+      "edition": "Framework for Internal Control Systems in Banking Organisations, September 1998.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 1998,
+      "what_passage_establishes": "Issuance of the 1998 framework, its thirteen-principle structure, and its focus on sound internal control systems in banks.",
+      "evidence_limits": "The passage establishes the framework and recommendation for supervisory use, not actual adoption, implementation, or effectiveness in individual banks or jurisdictions.",
+      "related_banking_power_records": [
+        "basel-core-principles-1997",
+        "basel-market-risk-amendment-1996",
+        "basel-minimum-standards-cross-border-1992"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Framework for Internal Control Systems in Banking Organisations (September 1998).",
+        "Charles Goodhart, The Basel Committee on Banking Supervision: A History of the Early Years 1974–1997 (Cambridge University Press, 2011)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1466,7 +1499,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 43 records, A=32, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 44 records, A=33, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
