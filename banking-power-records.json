@@ -656,15 +656,15 @@
       "title": "Jekyll Island meeting, 1910",
       "date_label": "1910",
       "historical_claim": "In November 1910, six financial and political figures met at Jekyll Island to develop a plan for banking reform; the resulting plan helped lay foundations for the later Federal Reserve System.",
-      "verification_status": "Primary first-hand participant account verified — retrospective (Frank A. Vanderlip, 1935); no contemporaneous 1910 document located in this audit",
+      "verification_status": "Two independent participant retrospective accounts verified — Frank A. Vanderlip (1935) and Paul M. Warburg (1930); contemporaneous 1910 meeting document not directly located",
       "evidence_grade": "B",
       "source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
       "bn_title": "জেকিল আইল্যান্ড বৈঠক, ১৯১০",
       "bn_historical_claim": "১৯১০ সালের নভেম্বরে ছয়জন আর্থিক ও রাজনৈতিক ব্যক্তি জেকিল আইল্যান্ডে ব্যাংকিং সংস্কারের একটি পরিকল্পনা তৈরির জন্য বৈঠক করেন; সেই পরিকল্পনা পরবর্তী ফেডারেল রিজার্ভ ব্যবস্থার ভিত্তি গঠনে ভূমিকা রাখে।",
-      "notes": "Frank A. Vanderlip, a participant in the 1910 meeting, published a first-hand retrospective account in 1935 describing the secret expedition and work at Jekyll Island. Federal Reserve historical sources independently corroborate the meeting and its resulting Aldrich Plan. The record remains B because the participant account is retrospective and this audit did not locate a contemporaneous 1910 document that directly records the meeting itself.",
+      "notes": "Reaudited against Federal Reserve History's documentary review. Paul Warburg's 1930 account independently states that in November 1910 he was invited by Senator Aldrich to a several-days conference on the form of a new banking bill and that the rough draft of the later Aldrich Bill was agreed upon. This corroborates Vanderlip's participant recollection, but both are retrospective accounts; the audit did not locate a contemporaneous 1910 meeting document sufficient for Grade A.",
       "primary_passage": "our secret expedition to Jekyll Island",
       "passage_locator": "Frank A. Vanderlip, Saturday Evening Post, 9 February 1935, p. 25; first-hand retrospective account of the 1910 meeting.",
-      "passage_status": "Passage locked — participant retrospective account",
+      "passage_status": "Passage retained — participant retrospective accounts corroborated; direct contemporaneous meeting record remains open",
       "passage_source_url": "https://www.saturdayeveningpost.com/2021/08/our-best-reporting-from-farm-boy-to-financier-stories-of-railroad-moguls/",
       "passage_type": "retrospective-firsthand-account",
       "language": "English",
@@ -673,8 +673,8 @@
       "edition": "Frank A. Vanderlip, “From Farm Boy to Financier,” Saturday Evening Post, 9 February 1935; retrospective firsthand account referring to the late-1910 Jekyll Island meeting.",
       "publisher": "Saturday Evening Post; Frank A. Vanderlip",
       "publication_year": "1935",
-      "what_passage_establishes": "The quoted passage establishes that Vanderlip himself described the Jekyll Island expedition as a secret undertaking. In combination with the identified 1935 article and independent institutional histories, it supports the existence of the meeting and Vanderlip's participation, but not every detail of the 1910 event.",
-      "evidence_limits": "The principal passage is retrospective rather than contemporaneous. It therefore documents participant recollection, while the exact 1910 meeting details and its chronology require corroboration from independent records. The audit did not locate a directly accessible contemporaneous 1910 primary document sufficient for Grade A.",
+      "what_passage_establishes": "The participant accounts establish that a confidential November 1910 conference was held at Senator Aldrich's request to discuss the form of a new banking bill and that a rough draft later known as the Aldrich Bill emerged from the conference.",
+      "evidence_limits": "The strongest directly quoted sources are retrospective participant accounts from 1930 and 1935 rather than contemporaneous 1910 records. They securely corroborate the meeting and its stated purpose, but do not by themselves establish every participant, date detail, or the full causal relationship to the 1913 Federal Reserve Act.",
       "related_banking_power_records": [
         "panic-1907",
         "federal-reserve-act-1913"
@@ -683,7 +683,7 @@
         "Gary Richardson and Jessie Romero, “The Meeting at Jekyll Island,” Federal Reserve History, Federal Reserve Bank of Richmond, documenting the November 1910 meeting and the Aldrich Plan.",
         "Federal Reserve Bank of Atlanta and Rutgers University, *A Return to Jekyll Island: The Origins, History, and Future of the Federal Reserve* (2010 conference proceedings)."
       ],
-      "publication_status": "B-grade — retrospective firsthand evidence securely identified; contemporaneous 1910 primary document for the meeting itself remains open."
+      "publication_status": "B-grade — independent participant recollections corroborated; contemporaneous 1910 primary document for the meeting itself remains open."
     },
     {
       "source_id": "federal-reserve-act-1913",
