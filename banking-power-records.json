@@ -1749,6 +1749,37 @@
       ]
     },
     {
+      "source_id": "basel-iii-global-regulatory-framework-2010",
+      "title": "Basel III: A global regulatory framework for more resilient banks and banking systems",
+      "date_label": "2010",
+      "historical_claim": "On 16 December 2010, the Basel Committee published the Basel III rules text, setting out global regulatory standards on bank capital adequacy and liquidity, including higher and better-quality capital, a leverage-ratio backstop, capital buffers and two global liquidity standards.",
+      "bn_title": "Basel III: আরও স্থিতিস্থাপক ব্যাংক ও ব্যাংকিং ব্যবস্থার জন্য বৈশ্বিক নিয়ন্ত্রক কাঠামো, ২০১০",
+      "bn_historical_claim": "১৬ ডিসেম্বর ২০১০ সালে Basel Committee Basel III rules text প্রকাশ করে। এতে ব্যাংকের মূলধন ও তারল্য সংক্রান্ত বৈশ্বিক মানদণ্ড, উচ্চমানের মূলধন, leverage ratio, capital buffers এবং দুটি বৈশ্বিক liquidity standard অন্তর্ভুক্ত করা হয়।",
+      "source_url": "https://www.bis.org/publications/201012-standards-basel-iii-global-regulatory-framework-more-resilient-banks-and-banking-systems",
+      "verification_status": "Primary-source official BIS/BCBS final rules text verified",
+      "evidence_grade": "A",
+      "primary_passage": "The Basel III framework is a central element of the Basel Committee's response to the global financial crisis. It addresses a number of shortcomings in the pre-crisis regulatory framework and provides a foundation for a resilient banking system that will help avoid the build-up of systemic vulnerabilities.",
+      "passage_locator": "Basel Committee on Banking Supervision, Basel III: A global regulatory framework for more resilient banks and banking systems, December 2010, Executive summary/opening section.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee rules text",
+      "passage_source_url": "https://www.bis.org/publ/bcbs189_dec2010.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, Basel III: A global regulatory framework for more resilient banks and banking systems, December 2010; official BIS publication.",
+      "edition": "December 2010 original rules text; superseded by June 2011 revised version.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2010,
+      "what_passage_establishes": "The passage establishes Basel III as the Committee's central post-crisis regulatory response and identifies its purpose of addressing shortcomings in the pre-crisis framework and systemic vulnerabilities.",
+      "evidence_limits": "The passage establishes the regulatory framework and its purpose, not the subsequent implementation or effectiveness of Basel III in individual jurisdictions.",
+      "related_banking_power_records": [
+        "basel-stress-testing-principles-2009",
+        "basel-liquidity-principles-2008"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, Basel III: A global regulatory framework for more resilient banks and banking systems (December 2010)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -1854,7 +1885,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 55 records, A=44, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 56 records, A=45, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
