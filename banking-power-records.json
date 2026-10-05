@@ -1939,6 +1939,38 @@
       ]
     },
     {
+      "source_id": "basel-tlac-holdings-standard-2016",
+      "title": "Basel TLAC Holdings Standard",
+      "date_label": "2016",
+      "historical_claim": "On 12 October 2016, the Basel Committee issued its final standard on the regulatory capital treatment of banks' holdings of total loss-absorbing capacity (TLAC) instruments, designed to reduce contagion risk if a global systemically important bank enters resolution.",
+      "bn_title": "TLAC Holdings বিষয়ে বাসেল চূড়ান্ত মানদণ্ড, ২০১৬",
+      "bn_historical_claim": "১২ অক্টোবর ২০১৬ সালে Basel Committee ব্যাংকের TLAC instrument holdings-এর regulatory capital treatment বিষয়ে চূড়ান্ত মানদণ্ড প্রকাশ করে। এর লক্ষ্য ছিল কোনো G-SIB resolution-এ গেলে আর্থিক ব্যবস্থায় contagion risk কমানো।",
+      "source_url": "https://www.bis.org/publications/201610-standards-tlac-holdings-standard",
+      "verification_status": "Primary-source official BIS/BCBS final standard verified",
+      "evidence_grade": "A",
+      "primary_passage": "The standard aims to reduce the risk of contagion within the financial system should a G-SIB enter resolution.",
+      "passage_locator": "Basel Committee on Banking Supervision, TLAC holdings standard, 12 October 2016, opening summary.",
+      "passage_status": "Passage locked — official BIS-hosted Basel Committee final standard",
+      "passage_source_url": "https://www.bis.org/publ/bcbs295.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "Basel Committee on Banking Supervision, TLAC holdings standard, 12 October 2016; official BIS publication.",
+      "edition": "October 2016 final TLAC holdings standard.",
+      "publisher": "Basel Committee on Banking Supervision / Bank for International Settlements",
+      "publication_year": 2016,
+      "what_passage_establishes": "The passage establishes the purpose of the final TLAC holdings standard: reducing financial-system contagion risk associated with the resolution of a G-SIB.",
+      "evidence_limits": "The passage establishes the standard and its purpose, not subsequent implementation or observed effects.",
+      "related_banking_power_records": [
+        "basel-gsib-framework-2011",
+        "basel-iii-global-regulatory-framework-2010",
+        "basel-corporate-governance-principles-2015"
+      ],
+      "scholarly_references": [
+        "Basel Committee on Banking Supervision, TLAC holdings standard (October 2016)."
+      ]
+    },
+    {
       "source_id": "asian-crisis-1997",
       "title": "Asian financial crisis",
       "date_label": "1997",
@@ -2044,7 +2076,7 @@
   "reconciliation_2026_10_02": {
     "title": "Master Ledger Integrity Reconciliation",
     "date": "2026-10-02",
-    "result": "Banking Power ledger normalized to the current audited distribution: 61 records, A=50, B=11, C=0, D=0.",
+    "result": "Banking Power ledger normalized to the current audited distribution: 62 records, A=51, B=11, C=0, D=0.",
     "method": "Eleven records previously carrying A were restored to B because their later metadata changes strengthened source descriptions but did not independently establish the project's A-grade edition/page locator requirement.",
     "restored_to_B": [
       "wisselbank-1609",
