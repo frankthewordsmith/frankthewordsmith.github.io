@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "137-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "138-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4213,6 +4213,57 @@
         "research_maps": [
           "sovereign_debt",
           "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-provincial-finance-decentralisation-1889",
+      "title": "India Provincial Finance, 1889: Provinces Receive 26½ Per Cent of Revenue and Spend 36½ Per Cent of Expenditure",
+      "date_label": "1889",
+      "year": 1889,
+      "evidence_grade": "A",
+      "historical_claim": "In the 1889 East India Revenue Accounts debate, the Under Secretary of State stated that Indian Provinces received 26½ per cent of total Indian revenue and spent 36½ per cent of Indian expenditure, under a policy encouraging greater provincial administrative and legislative independence.",
+      "verification_status": "Verified against the contemporary official parliamentary statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1889/aug/27/east-india-revenue-accounts",
+      "primary_passage": "The Provinces of India now receive 26½ per cent of the whole revenue of India, and they spend 36½ per cent of the Indian expenditure. The Central Imperial Government restricts its expenditure to such matters as interest on debt, the Army, opium, Post Office, Telegraph Office, the greater part of the railways, and all the military works. The Provincial Governments have, generally speaking, the whole of the domestic expenditure in their hands.",
+      "passage_locator": "House of Commons, Hansard, 27 August 1889, vol. 340, cols. 620–621, East India Revenue Accounts.",
+      "passage_status": "Passage locked — contemporary ministerial description of the fiscal distribution between Imperial and Provincial Governments.",
+      "source_identity": "Statement of Sir John Gorst, Under Secretary of State for India, in Committee on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 27 August 1889, vol. 340, cols. 620–621.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1889,
+      "what_passage_establishes": "The passage establishes the stated shares of revenue and expenditure handled by Provincial Governments and identifies major functions retained by the Central Imperial Government, including debt interest, most railways, and military works.",
+      "evidence_limits": "It is a ministerial summary, not a full constitutional or accounting schedule; it does not establish the legal formula for provincial allocations, individual province figures, or subsequent decentralisation reforms.",
+      "notes": "Distinct fiscal-governance layer. It documents the institutional allocation of financial responsibility between central and provincial governments, rather than a debt issuance or monetary-policy decision.",
+      "bn_title": "ভারতের প্রাদেশিক অর্থব্যবস্থা, ১৮৮৯: প্রদেশগুলোর হাতে রাজস্বের ২৬½ শতাংশ ও ব্যয়ের ৩৬½ শতাংশ",
+      "bn_historical_claim": "১৮৮৯ সালের ইস্ট ইন্ডিয়া রেভিনিউ অ্যাকাউন্টস বিতর্কে বলা হয়, ভারতের প্রদেশগুলো মোট রাজস্বের ২৬½ শতাংশ পায় এবং মোট ব্যয়ের ৩৬½ শতাংশ বহন করে; কেন্দ্রীয় সরকার ঋণের সুদ, সেনাবাহিনী, অধিকাংশ রেলওয়ে ও সামরিক কাজের মতো বিষয় নিজের হাতে রাখে।",
+      "related_banking_power_records": [
+        "india-famine-insurance-fund-1887",
+        "india-public-works-loan-1889",
+        "india-frontier-defence-railways-expenditure-1889"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 27 August 1889, vol. 340, cols. 620–621, East India Revenue Accounts."
+      ],
+      "publication_status": "A-grade — direct contemporary official parliamentary statement of fiscal allocation.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-linked finance and monetary networks",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1889
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "global_power_network",
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "global_power_network",
+          "sovereign_debt"
         ]
       }
     },
@@ -9010,7 +9061,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1889, prioritizing remaining distinct official monetary, institutional, sovereign-debt, or banking-network evidence; avoid duplication of already deployed 1889 currency-position and currency-commission records.",
+  "next_priority": "Continue through 1889, screening remaining official financial, monetary, institutional, and banking-network evidence; avoid duplicating the deployed currency, debt, railway, defence-expenditure, and fiscal-governance layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10280,6 +10331,44 @@
       },
       "global_power_network": {
         "records": 111
+      }
+    }
+  },
+  "structural_audit_2026_10_06_v68": {
+    "status": "Completed after 1889 India provincial finance decentralisation deployment",
+    "records_audited": 138,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 133,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "book_1_research_maps_2026_10_06_v44": {
+    "status": "Reconciled after 1889 India provincial finance decentralisation deployment",
+    "records_mapped": 138,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 65
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 70
+      },
+      "global_power_network": {
+        "records": 112
       }
     }
   }
