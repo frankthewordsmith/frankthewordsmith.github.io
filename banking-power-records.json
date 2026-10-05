@@ -997,6 +997,60 @@
       "deployment_note": "Added as a qualified Sovereign Debt candidate; upgrade only after direct 1829 primary-document transcription."
     },
     {
+      "source_id": "rothschild-british-slavery-compensation-loan-1835",
+      "title": "British Government Slavery Compensation Loan, 1835",
+      "date_label": "1835",
+      "historical_claim": "Rothschild & Co. was the sole tenderer for the British Government loan associated with the 1835 slavery compensation financing and ultimately contracted the loan on terms accepted by the Government.",
+      "verification_status": "Contemporary House of Commons report verifies the tender process and final contract terms.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1835/aug/03/compensation-abolition-of-slavery",
+      "bn_title": "ব্রিটিশ সরকারের দাসত্ব-ক্ষতিপূরণ ঋণ, ১৮৩৫",
+      "bn_historical_claim": "১৮৩৫ সালের দাসত্ব-ক্ষতিপূরণ অর্থায়নের সঙ্গে যুক্ত ব্রিটিশ সরকারি ঋণের একমাত্র দরদাতা ছিল রথসচাইল্ড অ্যান্ড কোং; সংসদীয় প্রতিবেদনে তাদের প্রস্তাব ও চূড়ান্ত চুক্তির শর্ত নথিভুক্ত হয়েছে।",
+      "notes": "The 3 August 1835 House of Commons debate records that the only tender received was from Rothschild & Co., that the Government rejected the firm's initial proposal, and that Rothschild subsequently accepted the Government's sealed terms, on which the loan was contracted. This is direct contemporary parliamentary evidence of the tender and contracting process.",
+      "primary_passage": "the only tender made was by the house of Rothschild and Co.",
+      "passage_locator": "House of Commons, 3 August 1835, Compensation—Abolition of Slavery, Hansard; debate passage describing the sole Rothschild tender and subsequent acceptance of the Government's terms.",
+      "passage_status": "Passage locked — contemporary parliamentary record; exact loan contract remains a useful supplementary archival target.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1835/aug/03/compensation-abolition-of-slavery",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons debate, 3 August 1835, Compensation—Abolition of Slavery.",
+      "edition": "Hansard, House of Commons, 3 August 1835, Compensation—Abolition of Slavery.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1835,
+      "what_passage_establishes": "The passage establishes that Rothschild & Co. submitted the sole tender for the loan and that, after rejecting the initial proposal, the Government contracted the loan on terms Rothschild accepted.",
+      "evidence_limits": "The passage establishes the tender and contracting process, not broader claims about Rothschild's control of British public finance or the full economic effects of the loan.",
+      "related_banking_power_records": [
+        "rothschild-british-government-loan-1856"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 3 August 1835, Compensation—Abolition of Slavery."
+      ],
+      "publication_status": "A-grade — direct contemporary parliamentary evidence locked.",
+      "year": 1835,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1835
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "banking_dynasties"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "banking_dynasties",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "bank-charter-act-1844",
       "title": "Bank Charter Act, 1844",
       "date_label": "1844",
@@ -5573,5 +5627,27 @@
       "rothschild-neapolitan-loan-1824"
     ],
     "next_priority": "Continue with the strongest remaining nineteenth-century sovereign-debt primary-source candidate while preserving all scan-upgrade queues."
+  },
+  "structural_audit_2026_10_05_v9": {
+    "status": "Completed after 1835 British sovereign-debt deployment",
+    "records_audited": 80,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 76,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "sovereign_debt_expansion_2026_10_05_v6": {
+    "status": "1835 British Government slavery-compensation loan evidence deployed as Grade A",
+    "new_records_deployed": 1,
+    "deployed_source_ids": [
+      "rothschild-british-slavery-compensation-loan-1835"
+    ],
+    "next_priority": "Continue the nineteenth-century sovereign-debt sequence while preserving all qualified scan-upgrade queues."
   }
 }
