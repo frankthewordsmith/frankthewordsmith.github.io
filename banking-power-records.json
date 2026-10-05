@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "102-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "103-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -2191,6 +2191,63 @@
         "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
         "chapter_assignment": "Pending final chapter-wise manuscript structure",
         "sequence_year": 1870
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
+      "source_id": "india-government-railways-lahore-peshawur-1871",
+      "title": "Indian Government Railways, 1871: State Construction of Lahore–Peshawur Line",
+      "date_label": "1871",
+      "historical_claim": "In March 1871 the Government of India reported that works had actually commenced on the Lahore–Peshawur line as the first long State railway, while other State lines were being surveyed and prepared for rapid progress.",
+      "verification_status": "Contemporary parliamentary primary evidence verified from House of Commons Hansard, 24 March 1871.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1871/mar/24/india-railways-question",
+      "bn_title": "ভারত সরকারের রেলওয়ে, ১৮৭১: লাহোর–পেশাওয়ার লাইনে সরকারি নির্মাণ",
+      "bn_historical_claim": "১৮৭১ সালের মার্চে ভারত সরকার জানায় যে লাহোর–পেশাওয়ার লাইনে বাস্তব নির্মাণকাজ শুরু হয়েছে—এটি ছিল প্রথম দীর্ঘ সরকারি রেললাইন; অন্যান্য সরকারি লাইনও জরিপ ও প্রস্তুতির পর্যায়ে ছিল।",
+      "notes": "This record is deliberately limited to implementation evidence. It shows the post-1869 State-agency policy being put into practice on a named long State line; it does not by itself identify the financing instrument, lender, interest rate, or loan issue terms.",
+      "primary_passage": "On only one long State line—the Lahore-Peshawur line—have works been actually commenced; but several other lines have been, or are being, now surveyed",
+      "passage_locator": "Hansard, House of Commons, 24 March 1871, 'India—Railways—Question', vol. 205, col. 573; answer by Mr. Grant Duff.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1871/mar/24/india-railways-question",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "source_identity": "House of Commons parliamentary answer by Mr. Grant Duff concerning progress of Government lines of railway in India, 24 March 1871.",
+      "edition": "Hansard, House of Commons, 24 March 1871, vol. 205, col. 573.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1871,
+      "what_passage_establishes": "The passage establishes that construction had actually begun on the Lahore–Peshawur line as a long State railway and that other State lines were being surveyed or prepared.",
+      "evidence_limits": "The passage does not identify a particular direct Government loan, lender, issue price, interest rate, settlement date, or amount of capital committed to the Lahore–Peshawur line.",
+      "related_banking_power_records": [
+        "india-railways-direct-borrowing-policy-1869",
+        "india-railways-state-agency-borrowing-1870",
+        "india-revenue-accounts-1868-railway-guaranteed-interest"
+      ],
+      "scholarly_references": [
+        "Hansard, House of Commons, 24 March 1871, vol. 205, col. 573."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary primary passage locked; suitable as the 1871 implementation anchor for the State-railway transition.",
+      "year": 1871,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1871
       },
       "book_1_chapter_mapping": {
         "status": "Pending authoritative chapter assignment",
@@ -7021,5 +7078,41 @@
       }
     }
   },
-  "next_priority": "Continue chronologically with the strongest 1871 primary evidence, while preserving strict passage verification and the existing qualified scan-upgrade queue."
+  "next_priority": "Continue chronologically with the strongest 1872 primary evidence, preserving strict passage verification and avoiding duplicate coverage.",
+  "structural_audit_2026_10_05_v33": {
+    "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
+    "records_audited": 103,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 98,
+      "B": 5
+    }
+  },
+  "book_1_research_maps_2026_10_05_v9": {
+    "status": "Reconciled after 1871 Lahore–Peshawur State railway implementation deployment",
+    "records_mapped": 103,
+    "maps": {
+      "central_banks": {
+        "records": 69
+      },
+      "banking_dynasties": {
+        "records": 20
+      },
+      "sovereign_debt": {
+        "records": 37
+      },
+      "financial_crises": {
+        "records": 10
+      },
+      "monetary_regimes": {
+        "records": 54
+      },
+      "global_power_network": {
+        "records": 79
+      }
+    }
+  }
 }
