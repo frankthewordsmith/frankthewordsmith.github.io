@@ -1746,6 +1746,49 @@
       }
     },
     {
+      "source_id": "east-india-railway-finance-1861-home-treasury",
+      "title": "East India Railway Finance: Home Treasury Dependence on Company Payments",
+      "date_label": "1861",
+      "year": 1861,
+      "historical_claim": "In June 1861 the Secretary of State explained that Indian railway expenditure was paid through advances from the India Treasury while Home Government expenses were met from sums paid by railway companies into the Treasury in England; the shortfall in company payments created pressure for borrowing.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1861-06-03/debates/f47d1c0f-305e-404f-80af-08047d3b4050/EastIndiaLoan%E2%80%94Committee",
+      "primary_passage": "the expenditure for railways in India is paid by advances from the India Treasury, while the expenses of the Home Government are defrayed from the sums paid by the railway companies into the Treasury in England.",
+      "passage_locator": "House of Commons, 3 June 1861, East India Loan—Committee, Hansard.",
+      "passage_status": "Exact contemporary parliamentary wording locked.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 3 June 1861.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1861,
+      "publication_status": "A-grade — contemporary parliamentary evidence.",
+      "evidence_limits": "This establishes the financing mechanism and liquidity pressure; it does not identify a particular lender or prove that all railway expenditure was financed by borrowing.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1861
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "central_banks"
+        ]
+      }
+    },
+    {
       "source_id": "east-india-railway-finance-1862",
       "title": "East India Railway Finance: Government Borrowing and Railway Company Payments",
       "date_label": "1862",
@@ -6660,6 +6703,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 92,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v29": {
+    "status": "Completed after East India Home Treasury financing deployment",
+    "records_audited": 98,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 93,
       "B": 5,
       "C": 0,
       "D": 0
