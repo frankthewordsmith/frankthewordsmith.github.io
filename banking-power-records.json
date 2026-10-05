@@ -1492,6 +1492,48 @@
       "deployment_note": "Added during the Sovereign Debt expansion pass as a high-confidence official parliamentary primary record."
     },
     {
+      "source_id": "east-india-loan-1858",
+      "title": "East India Company £8 Million Home Loan Authority, 1858",
+      "date_label": "1858",
+      "historical_claim": "In 1858 Parliament authorized the East India Company to raise up to £8,000,000 by loan in the United Kingdom for the service of the Government of India during the financial emergency following the Indian revolt, while the contemporary debate addressed the relationship between Indian borrowing, the Bank of England, and possible British fiscal responsibility.",
+      "verification_status": "Verified against the contemporary House of Commons East India Loan Bill debate.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1858-02-22/debates/d987e587-b173-441b-936e-10153f922919/EastIndiaLoanBill",
+      "primary_passage": "Clause 1, empowering the Company to raise (£) by way of loan. THE CHANCELLOR OF THE EXCHEQUER proposed to fill up the blank with £8,000,000.",
+      "passage_locator": "House of Commons, 22 February 1858, East India Loan Bill, Committee, Hansard.",
+      "passage_status": "Contemporary parliamentary wording locked; the debate establishes the statutory borrowing authority and its purpose in meeting the Indian Government's financial emergency.",
+      "passage_type": "contemporary-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-05",
+      "edition": "Hansard, House of Commons, 22 February 1858.",
+      "publisher": "Parliament of the United Kingdom",
+      "publication_year": 1858,
+      "publication_status": "A-grade — contemporary parliamentary evidence for the £8,000,000 borrowing authority.",
+      "evidence_limits": "This record establishes parliamentary borrowing authority, not the precise amount ultimately drawn, final lenders, or complete contractual terms. The debate separately records an existing £1,000,000 Bank of England loan and earlier East India loans.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1858
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "overend-gurney-crisis-1866",
       "title": "Overend Gurney crisis, 1866",
       "date_label": "1866",
@@ -6169,6 +6211,18 @@
     "chronological_order": true,
     "grade_counts": {
       "A": 84,
+      "B": 4,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_05_v19": {
+    "status": "Completed after 1858 East India Loan Authority deployment",
+    "records_audited": 89,
+    "duplicate_source_ids": 0,
+    "chronological_order": true,
+    "grade_counts": {
+      "A": 85,
       "B": 4,
       "C": 0,
       "D": 0
