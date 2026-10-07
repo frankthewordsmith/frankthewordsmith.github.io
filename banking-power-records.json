@@ -5499,6 +5499,39 @@
       }
     },
     {
+      "source_id": "india-four-percent-rupee-loan-conversion-3-half-1895",
+      "title": "Four per cent. Rupee Loan Converted to 3½ per cent. Debt, 1895",
+      "date_label": "1894–95; reported 4 September 1895",
+      "historical_claim": "The Secretary of State for India reported to Parliament that the Four per cent. Rupee Loan had been successfully converted into debt bearing 3½ per cent interest, with conversion costs of Rx.301,000 expected to be more than offset by subsequent interest savings.",
+      "verification_status": "Primary parliamentary account verified in official Historic Hansard.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1895-09-04/debates/3740313c-b627-4370-9e12-a12a2a9ac51d/CommonsChamber",
+      "primary_passage": "In the middle of the financial year a most successful conversion of the debt was made, for which I beg to offer my congratulations to my predecessor. The Four per cent. Rupee Loan was converted into a debt bearing interest at 3½ per cent., but there was a certain necessary expenditure attending this conversion which increased the estimated expenditure of the year by Rx. 301,000. This increase, however, will bring a more than corresponding gain in subsequent years in the diminution of the interest which hereafter will have to be paid.",
+      "passage_locator": "House of Commons Hansard, 4 September 1895, vol. 36, col. 1699; East India Revenue Accounts.",
+      "source_identity": "Lord George Hamilton, Secretary of State for India, statement on East India Revenue Accounts before the House of Commons Committee, 4 September 1895.",
+      "edition": "House of Commons Hansard, 4 September 1895, vol. 36, cols. 1695–1740; East India Revenue Accounts.",
+      "publisher": "House of Commons / Parliamentary Debates",
+      "publication_year": 1895,
+      "what_passage_establishes": "The parliamentary statement establishes that the existing 4% Rupee Loan was converted to a 3½% interest-bearing debt and that the government recorded Rx.301,000 of necessary conversion expenditure while expecting greater subsequent savings in interest.",
+      "evidence_limits": "The passage does not by itself specify the original principal amount converted, the exact conversion terms offered to holders, dates of subscription or settlement, underwriting arrangements, or the complete legal instrument authorising the conversion. Those details should not be inferred from this passage.",
+      "related_banking_power_records": [
+        "india-sterling-debt-failed-bill-sales-1895",
+        "india-council-bills-record-sales-1894-95",
+        "royal-commission-indian-expenditure-1895"
+      ],
+      "bn_title": "৪ শতাংশ রুপি ঋণকে ৩½ শতাংশ ঋণে রূপান্তর, ১৮৯৫",
+      "bn_historical_claim": "ভারতের সেক্রেটারি অব স্টেট সংসদে জানান যে ৪ শতাংশ রুপি ঋণকে ৩½ শতাংশ সুদের ঋণে রূপান্তর করা হয়েছিল; রূপান্তরের জন্য £ নয়, Rx.৩০১,০০০ ব্যয় হলেও পরবর্তী সুদ সাশ্রয় তা ছাড়িয়ে যাবে বলে প্রত্যাশা করা হয়।",
+      "publication_status": "A-grade — exact parliamentary passage and structural locator locked.",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -10077,7 +10110,7 @@
       }
     }
   },
-  "next_priority": "Continue 1895 screening for a distinct monetary-regime or institutional-finance primary record; avoid duplicate Council-bill volume, failed-bill sterling-debt aggregate, 1895 Royal Commission decision, 1894 tariff-law and 1894 rupee-debt-conversion layers.",
+  "next_priority": "Continue 1895 screening for a distinct primary record after the rupee-loan conversion, while avoiding duplication of Council-bill sales, failed-bill debt aggregate, and Royal Commission layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -11640,5 +11673,17 @@
       "B": 5
     },
     "notes": "Added distinct 1895 sovereign-debt evidence: official Hansard reported £9,386,000 of debt incurred through failures to sell Indian Government bills. Kept separate from the 1895 Council-bill sales-volume record and the 1893 £10m East India loan."
+  },
+  "structural_audit_2026_10_07_v87": {
+    "audit_date": "2026-10-07",
+    "record_count": 164,
+    "duplicate_source_ids": 0,
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 159,
+      "B": 5
+    },
+    "notes": "Added distinct 1894–95/1895 sovereign-debt refinancing evidence: official Hansard records conversion of the 4% Rupee Loan into 3½% debt, with Rx.301,000 conversion expenditure and expected greater subsequent interest savings."
   }
 }
