@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "158-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "159-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -5273,6 +5273,63 @@
       }
     },
     {
+      "source_id": "india-rupee-loan-conversion-3-5-percent-1894",
+      "title": "Indian Four Per Cent Rupee Loan Converted to 3½ Per Cent, 1894",
+      "date_label": "1894",
+      "historical_claim": "During the 1894–95 financial year the Government of India converted its Four per cent. Rupee Loan into debt bearing 3½ per cent. interest, accepting an immediate conversion cost in return for lower future interest expenditure.",
+      "verification_status": "Primary-source parliamentary account verified: the Secretary of State for India reported the completed conversion in the official East India Revenue Accounts debate.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1895/sep/04/east-india-revenue-accounts",
+      "bn_title": "ভারতের ৪ শতাংশ রুপি ঋণ ৩½ শতাংশে রূপান্তর, ১৮৯৪",
+      "bn_historical_claim": "১৮৯৪–৯৫ অর্থবছরে ভারত সরকার ৪ শতাংশ রুপি ঋণকে ৩½ শতাংশ সুদযুক্ত ঋণে রূপান্তর করে; তাৎক্ষণিক রূপান্তর ব্যয়ের বিনিময়ে ভবিষ্যৎ সুদ ব্যয় কমানোর ব্যবস্থা করা হয়।",
+      "notes": "This isolates the 1894–95 rupee-debt conversion layer. It is distinct from the 1887 sterling India Stock conversion and the 1888–89 four-and-a-half to four per cent rupee-debt conversion records.",
+      "primary_passage": "In the middle of the financial year a most successful conversion of the debt was made, for which I beg to offer my congratulations to my predecessor. The Four per cent. Rupee Loan was converted into a debt bearing interest at 3½ per cent., but there was a certain necessary expenditure attending this conversion which increased the estimated expenditure of the year by Rx. 301,000. This increase, however, will bring a more than corresponding gain in subsequent years in the diminution of the interest which hereafter will have to be paid.",
+      "passage_locator": "House of Commons, Hansard, 4 September 1895, vol. 36, cols. 1695–1740, “East India Revenue Accounts”; the Secretary of State for India's statement on the 1894–95 revised estimate.",
+      "passage_status": "Passage locked — exact official parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1895/sep/04/east-india-revenue-accounts",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "Official House of Commons Hansard report of the East India Revenue Accounts, in which the Secretary of State for India reported the successful conversion of the Four per cent. Rupee Loan during the 1894–95 financial year.",
+      "edition": "Hansard, House of Commons, 4 September 1895, vol. 36, cols. 1695–1740, “East India Revenue Accounts”.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1895,
+      "what_passage_establishes": "The official account establishes that during the 1894–95 financial year the Four per cent. Rupee Loan was converted into 3½ per cent. debt, that the conversion increased the estimated expenditure of the year by Rx.301,000, and that the Government expected more than corresponding future savings through reduced interest payments.",
+      "evidence_limits": "The passage is a later official parliamentary report of the completed 1894–95 conversion. It does not by itself establish the full principal amount converted, detailed conversion terms, holder composition, or realized long-run savings beyond the official statement.",
+      "related_banking_power_records": [
+        "east-india-loan-10000000-1893",
+        "india-rupee-debt-conversion-1888",
+        "india-rupee-debt-conversion-outcome-1889"
+      ],
+      "scholarly_references": [
+        "Government of India / India Office financial accounts and parliamentary papers concerning Indian public debt conversion.",
+        "Ulrich Bindseil, Central Banking before 1800, for comparative institutional context; the primary parliamentary record remains controlling for this event."
+      ],
+      "publication_status": "A-grade — exact official parliamentary passage and locator locked; the 1894–95 conversion is kept distinct from earlier India stock and rupee-debt conversions.",
+      "year": 1894,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1894
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9851,7 +9908,7 @@
       }
     }
   },
-  "next_priority": "Screen 1894 for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate 1893 mint-closure and £10,000,000 loan layers.",
+  "next_priority": "Continue 1894 screening for a distinct monetary, banking-network or institutional-finance primary record; avoid duplicate 1893 loan and 1894 rupee-debt-conversion layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
