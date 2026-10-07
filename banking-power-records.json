@@ -5704,6 +5704,57 @@
       }
     },
     {
+      "source_id": "india-three-percent-stock-subscription-1901",
+      "title": "India Three Per Cent Stock Offered at 98; Only £700,000 Placed, 1901",
+      "date_label": "16 August 1901",
+      "historical_claim": "India proposed a £3 million issue of Three Per Cent Stock at 98, but the Secretary of State reported that only £700,000 was placed after a sharp fall in American securities.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1901/aug/16/east-india-revenue-accounts",
+      "bn_title": "১৯০১ সালে ভারতীয় ৩% স্টক ৯৮ দরে £৩ মিলিয়ন অফার; মাত্র £৭০০,০০০ তোলা হয়",
+      "bn_historical_claim": "১৯০১ সালে ভারত £৩ মিলিয়ন ৩% স্টক ৯৮ দরে অফার করলেও বাজারের চাপের কারণে মাত্র £৭০০,০০০ তোলা সম্ভব হয়।",
+      "notes": "Distinct from the 1898 borrowing-authority and 1899 remaining-borrowing-power records; this records an actual London capital-market issue attempt.",
+      "primary_passage": "I should offer for subscription £3,000,000 Three Per Cent. Stock at the price of 98, in place of the £1,000,000 shown in the Budget.",
+      "passage_locator": "House of Commons Hansard, 16 August 1901, vol. 99, c. 1207–1208; East India Revenue Accounts.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording; the same passage reports £700,000 placed.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1901/aug/16/east-india-revenue-accounts",
+      "source_identity": "House of Commons, East India Revenue Accounts, 16 August 1901, Hansard vol. 99, cc. 1199–1271.",
+      "edition": "House of Commons Debates (Hansard), 16 August 1901, vol. 99.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1901,
+      "what_passage_establishes": "The proposed issue size, security class and price, plus the reported limited placement.",
+      "evidence_limits": "Does not establish the full prospectus, allotment list, underwriting, settlement mechanics or investor identities.",
+      "related_banking_power_records": [
+        "east-india-loan-authority-10000000-1898",
+        "india-borrowing-powers-reduced-1899"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts, 16 August 1901, Hansard vol. 99."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary evidence.",
+      "year": 1901,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1901
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -11882,7 +11933,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 168,
+  "source_count": 169,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -11928,6 +11979,42 @@
       },
       "global_power_network": {
         "records": 113
+      }
+    }
+  },
+  "structural_audit_2026_10_07_v93": {
+    "audit_date": "2026-10-07",
+    "record_count": 169,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 164,
+      "B": 5
+    },
+    "notes": "Added distinct 1901 London capital-market evidence; no investor identities or transaction details inferred beyond the parliamentary record."
+  },
+  "book_1_research_maps_2026_10_07_v48": {
+    "status": "Reconciled after 1901 India Three Per Cent Stock placement evidence deployment",
+    "records_mapped": 169,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 66
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 71
+      },
+      "global_power_network": {
+        "records": 114
       }
     }
   }
