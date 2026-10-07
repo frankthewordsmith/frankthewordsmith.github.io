@@ -5159,6 +5159,63 @@
       }
     },
     {
+      "source_id": "india-mints-closed-free-silver-coinage-1893",
+      "title": "India Mints Closed to Free Silver Coinage, 1893",
+      "date_label": "26 June 1893",
+      "historical_claim": "The Government of India implemented the Herschell Committee plan by closing the Indian Mints to free public silver coinage and establishing a 16d. per rupee exchange arrangement for gold and sovereign transactions.",
+      "verification_status": "Primary-source parliamentary record verified: the First Lord of the Treasury communicated the Viceroy's telegram reporting the Indian Council's Act and its immediate effect.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1893/jun/26/the-indian-currency",
+      "bn_title": "ভারতে অবাধ রূপা-মুদ্রণ বন্ধ, ১৮৯৩",
+      "bn_historical_claim": "ভারত সরকার হার্শেল কমিটির পরিকল্পনা কার্যকর করে ভারতীয় টাকশালগুলোতে জনসাধারণের জন্য অবাধ রূপা মুদ্রণ বন্ধ করে এবং স্বর্ণ ও সার্বভৌম মুদ্রার বিনিময়ে প্রতি রুপিতে ১৬ পেন্সের ব্যবস্থা করে।",
+      "notes": "This is the implementation layer following the separately deployed 1892 proposal. The parliamentary record also states that gold was not yet made legal tender.",
+      "primary_passage": "Council has passed an Act, which takes effect at once, to carry out the plan recommended by Lord Herschell's Committee. Act provides for close of Indian Mints to free coinage of silver from and after date of passing. Arrangements will be made to issue rupees from the Mints in exchange for gold and sovereigns at the rate of 16d. per rupee [until further notice] and to receive sovereigns and half-sovereigns at Public Treasuries, in payment of Government dues, at the same rate. It is intended to introduce a gold standard into India, but gold will not be made a legal tender at present.",
+      "passage_locator": "House of Commons, Hansard, 26 June 1893, vol. 14, cols. 59–61, “The Indian Currency”; the passage is the Viceroy's telegram communicated by Mr. W. E. Gladstone.",
+      "passage_status": "Passage locked — exact official parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1893/jun/26/the-indian-currency",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "Official House of Commons report of 26 June 1893 communicating the Viceroy of India's telegram on the Indian Council's currency Act.",
+      "edition": "Hansard, House of Commons, 26 June 1893, vol. 14, cols. 59–61.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1893,
+      "what_passage_establishes": "The report establishes that the Indian Council had passed an Act effective immediately to close the Mints to free public silver coinage, issue rupees against gold and sovereigns at 16d. per rupee, accept sovereigns and half-sovereigns for Government dues at the same rate, and pursue a gold standard without yet making gold legal tender.",
+      "evidence_limits": "It establishes the June 1893 implementation as officially reported; it does not by itself establish subsequent legal-tender legislation, later exchange-rate changes, or long-run economic effects.",
+      "related_banking_power_records": [
+        "india-currency-crisis-mint-closure-proposal-1892",
+        "india-fixed-rupee-exchange-rate-1891",
+        "india-rupee-paper-export-england-1891"
+      ],
+      "scholarly_references": [
+        "Report of the Committee Appointed to Inquire into the Indian Currency, HMSO, 1893 (Herschell Committee).",
+        "Ulrich Bindseil, Central Banking before 1800: A Rehabilitation, for comparative institutional context; modern scholarship on the Indian monetary transition should be read alongside the primary record."
+      ],
+      "publication_status": "A-grade — exact official parliamentary passage and locator locked; implementation is kept distinct from the 1892 proposal.",
+      "year": 1893,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1893
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -11276,5 +11333,17 @@
       "B": 5
     },
     "notes": "Added distinct 1892 Indian currency-crisis policy evidence: the Government of India’s proposal for conditional closure of the Mints to free public silver coinage and arrangements for a gold standard. Kept separate from the 1893 implementation layer."
+  },
+  "structural_audit_2026_10_07_v85": {
+    "audit_date": "2026-10-07",
+    "record_count": 157,
+    "duplicate_source_ids": 0,
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 152,
+      "B": 5
+    },
+    "notes": "Added 1893 implementation evidence: Indian Mints closed to free public silver coinage and 16d. rupee/gold exchange arrangements reported to Parliament."
   }
 }
