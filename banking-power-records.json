@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "159-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "160-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -5330,6 +5330,63 @@
       }
     },
     {
+      "source_id": "india-tariff-act-customs-duties-1894",
+      "title": "Indian Tariff Act, 1894: Customs-Duty Regime",
+      "date_label": "10 March 1894",
+      "historical_claim": "The Government of India enacted the Indian Tariff Act, 1894 (VIII of 1894), amending the customs-duty law across British India during a period of acute fiscal pressure.",
+      "verification_status": "Primary statutory text verified from a contemporary Government of India Legislative Department reproduction; the Act is independently indexed in the official Historic Hansard Act record.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/acts/indian-tariff-act-1894",
+      "bn_title": "ভারতীয় ট্যারিফ আইন, ১৮৯৪: শুল্ক-ব্যবস্থা",
+      "bn_historical_claim": "তীব্র আর্থিক চাপের সময় ভারত সরকার ১৮৯৪ সালের ভারতীয় ট্যারিফ আইন (VIII of 1894) প্রণয়ন করে এবং ব্রিটিশ ভারতে কাস্টমস শুল্কের আইনগত কাঠামো পরিবর্তন করে।",
+      "notes": "This record isolates the statutory customs-law layer. It should not be conflated with the later parliamentary measurement of the tariff's revenue yield or with the separate 1894 rupee-debt conversion.",
+      "primary_passage": "An Act to amend the law relating to Customs-duties, and for other purposes. It is hereby enacted as follows:— 1. (1) This Act may be called the Indian Tariff Act, 1894. (2) It extends to the whole of British India except Aden and Perim. (3) It shall come into force at once.",
+      "passage_locator": "Government of India, Legislative Department, Indian Tariff Act, 1894 (VIII of 1894), section 1; enacted 10 March 1894.",
+      "passage_status": "Passage locked — exact statutory wording verified from a contemporary primary-text reproduction.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/acts/indian-tariff-act-1894",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "Government of India Legislative Department, Indian Tariff Act, 1894 (VIII of 1894), enacted 10 March 1894; contemporary statutory text.",
+      "edition": "Indian Tariff Act, 1894 (VIII of 1894), Government of India Legislative Department.",
+      "publisher": "Government of India, Legislative Department",
+      "publication_year": 1894,
+      "what_passage_establishes": "The statute establishes the enactment, territorial scope, and immediate commencement of a new Indian customs-duty law. Contemporary financial reporting later records additional Customs revenue under the new tariff, including revenue associated with silver imports.",
+      "evidence_limits": "Section 1 alone does not establish the full schedule of rates or the eventual revenue yield. Those details require the Act's schedules and the subsequent financial accounts.",
+      "related_banking_power_records": [
+        "east-india-loan-10000000-1893",
+        "india-rupee-loan-conversion-3-5-percent-1894",
+        "india-mints-closed-free-silver-coinage-1893"
+      ],
+      "scholarly_references": [
+        "Government of India Legislative Department, Indian Tariff Act, 1894 (VIII of 1894).",
+        "House of Commons Hansard, East India Revenue Accounts, 4 September 1895, reporting the revenue effects of the new Customs Bill."
+      ],
+      "publication_status": "A-grade — exact statutory enactment and locator locked; fiscal yield is kept separate from the primary enactment.",
+      "year": 1894,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1894
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance",
+          "fiscal_power"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9908,7 +9965,7 @@
       }
     }
   },
-  "next_priority": "Continue 1894 screening for a distinct monetary, banking-network or institutional-finance primary record; avoid duplicate 1893 loan and 1894 rupee-debt-conversion layers.",
+  "next_priority": "Move to 1895 screening for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate 1893 loan, 1894 rupee-debt conversion, and 1894 tariff-law layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
