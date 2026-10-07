@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "150-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "158-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -5216,6 +5216,63 @@
       }
     },
     {
+      "source_id": "east-india-loan-10000000-1893",
+      "title": "East India Loan (£10,000,000), 1893",
+      "date_label": "18 December 1893",
+      "historical_claim": "Parliament authorised the Secretary of State for India in Council to raise up to £10,000,000 sterling for the public service in India, while the debate explicitly linked rupee depreciation against the sovereign to the growing cost of servicing gold-payable debts in Britain and pressure on the Indian Exchequer.",
+      "verification_status": "Primary-source parliamentary record verified in the official Historic Hansard report of the Third Reading of the East India Loan (£10,000,000) Bill.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1893/dec/18/east-india-loan-lb10000000-bill-no-475",
+      "bn_title": "১৮৯৩ সালের ইস্ট ইন্ডিয়া ১ কোটি পাউন্ড ঋণ",
+      "bn_historical_claim": "সংসদে ভারত সরকারের জন্য সর্বোচ্চ ১ কোটি পাউন্ড স্টার্লিং ঋণ তোলার অনুমোদন দেওয়া হয়; একই বিতর্কে রুপির অবমূল্যায়ন, ব্রিটেনে স্বর্ণে পরিশোধযোগ্য ঋণের সেবা এবং ভারতীয় রাজকোষের ওপর চাপের সরাসরি সম্পর্ক ব্যাখ্যা করা হয়।",
+      "notes": "This record isolates the sovereign-debt borrowing layer. It is distinct from the June 1893 mint-closure implementation record: the loan authority and the debate's exchange/debt rationale are separately evidenced here.",
+      "primary_passage": "This Bill is for the purpose of authorising a loan of £10,000,000 sterling to the Indian Government, but the discussion of the previous stages have gone beyond the examination of that special proposal.",
+      "passage_locator": "House of Commons, Hansard, 18 December 1893, vol. 19, cols. 1618–1671, “East India Loan (£10,000,000) Bill. (No. 475.)”; Mr. Courtney's Third Reading speech, opening statement.",
+      "passage_status": "Passage locked — exact official parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1893/dec/18/east-india-loan-lb10000000-bill-no-475",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "Official House of Commons Hansard report of the Third Reading of the East India Loan (£10,000,000) Bill, including Mr. Courtney's explanation of the sterling borrowing authority and its exchange/debt context.",
+      "edition": "Hansard, House of Commons, 18 December 1893, vol. 19, cols. 1618–1671, “East India Loan (£10,000,000) Bill. (No. 475.)”.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1893,
+      "what_passage_establishes": "The passage establishes that Parliament was being asked to authorise a £10,000,000 sterling loan to the Indian Government. In the same debate, the continued depreciation of the rupee is explicitly described as increasing the Indian Government's pecuniary loss because debts in Britain were payable in gold and larger rupee receipts were required to meet those sterling obligations.",
+      "evidence_limits": "The quoted opening passage establishes the borrowing authority, while the surrounding debate establishes the stated exchange/debt rationale. These passages do not by themselves establish the final amount actually drawn, final loan terms, ultimate holders, or long-run fiscal effects.",
+      "related_banking_power_records": [
+        "india-mints-closed-free-silver-coinage-1893",
+        "india-currency-crisis-mint-closure-proposal-1892",
+        "india-railway-gold-interest-exchange-burden-1891"
+      ],
+      "scholarly_references": [
+        "Report of the Committee Appointed to Inquire into the Indian Currency, HMSO, 1893 (Herschell Committee).",
+        "J. Laurence Laughlin, The History of Bimetallism in the United States, discussion of Indian currency policy and the 1893 monetary transition."
+      ],
+      "publication_status": "A-grade — exact official parliamentary passage and locator locked; sovereign borrowing is kept distinct from the 1893 mint-closure implementation.",
+      "year": 1893,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1893
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -9794,7 +9851,7 @@
       }
     }
   },
-  "next_priority": "Continue 1891 screening for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate trade/specie and exchange layers.",
+  "next_priority": "Screen 1894 for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate 1893 mint-closure and £10,000,000 loan layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
