@@ -5532,6 +5532,37 @@
       }
     },
     {
+      "source_id": "india-london-obligations-exchange-burden-1895",
+      "title": "India’s London Obligations: Exchange Burden Reaches 27 Per Cent of Net Imperial Revenue, 1895",
+      "date_label": "4 September 1895",
+      "historical_claim": "The Secretary of State for India reported that the rupee cost of meeting India’s obligations in London had risen from Rx.3,535,900 in 1884–5 to Rx.14,751,600 in 1894–5, with the increased remittance requirement absorbing 27 per cent of total net Imperial revenue.",
+      "verification_status": "Primary parliamentary account verified in official Historic Hansard.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1895/sep/04/east-india-revenue-accounts",
+      "primary_passage": "In 1884–5 the total charge on the revenue of India for meeting its obligations in London was a charge amounting to 8 per cent. of the total net revenue of the country, the amount being Rx. 3,535,900. Last year that amount rose to Rx. 14,751,600. The revenue has largely increased in the interval, but the increased number of rupees which the Indian Government have to remit to meet their obligations absorbs 27 per cent. of the total net Imperial revenue.",
+      "passage_locator": "House of Commons Hansard, 4 September 1895, vol. 36, cols. 1705–1706, East India Revenue Accounts; discussion of the cost of meeting India’s London obligations and the effect of exchange.",
+      "source_identity": "House of Commons, Historic Hansard, East India Revenue Accounts, 4 September 1895; statement by Lord George Hamilton, Secretary of State for India.",
+      "what_passage_establishes": "The official parliamentary statement establishes a quantified increase in the rupee charge required to meet India’s obligations in London and states that, by 1894–5, the exchange-related remittance burden absorbed 27 per cent of net Imperial revenue.",
+      "evidence_limits": "The passage does not itemize every London obligation, distinguish principal from interest across all components, or establish that exchange movements were the sole cause of the entire increase. It establishes the reported aggregate charge and its stated share of net Imperial revenue.",
+      "related_banking_power_records": [
+        "india-rupee-exchange-fiscal-burden-1888",
+        "india-rupee-paper-export-england-1891",
+        "india-sterling-debt-failed-bill-sales-1895",
+        "india-four-percent-rupee-loan-conversion-3-half-1895"
+      ],
+      "bn_title": "ভারতের লন্ডনীয় দায়: বিনিময়-ভার নেট সাম্রাজ্যিক রাজস্বের ২৭ শতাংশে পৌঁছায়, ১৮৯৫",
+      "bn_historical_claim": "ভারতের সেক্রেটারি অব স্টেট জানান যে লন্ডনে ভারতের দায় মেটাতে রুপি-ভিত্তিক ব্যয় ১৮৮৪–৮৫ সালের Rx.৩,৫৩৫,৯০০ থেকে ১৮৯৪–৯৫ সালে Rx.১৪,৭৫১,৬০০-এ বেড়েছিল এবং অতিরিক্ত রেমিট্যান্সের প্রয়োজন নেট সাম্রাজ্যিক রাজস্বের ২৭ শতাংশ শোষণ করছিল।",
+      "publication_status": "A-grade — exact parliamentary passage and locator locked.",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -10110,7 +10141,7 @@
       }
     }
   },
-  "next_priority": "Continue 1895 screening for a distinct primary record after the rupee-loan conversion, while avoiding duplication of Council-bill sales, failed-bill debt aggregate, and Royal Commission layers.",
+  "next_priority": "Continue 1895 screening for the next genuinely distinct primary evidence layer after the London-obligation exchange burden, avoiding duplication of Council-bill sales, failed-bill debt, rupee-loan conversion, and Royal Commission records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -11685,5 +11716,17 @@
       "B": 5
     },
     "notes": "Added distinct 1894–95/1895 sovereign-debt refinancing evidence: official Hansard records conversion of the 4% Rupee Loan into 3½% debt, with Rx.301,000 conversion expenditure and expected greater subsequent interest savings."
+  },
+  "structural_audit_2026_10_07_v88": {
+    "audit_date": "2026-10-07",
+    "record_count": 165,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 160,
+      "B": 5
+    },
+    "notes": "Added distinct 1895 parliamentary evidence quantifying the rise in India’s London-obligation charge and its stated absorption of 27% of net Imperial revenue; screened against existing exchange, sterling-debt, Council-bill, and rupee-loan records."
   }
 }
