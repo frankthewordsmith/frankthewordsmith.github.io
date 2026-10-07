@@ -5649,6 +5649,61 @@
       }
     },
     {
+      "source_id": "india-gold-standard-sterling-accounting-1900",
+      "title": "India’s Gold Standard and Sterling Accounting Confirmed in Parliament, 1900",
+      "date_label": "26 July 1900",
+      "historical_claim": "The 1900 Indian Budget recorded that the Government of India had declared a gold standard in the preceding September and had shifted its accounts to sterling at 15 rupees per pound.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1900/jul/26/the-indian-budget",
+      "bn_title": "১৯০০ সালে ভারতের স্বর্ণমান ও স্টার্লিং-ভিত্তিক হিসাব পদ্ধতি সংসদে নিশ্চিত",
+      "bn_historical_claim": "১৯০০ সালের ভারতীয় বাজেট আলোচনায় জানানো হয় যে আগের সেপ্টেম্বরে ভারতে স্বর্ণমান ঘোষণা করা হয়েছিল এবং হিসাব-লেনদেন প্রতি পাউন্ডে ১৫ রুপি হারে স্টার্লিংয়ে প্রকাশ করা শুরু হয়।",
+      "notes": "This record is kept distinct from the 1892 proposal and 1893 implementation layers. The 1900 Hansard debate is a contemporary official parliamentary confirmation of the operating monetary/accounting regime, while the declaration itself is retrospectively dated to September 1899.",
+      "primary_passage": "the Government in September last declared a gold standard in India",
+      "passage_locator": "House of Commons Hansard, 26 July 1900, vol. 86, c. 1345; The Indian Budget, opening statement by the Secretary of State for India.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1900/jul/26/the-indian-budget",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "House of Commons debate on The Indian Budget, 26 July 1900; official Historic Hansard record, vol. 86, cc. 1345–1438.",
+      "edition": "House of Commons Debates (Hansard), 26 July 1900, vol. 86, cc. 1345–1438.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1900,
+      "what_passage_establishes": "The passage establishes that by the July 1900 parliamentary statement the Government of India regarded a gold standard as declared in September of the preceding year. The same statement explains that Indian accounts were then stated in sterling at 15 rupees to the pound.",
+      "evidence_limits": "This passage is a contemporary parliamentary confirmation, not the September 1899 legal instrument itself. It does not by itself establish every statutory detail of the gold-standard regime, the full reserve mechanism, or the precise administrative steps by which the change was implemented.",
+      "related_banking_power_records": [
+        "india-mints-closure-1892",
+        "india-mint-closure-gold-standard-1893"
+      ],
+      "scholarly_references": [
+        "House of Commons, The Indian Budget, 26 July 1900, Hansard vol. 86.",
+        "John Maynard Keynes, Indian Currency and Finance (1913), for later analysis of the Indian currency system."
+      ],
+      "publication_status": "A-grade — exact contemporary parliamentary passage locked; the underlying September 1899 declaration instrument remains a separate primary-document target.",
+      "year": 1900,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1900
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -11827,7 +11882,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 167,
+  "source_count": 168,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -11839,5 +11894,41 @@
       "B": 5
     },
     "notes": "Added distinct 1899 contemporary evidence on remaining borrowing capacity after 1898 authority and 1898–99 financing; no individual loan terms inferred."
+  },
+  "structural_audit_2026_10_07_v92": {
+    "audit_date": "2026-10-07",
+    "record_count": 168,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 163,
+      "B": 5
+    },
+    "notes": "Added distinct 1900 contemporary parliamentary evidence confirming the Indian gold-standard declaration and sterling accounting regime; kept separate from the 1892 proposal and 1893 implementation layers. The declaration itself is dated in the source to September 1899."
+  },
+  "book_1_research_maps_2026_10_07_v47": {
+    "status": "Reconciled after 1900 India gold-standard and sterling-accounting confirmation deployment",
+    "records_mapped": 168,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 65
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 71
+      },
+      "global_power_network": {
+        "records": 113
+      }
+    }
   }
 }
