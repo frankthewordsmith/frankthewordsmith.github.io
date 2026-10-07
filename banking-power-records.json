@@ -5755,6 +5755,57 @@
       }
     },
     {
+      "source_id": "india-gold-remittances-currency-reserves-1902",
+      "title": "India Remits £500,000 Gold to Britain; Currency Reserve £5.748 Million, 1902",
+      "date_label": "6 November 1902",
+      "historical_claim": "The Secretary of State reported that India had remitted £500,000 in gold to Britain since February 1902; on 15 October the Indian Currency Reserve held £5.748 million, while total government gold holdings across the specified categories were £6.011 million.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1902/nov/06/india-gold-remittances-currency-reserves",
+      "bn_title": "১৯০২ সালে ভারত ব্রিটেনে £৫০০,০০০ সোনা পাঠায়; কারেন্সি রিজার্ভ £৫.৭৪৮ মিলিয়ন",
+      "bn_historical_claim": "১৯০২ সালে ভারত সরকার ফেব্রুয়ারির পর থেকে ব্রিটেনে £৫০০,০০০ সোনা পাঠায়। ১৫ অক্টোবর ভারতের কারেন্সি রিজার্ভে £৫.৭৪৮ মিলিয়ন এবং নির্দিষ্ট সরকারি সোনার মজুদের মোট পরিমাণ £৬.০১১ মিলিয়ন ছিল।",
+      "notes": "Distinct from earlier gold-standard declaration records: this is a contemporary operating-state snapshot of gold remittances, currency reserves, cash balances and Home Treasury lending.",
+      "primary_passage": "The amount of gold remitted by the Government of India to this country since February last is £500,000, which has been added to the balances held by the Secretary of State in Council. The amount of gold held by the Government of India on the 15th October was as follows: Currency Reserve, £5,748,000; Government Treasuries, £88,000; Gold Reserve Fund, £175,000; total, £6,011,000.",
+      "passage_locator": "House of Commons Hansard, 6 November 1902, vol. 114, cc. 262–264; Question 10, India—Gold Remittances, Currency Reserves, etc.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1902/nov/06/india-gold-remittances-currency-reserves",
+      "source_identity": "House of Commons, Questions and Answers, India—Gold Remittances, Currency Reserves, etc., 6 November 1902, Hansard vol. 114, cc. 262–264.",
+      "edition": "House of Commons Debates (Hansard), 6 November 1902, vol. 114.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1902,
+      "what_passage_establishes": "It establishes the reported £500,000 gold remittance to Britain since February, the 15 October gold holdings in the Currency Reserve, Government Treasuries and Gold Reserve Fund, and the £6.011 million aggregate across those categories.",
+      "evidence_limits": "It is a point-in-time parliamentary answer and does not establish the complete annual movement of gold, the legal reserve framework, individual counterparties, or the ultimate economic effect of the remittance. It should not be treated as a full balance-sheet reconstruction.",
+      "related_banking_power_records": [
+        "india-gold-standard-sterling-accounting-1900",
+        "india-mint-closure-gold-standard-1893"
+      ],
+      "scholarly_references": [
+        "House of Commons, India—Gold Remittances, Currency Reserves, etc., 6 November 1902, Hansard vol. 114."
+      ],
+      "publication_status": "A-grade — exact contemporary parliamentary reserve and remittance figures locked.",
+      "year": 1902,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1902
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -11933,7 +11984,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 169,
+  "source_count": 170,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12012,6 +12063,42 @@
       },
       "monetary_regimes": {
         "records": 71
+      },
+      "global_power_network": {
+        "records": 114
+      }
+    }
+  },
+  "structural_audit_2026_10_07_v94": {
+    "audit_date": "2026-10-07",
+    "record_count": 170,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 165,
+      "B": 5
+    },
+    "notes": "Added distinct 1902 operating-state evidence on Indian gold remittances and currency reserves; no broader monetary effects inferred."
+  },
+  "book_1_research_maps_2026_10_07_v49": {
+    "status": "Reconciled after 1902 India gold remittances and currency-reserve deployment",
+    "records_mapped": 170,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 67
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 72
       },
       "global_power_network": {
         "records": 114
