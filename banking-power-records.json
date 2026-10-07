@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "149-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "150-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4844,6 +4844,37 @@
       "publication_status": "Deployed",
       "book_1_integration": "Banking Power / Indian monetary regime / currency-note reserve mechanism",
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1891 currency-note reserve layer"
+    },
+    {
+      "source_id": "india-rupee-paper-export-england-1891",
+      "title": "India Rupee Paper, 1891: Rx.5.138 Million Exported to England as Silver-Payable Securities Gained in Gold Value",
+      "date_label": "4 August 1891",
+      "year": 1891,
+      "evidence_grade": "A",
+      "historical_claim": "The official parliamentary record stated that rupee paper exported from India to England increased to Rx.5,138,000 in 1890–91, attributing this to the higher value in gold then attached in London to securities payable in silver.",
+      "verification_status": "Verified direct official parliamentary record.",
+      "source_url": "https://hansard.parliament.uk/Commons/1891-08-04/debates/996be7fd-4afb-4bb1-89e5-e2c236d60f86/EastIndia%28RevenueAccounts%29",
+      "primary_passage": "whereas in 1889–90 rupee paper was sent back from England to the amount of Rx.67,000; in 1890–91 it was exported from India to England to the amount of Rx.5,138,000, owing to the higher value, measured in gold, which securities payable in silver were bearing in London at the time.",
+      "passage_locator": "Hansard, House of Commons, 4 August 1891, vol. 356, cols. 1326–1327, 'East India (Revenue Accounts)'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary record of the East India Revenue Accounts debate, reporting rupee-paper movements between India and England and their relationship to London valuation of silver-payable securities.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1891,
+      "what_passage_establishes": "It establishes the reported movement of rupee paper from India to England in 1890–91 and the official explanation linking that movement to the gold value then assigned in London to securities payable in silver.",
+      "evidence_limits": "It does not identify the individual securities, holders, banks, or transactions behind the aggregate figure, and it records the parliamentary speaker's explanation rather than an independent market study.",
+      "notes": "Distinct from the 1891 currency-note reserve record: this layer concerns cross-border movement of rupee-denominated paper and London valuation of silver-payable securities.",
+      "bn_title": "ভারতের রুপি-পেপার, ১৮৯১: রূপায় প্রদেয় সিকিউরিটিজের লন্ডনমূল্য বৃদ্ধির সময় ৫১.৩৮ লাখ রুপি ইংল্যান্ডে রপ্তানি",
+      "bn_historical_claim": "সরকারি সংসদীয় নথিতে জানানো হয় যে ১৮৯০–৯১ সালে ভারত থেকে ইংল্যান্ডে রুপি-পেপারের রপ্তানি ৫১,৩৮,০০০ রুপিতে পৌঁছায়; এর কারণ হিসেবে লন্ডনে রূপায় প্রদেয় সিকিউরিটিজের সোনায় পরিমাপিত উচ্চতর মূল্যকে উল্লেখ করা হয়।",
+      "related_banking_power_records": [
+        "india-currency-notes-bank-reserve-1891",
+        "india-currency-commission-report-exchange-1888",
+        "india-council-bills-exchange-gain-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / Indian monetary regime / London valuation and cross-border rupee-paper movement",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1891 rupee-paper movement layer"
     },
     {
       "source_id": "panic-1907",
@@ -10900,18 +10931,31 @@
     }
   },
   "structural_audit_2026_10_07_v80": {
-      "status": "Completed after 1891 currency-note reserve deployment",
-      "records_audited": 149,
-      "duplicate_source_ids": 0,
-      "duplicate_primary_passages": 0,
-      "chronological_order": true,
-      "missing_year_fields": 0,
-      "grade_counts": {
-        "A": 144,
-        "B": 5,
-        "C": 0,
-        "D": 0
-      }
+    "status": "Completed after 1891 currency-note reserve deployment",
+    "records_audited": 149,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 144,
+      "B": 5,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "structural_audit_2026_10_07_v81": {
+    "status": "Completed after 1891 rupee-paper movement deployment",
+    "records_audited": 150,
+    "duplicate_source_ids": 0,
+    "duplicate_primary_passages": 0,
+    "chronological_order": true,
+    "missing_year_fields": 0,
+    "grade_counts": {
+      "A": 145,
+      "B": 5,
+      "C": 0,
+      "D": 0
     }
   }
-
+}
