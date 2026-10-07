@@ -5563,6 +5563,37 @@
       }
     },
     {
+      "source_id": "india-borrowing-credit-highest-point-1895",
+      "title": "India’s Borrowing Credit Reaches Its Highest Point, 1895",
+      "date_label": "4 September 1895",
+      "historical_claim": "The Secretary of State for India identified the credit available to the Indian Government for borrowing purposes as having reached a higher point than ever previously attained during the 1894–95 financial year.",
+      "verification_status": "Primary parliamentary statement verified in official Historic Hansard.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1895/sep/04/east-india-revenue-accounts",
+      "primary_passage": "The deficit has been converted into a considerable surplus under the most depressed conditions yet known in connection with exchange; there has been the largest sale of bills upon India; the credit for borrowing purposes is raised to a higher point than has ever before been attained; and the last, but I am afraid not the least, feature is the imposition of Import Duties upon cotton goods.",
+      "passage_locator": "House of Commons Hansard, 4 September 1895, vol. 36, col. 1699, East India Revenue Accounts; Lord George Hamilton’s summary of the distinctive features of the 1894–95 financial year.",
+      "source_identity": "House of Commons, Historic Hansard, East India Revenue Accounts, 4 September 1895; statement by Lord George Hamilton, Secretary of State for India.",
+      "what_passage_establishes": "The parliamentary statement explicitly records that the Indian Government’s credit for borrowing purposes had risen to a level described as higher than any previously attained, placing sovereign borrowing capacity among the stated defining features of the 1894–95 financial position.",
+      "evidence_limits": "The passage does not identify a numerical credit rating, precise market yield, individual borrowing issue, or the specific transaction that produced the stated improvement. It establishes the official contemporary assessment of borrowing credit only.",
+      "related_banking_power_records": [
+        "east-india-loan-10000000-1893",
+        "india-sterling-debt-failed-bill-sales-1895",
+        "india-council-bills-record-sales-1894-95",
+        "india-four-percent-rupee-loan-conversion-3-half-1895"
+      ],
+      "bn_title": "ভারতের ঋণগ্রহণের ক্রেডিট ১৮৯৫ সালে সর্বোচ্চ পর্যায়ে পৌঁছায়",
+      "bn_historical_claim": "ভারতের সেক্রেটারি অব স্টেট জানান যে ১৮৯৪–৯৫ অর্থবছরে ভারতীয় সরকারের ঋণগ্রহণের ক্রেডিট আগের যেকোনো সময়ের তুলনায় উচ্চতর পর্যায়ে পৌঁছেছিল।",
+      "publication_status": "A-grade — exact parliamentary passage and locator locked.",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -10141,7 +10172,7 @@
       }
     }
   },
-  "next_priority": "Continue 1895 screening for the next genuinely distinct primary evidence layer after the London-obligation exchange burden, avoiding duplication of Council-bill sales, failed-bill debt, rupee-loan conversion, and Royal Commission records.",
+  "next_priority": "Complete 1895 screening for any remaining distinct primary layer, then advance to the next chronological year rather than duplicating the 1895 currency, Council-bill, debt, conversion, or London-obligation records.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -11728,5 +11759,17 @@
       "B": 5
     },
     "notes": "Added distinct 1895 parliamentary evidence quantifying the rise in India’s London-obligation charge and its stated absorption of 27% of net Imperial revenue; screened against existing exchange, sterling-debt, Council-bill, and rupee-loan records."
+  },
+  "structural_audit_2026_10_07_v89": {
+    "audit_date": "2026-10-07",
+    "record_count": 166,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 161,
+      "B": 5
+    },
+    "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   }
 }
