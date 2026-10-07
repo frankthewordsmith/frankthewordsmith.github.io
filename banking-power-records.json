@@ -5010,6 +5010,51 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1891 rupee-paper movement layer"
     },
     {
+      "source_id": "india-trade-surplus-treasure-imports-1891",
+      "title": "India Trade Surplus and Treasure Imports, 1891: Export Surplus Falls to Rx.9.939 Million as Treasure Imports Rise to Rx.13.635 Million",
+      "date_label": "4 August 1891",
+      "year": 1891,
+      "evidence_grade": "A",
+      "historical_claim": "The official parliamentary record reported that India's export surplus for June–January fell to Rx.9,939,000 in 1890–91 while net imports of treasure rose to Rx.13,635,000, producing a surplus of imports of Rx.3,696,000.",
+      "verification_status": "Verified direct official parliamentary record.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "bn_title": "ভারতের বাণিজ্য উদ্বৃত্ত ও ধনসম্পদ আমদানি, ১৮৯১",
+      "bn_historical_claim": "সরকারি সংসদীয় রেকর্ডে দেখা যায়, ১৮৯০–৯১ সালে জুন–জানুয়ারি সময়ে ভারতের রপ্তানি উদ্বৃত্ত কমে ৯৯.৩৯ লক্ষ রুপিতে নেমে আসে এবং ধনসম্পদের নিট আমদানি বেড়ে ১৩৬.৩৫ লক্ষ রুপিতে পৌঁছে।",
+      "notes": "Distinct trade-and-specie-flow layer; it should not be treated as proof of ownership or a single causal explanation.",
+      "primary_passage": "The surplus of exports over imports, which had been Rx.18,173,000 in 1889–90, and which had averaged Rx.13,726,000 in the four years ending with 1889–90, fell to Rx.9,939,000 in 1890–91, and the net imports of treasure which had been Rx.8,763,000 in 1889–90, and which in the four years previous averaged Rx.6,791,000, rose to Rx.13,635,000 in 1890–91; and, in consequence of this, instead of a surplus of total exports in these months, which had been Rx.9,410,000 in 1889–90, and which in the four years averaged Rx.6,935,000, there was a surplus of imports in 1890–91 amounting to Rx.3,696,000.",
+      "passage_locator": "Hansard, House of Commons, 4 August 1891, vol. 356, cols. 1325–1326, 'East India (Revenue Accounts)' / Committee.",
+      "passage_status": "Exact primary passage verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "passage_type": "official-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "Official parliamentary record of the East India financial discussion reporting Indian trade balances and net imports of treasure.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1891,
+      "what_passage_establishes": "It establishes the reported fall in the export surplus, rise in net treasure imports, and movement to a total import surplus for the specified June–January comparison.",
+      "evidence_limits": "It does not establish the ultimate ownership of the imported treasure, its precise private-versus-government composition, or a single causal explanation for the trade movement.",
+      "related_banking_power_records": [
+        "india-rupee-paper-export-england-1891",
+        "india-currency-notes-bank-reserve-1891"
+      ],
+      "scholarly_references": [],
+      "publication_status": "A-grade — exact official parliamentary passage and locator locked; source page deployed.",
+      "book_1_integration": "Banking Power / Indian monetary regime / trade and specie-flow layer",
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "trade_and_specie_flows"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
       "verification_status": "Verified direct official parliamentary record.",
       "evidence_grade": "A",
       "passage_status": "Exact primary passage verified.",
@@ -9635,7 +9680,7 @@
       }
     }
   },
-  "next_priority": "After the four 1891 deployments, continue screening 1891 for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate exchange-rate, Council-bill, railway, and Baring layers.",
+  "next_priority": "Continue 1891 screening for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate trade/specie and exchange layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -11149,5 +11194,17 @@
       "B": 5
     },
     "notes": "Added four previously verified 1891 records; source pages had already been created. Master JSON updated only after live SHA verification."
+  },
+  "structural_audit_2026_10_07_v83": {
+    "audit_date": "2026-10-07",
+    "record_count": 155,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 150,
+      "B": 5
+    },
+    "notes": "Added distinct 1891 trade/specie-flow evidence after screening against already deployed exchange, Council-bill, railway, currency-note, bank-rate and Baring layers."
   }
 }
