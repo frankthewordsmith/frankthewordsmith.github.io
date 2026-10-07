@@ -771,59 +771,6 @@
       }
     },
     {
-      "source_id": "bank-of-england-crisis-1825",
-      "title": "Financial crisis of 1825–1826 and Bank of England branches",
-      "date_label": "1825–1826",
-      "historical_claim": "The Bank of England's historical records describe the 1825–1826 crisis, in which many country and provincial banks failed, as a reason for establishing Bank of England branches from 1826.",
-      "verification_status": "Primary-source verified — Country Bankers Act 1826",
-      "evidence_grade": "A",
-      "source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
-      "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
-      "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
-      "notes": "The earlier quotation came from the Act's separate joint-stock-banking provision and did not directly evidence the branch response described by this record. It has been replaced with the section 15 branch-authorisation wording. The Bank of England archive independently identifies section 15 as the legislative approval for branches established in response to the 1825 crisis.",
-      "primary_passage": "the Governor and Company of the Bank of England may establish Branches or Offices of the said Governor and Company in any City or Town in Great Britain",
-      "passage_locator": "Country Bankers Act 1826, 7 Geo. IV c.46, section 15, provision authorising the Bank of England to establish branches/offices.",
-      "passage_status": "Passage locked — primary legislation",
-      "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
-      "passage_type": "english-primary-text",
-      "language": "English",
-      "last_verified": "2026-10-01",
-      "source_identity": "Country Bankers Act 1826, 7 Geo. IV c.46, original legislation; section 15; publisher/authority: UK Parliament / legislation.gov.uk; year: 1826.",
-      "edition": "Country Bankers Act 1826, 7 Geo. IV c.46, original legislation; section 15",
-      "publisher": "UK Parliament / legislation.gov.uk",
-      "publication_year": 1826,
-      "what_passage_establishes": "The earlier quotation came from the Act's separate joint-stock-banking provision and did not directly evidence the branch response described by this record.",
-      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
-      "related_banking_power_records": [
-        "rothschild-prussian-loan-1818",
-        "bank-charter-act-1844"
-      ],
-      "scholarly_references": [
-        "Richard Roberts, *The Bank of England: Money, Power and Influence 1694–1994* (Oxford University Press, 1995), discussion of nineteenth-century crises and the Bank's evolving role.",
-        "Michael Collins, *Banks and Industrial Finance in Britain, 1800–1939* (Macmillan, 1991), discussion of British banking structure and nineteenth-century crises."
-      ],
-      "year": 1825,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1825
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "banking_crises_and_liquidity"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "central_banks",
-          "financial_crises"
-        ]
-      }
-    },
-    {
       "source_id": "rothschild-brazil-loan-1825",
       "title": "Rothschild and the Brazilian Government Loan, 1825",
       "date_label": "1825",
@@ -880,6 +827,59 @@
         ]
       },
       "deployment_note": "Added during the Sovereign Debt expansion pass. Evidence scope is restricted to Rothschild's documented management/sale of the 1825 £2 million Brazilian placement."
+    },
+    {
+      "source_id": "bank-of-england-crisis-1825",
+      "title": "Financial crisis of 1825–1826 and Bank of England branches",
+      "date_label": "1825–1826",
+      "historical_claim": "The Bank of England's historical records describe the 1825–1826 crisis, in which many country and provincial banks failed, as a reason for establishing Bank of England branches from 1826.",
+      "verification_status": "Primary-source verified — Country Bankers Act 1826",
+      "evidence_grade": "A",
+      "source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
+      "bn_title": "১৮২৫–১৮২৬ আর্থিক সংকট ও ব্যাংক অব ইংল্যান্ডের শাখা",
+      "bn_historical_claim": "ব্যাংক অব ইংল্যান্ডের ইতিহাস অনুযায়ী, ১৮২৫–১৮২৬ সালের সংকটে বহু দেশীয় ও প্রাদেশিক ব্যাংক ব্যর্থ হওয়ার পর ১৮২৬ সাল থেকে ব্যাংক অব ইংল্যান্ড শাখা প্রতিষ্ঠার উদ্যোগ নেয়।",
+      "notes": "The earlier quotation came from the Act's separate joint-stock-banking provision and did not directly evidence the branch response described by this record. It has been replaced with the section 15 branch-authorisation wording. The Bank of England archive independently identifies section 15 as the legislative approval for branches established in response to the 1825 crisis.",
+      "primary_passage": "the Governor and Company of the Bank of England may establish Branches or Offices of the said Governor and Company in any City or Town in Great Britain",
+      "passage_locator": "Country Bankers Act 1826, 7 Geo. IV c.46, section 15, provision authorising the Bank of England to establish branches/offices.",
+      "passage_status": "Passage locked — primary legislation",
+      "passage_source_url": "https://www.legislation.gov.uk/ukpga/Geo4/7/46/pdfs/ukpga_18260046_en.pdf",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-01",
+      "source_identity": "Country Bankers Act 1826, 7 Geo. IV c.46, original legislation; section 15; publisher/authority: UK Parliament / legislation.gov.uk; year: 1826.",
+      "edition": "Country Bankers Act 1826, 7 Geo. IV c.46, original legislation; section 15",
+      "publisher": "UK Parliament / legislation.gov.uk",
+      "publication_year": 1826,
+      "what_passage_establishes": "The earlier quotation came from the Act's separate joint-stock-banking provision and did not directly evidence the branch response described by this record.",
+      "evidence_limits": "The passage establishes the cited institutional/legal/financial proposition; it does not by itself establish broader causal claims beyond the text and its documentary context.",
+      "related_banking_power_records": [
+        "rothschild-prussian-loan-1818",
+        "bank-charter-act-1844"
+      ],
+      "scholarly_references": [
+        "Richard Roberts, *The Bank of England: Money, Power and Influence 1694–1994* (Oxford University Press, 1995), discussion of nineteenth-century crises and the Bank's evolving role.",
+        "Michael Collins, *Banks and Industrial Finance in Britain, 1800–1939* (Macmillan, 1991), discussion of British banking structure and nineteenth-century crises."
+      ],
+      "year": 1825,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1825
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "banking_crises_and_liquidity"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "financial_crises"
+        ]
+      }
     },
     {
       "source_id": "baring-mexican-debt-agency-1829",
@@ -4478,6 +4478,37 @@
       }
     },
     {
+      "source_id": "south-indian-railway-purchase-borrowing-authority-1890",
+      "title": "South Indian Railway Purchase, 1890: £5.267 Million Borrowing Authority Against Indian Revenues",
+      "date_label": "17 March 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "Parliament authorized the Secretary of State in Council of India to raise up to £5,267,366 11s. 2d. in the United Kingdom, secured on Indian revenues, for the purchase of the South Indian Railway and redemption of its debentures.",
+      "verification_status": "Verified primary parliamentary borrowing authorization.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/mar/17/south-indian-railway-purchase",
+      "primary_passage": "Resolved, That it is expedient to authorise the Secretary of State in Council of India to raise in the United Kingdom, on the securities of the Revenues of India, any sum or sums of money, not exceeding in the whole the sum of £5,267,366 11s. 2d., for the purchase of the South Indian Railway, and for the discharge and redemption of debentures thereon.",
+      "passage_locator": "Hansard, House of Commons, 17 March 1890, vol. 342, col. 1091, 'South Indian Railway Purchase'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Parliamentary resolution authorizing borrowing in the United Kingdom on the security of Indian revenues.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "The House authorized a maximum borrowing power of £5,267,366 11s. 2d. in the United Kingdom, secured on Indian revenues, specifically for acquisition of the South Indian Railway and discharge/redemption of its debentures.",
+      "evidence_limits": "This resolution establishes borrowing authority, not the subsequent amount actually raised, issue price, coupon, lender or underwriting arrangements, timing of the borrowing, or final purchase accounting. It also does not by itself establish completion of the purchase.",
+      "notes": "Distinct from earlier Indian railway financing records because this is a specific 1890 sovereign borrowing authority for acquisition of an existing railway and redemption of its debentures.",
+      "bn_title": "সাউথ ইন্ডিয়ান রেলওয়ে ক্রয়, ১৮৯০: ভারতীয় রাজস্বের জামানতে £৫.২৬৭ মিলিয়ন ঋণগ্রহণের অনুমোদন",
+      "bn_historical_claim": "১৮৯০ সালে ব্রিটিশ পার্লামেন্ট ভারতীয় রাজস্বের জামানতে সর্বোচ্চ £৫,২৬৭,৩৬৬ ১১ শিলিং ২ পেনি ঋণ নিয়ে সাউথ ইন্ডিয়ান রেলওয়ে ক্রয় এবং তার ডিবেঞ্চার পরিশোধ/রিডেম্পশনের অনুমোদন দেয়।",
+      "related_banking_power_records": [
+        "oude-rohilkund-railway-purchase-financing-1888",
+        "india-public-works-loan-1889",
+        "british-government-railway-company-onlending-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / sovereign debt / railway acquisition",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 sovereign railway acquisition and debt redemption layer"
+    },
+    {
       "source_id": "baring-crisis-1890",
       "title": "Baring Crisis, 1890",
       "date_label": "1890",
@@ -4534,35 +4565,190 @@
       }
     },
     {
-      "source_id": "south-indian-railway-purchase-borrowing-authority-1890",
-      "title": "South Indian Railway Purchase, 1890: £5.267 Million Borrowing Authority Against Indian Revenues",
-      "date_label": "17 March 1890",
+      "source_id": "india-council-bills-sale-policy-1890",
+      "title": "India Council Bills, 1890: Government Rejects Delaying Necessary Bill Sales for a Higher Silver Exchange",
+      "date_label": "21 July 1890",
       "year": 1890,
       "evidence_grade": "A",
-      "historical_claim": "Parliament authorized the Secretary of State in Council of India to raise up to £5,267,366 11s. 2d. in the United Kingdom, secured on Indian revenues, for the purchase of the South Indian Railway and redemption of its debentures.",
-      "verification_status": "Verified primary parliamentary borrowing authorization.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/mar/17/south-indian-railway-purchase",
-      "primary_passage": "Resolved, That it is expedient to authorise the Secretary of State in Council of India to raise in the United Kingdom, on the securities of the Revenues of India, any sum or sums of money, not exceeding in the whole the sum of £5,267,366 11s. 2d., for the purchase of the South Indian Railway, and for the discharge and redemption of debentures thereon.",
-      "passage_locator": "Hansard, House of Commons, 17 March 1890, vol. 342, col. 1091, 'South Indian Railway Purchase'.",
+      "historical_claim": "The Secretary of State for India stated that Council-bill sales had not been increased because of anticipated United States silver legislation, that no surplus sale had occurred and therefore no loss had resulted, and that necessary bill sales could not be delayed merely in expectation of a future rise in silver.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/21/india-council-bills",
+      "primary_passage": "India Council Bills have not been sold for some time past much beyond the average monthly rate. The expectation of legislation in the United States has not influenced the amount of the sales. ... There has been no surplus sale, and consequently no loss. As regards the last paragraph, the Secretary of State cannot delay such sale of bills as is necessary to meet the wants of the Service on the chance of a future rise in the value of silver.",
+      "passage_locator": "Hansard, House of Commons, 21 July 1890, vol. 347, col. 331, 'India Council Bills'.",
       "passage_status": "Exact primary passage verified.",
-      "source_identity": "Parliamentary resolution authorizing borrowing in the United Kingdom on the security of Indian revenues.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning Council-bill sale policy and silver-exchange expectations.",
       "edition": "Historic Hansard, House of Commons debate record",
       "publisher": "UK Parliament / Hansard",
       "publication_year": 1890,
-      "what_passage_establishes": "The House authorized a maximum borrowing power of £5,267,366 11s. 2d. in the United Kingdom, secured on Indian revenues, specifically for acquisition of the South Indian Railway and discharge/redemption of its debentures.",
-      "evidence_limits": "This resolution establishes borrowing authority, not the subsequent amount actually raised, issue price, coupon, lender or underwriting arrangements, timing of the borrowing, or final purchase accounting. It also does not by itself establish completion of the purchase.",
-      "notes": "Distinct from earlier Indian railway financing records because this is a specific 1890 sovereign borrowing authority for acquisition of an existing railway and redemption of its debentures.",
-      "bn_title": "সাউথ ইন্ডিয়ান রেলওয়ে ক্রয়, ১৮৯০: ভারতীয় রাজস্বের জামানতে £৫.২৬৭ মিলিয়ন ঋণগ্রহণের অনুমোদন",
-      "bn_historical_claim": "১৮৯০ সালে ব্রিটিশ পার্লামেন্ট ভারতীয় রাজস্বের জামানতে সর্বোচ্চ £৫,২৬৭,৩৬৬ ১১ শিলিং ২ পেনি ঋণ নিয়ে সাউথ ইন্ডিয়ান রেলওয়ে ক্রয় এবং তার ডিবেঞ্চার পরিশোধ/রিডেম্পশনের অনুমোদন দেয়।",
+      "what_passage_establishes": "It establishes the Government's stated Council-bill sale policy: sales were not being deliberately increased in anticipation of U.S. silver legislation; no surplus sale had occurred; and necessary sales to meet service requirements could not be postponed in hope of a future rise in silver.",
+      "evidence_limits": "This passage does not quantify the full annual sales program, identify purchasers or intermediaries, or establish whether the policy maximized revenue. It records the Government's official answer rather than an independent assessment of the policy.",
+      "notes": "Distinct from the 1890 Council-bill volume and exchange-sensitivity records: this record captures the stated institutional decision rule governing when bill sales could be made or deferred.",
+      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: রূপার বিনিময় হার বাড়ার আশায় প্রয়োজনীয় বিল বিক্রি স্থগিত করা হয়নি",
+      "bn_historical_claim": "ভারত সরকারের বক্তব্য ছিল, মার্কিন রূপা-সংক্রান্ত আইন প্রত্যাশা করে কাউন্সিল বিলের বিক্রি বাড়ানো হয়নি; কোনো অতিরিক্ত বিক্রিও হয়নি, ফলে এমন বিক্রয়জনিত ক্ষতি ঘটেনি; এবং ভবিষ্যতে রূপার মূল্য বাড়তে পারে—এই আশায় পরিষেবার প্রয়োজনীয় বিল বিক্রি স্থগিত করা যায় না।",
       "related_banking_power_records": [
-        "oude-rohilkund-railway-purchase-financing-1888",
-        "india-public-works-loan-1889",
-        "british-government-railway-company-onlending-1889"
+        "india-council-bill-sales-volume-1890",
+        "india-council-bills-exchange-gain-1890",
+        "india-official-exchange-rate-servants-transactions-1890"
       ],
       "scholarly_references": [],
       "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / sovereign debt / railway acquisition",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 sovereign railway acquisition and debt redemption layer"
+      "book_1_integration": "Banking Power / India Office remittance mechanism / Council-bill policy",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill sale policy layer"
+    },
+    {
+      "source_id": "india-salt-tax-revenue-1889-90",
+      "title": "India Salt Tax Revenue, 1889–90: Gross Receipts of Rx.8.19 Million",
+      "date_label": "21 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Government of India reported gross Salt Tax receipts of 8,192,500 tens of rupees for the 1889–90 financial year.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/21/the-salt-tax-in-india",
+      "primary_passage": "The gross receipts from the Salt Tax for 1889–90 were 8,192,500 tens of rupees.",
+      "passage_locator": "Hansard, House of Commons, 21 July 1890, vol. 347, col. 332, The Salt Tax in India.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer reporting Indian Exchequer receipts from the Salt Tax.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "Gross Salt Tax receipts reported for 1889–90: 8,192,500 tens of rupees.",
+      "evidence_limits": "Gross receipts only; it does not establish net revenue, collection costs, regional distribution, commodity volumes, or policy effects.",
+      "notes": "Distinct fiscal-revenue layer from the exchange-rate records.",
+      "bn_title": "ভারতের লবণ কর রাজস্ব, ১৮৮৯–৯০: মোট আদায় Rx.৮.১৯ মিলিয়ন",
+      "bn_historical_claim": "ভারত সরকার জানায়, ১৮৮৯–৯০ অর্থবছরে লবণ কর থেকে মোট ৮,১৯২,৫০০ দশ-রুপি আদায় হয়েছিল।",
+      "related_banking_power_records": [
+        "india-provincial-finance-decentralisation-1889",
+        "india-revenue-deficit-capital-outlay-1888-89",
+        "india-rate-of-exchange-budget-surplus-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / fiscal revenue / taxation",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fiscal-revenue layer"
+    },
+    {
+      "source_id": "india-official-exchange-rate-servants-transactions-1890",
+      "title": "India Official Exchange Rate, 1890: Fixed at 1s. 5d. for Nearly £1 Million of Transactions",
+      "date_label": "22 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Secretary of State for India stated that the official exchange rate fixed in March 1890 at 1s. 5d. per rupee could not be altered during the financial year because it applied to transactions amounting to nearly £1,000,000.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/22/rate-of-exchange-in-india",
+      "primary_passage": "The Secretary has no information of the matter. In reply to the question of the hon. Member for Hull (Mr. King), I have to say that the Secretary of State cannot alter the official rate of exchange after it has been once fixed. It is applied to very large transactions, amounting nearly to £1,000,000.",
+      "passage_locator": "Hansard, House of Commons, 22 July 1890, vol. 347, cols. 498–499, 'Rate of Exchange in India'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning the fixed official exchange rate used for large Government transactions.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes that the official rupee exchange rate had been fixed at 1s. 5d. in March 1890, could not be altered after fixation for that financial year, and applied to transactions totaling nearly £1,000,000.",
+      "evidence_limits": "The answer does not identify every transaction covered, explain the full administrative rule governing the fixed rate, or quantify the Government's net gain or loss from applying it. The questioner's claims about pensions and exchange gains are not treated as established facts here.",
+      "notes": "Distinct institutional monetary layer from the July and December 1890 exchange records: it documents the administrative use of a fixed official exchange rate for a substantial volume of Government transactions.",
+      "bn_title": "ভারতের সরকারি বিনিময় হার, ১৮৯০: প্রায় £১ মিলিয়ন লেনদেনে ১ শিলিং ৫ পেনি হার স্থির",
+      "bn_historical_claim": "১৮৯০ সালের মার্চে প্রতি রুপিতে ১ শিলিং ৫ পেনি সরকারি বিনিময় হার নির্ধারিত হয় এবং তা পরিবর্তন করা যায়নি; এই হার প্রায় £১,০০০,০০০ মূল্যের বৃহৎ সরকারি লেনদেনে প্রয়োগ করা হতো।",
+      "related_banking_power_records": [
+        "india-council-bills-exchange-gain-1890",
+        "india-rate-of-exchange-budget-surplus-1890",
+        "india-rupee-exchange-fiscal-burden-1888"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / monetary regime / official exchange administration",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fixed official exchange-rate administration layer"
+    },
+    {
+      "source_id": "south-indian-railway-guarantee-termination-economy-1890",
+      "title": "South Indian Railway Guarantee, 1890: Government Purchase Ends Guarantee and Saves £36,000",
+      "date_label": "24 March 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The Government stated that its 1890 purchase of the South Indian Railway exercised a power reserved under the 1873 guarantee to terminate the guarantee and purchase the railway, producing an estimated annual economy of £36,000.",
+      "verification_status": "Verified direct official parliamentary statement.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/mar/24/south-indian-railway-purchase-bill-no-105",
+      "primary_passage": "The policy of the Government is to construct railways in the cheapest possible manner for the people of India. No fresh guarantee is proposed under this Bill. The proposal is to carry out an arrangement by which an economy of, £36,000 will be effected in the interest of the people of India. Under the conditions of the guarantee entered into in 1873, power was reserved to the Secretary of State for India to terminate the guarantee in 1890, and purchase on terms there specified. ... It is to give effect to that power reserved to the Government, and, to effect the economy I have mentioned, we ask the House to sanction the purchase.",
+      "passage_locator": "Hansard, House of Commons, 24 March 1890, vol. 342, cols. 1796–1797, 'South Indian Railway Purchase Bill.—(No. 105.)'",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official statement by the First Lord of the Treasury during debate on the South Indian Railway Purchase Bill.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "The Government explicitly linked the 1890 purchase to a termination-and-purchase power reserved in the 1873 guarantee and stated that the arrangement would effect an economy of £36,000.",
+      "evidence_limits": "The £36,000 is the Government's stated expected economy, not an independently audited realized saving. The passage does not give the full 1873 guarantee terms, purchase price, or subsequent financial results.",
+      "notes": "This is a distinct contractual/guarantee layer within the South Indian Railway transaction: the March 17 record establishes borrowing authority, while this record establishes the legal mechanism and stated fiscal rationale for terminating the guarantee and purchasing the railway.",
+      "bn_title": "সাউথ ইন্ডিয়ান রেলওয়ে গ্যারান্টি, ১৮৯০: সরকারি ক্রয়ে গ্যারান্টি সমাপ্ত ও £৩৬,০০০ সাশ্রয়",
+      "bn_historical_claim": "১৮৯০ সালে সরকার জানায় যে ১৮৭৩ সালের গ্যারান্টিতে সংরক্ষিত ক্ষমতা ব্যবহার করে সাউথ ইন্ডিয়ান রেলওয়ের গ্যারান্টি সমাপ্ত করে রেলওয়েটি কেনা হবে এবং এতে বছরে আনুমানিক £৩৬,০০০ সাশ্রয় হবে।",
+      "related_banking_power_records": [
+        "south-indian-railway-purchase-borrowing-authority-1890",
+        "british-government-railway-company-onlending-1889",
+        "delhi-umballa-kalka-railway-concession-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / railway guarantees / public acquisition / sovereign finance",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 guarantee termination and railway acquisition mechanism"
+    },
+    {
+      "source_id": "india-council-bill-sales-volume-1890",
+      "title": "India Council Bills, 1890: March–May Sales Rose to Rs.8.29 Crore",
+      "date_label": "25 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "Official parliamentary figures show Indian Council bill and telegraphic-transfer sales of Rs.8,29,00,000 in March–May 1890, versus Rs.6,55,48,015 in the corresponding months of 1889.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/25/sale-of-bills-and-telegraph-transfers-in",
+      "primary_passage": "The sales of bills and transfers during March, April, and May this year were Rs.8,29,00,000, against Rs.6,55,48,015 in the corresponding months of 1889.",
+      "passage_locator": "Hansard, House of Commons, 25 July 1890, vol. 347, col. 903, 'Sale of Bills and Telegraph Transfers in India'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer reporting India Council bill and telegraphic-transfer sales for March–May 1890 and the comparable 1889 period.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes the official volume of Council bill and telegraphic-transfer sales during March–May 1890 and provides the directly comparable 1889 figure.",
+      "evidence_limits": "The passage does not identify purchasers, individual maturities, prices, discount rates, allocation by bill versus transfer, or the full annual volume. It therefore does not by itself establish the identities or concentration of the financial intermediaries involved.",
+      "notes": "Distinct from the 1890 exchange-rate records: this record captures the scale of the India Office's bill/transfer sales mechanism itself, rather than the exchange rate or its fiscal sensitivity.",
+      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: মার্চ–মে বিক্রি বেড়ে Rs.৮.২৯ কোটি",
+      "bn_historical_claim": "সরকারি সংসদীয় তথ্য অনুযায়ী ১৮৯০ সালের মার্চ–মে মাসে ভারতীয় কাউন্সিল বিল ও টেলিগ্রাফিক ট্রান্সফারের বিক্রি ছিল Rs.৮,২৯,০০,০০০; ১৮৮৯ সালের একই সময়ে ছিল Rs.৬,৫৫,৪৮,০১৫।",
+      "related_banking_power_records": [
+        "india-council-bills-exchange-gain-1890",
+        "india-official-exchange-rate-servants-transactions-1890",
+        "india-rate-of-exchange-budget-surplus-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / India Office remittance mechanism / Council bills",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and telegraphic-transfer volume layer"
+    },
+    {
+      "source_id": "india-council-bills-exchange-gain-1890",
+      "title": "India Council Bills, 1890: One Penny Rise in Exchange Produces Rx.1.1 Million Gain",
+      "date_label": "25 July 1890",
+      "year": 1890,
+      "evidence_grade": "A",
+      "historical_claim": "The India Office reported that a rise in the exchange rate from 1s. 6d. to 1s. 7d. per rupee produced a gain of Rx.1,100,000, and that Council bills were then fetching 3d. per rupee more than when silver was at 3s. 6d. per ounce.",
+      "verification_status": "Verified direct official parliamentary answer.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/25/indian-exchequer-and-the-rate-of-exchange",
+      "primary_passage": "The gain produced by the rise of 1d. varies with the rate of exchange. The gain by a rise from 1s. 6d. to 1s. 7d. is Rx.1,100,000. Council bills are fetching 3d. per rupee more than when silver was at 3s. 6d. per ounce.",
+      "passage_locator": "Hansard, House of Commons, 25 July 1890, vol. 347, cols. 903–904, 'Indian Exchequer and the Rate of Exchange'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary answer by the Under Secretary of State for India on the fiscal effect of exchange movements and the price of Council bills.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1890,
+      "what_passage_establishes": "It establishes an official contemporary calculation of the Indian Exchequer's gain from a one-penny exchange-rate rise at a specified rate, and records the then-current premium on Council bills relative to the stated silver-price benchmark.",
+      "evidence_limits": "The answer gives an illustrative exchange-rate gain rather than a full-year audited result. It does not establish the aggregate annual gain from all exchange movements, the complete Council-bill pricing mechanism, or causation between silver prices and the quoted bill premium.",
+      "notes": "Distinct from the December 1890 exchange-budget variance record: this passage quantifies the marginal fiscal sensitivity of the Indian Exchequer to exchange-rate movement and explicitly connects the contemporary Council-bill rate to the silver-price benchmark.",
+      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: বিনিময় হারে এক পেনি বৃদ্ধি থেকে Rx.১.১ মিলিয়ন লাভ",
+      "bn_historical_claim": "ভারতীয় এক্সচেকার জানায়, বিনিময় হার ১ শিলিং ৬ পেনি থেকে ১ শিলিং ৭ পেনিতে উঠলে Rx.১,১০০,০০০ লাভ হয়; একই সময়ে কাউন্সিল বিল রুপিপ্রতি ৩ পেনি বেশি দামে বিক্রি হচ্ছিল, যখন রূপার দাম ছিল প্রতি আউন্স ৩ শিলিং ৬ পেনি।",
+      "related_banking_power_records": [
+        "india-rupee-exchange-fiscal-burden-1888",
+        "india-currency-commission-report-exchange-1888",
+        "india-rate-of-exchange-budget-surplus-1890"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / monetary regime / Council bills and exchange exposure",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and exchange-sensitivity layer"
     },
     {
       "source_id": "india-rate-of-exchange-budget-surplus-1890",
@@ -4597,68 +4783,6 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 exchange-rate and Indian Exchequer layer"
     },
     {
-      "source_id": "india-council-bills-exchange-gain-1890",
-      "title": "India Council Bills, 1890: One Penny Rise in Exchange Produces Rx.1.1 Million Gain",
-      "date_label": "25 July 1890",
-      "year": 1890,
-      "evidence_grade": "A",
-      "historical_claim": "The India Office reported that a rise in the exchange rate from 1s. 6d. to 1s. 7d. per rupee produced a gain of Rx.1,100,000, and that Council bills were then fetching 3d. per rupee more than when silver was at 3s. 6d. per ounce.",
-      "verification_status": "Verified direct official parliamentary answer.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/25/indian-exchequer-and-the-rate-of-exchange",
-      "primary_passage": "The gain produced by the rise of 1d. varies with the rate of exchange. The gain by a rise from 1s. 6d. to 1s. 7d. is Rx.1,100,000. Council bills are fetching 3d. per rupee more than when silver was at 3s. 6d. per ounce.",
-      "passage_locator": "Hansard, House of Commons, 25 July 1890, vol. 347, cols. 903–904, 'Indian Exchequer and the Rate of Exchange'.",
-      "passage_status": "Exact primary passage verified.",
-      "source_identity": "Official parliamentary answer by the Under Secretary of State for India on the fiscal effect of exchange movements and the price of Council bills.",
-      "edition": "Historic Hansard, House of Commons debate record",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1890,
-      "what_passage_establishes": "It establishes an official contemporary calculation of the Indian Exchequer's gain from a one-penny exchange-rate rise at a specified rate, and records the then-current premium on Council bills relative to the stated silver-price benchmark.",
-      "evidence_limits": "The answer gives an illustrative exchange-rate gain rather than a full-year audited result. It does not establish the aggregate annual gain from all exchange movements, the complete Council-bill pricing mechanism, or causation between silver prices and the quoted bill premium.",
-      "notes": "Distinct from the December 1890 exchange-budget variance record: this passage quantifies the marginal fiscal sensitivity of the Indian Exchequer to exchange-rate movement and explicitly connects the contemporary Council-bill rate to the silver-price benchmark.",
-      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: বিনিময় হারে এক পেনি বৃদ্ধি থেকে Rx.১.১ মিলিয়ন লাভ",
-      "bn_historical_claim": "ভারতীয় এক্সচেকার জানায়, বিনিময় হার ১ শিলিং ৬ পেনি থেকে ১ শিলিং ৭ পেনিতে উঠলে Rx.১,১০০,০০০ লাভ হয়; একই সময়ে কাউন্সিল বিল রুপিপ্রতি ৩ পেনি বেশি দামে বিক্রি হচ্ছিল, যখন রূপার দাম ছিল প্রতি আউন্স ৩ শিলিং ৬ পেনি।",
-      "related_banking_power_records": [
-        "india-rupee-exchange-fiscal-burden-1888",
-        "india-currency-commission-report-exchange-1888",
-        "india-rate-of-exchange-budget-surplus-1890"
-      ],
-      "scholarly_references": [],
-      "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / monetary regime / Council bills and exchange exposure",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and exchange-sensitivity layer"
-    },
-    {
-      "source_id": "india-official-exchange-rate-servants-transactions-1890",
-      "title": "India Official Exchange Rate, 1890: Fixed at 1s. 5d. for Nearly £1 Million of Transactions",
-      "date_label": "22 July 1890",
-      "year": 1890,
-      "evidence_grade": "A",
-      "historical_claim": "The Secretary of State for India stated that the official exchange rate fixed in March 1890 at 1s. 5d. per rupee could not be altered during the financial year because it applied to transactions amounting to nearly £1,000,000.",
-      "verification_status": "Verified direct official parliamentary answer.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/22/rate-of-exchange-in-india",
-      "primary_passage": "The Secretary has no information of the matter. In reply to the question of the hon. Member for Hull (Mr. King), I have to say that the Secretary of State cannot alter the official rate of exchange after it has been once fixed. It is applied to very large transactions, amounting nearly to £1,000,000.",
-      "passage_locator": "Hansard, House of Commons, 22 July 1890, vol. 347, cols. 498–499, 'Rate of Exchange in India'.",
-      "passage_status": "Exact primary passage verified.",
-      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning the fixed official exchange rate used for large Government transactions.",
-      "edition": "Historic Hansard, House of Commons debate record",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1890,
-      "what_passage_establishes": "It establishes that the official rupee exchange rate had been fixed at 1s. 5d. in March 1890, could not be altered after fixation for that financial year, and applied to transactions totaling nearly £1,000,000.",
-      "evidence_limits": "The answer does not identify every transaction covered, explain the full administrative rule governing the fixed rate, or quantify the Government's net gain or loss from applying it. The questioner's claims about pensions and exchange gains are not treated as established facts here.",
-      "notes": "Distinct institutional monetary layer from the July and December 1890 exchange records: it documents the administrative use of a fixed official exchange rate for a substantial volume of Government transactions.",
-      "bn_title": "ভারতের সরকারি বিনিময় হার, ১৮৯০: প্রায় £১ মিলিয়ন লেনদেনে ১ শিলিং ৫ পেনি হার স্থির",
-      "bn_historical_claim": "১৮৯০ সালের মার্চে প্রতি রুপিতে ১ শিলিং ৫ পেনি সরকারি বিনিময় হার নির্ধারিত হয় এবং তা পরিবর্তন করা যায়নি; এই হার প্রায় £১,০০০,০০০ মূল্যের বৃহৎ সরকারি লেনদেনে প্রয়োগ করা হতো।",
-      "related_banking_power_records": [
-        "india-council-bills-exchange-gain-1890",
-        "india-rate-of-exchange-budget-surplus-1890",
-        "india-rupee-exchange-fiscal-burden-1888"
-      ],
-      "scholarly_references": [],
-      "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / monetary regime / official exchange administration",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fixed official exchange-rate administration layer"
-    },
-    {
       "source_id": "tirhoot-state-railway-management-1890",
       "title": "Tirhoot State Railway, 1890: Government-Owned Railway Put Under Private Company Management",
       "date_label": "8 July 1890",
@@ -4690,128 +4814,48 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Government-owned railway management and profit-sharing layer"
     },
     {
-      "source_id": "india-salt-tax-revenue-1889-90",
-      "title": "India Salt Tax Revenue, 1889–90: Gross Receipts of Rx.8.19 Million",
-      "date_label": "21 July 1890",
-      "year": 1890,
+      "verification_status": "Verified direct official parliamentary record.",
       "evidence_grade": "A",
-      "historical_claim": "The Government of India reported gross Salt Tax receipts of 8,192,500 tens of rupees for the 1889–90 financial year.",
-      "verification_status": "Verified direct official parliamentary answer.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/21/the-salt-tax-in-india",
-      "primary_passage": "The gross receipts from the Salt Tax for 1889–90 were 8,192,500 tens of rupees.",
-      "passage_locator": "Hansard, House of Commons, 21 July 1890, vol. 347, col. 332, The Salt Tax in India.",
       "passage_status": "Exact primary passage verified.",
-      "source_identity": "Official parliamentary answer reporting Indian Exchequer receipts from the Salt Tax.",
+      "passage_type": "official-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-07",
       "edition": "Historic Hansard, House of Commons debate record",
       "publisher": "UK Parliament / Hansard",
-      "publication_year": 1890,
-      "what_passage_establishes": "Gross Salt Tax receipts reported for 1889–90: 8,192,500 tens of rupees.",
-      "evidence_limits": "Gross receipts only; it does not establish net revenue, collection costs, regional distribution, commodity volumes, or policy effects.",
-      "notes": "Distinct fiscal-revenue layer from the exchange-rate records.",
-      "bn_title": "ভারতের লবণ কর রাজস্ব, ১৮৮৯–৯০: মোট আদায় Rx.৮.১৯ মিলিয়ন",
-      "bn_historical_claim": "ভারত সরকার জানায়, ১৮৮৯–৯০ অর্থবছরে লবণ কর থেকে মোট ৮,১৯২,৫০০ দশ-রুপি আদায় হয়েছিল।",
-      "related_banking_power_records": [
-        "india-provincial-finance-decentralisation-1889",
-        "india-revenue-deficit-capital-outlay-1888-89",
-        "india-rate-of-exchange-budget-surplus-1890"
-      ],
-      "scholarly_references": [],
+      "publication_year": 1891,
       "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / fiscal revenue / taxation",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 fiscal-revenue layer"
-    },
-    {
-      "source_id": "india-council-bill-sales-volume-1890",
-      "title": "India Council Bills, 1890: March–May Sales Rose to Rs.8.29 Crore",
-      "date_label": "25 July 1890",
-      "year": 1890,
-      "evidence_grade": "A",
-      "historical_claim": "Official parliamentary figures show Indian Council bill and telegraphic-transfer sales of Rs.8,29,00,000 in March–May 1890, versus Rs.6,55,48,015 in the corresponding months of 1889.",
-      "verification_status": "Verified direct official parliamentary answer.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/25/sale-of-bills-and-telegraph-transfers-in",
-      "primary_passage": "The sales of bills and transfers during March, April, and May this year were Rs.8,29,00,000, against Rs.6,55,48,015 in the corresponding months of 1889.",
-      "passage_locator": "Hansard, House of Commons, 25 July 1890, vol. 347, col. 903, 'Sale of Bills and Telegraph Transfers in India'.",
-      "passage_status": "Exact primary passage verified.",
-      "source_identity": "Official parliamentary answer reporting India Council bill and telegraphic-transfer sales for March–May 1890 and the comparable 1889 period.",
-      "edition": "Historic Hansard, House of Commons debate record",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1890,
-      "what_passage_establishes": "It establishes the official volume of Council bill and telegraphic-transfer sales during March–May 1890 and provides the directly comparable 1889 figure.",
-      "evidence_limits": "The passage does not identify purchasers, individual maturities, prices, discount rates, allocation by bill versus transfer, or the full annual volume. It therefore does not by itself establish the identities or concentration of the financial intermediaries involved.",
-      "notes": "Distinct from the 1890 exchange-rate records: this record captures the scale of the India Office's bill/transfer sales mechanism itself, rather than the exchange rate or its fiscal sensitivity.",
-      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: মার্চ–মে বিক্রি বেড়ে Rs.৮.২৯ কোটি",
-      "bn_historical_claim": "সরকারি সংসদীয় তথ্য অনুযায়ী ১৮৯০ সালের মার্চ–মে মাসে ভারতীয় কাউন্সিল বিল ও টেলিগ্রাফিক ট্রান্সফারের বিক্রি ছিল Rs.৮,২৯,০০,০০০; ১৮৮৯ সালের একই সময়ে ছিল Rs.৬,৫৫,৪৮,০১৫।",
-      "related_banking_power_records": [
-        "india-council-bills-exchange-gain-1890",
-        "india-official-exchange-rate-servants-transactions-1890",
-        "india-rate-of-exchange-budget-surplus-1890"
-      ],
       "scholarly_references": [],
-      "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / India Office remittance mechanism / Council bills",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill and telegraphic-transfer volume layer"
-    },
-    {
-      "source_id": "south-indian-railway-guarantee-termination-economy-1890",
-      "title": "South Indian Railway Guarantee, 1890: Government Purchase Ends Guarantee and Saves £36,000",
-      "date_label": "24 March 1890",
-      "year": 1890,
-      "evidence_grade": "A",
-      "historical_claim": "The Government stated that its 1890 purchase of the South Indian Railway exercised a power reserved under the 1873 guarantee to terminate the guarantee and purchase the railway, producing an estimated annual economy of £36,000.",
-      "verification_status": "Verified direct official parliamentary statement.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/mar/24/south-indian-railway-purchase-bill-no-105",
-      "primary_passage": "The policy of the Government is to construct railways in the cheapest possible manner for the people of India. No fresh guarantee is proposed under this Bill. The proposal is to carry out an arrangement by which an economy of, £36,000 will be effected in the interest of the people of India. Under the conditions of the guarantee entered into in 1873, power was reserved to the Secretary of State for India to terminate the guarantee in 1890, and purchase on terms there specified. ... It is to give effect to that power reserved to the Government, and, to effect the economy I have mentioned, we ask the House to sanction the purchase.",
-      "passage_locator": "Hansard, House of Commons, 24 March 1890, vol. 342, cols. 1796–1797, 'South Indian Railway Purchase Bill.—(No. 105.)'",
-      "passage_status": "Exact primary passage verified.",
-      "source_identity": "Official statement by the First Lord of the Treasury during debate on the South Indian Railway Purchase Bill.",
-      "edition": "Historic Hansard, House of Commons debate record",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1890,
-      "what_passage_establishes": "The Government explicitly linked the 1890 purchase to a termination-and-purchase power reserved in the 1873 guarantee and stated that the arrangement would effect an economy of £36,000.",
-      "evidence_limits": "The £36,000 is the Government's stated expected economy, not an independently audited realized saving. The passage does not give the full 1873 guarantee terms, purchase price, or subsequent financial results.",
-      "notes": "This is a distinct contractual/guarantee layer within the South Indian Railway transaction: the March 17 record establishes borrowing authority, while this record establishes the legal mechanism and stated fiscal rationale for terminating the guarantee and purchasing the railway.",
-      "bn_title": "সাউথ ইন্ডিয়ান রেলওয়ে গ্যারান্টি, ১৮৯০: সরকারি ক্রয়ে গ্যারান্টি সমাপ্ত ও £৩৬,০০০ সাশ্রয়",
-      "bn_historical_claim": "১৮৯০ সালে সরকার জানায় যে ১৮৭৩ সালের গ্যারান্টিতে সংরক্ষিত ক্ষমতা ব্যবহার করে সাউথ ইন্ডিয়ান রেলওয়ের গ্যারান্টি সমাপ্ত করে রেলওয়েটি কেনা হবে এবং এতে বছরে আনুমানিক £৩৬,০০০ সাশ্রয় হবে।",
+      "book_1_integration": "Banking Power / Indian monetary regime / sovereign-finance administration",
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
+      },
+      "source_id": "india-bank-rates-calcutta-bombay-1891",
+      "title": "Indian Bank Rates, 1891: Calcutta 4% and Bombay 5%",
+      "date_label": "4 August 1891",
+      "year": 1891,
+      "historical_claim": "The official parliamentary account stated that bank rates never rose above 4% in Calcutta and 5% in Bombay during the period discussed, compared with 12% in the preceding two years.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "bn_title": "ভারতের ব্যাংক হার, ১৮৯১: কলকাতায় ৪% ও বোম্বাইয়ে ৫%",
+      "bn_historical_claim": "সরকারি সংসদীয় বিবরণে বলা হয়, আলোচিত সময়ে কলকাতায় ব্যাংক হার ৪% এবং বোম্বাইয়ে ৫%-এর বেশি ওঠেনি; আগের দুই বছরে তা ১২% পর্যন্ত ছিল।",
+      "notes": "This is a distinct banking-market layer; it does not identify individual banks or establish a universal India-wide rate.",
+      "primary_passage": "the rate of discount was very low, the bank rate never rising above 4 in Calcutta and 5 in Bombay, as compared to 12 in the two preceding years.",
+      "passage_locator": "Hansard, House of Commons, 4 August 1891, vol. 356, 'East India (Revenue Accounts)' financial discussion.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "source_identity": "Official parliamentary record reporting bank-rate conditions in Calcutta and Bombay during the East India financial discussion.",
+      "what_passage_establishes": "It establishes the stated maximum bank rates for Calcutta and Bombay in the period discussed and the comparison with the preceding two years.",
+      "evidence_limits": "It does not identify individual banks, provide a complete causal explanation, or establish that the quoted rates were universal across India.",
       "related_banking_power_records": [
-        "south-indian-railway-purchase-borrowing-authority-1890",
-        "british-government-railway-company-onlending-1889",
-        "delhi-umballa-kalka-railway-concession-1889"
-      ],
-      "scholarly_references": [],
-      "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / railway guarantees / public acquisition / sovereign finance",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 guarantee termination and railway acquisition mechanism"
-    },
-    {
-      "source_id": "india-council-bills-sale-policy-1890",
-      "title": "India Council Bills, 1890: Government Rejects Delaying Necessary Bill Sales for a Higher Silver Exchange",
-      "date_label": "21 July 1890",
-      "year": 1890,
-      "evidence_grade": "A",
-      "historical_claim": "The Secretary of State for India stated that Council-bill sales had not been increased because of anticipated United States silver legislation, that no surplus sale had occurred and therefore no loss had resulted, and that necessary bill sales could not be delayed merely in expectation of a future rise in silver.",
-      "verification_status": "Verified direct official parliamentary answer.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1890/jul/21/india-council-bills",
-      "primary_passage": "India Council Bills have not been sold for some time past much beyond the average monthly rate. The expectation of legislation in the United States has not influenced the amount of the sales. ... There has been no surplus sale, and consequently no loss. As regards the last paragraph, the Secretary of State cannot delay such sale of bills as is necessary to meet the wants of the Service on the chance of a future rise in the value of silver.",
-      "passage_locator": "Hansard, House of Commons, 21 July 1890, vol. 347, col. 331, 'India Council Bills'.",
-      "passage_status": "Exact primary passage verified.",
-      "source_identity": "Official parliamentary answer by the Under Secretary of State for India concerning Council-bill sale policy and silver-exchange expectations.",
-      "edition": "Historic Hansard, House of Commons debate record",
-      "publisher": "UK Parliament / Hansard",
-      "publication_year": 1890,
-      "what_passage_establishes": "It establishes the Government's stated Council-bill sale policy: sales were not being deliberately increased in anticipation of U.S. silver legislation; no surplus sale had occurred; and necessary sales to meet service requirements could not be postponed in hope of a future rise in silver.",
-      "evidence_limits": "This passage does not quantify the full annual sales program, identify purchasers or intermediaries, or establish whether the policy maximized revenue. It records the Government's official answer rather than an independent assessment of the policy.",
-      "notes": "Distinct from the 1890 Council-bill volume and exchange-sensitivity records: this record captures the stated institutional decision rule governing when bill sales could be made or deferred.",
-      "bn_title": "ভারতের কাউন্সিল বিল, ১৮৯০: রূপার বিনিময় হার বাড়ার আশায় প্রয়োজনীয় বিল বিক্রি স্থগিত করা হয়নি",
-      "bn_historical_claim": "ভারত সরকারের বক্তব্য ছিল, মার্কিন রূপা-সংক্রান্ত আইন প্রত্যাশা করে কাউন্সিল বিলের বিক্রি বাড়ানো হয়নি; কোনো অতিরিক্ত বিক্রিও হয়নি, ফলে এমন বিক্রয়জনিত ক্ষতি ঘটেনি; এবং ভবিষ্যতে রূপার মূল্য বাড়তে পারে—এই আশায় পরিষেবার প্রয়োজনীয় বিল বিক্রি স্থগিত করা যায় না।",
-      "related_banking_power_records": [
-        "india-council-bill-sales-volume-1890",
-        "india-council-bills-exchange-gain-1890",
-        "india-official-exchange-rate-servants-transactions-1890"
-      ],
-      "scholarly_references": [],
-      "publication_status": "Deployed",
-      "book_1_integration": "Banking Power / India Office remittance mechanism / Council-bill policy",
-      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill sale policy layer"
+        "india-currency-notes-bank-reserve-1891"
+      ]
     },
     {
       "source_id": "india-currency-notes-bank-reserve-1891",
@@ -4846,6 +4890,95 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1891 currency-note reserve layer"
     },
     {
+      "verification_status": "Verified direct official parliamentary record.",
+      "evidence_grade": "A",
+      "passage_status": "Exact primary passage verified.",
+      "passage_type": "official-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1891,
+      "publication_status": "Deployed",
+      "scholarly_references": [],
+      "book_1_integration": "Banking Power / Indian monetary regime / sovereign-finance administration",
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
+      },
+      "source_id": "india-famine-insurance-surplus-restored-1891",
+      "title": "India Famine Insurance Surplus Restored, 1891",
+      "date_label": "4 August 1891",
+      "year": 1891,
+      "historical_claim": "The Indian financial statement reported that the Rx.1,500,000 annual surplus designated for famine insurance was restored in full.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "bn_title": "ভারতের দুর্ভিক্ষ-বীমা উদ্বৃত্ত পুনঃস্থাপন, ১৮৯১",
+      "bn_historical_claim": "ভারতের আর্থিক বিবৃতিতে দুর্ভিক্ষ-বীমার জন্য নির্ধারিত ১৫ লক্ষ রুপি বার্ষিক উদ্বৃত্ত পূর্ণভাবে পুনঃস্থাপনের কথা জানানো হয়।",
+      "notes": "The parliamentary statement establishes the restored annual surplus allocation; it does not by itself establish a legally segregated fund.",
+      "primary_passage": "the surplus of Rx.1,500,000 for famine insurance was restored in its fulness.",
+      "passage_locator": "Hansard, House of Commons, 4 August 1891, vol. 356, 'East India (Revenue Accounts)' financial discussion.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "source_identity": "Official parliamentary record of the East India financial statement discussing restoration of the famine-insurance surplus.",
+      "what_passage_establishes": "It establishes that the stated Rx.1,500,000 surplus for famine insurance was restored in full.",
+      "evidence_limits": "It does not establish a legally segregated fund, the full later expenditure history, or every administrative rule governing the reserve.",
+      "related_banking_power_records": [
+        "india-rate-of-exchange-budget-surplus-1890"
+      ]
+    },
+    {
+      "verification_status": "Verified direct official parliamentary record.",
+      "evidence_grade": "A",
+      "passage_status": "Exact primary passage verified.",
+      "passage_type": "official-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1891,
+      "publication_status": "Deployed",
+      "scholarly_references": [],
+      "book_1_integration": "Banking Power / Indian monetary regime / sovereign-finance administration",
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
+      },
+      "source_id": "india-railway-gold-interest-exchange-burden-1891",
+      "title": "Indian Railway Gold-Interest and Exchange Burden, 1891",
+      "date_label": "4 August 1891",
+      "year": 1891,
+      "historical_claim": "Indian railways had been largely financed by borrowing in England, leaving interest payable in gold and exposing Indian revenues to exchange losses.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "bn_title": "ভারতীয় রেলওয়ের স্বর্ণ-সুদ ও বিনিময়-ঝুঁকি, ১৮৯১",
+      "bn_historical_claim": "ভারতীয় রেলওয়ের অর্থায়নের বড় অংশ ইংল্যান্ডে ঋণ নিয়ে হওয়ায় সুদ স্বর্ণে পরিশোধ করতে হতো এবং বিনিময় হারের পতনে ভারতীয় রাজস্ব ক্ষতিগ্রস্ত হতো।",
+      "notes": "Distinct mechanism: external borrowing currency plus gold interest created exchange exposure charged against Indian revenues.",
+      "primary_passage": "most of the money with which these railways have been constructed has been borrowed in England, the interest has to be paid in gold; and, owing to the fall in the rate of exchange, the profit of 4¾ per cent., which would be otherwise realised by Indian railways, is turned into a loss, and every year the revenues of India are charged with a certain sum in respect of the excess of railway expenditure over railway receipts.",
+      "passage_locator": "Hansard, House of Commons, 4 August 1891, vol. 356, cols. 1324–1325, 'East India (Revenue Accounts)' / Committee.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1891/aug/04/committee",
+      "source_identity": "Official parliamentary record of the East India financial discussion concerning railway capital, borrowing in England, gold interest and exchange exposure.",
+      "what_passage_establishes": "It establishes the stated English borrowing, gold-interest obligation, exchange exposure and resulting charge against Indian revenues.",
+      "evidence_limits": "It does not establish the complete lifetime exchange burden, every borrowing instrument or lender, or the position of every individual railway line.",
+      "related_banking_power_records": [
+        "south-indian-railway-purchase-borrowing-authority-1890",
+        "tirhoot-state-railway-management-1890"
+      ]
+    },
+    {
       "source_id": "india-rupee-paper-export-england-1891",
       "title": "India Rupee Paper, 1891: Rx.5.138 Million Exported to England as Silver-Payable Securities Gained in Gold Value",
       "date_label": "4 August 1891",
@@ -4875,6 +5008,53 @@
       "publication_status": "Deployed",
       "book_1_integration": "Banking Power / Indian monetary regime / London valuation and cross-border rupee-paper movement",
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1891 rupee-paper movement layer"
+    },
+    {
+      "verification_status": "Verified direct official parliamentary record.",
+      "evidence_grade": "A",
+      "passage_status": "Exact primary passage verified.",
+      "passage_type": "official-parliamentary-record",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1891,
+      "publication_status": "Deployed",
+      "scholarly_references": [],
+      "book_1_integration": "Banking Power / Indian monetary regime / sovereign-finance administration",
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes"
+        ]
+      },
+      "source_id": "india-fixed-rupee-exchange-rate-1891",
+      "title": "India Fixed Rupee Exchange Rate, 1891: Secretary of State Fixed 1s. 6½d. for the 1891–92 Transactions",
+      "date_label": "5 May 1891",
+      "year": 1891,
+      "historical_claim": "The Secretary of State for India fixed a rate of 1s. 6½d. for all transactions for 1891–92, irrespective of market fluctuations.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1891/may/05/rupee-rate-of-exchange",
+      "bn_title": "ভারতের নির্ধারিত রুপি বিনিময় হার, ১৮৯১: ১৮৯১–৯২ সালের লেনদেনের জন্য ১ শিলিং ৬½ পেন্স",
+      "bn_historical_claim": "ভারতের সেক্রেটারি অব স্টেট ১৮৯১–৯২ সালের সব লেনদেনের জন্য বাজারের ওঠানামা নির্বিশেষে ১ শিলিং ৬½ পেন্স হার নির্ধারণ করেন।",
+      "notes": "The official parliamentary statement directly describes the annual fixed-rate rule and states the 1891–92 rate.",
+      "primary_passage": "a rate is fixed for all transactions for the ensuing year, irrespective of the fluctuations of the market. The fixed rate for 1891–2 is 1s. 6½d.",
+      "passage_locator": "Hansard, House of Commons, 5 May 1891, vol. 353, cols. 132–133, 'Rupee Rate of Exchange'.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1891/may/05/rupee-rate-of-exchange",
+      "source_identity": "Official parliamentary record of the House of Commons discussion of the Indian rupee rate of exchange and the annual fixed rate for transactions.",
+      "what_passage_establishes": "It establishes that a rate was fixed for all transactions for the ensuing year irrespective of market fluctuations, and that the fixed rate for 1891–92 was 1s. 6½d.",
+      "evidence_limits": "It does not establish the complete administrative procedure, every class of transaction in practice, the resulting fiscal gain or loss, or the broader rationale for the chosen rate.",
+      "related_banking_power_records": [
+        "india-official-exchange-rate-servants-transactions-1890",
+        "india-rate-of-exchange-budget-surplus-1890",
+        "india-rupee-paper-export-england-1891",
+        "india-currency-notes-bank-reserve-1891"
+      ]
     },
     {
       "source_id": "panic-1907",
@@ -9455,7 +9635,7 @@
       }
     }
   },
-  "next_priority": "Continue through 1891, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating deployed 1890 exchange-rate, Council-bill, railway, and Baring Crisis layers.",
+  "next_priority": "After the four 1891 deployments, continue screening 1891 for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate exchange-rate, Council-bill, railway, and Baring layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -10957,5 +11137,17 @@
       "C": 0,
       "D": 0
     }
+  },
+  "structural_audit_2026_10_07_v82": {
+    "audit_date": "2026-10-07",
+    "record_count": 154,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 149,
+      "B": 5
+    },
+    "notes": "Added four previously verified 1891 records; source pages had already been created. Master JSON updated only after live SHA verification."
   }
 }
