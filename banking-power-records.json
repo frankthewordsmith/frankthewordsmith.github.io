@@ -5468,6 +5468,37 @@
       }
     },
     {
+      "source_id": "india-sterling-debt-failed-bill-sales-1895",
+      "title": "Indian Sterling Debt from Failed Council-Bill Sales, 1895",
+      "date_label": "4 September 1895",
+      "historical_claim": "The official East India Revenue Accounts reported that £9,386,000 of debt had been incurred in the preceding period through failures to sell Indian Government bills, showing a direct link between bill-sale difficulties and sterling borrowing.",
+      "verification_status": "Primary parliamentary account verified in official Historic Hansard.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1895/sep/04/east-india-revenue-accounts",
+      "primary_passage": "During that time there has been a certain amount of debt raised in this country, and whenever a debt is raised for the purpose of meeting the annual obligations through inability to sell bills, the money so raised does benefit the year of the expenditure, and in a manner which cannot be brought to account, because, by diminishing the number of rupees that would otherwise be sold, it advances the price of those that are sold. The amount of the debt which was incurred in this period through the failure of the sale of bills amounts to £9,386,000.",
+      "passage_locator": "House of Commons Hansard, 4 September 1895, vol. 36, cols. 1704–1705, East India Revenue Accounts; discussion of debt incurred through failure to sell bills.",
+      "source_identity": "House of Commons, Historic Hansard, East India Revenue Accounts, 4 September 1895.",
+      "what_passage_establishes": "The official parliamentary statement establishes that sterling debt was raised to meet annual obligations when Indian Government bills could not be sold, and that the amount attributed to such failures during the period discussed was £9,386,000.",
+      "evidence_limits": "The passage does not identify each individual loan, its issue date, lender, coupon, maturity, or the precise allocation of the £9,386,000 across separate borrowing operations. It establishes the aggregate parliamentary statement and the stated causal connection to failed bill sales only.",
+      "related_banking_power_records": [
+        "india-council-bills-sale-policy-1890",
+        "india-council-bill-sales-volume-1890",
+        "east-india-loan-10000000-1893",
+        "india-council-bills-record-sales-1894-95"
+      ],
+      "bn_title": "কাউন্সিল বিল বিক্রয়ে ব্যর্থতার ফলে ভারতীয় স্টার্লিং ঋণ, ১৮৯৫",
+      "bn_historical_claim": "সরকারি ইস্ট ইন্ডিয়া রাজস্ব হিসাবে জানানো হয় যে ভারতীয় সরকারি বিল বিক্রি করতে ব্যর্থতার কারণে আলোচিত সময়ে £৯,৩৮৬,০০০ ঋণ নেওয়া হয়েছিল।",
+      "publication_status": "A-grade — exact parliamentary passage and locator locked.",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -10046,7 +10077,7 @@
       }
     }
   },
-  "next_priority": "Continue 1895 screening for a distinct sovereign-debt, monetary-regime or institutional-finance primary record; avoid duplicate Council-bill volume, 1894 tariff-law and 1894 rupee-debt-conversion layers.",
+  "next_priority": "Continue 1895 screening for a distinct monetary-regime or institutional-finance primary record; avoid duplicate Council-bill volume, failed-bill sterling-debt aggregate, 1895 Royal Commission decision, 1894 tariff-law and 1894 rupee-debt-conversion layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -11597,5 +11628,17 @@
       "B": 5
     },
     "notes": "Added 1893 implementation evidence: Indian Mints closed to free public silver coinage and 16d. rupee/gold exchange arrangements reported to Parliament."
+  },
+  "structural_audit_2026_10_07_v86": {
+    "audit_date": "2026-10-07",
+    "record_count": 163,
+    "duplicate_source_ids": 0,
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 158,
+      "B": 5
+    },
+    "notes": "Added distinct 1895 sovereign-debt evidence: official Hansard reported £9,386,000 of debt incurred through failures to sell Indian Government bills. Kept separate from the 1895 Council-bill sales-volume record and the 1893 £10m East India loan."
   }
 }
