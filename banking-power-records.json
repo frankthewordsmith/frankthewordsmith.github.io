@@ -5102,6 +5102,63 @@
       ]
     },
     {
+      "source_id": "india-currency-crisis-mint-closure-proposal-1892",
+      "title": "India Currency Crisis and Proposed Mint Closure, 1892",
+      "date_label": "1892",
+      "historical_claim": "The official parliamentary account states that, amid rupee depreciation, threatened further silver inflows, and uncertainty over an international monetary agreement, the Government of India proposed conditional closure of the Indian Mints to free public silver coinage and arrangements for a gold standard.",
+      "verification_status": "Primary-source parliamentary record verified through the official Historic Hansard account of the Indian Budget; the account explicitly reports the Government of India’s 1892 currency position and proposal.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1893/sep/21/east-india-revenue-accounts",
+      "bn_title": "ভারতের মুদ্রা সংকট ও টাকশাল বন্ধের প্রস্তাব, ১৮৯২",
+      "bn_historical_claim": "সরকারি সংসদীয় বিবরণে বলা হয়, রুপির অবমূল্যায়ন, সম্ভাব্য অতিরিক্ত রূপা-প্রবাহ এবং আন্তর্জাতিক মুদ্রা-সমঝোতার অনিশ্চয়তার মধ্যে ভারত সরকার জনসাধারণের জন্য রূপার অবাধ মুদ্রা-প্রচলন বন্ধ এবং স্বর্ণমান প্রবর্তনের ব্যবস্থা প্রস্তাব করেছিল।",
+      "notes": "This record isolates the 1892 policy-proposal layer. It is not the 1893 implementation layer: the later Act stopping free public silver coinage is separately evidenced and should not be conflated with the 1892 proposal.",
+      "primary_passage": "Accordingly, they proposed that, failing a satisfactory agreement with the United States or other nations, the Indian Mints should be closed to the free coinage of silver for the public, and that arrangements should be made for the introduction of a gold standard into India.",
+      "passage_locator": "House of Commons, Hansard, 21 September 1893, vol. 17, cols. 1849–1851, “East India Revenue Accounts”; the passage reports the Government of India’s currency position and proposal in 1892.",
+      "passage_status": "Passage locked — exact official parliamentary wording verified.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1893/sep/21/east-india-revenue-accounts",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "Official House of Commons Hansard report of the Indian Budget, delivered by Mr. G. Russell, Under Secretary of State for India, 21 September 1893, reporting the Government of India’s 1892 currency position and proposals.",
+      "edition": "Hansard, House of Commons, 21 September 1893, vol. 17, cols. 1794–1894, “East India Revenue Accounts”.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1893,
+      "what_passage_establishes": "The official parliamentary account establishes that the Government of India, facing a falling rupee and concern over silver inflows and international monetary uncertainty in 1892, proposed conditional closure of the Indian Mints to free public silver coinage and arrangements for a gold standard.",
+      "evidence_limits": "It establishes the proposal as officially reported, not implementation in 1892. The later 1893 mint-closure Act and its operational exchange arrangements are separate evidence layers.",
+      "related_banking_power_records": [
+        "india-fixed-rupee-exchange-rate-1891",
+        "india-rupee-paper-export-england-1891",
+        "india-currency-notes-bank-reserve-1891"
+      ],
+      "scholarly_references": [
+        "Report of the Committee Appointed to Inquire into the Indian Currency, HMSO, 1893 (Herschell Committee).",
+        "J. Laurence Laughlin, The History of Bimetallism in the United States, discussion of the Indian Currency Committee and Indian monetary policy."
+      ],
+      "publication_status": "A-grade — exact official parliamentary passage and locator locked; the 1892 proposal is kept distinct from the 1893 implementation.",
+      "year": 1892,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1892
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -11206,5 +11263,18 @@
       "B": 5
     },
     "notes": "Added distinct 1891 trade/specie-flow evidence after screening against already deployed exchange, Council-bill, railway, currency-note, bank-rate and Baring layers."
+  },
+  "structural_audit_2026_10_07_v84": {
+    "audit_date": "2026-10-07",
+    "record_count": 156,
+    "duplicate_source_ids": [],
+    "duplicate_primary_passages": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 151,
+      "B": 5
+    },
+    "notes": "Added distinct 1892 Indian currency-crisis policy evidence: the Government of India’s proposal for conditional closure of the Mints to free public silver coinage and arrangements for a gold standard. Kept separate from the 1893 implementation layer."
   }
 }
