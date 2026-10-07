@@ -5594,6 +5594,61 @@
       }
     },
     {
+      "source_id": "india-borrowing-powers-reduced-1899",
+      "title": "India’s Borrowing Powers Reduced to £9.377 Million After 1898–99 Financing, 1899",
+      "date_label": "8 August 1899",
+      "historical_claim": "The Secretary of State reported that after the £10 million increase in borrowing authority secured in 1898, and after financing exceptional Indian requirements and public-works capital outlay, the remaining borrowing powers stood at £9,377,000; the Government did not propose to borrow at home or in India for the forthcoming year unless circumstances forced it.",
+      "bn_title": "১৮৯৮–৯৯ অর্থায়নের পর ভারতের অবশিষ্ট ঋণগ্রহণ ক্ষমতা £৯.৩৭৭ মিলিয়নে নেমে আসে",
+      "bn_historical_claim": "১৮৯৮ সালের অতিরিক্ত ঋণগ্রহণ ক্ষমতা ও পরবর্তী অর্থায়নের পর ১৮৯৯ সালে সেক্রেটারি অব স্টেট জানান যে অবশিষ্ট ঋণগ্রহণ ক্ষমতা £৯.৩৭৭ মিলিয়নে নেমে এসেছে।",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1899/aug/08/east-india-revenue-accounts",
+      "verification_status": "Primary-source official Hansard record verified",
+      "evidence_grade": "A",
+      "primary_passage": "The total amount, therefore, of the borrowing powers, which at this time last year was at the disposal of the Secretary of State was £10,418,000, and I proposed, as I informed the House at the outset, to raise a loan of six millions sterling, though I hoped to be able, in the course of the year, to discharge considerable amounts of debentures and other debts which became due. This has been done, and I am glad to be able to inform the House that at the present moment my borrowing powers amount to £9,377,000, or in other words, I have been able to finance the exceptional requirements of the Indian Government and the capital outlay on public works by adding only about one million sterling in the course of the year to the obligations of India in this country.",
+      "passage_locator": "House of Commons Hansard, 8 August 1899, vol. 76, cc. 183–184.",
+      "passage_status": "Passage locked — official contemporary statement of remaining statutory borrowing capacity and net addition to UK obligations.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1899/aug/08/east-india-revenue-accounts",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-07",
+      "source_identity": "House of Commons debate on East India Revenue Accounts, 8 August 1899; Secretary of State for India Lord George Hamilton's statement on borrowing powers and financing.",
+      "edition": "House of Commons Debates, 8 August 1899, vol. 76, East India Revenue Accounts.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1899,
+      "what_passage_establishes": "The passage establishes that borrowing authority available a year earlier totaled £10,418,000 and that after financing exceptional Indian requirements and public-works capital outlay, remaining borrowing powers were £9,377,000. It also establishes that this financing added only about £1 million to India's UK obligations during the year.",
+      "evidence_limits": "It does not by itself identify every individual borrowing transaction, issue price, investor, maturity, or final statutory instrument. The £1 million figure is the speaker's rounded net addition to obligations, not a reconstructed transaction total.",
+      "related_banking_power_records": [
+        "east-india-loan-authority-10000000-1898",
+        "india-sterling-debt-failed-bill-sales-1895",
+        "india-borrowing-credit-highest-point-1895",
+        "panic-1907"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts, 8 August 1899, Hansard vol. 76."
+      ],
+      "year": 1899,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_3",
+        "part_label": "Book 1 — Part III: Imperial finance, sovereign debt and monetary power",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1899
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "imperial_finance",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -11771,5 +11826,18 @@
       "B": 5
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
+  },
+  "source_count": 167,
+  "structural_audit_2026_10_07_v91": {
+    "audit_date": "2026-10-07",
+    "record_count": 167,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 162,
+      "B": 5
+    },
+    "notes": "Added distinct 1899 contemporary evidence on remaining borrowing capacity after 1898 authority and 1898–99 financing; no individual loan terms inferred."
   }
 }
