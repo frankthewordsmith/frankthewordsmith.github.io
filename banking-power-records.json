@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "148-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "149-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -4814,6 +4814,38 @@
       "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1890 Council-bill sale policy layer"
     },
     {
+      "source_id": "india-currency-notes-bank-reserve-1891",
+      "title": "India Currency Notes, 1891: Circulation Rises from 1,577 to 2,766 Lakhs as Banks Hold Notes as Reserve",
+      "date_label": "4 August 1891",
+      "year": 1891,
+      "evidence_grade": "A",
+      "historical_claim": "The official parliamentary record reported that the circulation of Indian currency notes rose from 1,577 lakhs at the end of March 1890 to 2,766 lakhs at the end of January 1891, and stated that banks apparently retained the notes as a convenient reserve rather than for ordinary circulation.",
+      "verification_status": "Verified direct official parliamentary record.",
+      "source_url": "https://hansard.parliament.uk/Commons/1891-08-04/debates/996be7fd-4afb-4bb1-89e5-e2c236d60f86/EastIndia(RevenueAccounts)",
+      "primary_passage": "Another phenomenon was the increase in the circulation of currency notes, which rose from 1,577 lakhs at the end of March, 1890, to 2,766 lakhs",
+      "passage_locator": "Hansard, House of Commons, 4 August 1891, vol. 356, cols. 1326–1327, 'East India (Revenue Accounts)'.",
+      "passage_status": "Exact primary passage verified.",
+      "source_identity": "Official parliamentary record of the East India Revenue Accounts debate, including the Under Secretary of State for India's statement on currency-note circulation and bank reserve holdings.",
+      "edition": "Historic Hansard, House of Commons debate record",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1891,
+      "what_passage_establishes": "It establishes the reported increase in currency-note circulation between March 1890 and January 1891. The immediately following official statement says the notes were apparently retained by banks as a convenient mode of holding a reserve and places the phenomenon in the context of silver-market fluctuations.",
+      "evidence_limits": "The passage does not by itself establish the legal composition of the currency reserve, the individual banks involved, the causes of the increase with certainty, or a complete monetary-policy interpretation. The speaker expressly presents the reserve-use explanation as apparent rather than conclusive.",
+      "notes": "This is a distinct monetary-regime layer, not a duplicate of the 1890 Council-bill sale, exchange-rate, or railway records.",
+      "bn_title": "ভারতের মুদ্রা নোট, ১৮৯১: ব্যাংকগুলোর রিজার্ভ হিসেবে নোট ধরে রাখার সময় প্রচলন ১,৫৭৭ থেকে ২,৭৬৬ লাখে বৃদ্ধি",
+      "bn_historical_claim": "সরকারি সংসদীয় নথিতে জানানো হয় যে ১৮৯০ সালের মার্চের শেষে ভারতের মুদ্রা নোটের প্রচলন ১,৫৭৭ লাখ থেকে ১৮৯১ সালের জানুয়ারির শেষে ২,৭৬৬ লাখে বৃদ্ধি পায়; এবং বলা হয়, ব্যাংকগুলো সাধারণ প্রচলনের পরিবর্তে নোটগুলো সুবিধাজনক রিজার্ভ হিসেবে ধরে রাখছিল বলে মনে হয়।",
+      "related_banking_power_records": [
+        "india-council-bills-exchange-gain-1890",
+        "india-official-exchange-rate-servants-transactions-1890",
+        "india-currency-commission-report-exchange-1888",
+        "india-currency-question-international-agreement-1889"
+      ],
+      "scholarly_references": [],
+      "publication_status": "Deployed",
+      "book_1_integration": "Banking Power / Indian monetary regime / currency-note reserve mechanism",
+      "book_1_chapter_mapping": "Book 1 — chronological Banking Power evidence; 1891 currency-note reserve layer"
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -8719,7 +8751,7 @@
         ]
       }
     },
-    "next_priority": "Sovereign Debt evidence expansion, followed by Financial Crises, while preserving strict passage verification."
+    "next_priority": "Continue through 1891, prioritizing distinct sovereign-debt, monetary-regime, banking-network, and institutional-finance primary evidence; avoid duplicating deployed 1890 exchange-rate, Council-bill, railway, and Baring Crisis layers."
   },
   "structural_audit_2026_10_05_v3": {
     "status": "Completed after chronological reordering",
@@ -10867,18 +10899,19 @@
       "D": 0
     }
   },
-  "structural_audit_2026_10_06_v79": {
-    "status": "Completed after 1890 Council-bill sale-policy deployment",
-    "records_audited": 148,
-    "duplicate_source_ids": 0,
-    "duplicate_primary_passages": 0,
-    "chronological_order": true,
-    "missing_year_fields": 0,
-    "grade_counts": {
-      "A": 143,
-      "B": 5,
-      "C": 0,
-      "D": 0
+  "structural_audit_2026_10_07_v80": {
+      "status": "Completed after 1891 currency-note reserve deployment",
+      "records_audited": 149,
+      "duplicate_source_ids": 0,
+      "duplicate_primary_passages": 0,
+      "chronological_order": true,
+      "missing_year_fields": 0,
+      "grade_counts": {
+        "A": 144,
+        "B": 5,
+        "C": 0,
+        "D": 0
+      }
     }
   }
 }
