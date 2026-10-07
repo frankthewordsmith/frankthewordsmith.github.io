@@ -5437,6 +5437,37 @@
       "publication_status": "A-grade — parliamentary decision to use a Royal Commission is locked; full terms of reference intentionally left pending."
     },
     {
+      "source_id": "india-council-bills-record-sales-1894-95",
+      "title": "Indian Council Bills, 1894–95: Record Sales",
+      "date_label": "31 March 1895",
+      "historical_claim": "In 1894–95 the Indian Government sold a record rupee volume of Council bills, Rx.30,970,000, realizing £16,905,102; the official account contrasts this with 1881–82, when a smaller rupee volume realized more sterling because of exchange values.",
+      "verification_status": "Primary parliamentary account verified in official Historic Hansard.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1895/sep/04/east-india-revenue-accounts",
+      "primary_passage": "Now, the bills sold last year amounted to Rx. 30,970,000 and it realised £16,905,102. I am sorry to say that, although this is by far the largest amount of bills which have ever been sold, owing to the great fall in the value of the rupee it has not realised the largest amount in gold, for in 1881–2 Rx. 22,211,000 realised £18,412,429.",
+      "passage_locator": "House of Commons Hansard, 4 September 1895, vol. 36, cols. 1695–1740, East India Revenue Accounts; statement concerning 1894–95 bills sold.",
+      "source_identity": "House of Commons, Historic Hansard, East India Revenue Accounts, 4 September 1895.",
+      "what_passage_establishes": "A record rupee volume of Indian Government bills was sold in 1894–95, with the sterling realization materially affected by the rupee's lower gold value.",
+      "evidence_limits": "Does not identify individual purchasers, auction dates, bid spreads, or prove that all sterling remittances were financed through Council bills.",
+      "related_banking_power_records": [
+        "india-council-bills-sale-policy-1890",
+        "india-council-bill-sales-volume-1890",
+        "east-india-loan-10000000-1893",
+        "india-mints-closed-free-silver-coinage-1893"
+      ],
+      "bn_title": "ভারতীয় কাউন্সিল বিল, ১৮৯৪–৯৫: রেকর্ড পরিমাণ বিক্রয়",
+      "bn_historical_claim": "১৮৯৪–৯৫ সালে ভারত সরকার রেকর্ড পরিমাণ রুপি-মূল্যের কাউন্সিল বিল বিক্রি করে।",
+      "publication_status": "A-grade — exact parliamentary passage and locator locked.",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -10015,7 +10046,7 @@
       }
     }
   },
-  "next_priority": "Continue 1895 screening for a distinct primary record on sovereign-debt, exchange administration, banking operations, institutional finance or imperial expenditure; avoid duplicating the 1894 tariff, 1894 rupee-debt conversion, and the Royal Commission decision.",
+  "next_priority": "Continue 1895 screening for a distinct sovereign-debt, monetary-regime or institutional-finance primary record; avoid duplicate Council-bill volume, 1894 tariff-law and 1894 rupee-debt-conversion layers.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
