@@ -8279,6 +8279,56 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "royal-commission-indian-expenditure-1895",
+      "title": "Royal Commission on Indian Expenditure Proposed, 1895",
+      "date_label": "9 May 1895",
+      "historical_claim": "The Secretary of State for India stated that the inquiry into Indian expenditure would be conducted by a Royal Commission, establishing a distinct institutional review mechanism for Indian financial administration.",
+      "verification_status": "Primary parliamentary statement verified in Historic Hansard; the Commission's first meeting and archival minutes are independently confirmed by later contemporaneous/archival records.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1895/may/09/indian-affairs",
+      "primary_passage": "It is proposed that the Inquiry into Indian Expenditure should be conducted by a Royal Commission. It is not usual to discuss in this House the terms of a reference to a Royal Commission.",
+      "passage_locator": "House of Commons Hansard, 9 May 1895, vol. 33, cols. 802–803, “Indian Affairs.”",
+      "passage_status": "Passage locked — exact official Hansard wording verified.",
+      "source_identity": "House of Commons, Hansard, 9 May 1895, vol. 33, cols. 802–803; statement by Secretary of State for India Henry Fowler.",
+      "edition": "Historic Hansard parliamentary record",
+      "publisher": "UK Parliament",
+      "publication_year": 1895,
+      "what_passage_establishes": "The Government chose a Royal Commission as the institutional vehicle for the inquiry into Indian expenditure.",
+      "evidence_limits": "The quoted passage does not reproduce the appointment instrument or full terms of reference. Those are not inferred. A later Hansard statement records that the first meeting was scheduled for 26 June 1895, and the British Library catalogue records the Commission's minutes from 26 June 1895.",
+      "scholarly_references": [
+        "British Library, India Office Records IOR/Q/1, Royal Commission on the Administration of the Expenditure of India (Welby Commission)."
+      ],
+      "related_banking_power_records": [
+        "india-tariff-act-customs-duties-1894",
+        "india-rupee-loan-conversion-3-5-percent-1894",
+        "east-india-loan-10000000-1893"
+      ],
+      "bn_title": "ভারতীয় ব্যয় সম্পর্কে রয়্যাল কমিশন প্রস্তাব, ১৮৯৫",
+      "bn_historical_claim": "ভারতের ব্যয় সম্পর্কে তদন্ত একটি রয়্যাল কমিশনের মাধ্যমে পরিচালিত হবে বলে ভারতের সেক্রেটারি অব স্টেট ঘোষণা করেন, যা ভারতীয় আর্থিক প্রশাসনের জন্য একটি পৃথক প্রাতিষ্ঠানিক পর্যালোচনা ব্যবস্থা গড়ে তোলে।",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance",
+          "institutional_oversight"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      },
+      "publication_status": "A-grade — parliamentary decision to use a Royal Commission is locked; full terms of reference intentionally left pending."
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -9965,7 +10015,7 @@
       }
     }
   },
-  "next_priority": "Move to 1895 screening for distinct sovereign-debt, monetary-regime, banking-network and institutional-finance primary evidence; avoid duplicate 1893 loan, 1894 rupee-debt conversion, and 1894 tariff-law layers.",
+  "next_priority": "Continue 1895 screening for a distinct primary record on sovereign-debt, exchange administration, banking operations, institutional finance or imperial expenditure; avoid duplicating the 1894 tariff, 1894 rupee-debt conversion, and the Royal Commission decision.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
