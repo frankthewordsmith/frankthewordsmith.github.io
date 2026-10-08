@@ -7382,6 +7382,59 @@
       }
     },
     {
+      "source_id": "india-sterling-drafts-exchange-support-1920",
+      "title": "India's Sterling Draft Sales and Exchange Support, 1920",
+      "date_label": "14 December 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "The Secretary of State for India reported that the Government of India had sold approximately £50 million of sterling drafts between 1 February and 30 September 1920 in an unsuccessful effort to maintain the rupee exchange at 2s., before discontinuing the sales.",
+      "verification_status": "Primary parliamentary written-answer record verified in official Hansard.",
+      "source_url": "https://hansard.parliament.uk/Commons/1920-12-14/debates/a37058c8-2f79-46ce-89c5-256e785ae7f0/WrittenAnswers",
+      "passage_locator": "House of Commons Hansard, 14 December 1920, vol. 135, c. 2128W, Exchange.",
+      "source_identity": "Written answer by Secretary of State for India Edwin Montagu concerning the Indian Currency Committee recommendations and exchange support.",
+      "edition": "House of Commons Debates, 14 December 1920, Series 5, vol. 135, c. 2128W.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — exact official answer and locator verified.",
+      "primary_passage": "In accordance with the recommendations of the report referred to by my hon. and gallant Friend legislation has been passed in India, under which the sovereign has been made a legal tender at the rate of ten rupees. The quotations asked for in the second part of the question are 2s. 1¼d. and 1s. 4¾d. In spite of the sale of sterling drafts, to the extent of approximately £50,000,000 between 1st February and 30th September, it has not been found practicable to maintain exchange at 2s. The sale of these drafts has been discontinued in accordance with the announcement issued on 29th September last, and the existing trade position does not suggest that the Government of India could advantageously resume the sales at the present time.",
+      "what_passage_establishes": "The Government of India used approximately £50 million in sterling-draft sales between 1 February and 30 September 1920 in an effort to support a 2s. rupee rate; the exchange nevertheless ranged between 2s. 1¼d. and 1s. 4¾d., and the sales were discontinued.",
+      "evidence_limits": "The answer establishes the scale and dates of draft sales and the Government's stated exchange objective, but not the precise counterparties, reserve source, transaction-by-transaction terms, or ultimate economic effects.",
+      "related_banking_power_records": [
+        "india-gold-silver-export-control-1920",
+        "india-trade-gold-flows-april-1920",
+        "imperial-exchange-support-policy-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 14 December 1920, vol. 135, c. 2128W.",
+        "This record should be distinguished from the March 1920 general UK policy against artificial exchange support: the December answer concerns the Indian Government's specific sterling-draft operations and their discontinuation."
+      ],
+      "publication_status": "A-grade — direct ministerial quantitative statement of an actual exchange-support operation.",
+      "bn_title": "ভারতের স্টার্লিং ড্রাফট বিক্রি ও বিনিময় হার-সমর্থন, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালে ভারত সরকার রুপির বিনিময় হার ২ শিলিং ধরে রাখার প্রচেষ্টায় প্রায় ৫ কোটি পাউন্ডের স্টার্লিং ড্রাফট বিক্রি করেছিল; পরে এই বিক্রি বন্ধ করা হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "currency_and_exchange",
+          "monetary_regimes",
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13340,7 +13393,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 196,
+  "source_count": 197,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13903,5 +13956,17 @@
       "B": 5
     },
     "notes": "Added two distinct December 1920 quantitative records: the official composition of UK national debt at 30 November and the £6.5m currency-note contraction with ministerial explanation of credit and budget pressures. Kept separate from earlier Treasury-bank policy and exchange records."
+  },
+  "structural_audit_2026_10_08_v120": {
+    "audit_date": "2026-10-08",
+    "record_count": 197,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 192,
+      "B": 5
+    },
+    "notes": "Added December 1920 India exchange-support evidence: approximately £50m in sterling drafts sold between February and September to support a 2s. rupee rate, unsuccessful within the reported range and discontinued in September. Kept separate from general UK exchange policy and April trade-flow evidence."
   }
 }
