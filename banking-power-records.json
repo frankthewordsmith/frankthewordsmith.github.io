@@ -9307,6 +9307,56 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-loans-raised-england-1916",
+      "title": "East India Loans Raised in England: Outstanding Indian-Revenue Loans, 1916",
+      "date_label": "12 October 1916",
+      "year": 1916,
+      "evidence_grade": "A",
+      "historical_claim": "A Parliamentary Return recorded all loans raised in England and charged on the revenues of India that were outstanding at the commencement of the half-year ending 30 September 1916, providing a primary documentary marker for sterling debt outstanding during the First World War.",
+      "verification_status": "Primary parliamentary record verified through official Historic Hansard; the underlying Return is identified by the statutory presentation notice.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1916/oct/12/east-india-loans-raised-in-england",
+      "passage_locator": "House of Commons Hansard, 12 October 1916, vol. 86, c.163; Return of loans raised in England chargeable on Indian revenues, outstanding at commencement of half-year ending 30 September 1916.",
+      "source_identity": "House of Commons, Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at commencement of half-year ending 30 September 1916, presented 12 October 1916.",
+      "edition": "House of Commons Papers, 1916; statutory Return presented 12 October 1916.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1916,
+      "passage_status": "Presentation record locked; underlying Return retained for later loan-level extraction.",
+      "primary_passage": "Copy presented of Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at the commencement of the half-year ending on the 30th September, 1916, etc. [by Act]; to lie upon the Table, and to be printed.",
+      "what_passage_establishes": "The parliamentary record establishes the existence and scope of the official Return covering England-raised loans charged on Indian revenues and outstanding as of the beginning of the half-year ending 30 September 1916.",
+      "evidence_limits": "The Hansard presentation notice does not reproduce individual loan amounts, rates, maturities, holders, or wartime changes. Those details require the underlying Return and must not be inferred from this notice.",
+      "related_banking_power_records": [
+        "east-india-loans-raised-england-1914",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, Return of Loans raised in England chargeable on the Revenues of India, presented 12 October 1916."
+      ],
+      "notes": "1915 was screened but no stronger distinct 1915 parliamentary financial passage was found in the current search; the 1915 Indian Financial Statement and Budget was presented as a Parliamentary Return, but the accessible Hansard entry is only a presentation notice. The chronology therefore advances to the stronger 1916 loan-return marker rather than manufacturing a 1915 substantive claim.",
+      "publication_status": "A-grade presentation record — underlying 1916 Return flagged for document-level extraction.",
+      "bn_title": "১৯১৬ সালে ইংল্যান্ডে তোলা ভারতের ঋণ: ভারতীয় রাজস্বের ওপর বকেয়া ঋণের সরকারি রিটার্ন",
+      "bn_historical_claim": "১৯১৬ সালে সংসদে ভারতের রাজস্বের ওপর ধার্য এবং ইংল্যান্ডে তোলা বকেয়া ঋণের একটি সরকারি রিটার্ন পেশ করা হয়, যা ৩০ সেপ্টেম্বর ১৯১৬-এ শেষ হওয়া অর্ধ-বর্ষের শুরুতে বকেয়া ঋণগুলোকে চিহ্নিত করে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1916
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12593,7 +12643,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 182,
+  "source_count": 183,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13000,5 +13050,17 @@
       "B": 5
     },
     "notes": "Added conservative 1914 parliamentary presentation record; underlying PP No. 180 requires separate extraction before loan-level claims."
+  },
+  "structural_audit_2026_10_08_v107": {
+    "audit_date": "2026-10-08",
+    "record_count": 183,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 178,
+      "B": 5
+    },
+    "notes": "1915 screened without promoting a presentation-only budget notice; added 1916 England-raised India-loans Return presentation record."
   }
 }
