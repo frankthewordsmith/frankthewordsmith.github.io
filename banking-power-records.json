@@ -8901,6 +8901,55 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-gold-standard-reserve-16283000-1907",
+      "title": "India’s Gold Standard Reserve Reaches About £16.283 Million, 1907",
+      "date_label": "25 April 1907",
+      "year": 1907,
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1907/apr/25/financial-reserve",
+      "primary_source": "House of Commons Hansard, 25 April 1907, vol. 173, cc. 232–233; Financial Reserve.",
+      "exact_primary_passage": "The composition of the gold standard reserve on the 31st March, 1907, was as follows: In England, British Government securities ... £11,983,000. In India, 600 lakhs of rupees £4,000,000; Gold ... £300,000. Total, about £16,283,000.",
+      "exact_locator": "House of Commons Hansard, 25 April 1907, vol. 173, cc. 232–233; Financial Reserve.",
+      "historical_claim": "At 31 March 1907, India’s gold standard reserve was about £16.283 million: about £11.983m in British Government securities in England, £4m in rupee holdings in India, and £300,000 in gold in India.",
+      "what_passage_establishes": "A precise contemporary parliamentary snapshot of the reserve’s size and geographic/compositional distribution; the answer also says further accumulation was not to be stopped immediately.",
+      "evidence_limits": "Point-in-time parliamentary statement; it does not establish every transfer, security identity, legal development, or later crisis effects.",
+      "source_identity": "House of Commons, Financial Reserve, 25 April 1907; answer by John Morley, Secretary of State for India.",
+      "edition": "House of Commons Debates (Hansard), 25 April 1907, vol. 173.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1907,
+      "bn_title": "১৯০৭ সালে ভারতের গোল্ড স্ট্যান্ডার্ড রিজার্ভ প্রায় £১৬.২৮৩ মিলিয়নে পৌঁছে",
+      "bn_historical_claim": "১৯০৭ সালের ৩১ মার্চ ভারতের গোল্ড স্ট্যান্ডার্ড রিজার্ভের পরিমাণ ছিল প্রায় £১৬.২৮৩ মিলিয়ন। এর মধ্যে ইংল্যান্ডে প্রায় £১১.৯৮৩ মিলিয়ন ব্রিটিশ সরকারি সিকিউরিটিজ, ভারতে £৪ মিলিয়ন রুপি এবং প্রায় £৩০০,০০০ সোনা ছিল।",
+      "related_banking_power_records": [
+        "india-gold-remittances-currency-reserves-1902",
+        "india-gold-receipts-and-issues-1903",
+        "india-gold-export-state-account-reserve-1904",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "publication_status": "A-grade — contemporary parliamentary statement with precise reserve composition and valuation.",
+      "notes": "Distinct 1907 reserve-size/composition layer; not a duplicate of the 1902–1904 gold-flow records.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1907
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12187,7 +12236,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 174,
+  "source_count": 175,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12449,6 +12498,42 @@
       },
       "global_power_network": {
         "records": 118
+      }
+    }
+  },
+  "structural_audit_2026_10_08_v99": {
+    "audit_date": "2026-10-08",
+    "record_count": 175,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 170,
+      "B": 5
+    },
+    "notes": "Added distinct 1907 Indian gold-standard reserve composition evidence."
+  },
+  "book_1_research_maps_2026_10_08_v54": {
+    "status": "Reconciled after 1907 reserve deployment",
+    "records_mapped": 175,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 69
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 75
+      },
+      "global_power_network": {
+        "records": 119
       }
     }
   }
