@@ -9357,6 +9357,58 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-war-contribution-100-million-1917",
+      "title": "India's £100 Million Contribution to the Cost of the War, 1917",
+      "date_label": "14 March 1917",
+      "year": 1917,
+      "evidence_grade": "A",
+      "historical_claim": "Parliament formally consented to a £100,000,000 contribution charged on the revenues of India toward the cost of the First World War, to be provided partly from a loan raised in India and partly through India's assumption of interest liability on the required amount of British War Loan; Indian taxation and budget provisions were to meet the resulting annual interest and sinking-fund charges.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1917/mar/14/mr-chamberlains-motion",
+      "passage_locator": "House of Commons Hansard, 14 March 1917, vol. 91, cc. 1137–1241; Motion 'Contribution Towards Cost of War'.",
+      "source_identity": "House of Commons, Mr. Chamberlain's Motion / Contribution Towards Cost of War, 14 March 1917, Hansard vol. 91, cc. 1137–1241.",
+      "edition": "House of Commons Debates (Hansard), 14 March 1917, vol. 91.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1917,
+      "passage_status": "Passage locked — exact contemporary parliamentary resolution.",
+      "primary_passage": "That ... the Government of India ... have recommended that a Contribution charged on the Revenues of India should be made towards the expenses of the same, such contribution to consist of the sum of £100,000,000 to be provided in part from the proceeds of a loan to be raised in India and the remainder by assuming liability for interest on British War Loan of the required amount ... the Government of India have now made provision by legislation and in their Revenue and Expenditure Estimates for meeting, by means of increased taxation and otherwise, the annual charge for interest and sinking fund in respect of the Contribution ... this House consents that a Contribution of £100,000,000 charged on the Revenues of India shall be made towards the cost of the War.",
+      "what_passage_establishes": "The parliamentary resolution establishes the legal/political consent for a £100 million Indian-revenue war contribution and its financing structure: part by an Indian loan and the balance through assumption of British War Loan interest liability, with Indian revenue measures covering annual interest and sinking-fund charges.",
+      "evidence_limits": "The resolution establishes the authorized contribution and financing mechanism, not the final cash flows, exact amount actually raised in India, final British War Loan instruments assumed, or the incidence of the Indian taxation used to service the obligation. Those require subsequent financial statements and loan records.",
+      "related_banking_power_records": [
+        "east-india-loans-raised-england-1916",
+        "east-india-loans-raised-england-1914"
+      ],
+      "scholarly_references": [
+        "House of Commons, Contribution Towards Cost of War, 14 March 1917, Hansard vol. 91, cc. 1137–1241."
+      ],
+      "notes": "A distinct wartime sovereign-finance layer. A later 1918 debate reports that £35 million was actually raised in India toward the £100 million contribution, which is retained for a separate 1918 verification record rather than imported into this 1917 authorization record.",
+      "publication_status": "A-grade — exact parliamentary resolution locked.",
+      "bn_title": "১৯১৭ সালে ভারতের £১০০ মিলিয়ন যুদ্ধ-অবদান",
+      "bn_historical_claim": "১৯১৭ সালে ব্রিটিশ সংসদ ভারতের রাজস্বের ওপর ধার্য £১০০ মিলিয়ন যুদ্ধ-অবদানে সম্মতি দেয়; এর একটি অংশ ভারতে ঋণ তুলে এবং বাকি অংশ ব্রিটিশ যুদ্ধঋণের সুদের দায় গ্রহণের মাধ্যমে দেওয়ার কথা ছিল, আর ভারতীয় রাজস্ব ও করব্যবস্থা সুদ ও সিঙ্কিং ফান্ডের বার্ষিক ব্যয় মেটাবে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1917
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12643,7 +12695,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 183,
+  "source_count": 184,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13062,5 +13114,17 @@
       "B": 5
     },
     "notes": "1915 screened without promoting a presentation-only budget notice; added 1916 England-raised India-loans Return presentation record."
+  },
+  "structural_audit_2026_10_08_v108": {
+    "audit_date": "2026-10-08",
+    "record_count": 184,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 179,
+      "B": 5
+    },
+    "notes": "Added 1917 parliamentary authorization of India's £100m war contribution; 1918 realization figures kept for separate record."
   }
 }
