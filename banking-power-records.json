@@ -9460,6 +9460,57 @@
           "monetary_regimes"
         ]
       }
+    },
+    {
+      "source_id": "india-war-expenditure-127800000-1919",
+      "title": "Indian War Expenditure: £127.8 Million by 31 March 1919",
+      "date_label": "19 May 1919",
+      "year": 1919,
+      "evidence_grade": "A",
+      "historical_claim": "The British Government reported in Parliament that India's war expenditure up to 31 March 1919 was approximately £127.8 million, including the £100 million contribution toward His Majesty's Government's war outlay.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1919/may/19/war-expenditure",
+      "passage_locator": "House of Commons Hansard, 19 May 1919, vol. 116, cc. 14–15.",
+      "source_identity": "House of Commons, War Expenditure, 19 May 1919, Hansard vol. 116, cc. 14–15.",
+      "edition": "House of Commons Debates (Hansard), 19 May 1919, vol. 116.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1919,
+      "passage_status": "Passage locked — exact contemporary parliamentary answer.",
+      "primary_passage": "Including a contribution of £100,000,000 towards the war outlay of His Majesty's Government, the war expenditure of the Government of India up to the 31st March, 1919, may be taken at about £127,800,000. A further contribution has been proposed by the Government of India, and is at present under consideration.",
+      "what_passage_establishes": "The parliamentary answer establishes the Government's reported aggregate Indian war expenditure through 31 March 1919 and explicitly states that the £100 million Imperial contribution was included within that figure.",
+      "evidence_limits": "The answer does not provide the full expenditure ledger, distinguish all borrowing from taxation or other financing, or establish the final amount of any further contribution then under consideration.",
+      "related_banking_power_records": [
+        "india-war-contribution-realized-1918",
+        "india-war-contribution-100-million-1917"
+      ],
+      "scholarly_references": [
+        "House of Commons, War Expenditure, 19 May 1919, Hansard vol. 116, cc. 14–15."
+      ],
+      "publication_status": "A-grade — exact contemporary aggregate expenditure figure locked.",
+      "bn_title": "১৯১৯ সালের ভারতীয় যুদ্ধব্যয়: ৩১ মার্চ পর্যন্ত £১২৭.৮ মিলিয়ন",
+      "bn_historical_claim": "১৯১৯ সালের ১৯ মে ব্রিটিশ সংসদে জানানো হয় যে ৩১ মার্চ ১৯১৯ পর্যন্ত ভারতের সরকারের যুদ্ধব্যয় প্রায় £১২৭.৮ মিলিয়ন, যার মধ্যে ব্রিটিশ সরকারের যুদ্ধব্যয়ের জন্য £১০০ মিলিয়ন অবদান অন্তর্ভুক্ত ছিল।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1919
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12746,7 +12797,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 185,
+  "source_count": 186,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13189,5 +13240,17 @@
       "B": 5
     },
     "notes": "Added 1918 realization layer for India's £100m war contribution and separate Treasury-bill financing."
+  },
+  "structural_audit_2026_10_08_v110": {
+    "audit_date": "2026-10-08",
+    "record_count": 186,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 181,
+      "B": 5
+    },
+    "notes": "Added 1919 aggregate Indian war-expenditure record; distinct from 1917 authorization and 1918 loan realization."
   }
 }
