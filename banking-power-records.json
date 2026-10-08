@@ -8698,6 +8698,57 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-gold-receipts-and-issues-1903",
+      "title": "India Gold Receipts Reach £25.282 Million; £7 Million Shipped to England, 1903",
+      "date_label": "12 March 1903",
+      "historical_claim": "The Secretary of State reported that since gold became legal tender in India, the Government of India had received £25.282 million in gold and issued £18.825 million, including £7 million shipped to England and £11.825 million issued to the public.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1903/mar/12/indian-currency",
+      "bn_title": "১৯০৩ সালে ভারতে সোনা গ্রহণ £২৫.২৮২ মিলিয়ন; £৭ মিলিয়ন ইংল্যান্ডে পাঠানো হয়",
+      "bn_historical_claim": "১৯০৩ সালে জানানো হয় যে ভারতে সোনা আইনগত টেন্ডার হওয়ার পর থেকে ভারত সরকার £২৫.২৮২ মিলিয়ন সোনা গ্রহণ করেছে এবং £১৮.৮২৫ মিলিয়ন ইস্যু করেছে; এর মধ্যে £৭ মিলিয়ন ইংল্যান্ডে পাঠানো হয় এবং £১১.৮২৫ মিলিয়ন জনসাধারণকে দেওয়া হয়।",
+      "notes": "Distinct from the 1902 reserve snapshot: this record captures cumulative gold receipts and issues since gold became legal tender, including the amount shipped to England and issued to the public.",
+      "primary_passage": "Since gold was made legal tender in India £25,282,000 has been received in gold by the Government of India, and £18,825,000 has been issued—viz., £7,000,000 shipped to England and £11,825,000 issued to the public.",
+      "passage_locator": "House of Commons Hansard, 12 March 1903, vol. 119, c. 581; Question on Indian Currency, answer by Lord George Hamilton.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1903/mar/12/indian-currency",
+      "source_identity": "House of Commons, Indian Currency, 12 March 1903, Hansard vol. 119, c. 581; answer by Secretary of State for India Lord George Hamilton.",
+      "edition": "House of Commons Debates (Hansard), 12 March 1903, vol. 119.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1903,
+      "what_passage_establishes": "It establishes the cumulative amount of gold received by the Government of India after gold became legal tender, the amount issued, and the split between gold shipped to England and gold issued to the public.",
+      "evidence_limits": "It is a parliamentary answer based on Government of India figures and does not classify each underlying transaction, identify counterparties, establish the complete legal reserve mechanism, or by itself prove broader economic effects. It should not be treated as a full monetary-flow reconstruction.",
+      "related_banking_power_records": [
+        "india-gold-standard-sterling-accounting-1900",
+        "india-gold-remittances-currency-reserves-1902",
+        "india-mint-closure-gold-standard-1893"
+      ],
+      "scholarly_references": [
+        "House of Commons, Indian Currency, 12 March 1903, Hansard vol. 119, c. 581."
+      ],
+      "publication_status": "A-grade — exact contemporary cumulative gold-flow figures locked.",
+      "year": 1903,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1903
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -11984,7 +12035,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 170,
+  "source_count": 171,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12102,6 +12153,42 @@
       },
       "global_power_network": {
         "records": 114
+      }
+    }
+  },
+  "structural_audit_2026_10_08_v95": {
+    "audit_date": "2026-10-08",
+    "record_count": 171,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 166,
+      "B": 5
+    },
+    "notes": "Added distinct 1903 cumulative Indian gold-flow evidence: £25.282 million received, £18.825 million issued, including £7 million shipped to England. Screened as a separate monetary-flow layer from the 1902 point-in-time reserve snapshot."
+  },
+  "book_1_research_maps_2026_10_08_v50": {
+    "status": "Reconciled after 1903 India cumulative gold-flow deployment",
+    "records_mapped": 171,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 67
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 73
+      },
+      "global_power_network": {
+        "records": 115
       }
     }
   }
