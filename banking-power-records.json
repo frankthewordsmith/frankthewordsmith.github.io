@@ -8950,6 +8950,56 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-loans-25000000-1908",
+      "title": "East India Loans Authority: £25 Million for Railways, Irrigation and General Purposes, 1908",
+      "date_label": "30 July 1908",
+      "historical_claim": "Parliament authorised the Secretary of State in Council of India to raise in the United Kingdom, on the security of the Revenues of India, up to £20 million for railways and irrigation and up to £5 million for general purposes.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1908/jul/30/east-india-loans-railway-and-irrigation",
+      "bn_title": "১৯০৮ সালে রেলপথ, সেচ ও সাধারণ উদ্দেশ্যে £২৫ মিলিয়ন ভারতীয় ঋণ-ক্ষমতা",
+      "bn_historical_claim": "১৯০৮ সালে সংসদ ভারত সরকারের রাজস্বের জামানতে যুক্তরাজ্যে সর্বোচ্চ £২০ মিলিয়ন রেলপথ ও সেচ এবং আরও £৫ মিলিয়ন সাধারণ উদ্দেশ্যে ঋণ তোলার ক্ষমতা অনুমোদন করে।",
+      "notes": "Distinct from the 1905 £20 million railway-loan authority: this 1908 measure renewed and expanded borrowing authority, explicitly combining railway/irrigation purposes with a separate £5 million general-purpose power.",
+      "primary_passage": "That it is expedient to authorise the Secretary of State in Council of India to raise in the United Kingdom, on the security of the Revenues of India, by the creation and issue of capital stock, bonds, debentures, or bills:—(1) A sum not exceeding £20,000,000, for the following purposes: (a) The construction, extension, and equipment of railways in India by State agency or through the agency of companies; (b) the repayment of the principal of any bonds or debentures issued by any such company under the guarantee of the Secretary of State; (c) the discharge of any obligations incurred by the Secretary of State by reason of the purchase of any railway or the determination of any contract from or with such company; (d) the construction of irrigation works in India. (2) A sum not exceeding £5,000,000 for the general purposes of the Government of India.",
+      "passage_locator": "House of Commons Hansard, 30 July 1908, vol. 193, cc. 1903–1904; East India Loans [Railway and Irrigation Works, and General Purposes], reported Resolution.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1908/jul/30/east-india-loans-railway-and-irrigation",
+      "source_identity": "House of Commons, East India Loans [Railway and Irrigation Works, and General Purposes], 30 July 1908, Hansard vol. 193, cc. 1903–1904.",
+      "edition": "House of Commons Debates (Hansard), 30 July 1908, vol. 193.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1908,
+      "what_passage_establishes": "It establishes the statutory borrowing mechanism proposed in 1908: the Secretary of State in Council of India could raise specified sums in the United Kingdom against Indian revenues, with £20 million earmarked for railway and irrigation purposes and £5 million for general Government purposes.",
+      "evidence_limits": "The resolution establishes borrowing authority and permitted purposes, not the subsequent amounts actually borrowed, individual bond issues, lenders or investors, transaction terms, or the economic effects of the expenditure.",
+      "related_banking_power_records": [
+        "india-railway-gold-interest-exchange-burden-1891",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Loans [Railway and Irrigation Works, and General Purposes], 30 July 1908, Hansard vol. 193, cc. 1903–1904."
+      ],
+      "publication_status": "A-grade — exact contemporary borrowing-authority resolution locked.",
+      "year": 1908,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1908
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12236,7 +12286,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 175,
+  "source_count": 176,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12534,6 +12584,42 @@
       },
       "global_power_network": {
         "records": 119
+      }
+    }
+  },
+  "structural_audit_2026_10_08_v100": {
+    "audit_date": "2026-10-08",
+    "record_count": 176,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 171,
+      "B": 5
+    },
+    "notes": "Added distinct 1908 East India Loans borrowing-authority evidence: up to £20 million for railways and irrigation and £5 million for general purposes, secured on Indian revenues. Screened as a new borrowing-authority layer distinct from the 1905 railway authority."
+  },
+  "book_1_research_maps_2026_10_08_v55": {
+    "status": "Reconciled after 1908 East India Loans borrowing-authority deployment",
+    "records_mapped": 176,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 70
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 75
+      },
+      "global_power_network": {
+        "records": 120
       }
     }
   }
