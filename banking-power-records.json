@@ -7436,6 +7436,59 @@
       "web_verification_note": "Official Hansard search result confirms the 14 December 1920 written-answer record and its subject matter; the deployed passage and locator remain unchanged."
     },
     {
+      "source_id": "india-sterling-loan-7500000-1921",
+      "title": "India Sterling Loan: £7.5 Million for Railway Material, 1921",
+      "date_label": "9 June 1921",
+      "year": 1921,
+      "evidence_grade": "A",
+      "historical_claim": "The Government of India raised a £7.5 million sterling loan in 1921 whose prospectus specified that the entire proceeds would be used to purchase railway material in the United Kingdom; by May about £900,000 had been spent in Britain on railway capital account.",
+      "verification_status": "Primary parliamentary written-answer record verified against official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/written-answers/1921/jun/09/sterling-loan",
+      "passage_locator": "House of Commons Hansard, 9 June 1921, vol. 142, cc. 2078–2079W, Sterling Loan.",
+      "source_identity": "Written answer by Secretary of State for India Edwin Montagu concerning the recently issued Indian sterling loan.",
+      "edition": "House of Commons Debates, 9 June 1921, Series 5, vol. 142, cc. 2078–2079W.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1921,
+      "passage_status": "Passage locked — exact official answer and locator verified.",
+      "primary_passage": "It was stated on the prospectus issued in connection with the recent Indian sterling loan that the entire proceeds would be utilised for the purchase of railway material in the United Kingdom and no part of the loan proceeds will therefore be expended abroad. About £900,000 was spent in this country in May last on railway capital account.",
+      "what_passage_establishes": "The 1921 Indian sterling loan was earmarked by its prospectus for railway-material purchases in the United Kingdom, and about £900,000 of the proceeds had been spent in Britain in May on railway capital account.",
+      "evidence_limits": "The answer does not reproduce the loan's coupon, maturity, issue price, underwriting arrangements, subscriber identities, or the eventual disposition of the remaining proceeds. It establishes stated use and an interim expenditure figure, not the full loan lifecycle.",
+      "related_banking_power_records": [
+        "bombay-development-loan-1920",
+        "east-india-loans-1910-railways-irrigation",
+        "india-war-contribution-100-million-1917"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 9 June 1921, vol. 142, cc. 2078–2079W.",
+        "Later Indian loan records should separately establish terms, conversion, and final expenditure where available."
+      ],
+      "publication_status": "A-grade — direct ministerial statement tying a named sterling loan to a specified capital import programme.",
+      "bn_title": "ভারতের স্টার্লিং ঋণ: রেলওয়ে উপকরণের জন্য ৭.৫ মিলিয়ন পাউন্ড, ১৯২১",
+      "bn_historical_claim": "১৯২১ সালে ভারত সরকার ৭.৫ মিলিয়ন পাউন্ডের একটি স্টার্লিং ঋণ তোলে, যার সম্পূর্ণ অর্থ যুক্তরাজ্য থেকে রেলওয়ে উপকরণ কেনার জন্য ব্যবহারের কথা প্রসপেক্টাসে বলা হয়েছিল; মে মাসে প্রায় ৯ লাখ পাউন্ড ব্রিটেনে রেলওয়ে মূলধনী হিসাবে ব্যয় হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1921
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "infrastructure_finance",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13394,7 +13447,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 197,
+  "source_count": 198,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13981,5 +14034,17 @@
       "B": 5
     },
     "notes": "Late-1920 screening reconfirmed the December India exchange-support record against official Hansard search results. No additional distinct record deployed in this pass to avoid duplicating the already locked exchange evidence."
+  },
+  "structural_audit_2026_10_08_v122": {
+    "audit_date": "2026-10-08",
+    "record_count": 198,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 193,
+      "B": 5
+    },
+    "notes": "Closed the currently screened 1920 exchange material without adding duplicates, then began 1921 with a distinct Indian sterling-loan record: £7.5m loan, prospectus earmarking proceeds for UK railway-material purchases, and £900k spent in Britain by May."
   }
 }
