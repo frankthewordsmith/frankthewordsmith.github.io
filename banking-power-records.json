@@ -7000,6 +7000,62 @@
       }
     },
     {
+      "source_id": "imperial-exchange-support-policy-1920",
+      "title": "Imperial Exchange Policy: End of Wartime Artificial Exchange Support, 1920",
+      "date_label": "4 March 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "The Treasury stated in March 1920 that Britain would not return to wartime artificial support of Empire exchanges where doing so would require new foreign borrowing or new British loans to governments whose exchanges were at a discount to sterling.",
+      "verification_status": "Primary parliamentary written-answer record verified in official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1920/mar/04/exchange-british-empire",
+      "passage_locator": "House of Commons Hansard, 4 March 1920, vol. 126, cc. 637–638, Question 75, Exchange (British Empire).",
+      "source_identity": "Written question and answer in the House of Commons, 4 March 1920; answer by Chancellor of the Exchequer Mr. Chamberlain.",
+      "edition": "House of Commons Debates, 4 March 1920, Series 5, vol. 126, cc. 637–638.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — exact official Hansard wording and column locator verified.",
+      "primary_passage": "It is not the policy of His Majesty's Government to return to the method necessarily adopted during the War of giving artificial support to the exchanges, which would involve new borrowings abroad by His Majesty's Government or, conversely, new loans by the British Government to Governments whose exchange is at a discount with sterling.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "The Treasury's stated post-war exchange policy was to discontinue wartime artificial exchange support where maintaining it would require additional British foreign borrowing or British lending to governments with depreciated exchanges.",
+      "evidence_limits": "The answer states Government policy; it does not quantify wartime support operations, identify every affected imperial currency, or establish the later effectiveness of the policy.",
+      "related_banking_power_records": [
+        "india-gold-silver-export-control-1920",
+        "east-africa-indian-rupee-currency-1920",
+        "india-currency-war-legacy-1919"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 4 March 1920, vol. 126, cc. 637–638.",
+        "For later exchange-stabilisation developments, later records should be kept separate from this March 1920 policy statement."
+      ],
+      "publication_status": "A-grade — direct ministerial statement of post-war exchange policy in Parliament.",
+      "bn_title": "সাম্রাজ্যিক বিনিময় নীতি: যুদ্ধকালীন কৃত্রিম বিনিময়-সমর্থন বন্ধ, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালের মার্চে ট্রেজারি জানায় যে যুদ্ধকালীন কৃত্রিম বিনিময়-সমর্থনে ফিরে যাওয়া হবে না, কারণ এতে নতুন বিদেশি ঋণ বা স্টার্লিংয়ের তুলনায় অবমূল্যায়িত বিনিময়ধারী সরকারগুলোকে নতুন ব্রিটিশ ঋণ দিতে হতো।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "currency_and_exchange",
+          "sovereign_finance",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -12958,7 +13014,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 189,
+  "source_count": 190,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13449,5 +13505,17 @@
       "B": 5
     },
     "notes": "Added distinct 1920 East African currency-policy evidence showing the Indian rupee's statutory role, its wartime appreciation, and the Government's move toward a sterling-linked local currency. Kept separate from the 1920 bullion-export control record."
+  },
+  "structural_audit_2026_10_08_v114": {
+    "audit_date": "2026-10-08",
+    "record_count": 190,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 185,
+      "B": 5
+    },
+    "notes": "Added distinct 1920 Treasury policy statement ending wartime artificial exchange support and explicitly identifying the borrowing/lending mechanism required to sustain such support. Kept separate from India-specific currency and bullion records."
   }
 }
