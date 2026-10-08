@@ -9257,6 +9257,56 @@
           "monetary_regimes"
         ]
       }
+    },
+    {
+      "source_id": "east-india-loans-raised-england-1914",
+      "title": "East India Loans Raised in England: Outstanding Indian-Revenue Loans, 1914",
+      "date_label": "3 April 1914",
+      "year": 1914,
+      "evidence_grade": "A",
+      "historical_claim": "A Parliamentary Return recorded all loans raised in England and charged on the revenues of India that were outstanding at the commencement of the half-year ending 31 March 1914, providing a primary documentary layer for the sterling debt then outstanding against Indian revenues.",
+      "verification_status": "Primary parliamentary record verified through official Historic Hansard; the underlying Return is identified as Parliamentary Paper No. 180.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1914/apr/03/east-india-loans-raised-in-england",
+      "passage_locator": "House of Commons Hansard, 3 April 1914, vol. 60, c.1503; Parliamentary Paper No. 180.",
+      "source_identity": "House of Commons, Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at commencement of half-year ending 31 March 1914, presented 3 April 1914, Parliamentary Paper No. 180.",
+      "edition": "House of Commons Papers, 1914, Parliamentary Paper No. 180.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1914,
+      "passage_status": "Presentation record locked; underlying Parliamentary Paper identified for document-level follow-up.",
+      "primary_passage": "Copy presented of Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at the commencement of the half-year ending on the 31st March, 1914, etc. [by Act]; to lie upon the Table, and to be printed. [No. 180.]",
+      "what_passage_establishes": "The parliamentary record establishes the existence, title, statutory presentation, date, and paper number of the official Return covering outstanding English-raised loans charged on Indian revenues as of the beginning of the half-year ending 31 March 1914.",
+      "evidence_limits": "The Hansard entry itself does not reproduce the Return's loan-by-loan figures, rates, maturities, or holders. Those details must be extracted from Parliamentary Paper No. 180 before being treated as established by this record.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-budget-1913",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, Parliamentary Paper No. 180 (1914), Return of Loans raised in England chargeable on the Revenues of India."
+      ],
+      "notes": "Kept deliberately conservative: this is a Grade A presentation/identification record, not a claim that the underlying loan schedule has already been fully transcribed.",
+      "publication_status": "A-grade presentation record — underlying Parliamentary Paper No. 180 flagged for next-stage extraction.",
+      "bn_title": "১৯১৪ সালে ইংল্যান্ডে তোলা ভারতের ঋণ: ভারতীয় রাজস্বের ওপর বকেয়া ঋণের সরকারি রিটার্ন",
+      "bn_historical_claim": "১৯১৪ সালে সংসদে ভারতের রাজস্বের ওপর ধার্য এবং ইংল্যান্ডে তোলা বকেয়া ঋণের একটি সরকারি রিটার্ন পেশ করা হয়; রিটার্নটি ৩১ মার্চ ১৯১৪-এ শেষ হওয়া অর্ধ-বর্ষের শুরুতে বকেয়া ঋণগুলো নথিভুক্ত করার জন্য ছিল।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1914
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12543,7 +12593,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 181,
+  "source_count": 182,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12938,5 +12988,17 @@
       "B": 5
     },
     "notes": "Added distinct 1913 Indian Budget financial layer."
+  },
+  "structural_audit_2026_10_08_v106": {
+    "audit_date": "2026-10-08",
+    "record_count": 182,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 177,
+      "B": 5
+    },
+    "notes": "Added conservative 1914 parliamentary presentation record; underlying PP No. 180 requires separate extraction before loan-level claims."
   }
 }
