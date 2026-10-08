@@ -9409,6 +9409,57 @@
           "monetary_regimes"
         ]
       }
+    },
+    {
+      "source_id": "india-war-contribution-realized-1918",
+      "title": "India's War Contribution: £35 Million Raised in India, 1918",
+      "date_label": "6 August 1918",
+      "year": 1918,
+      "evidence_grade": "A",
+      "historical_claim": "In August 1918 the Secretary of State for India reported that the £100 million Indian contribution toward the war had produced £35 million from an Indian loan, transferred to the Imperial Government, while a further £30 million was raised through Treasury Bills for India's own wartime expenditure; a second war loan had already realized £16.5 million.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1918/aug/06/mr-montagus-statement",
+      "passage_locator": "House of Commons Hansard, 6 August 1918, Mr. Montagu's Statement, vol. 109, cc. 1138–1142.",
+      "source_identity": "House of Commons, Mr. Montagu's Statement on Indian finance and war effort, 6 August 1918, Hansard vol. 109, cc. 1138–1142.",
+      "edition": "House of Commons Debates (Hansard), 6 August 1918, vol. 109.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1918,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial statement.",
+      "primary_passage": "The contribution of £100,000,000 towards the cost of the War ... The loan last year realised £35,000,000, which was in due course transferred to the Imperial Government, and at a later date in the same year the Government of India succeeded in raising for its own needs £30,000,000 in the form of Treasury Bills for the purpose of financing war expenditure in India. ... This year a new War Loan has been issued ... Already £16,500,000 has been realised, and therefore it is obvious that of the £100,000,000 promised well over £50,000,000 has already been raised in India itself.",
+      "what_passage_establishes": "The statement establishes actual reported proceeds and transfer of the first Indian war loan, a separate £30 million Treasury-bill financing operation for Indian wartime expenditure, and at least £16.5 million already realized from the subsequent war loan by August 1918.",
+      "evidence_limits": "The statement does not provide the full terms, maturities, subscriber composition, or final total of all Indian war loans, nor does it by itself establish the ultimate incidence of taxation or purchasing power used to service them.",
+      "related_banking_power_records": [
+        "india-war-contribution-100-million-1917",
+        "east-india-loans-raised-england-1916"
+      ],
+      "scholarly_references": [
+        "House of Commons, Mr. Montagu's Statement, 6 August 1918, Hansard vol. 109, cc. 1138–1142."
+      ],
+      "publication_status": "A-grade — exact contemporary realization figures locked.",
+      "bn_title": "১৯১৮ সালে ভারতের যুদ্ধ-অবদান: ভারতে £৩৫ মিলিয়ন ঋণ সংগ্রহ ও অতিরিক্ত ট্রেজারি বিল",
+      "bn_historical_claim": "১৯১৮ সালের আগস্টে ভারতের জন্য জানানো হয় যে £১০০ মিলিয়ন যুদ্ধ-অবদানের মধ্যে ভারতে তোলা ঋণ থেকে £৩৫ মিলিয়ন সংগ্রহ করে ইম্পেরিয়াল সরকারের কাছে হস্তান্তর করা হয়েছে; একই সময়ে ভারতের নিজস্ব যুদ্ধব্যয় মেটাতে আরও £৩০ মিলিয়ন ট্রেজারি বিলের মাধ্যমে সংগ্রহ করা হয় এবং নতুন যুদ্ধঋণ থেকে £১৬.৫ মিলিয়ন ইতিমধ্যে পাওয়া গিয়েছিল।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1918
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12695,7 +12746,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 184,
+  "source_count": 185,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13126,5 +13177,17 @@
       "B": 5
     },
     "notes": "Added 1917 parliamentary authorization of India's £100m war contribution; 1918 realization figures kept for separate record."
+  },
+  "structural_audit_2026_10_08_v109": {
+    "audit_date": "2026-10-08",
+    "record_count": 185,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 180,
+      "B": 5
+    },
+    "notes": "Added 1918 realization layer for India's £100m war contribution and separate Treasury-bill financing."
   }
 }
