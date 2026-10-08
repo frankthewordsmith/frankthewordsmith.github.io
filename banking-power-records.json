@@ -8851,6 +8851,56 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "indian-railways-act-capitalized-construction-interest-1906",
+      "title": "Indian Railways Act Amendment Preserves Capitalized Construction Interest, 1906",
+      "date_label": "29 May 1906",
+      "historical_claim": "Parliament continued the statutory power allowing Indian railway companies, under specified conditions, to pay interest out of capital during construction, a financing mechanism used to facilitate railway development.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Hansard; statutory purpose confirmed in the 1906 legislative debate",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1906-05-29/debates/6ee03a81-aa16-4920-82a8-40c4a3bfd33e/IndianRailwaysActAmendmentBill",
+      "bn_title": "১৯০৬ সালের ভারতীয় রেলওয়ে আইন সংশোধন: নির্মাণকালে সুদ মূলধন থেকে পরিশোধের ক্ষমতা",
+      "bn_historical_claim": "১৯০৬ সালে পার্লামেন্ট ভারতীয় রেলওয়ে কোম্পানিগুলোর নির্মাণকালীন সুদ নির্দিষ্ট শর্তে মূলধন থেকে পরিশোধের ক্ষমতা অব্যাহত রাখে। এই বিধান রেলওয়ে সম্প্রসারণের অর্থায়নে ব্যবহৃত একটি সরাসরি আর্থিক ব্যবস্থা ছিল।",
+      "notes": "Distinct from the 1905 £20 million borrowing authority: this record concerns the statutory treatment of interest during railway construction, not the amount of borrowing authority or a particular loan issue.",
+      "primary_passage": "That Act gave power under certain conditions to pay interest out of capital during construction. It had worked well for twelve years.",
+      "passage_locator": "House of Commons Hansard, 29 May 1906, Indian Railways Act Amendment Bill, Second Reading; official Hansard report.",
+      "passage_status": "Passage locked — exact contemporary parliamentary description of the statutory financing mechanism",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1906-05-29/debates/6ee03a81-aa16-4920-82a8-40c4a3bfd33e/IndianRailwaysActAmendmentBill",
+      "source_identity": "House of Commons, Indian Railways Act Amendment Bill, 29 May 1906; speech by Under-Secretary of State for India John Ellis.",
+      "edition": "House of Commons Debates (Hansard), 29 May 1906.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1906,
+      "what_passage_establishes": "It establishes that the 1894 Act provided, under specified conditions, for interest during railway construction to be paid out of capital, and that the 1906 amendment was intended to make continuation of that arrangement permanent rather than repeatedly renewing it through the Expiring Laws Bill.",
+      "evidence_limits": "The Hansard passage describes the statutory mechanism and legislative purpose; it does not quantify individual railway companies' use of the provision, total capitalized interest, investor returns, or the complete text of the enacted 1906 statute.",
+      "related_banking_power_records": [
+        "east-india-railway-loans-authority-20000000-1905",
+        "india-three-percent-stock-subscription-1901"
+      ],
+      "scholarly_references": [
+        "House of Commons, Indian Railways Act Amendment Bill, 29 May 1906, Hansard."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary statement of a statutory railway-finance mechanism; full enacted statute remains the preferred supplementary primary text.",
+      "year": 1906,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1906
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12137,7 +12187,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 173,
+  "source_count": 174,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12363,6 +12413,42 @@
       },
       "global_power_network": {
         "records": 117
+      }
+    }
+  },
+  "structural_audit_2026_10_08_v98": {
+    "audit_date": "2026-10-08",
+    "record_count": 174,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 169,
+      "B": 5
+    },
+    "notes": "Added distinct 1906 railway-finance legislation evidence: continuation of the statutory power to pay interest out of capital during railway construction. Kept separate from the 1905 £20 million borrowing-authority layer."
+  },
+  "book_1_research_maps_2026_10_08_v53": {
+    "status": "Reconciled after 1906 Indian Railways Act financing-mechanism deployment",
+    "records_mapped": 174,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 69
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 74
+      },
+      "global_power_network": {
+        "records": 118
       }
     }
   }
