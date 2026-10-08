@@ -6945,6 +6945,61 @@
       }
     },
     {
+      "source_id": "east-africa-indian-rupee-currency-1920",
+      "title": "East Africa Currency Policy: Indian Rupee, Sterling Link and Imperial Exchange Spillover, 1920",
+      "date_label": "26 April 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "The 1920 Colonial Office debate records the Indian rupee as the statutory monetary unit in East Africa and explains the Government's response to the rupee's wartime appreciation by moving toward a local currency linked to sterling.",
+      "verification_status": "Primary parliamentary debate verified in official Historic Hansard; ministerial explanation and contemporary parliamentary evidence located.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1920/apr/26/colonial-office",
+      "passage_locator": "House of Commons Hansard, 26 April 1920, Colonial Office debate, vol. 128, approximately cc. 901–918; East African currency discussion and ministerial explanation.",
+      "source_identity": "House of Commons debate on the Colonial Office, 26 April 1920; discussion by Sir F. Banbury and Lieutenant-Colonel Amery, Secretary of State for the Colonies.",
+      "edition": "House of Commons Debates, 26 April 1920, Series 5, vol. 128.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — official Hansard text and debate locator verified.",
+      "primary_passage": "The legal unit of value, the statutory unit of account in East Africa has always been the Indian rupee. ... the scheme was prepared at a time when the Indian rupee had risen in exchange value to about 2s. 9d., and it was decided to substitute ... a local currency based on the florin at 2s. sterling.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "The debate establishes that the Indian rupee remained East Africa's statutory unit of account and that its appreciation had become a practical imperial monetary-policy problem. The Colonial Secretary explains the proposed transition to a local florin-based currency at a sterling-linked value.",
+      "evidence_limits": "This is parliamentary evidence about legal status and Government policy, not a complete statistical series. The debate does not by itself establish the full economic incidence of the currency change or prove that Indian policy was the sole cause of East African price and production effects.",
+      "related_banking_power_records": [
+        "india-gold-silver-export-control-1920",
+        "india-currency-war-legacy-1919",
+        "india-gold-standard-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 26 April 1920, Colonial Office, vol. 128.",
+        "For later implementation, compare the East Africa and Uganda Order in Council of 26 April 1920 and subsequent 1921 currency debate; keep those later records distinct."
+      ],
+      "publication_status": "A-grade — direct parliamentary primary evidence; the record separates statutory monetary status, Government policy, and attributed parliamentary criticism.",
+      "bn_title": "পূর্ব আফ্রিকার মুদ্রানীতি: ভারতীয় রুপি, স্টার্লিং-সংযোগ ও সাম্রাজ্যিক বিনিময়-প্রভাব, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালের ঔপনিবেশিক দপ্তরের বিতর্কে পূর্ব আফ্রিকার আইনগত হিসাবের একক হিসেবে ভারতীয় রুপির অবস্থান এবং রুপির মূল্যবৃদ্ধির প্রতিক্রিয়ায় স্টার্লিং-সংযুক্ত স্থানীয় মুদ্রার দিকে সরকারের অগ্রসর হওয়া নথিভুক্ত হয়েছে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "currency_and_exchange",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -12903,7 +12958,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 188,
+  "source_count": 189,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13382,5 +13437,17 @@
       "B": 5
     },
     "notes": "Added distinct 1920 Gold and Silver (Export, Control, etc.) Bill evidence: statutory power to regulate bullion exports by Order in Council, with contemporaneous parliamentary evidence on the relationship between silver-import controls and Indian rupee exchange movements. Kept separate from the 1919 Indian currency-crisis layer."
+  },
+  "structural_audit_2026_10_08_v113": {
+    "audit_date": "2026-10-08",
+    "record_count": 189,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 184,
+      "B": 5
+    },
+    "notes": "Added distinct 1920 East African currency-policy evidence showing the Indian rupee's statutory role, its wartime appreciation, and the Government's move toward a sterling-linked local currency. Kept separate from the 1920 bullion-export control record."
   }
 }
