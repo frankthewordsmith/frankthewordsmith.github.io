@@ -9205,6 +9205,58 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-budget-1913",
+      "title": "East India Revenue Accounts (Indian Budget), 1913",
+      "date_label": "7 August 1913",
+      "year": 1913,
+      "evidence_grade": "A",
+      "historical_claim": "The 1913 Indian Budget debate recorded a surplus of nearly £8 million over the Budget Estimate, attributed mainly to large railway receipts and high opium prices, with the surplus directed principally toward provincial grants and reduction or avoidance of debt; it also stated that successive Governments had used India's resources and credit to build the railway system.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1913/aug/07/east-india-revenue-accounts-indian-budget",
+      "passage_locator": "House of Commons Hansard, 7 August 1913, vol. 56, cc. 1780–1908; financial discussion at cc. 1783–1784.",
+      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 7 August 1913, Hansard vol. 56, cc. 1780–1908.",
+      "edition": "House of Commons Debates (Hansard), 7 August 1913, vol. 56.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1913,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
+      "primary_passage": "There was last year, due mainly to the very large railway receipts and the high prices obtained for opium, a surplus of not less than nearly £8,000,000 over the Budget Estimate. This surplus is to be spent mainly on Grants to provincial Governments for education and sanitation and, with the surplus estimated for in the Budget on the reduction and avoidance of debt. ... For the last two generations successive Secretaries of State and Governments of India have used the resources and the credit of India to build up a railway system which has always been closely associated with the State, and has become more closely associated with it during the last generation.",
+      "what_passage_establishes": "The contemporary Budget debate establishes the reported size and stated causes of the prior-year surplus, its intended allocation partly to debt reduction/avoidance, and the official characterization of railway development as having been built using India's resources and credit under close State association.",
+      "evidence_limits": "The debate establishes official statements and policy descriptions, not the ultimate economic incidence of railway finance, the identities of capital providers, or whether every planned debt-reduction allocation was subsequently executed exactly as stated.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-budget-1912",
+        "east-india-revenue-accounts-budget-1911",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts (Indian Budget), 7 August 1913, Hansard vol. 56, cc. 1780–1908."
+      ],
+      "publication_status": "A-grade — exact contemporary Budget passage locked.",
+      "bn_title": "১৯১৩ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: উদ্বৃত্ত, ঋণ হ্রাস ও ভারতের ঋণভিত্তিক রেলওয়ে উন্নয়ন",
+      "bn_historical_claim": "১৯১৩ সালের ভারতীয় বাজেট আলোচনায় প্রায় £৮ মিলিয়ন উদ্বৃত্ত, তার প্রধান উৎস রেলওয়ে আয় ও আফিম রাজস্ব, এবং উদ্বৃত্তের একটি অংশ ঋণ হ্রাস বা এড়াতে ব্যবহারের পরিকল্পনা নথিভুক্ত হয়; একই সঙ্গে ভারতের সম্পদ ও ঋণক্ষমতা ব্যবহার করে রাষ্ট্র-ঘনিষ্ঠ রেলওয়ে ব্যবস্থা গড়ে তোলার কথা বলা হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1913
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12491,7 +12543,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 180,
+  "source_count": 181,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12874,5 +12926,17 @@
       "A": 175,
       "B": 5
     }
+  },
+  "structural_audit_2026_10_08_v105": {
+    "audit_date": "2026-10-08",
+    "record_count": 181,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 176,
+      "B": 5
+    },
+    "notes": "Added distinct 1913 Indian Budget financial layer."
   }
 }
