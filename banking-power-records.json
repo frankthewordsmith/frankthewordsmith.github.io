@@ -7056,6 +7056,62 @@
       }
     },
     {
+      "source_id": "treasury-bank-credit-restraint-1920",
+      "title": "Treasury and the Banks: Credit Restraint, Treasury Bills and Money Rates, 1920",
+      "date_label": "12 July 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "In July 1920 the Chancellor of the Exchequer described active consultation with leading bankers and the use of higher money rates, including the Treasury Bill rate, as part of efforts to restrain credit expansion and speculative lending during post-war inflationary pressure.",
+      "verification_status": "Primary parliamentary debate verified against official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1920/jul/12/finance-bill",
+      "passage_locator": "House of Commons Hansard, 12 July 1920, vol. 131, cc. 1999–2122; relevant discussion around cc. 2018–2023.",
+      "source_identity": "Finance Bill Committee debate, House of Commons, 12 July 1920; statement by Chancellor of the Exchequer Mr. Chamberlain concerning credit, money rates and consultation with leading bankers.",
+      "edition": "House of Commons Debates, 12 July 1920, Series 5, vol. 131, cc. 1999–2122.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — official Hansard text and locator verified.",
+      "primary_passage": "My responsibility, in so far as I have any responsibility, arises out of an interview which I sought with leading bankers to ascertain whether, in their opinion, they could take such measures as might guard us against the necessity for any further rise in money rates. ... I was confronted with certain circumstances in which ... I was yet being forced into a fresh inflation, not because I was borrowing new money, but because the demands for money were so great that the attraction of Treasury Bills was insufficient as compared with the other opportunities of investment. There was no step that I could take except to raise the rates again. ... I told them that I did not think that they could go on increasing the amount of their overdrafts and loans, or that they ought to allow the overdrafts and loans to be used for speculative purposes.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "The Chancellor personally sought consultation with leading bankers; he linked Treasury Bill and money-rate policy to attempts to restrain monetary/credit expansion and warned banks against continued expansion of overdrafts and loans for speculative purposes.",
+      "evidence_limits": "This is a ministerial parliamentary statement about policy and consultation, not a complete record of private meetings, banking balance sheets, or the independent effectiveness of the measures. It does not establish coordinated control by all banks or a particular banking family's influence.",
+      "related_banking_power_records": [
+        "imperial-exchange-support-policy-1920",
+        "india-gold-silver-export-control-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 12 July 1920, vol. 131, cc. 1999–2122.",
+        "The Cunliffe Committee is mentioned in the debate; later records should separately establish its recommendations and implementation."
+      ],
+      "publication_status": "A-grade — direct ministerial statement in Parliament, with interpretive limits.",
+      "bn_title": "ট্রেজারি ও ব্যাংকসমূহ: ঋণ-সৃষ্টির নিয়ন্ত্রণ, ট্রেজারি বিল ও অর্থের সুদের হার, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালের জুলাইয়ে চ্যান্সেলর অব দ্য এক্সচেকার শীর্ষস্থানীয় ব্যাংকারদের সঙ্গে পরামর্শ এবং ট্রেজারি বিল ও অর্থের সুদের হার ব্যবহারের কথা জানান, যার লক্ষ্য ছিল ঋণ-সৃষ্টির সম্প্রসারণ ও জল্পনামূলক ঋণ নিয়ন্ত্রণ করা।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "central_banks",
+          "credit_and_banking",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "central_banks",
+          "financial_crises",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13014,7 +13070,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 190,
+  "source_count": 191,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13517,5 +13573,17 @@
       "B": 5
     },
     "notes": "Added distinct 1920 Treasury policy statement ending wartime artificial exchange support and explicitly identifying the borrowing/lending mechanism required to sustain such support. Kept separate from India-specific currency and bullion records."
+  },
+  "structural_audit_2026_10_08_v115": {
+    "audit_date": "2026-10-08",
+    "record_count": 191,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 186,
+      "B": 5
+    },
+    "notes": "Added distinct July 1920 ministerial evidence on Treasury consultation with leading bankers, Treasury Bill and money-rate policy, and restraint of bank overdrafts/loans used for speculation. Kept separate from the March exchange-policy and April East Africa/India currency records."
   }
 }
