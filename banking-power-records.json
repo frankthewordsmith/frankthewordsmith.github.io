@@ -9052,6 +9052,59 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-loans-1910-railways-irrigation",
+      "title": "East India Loans (Railways and Irrigation) Bill, 1910",
+      "date_label": "17 March 1910",
+      "year": 1910,
+      "evidence_grade": "A",
+      "historical_claim": "Parliament considered renewed borrowing powers for the Government of India, principally for railway capital expenditure and associated capital liabilities, with the 1910 debate stating that the 1908 authority had raised £13,307,273 for programme purposes and that further borrowing powers were required.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1910/mar/17/east-india-loans-railways-and-irrigation",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1910/mar/17/east-india-loans-railways-and-irrigation",
+      "passage_locator": "House of Commons Hansard, 17 March 1910, vol. 15, cc. 607–612; East India Loans (Railways and Irrigation) Bill.",
+      "passage_status": "Passage locked — exact contemporary parliamentary record.",
+      "source_identity": "House of Commons, East India Loans (Railways and Irrigation) Bill, 17 March 1910, Hansard vol. 15, cc. 607–612.",
+      "edition": "House of Commons Debates (Hansard), 17 March 1910, vol. 15.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1910,
+      "primary_passage": "The amount raised for programme purposes under the Bill of 1908 has been £13,307,273. ... It is probable, therefore, that about £8,000,000 a year must be raised in this country for the purposes of the programme. Some part of this sum will be raised in the form of Capital Stock or Debentures of Guaranteed Railway Companies ... It is not possible to give any accurate estimate, but, based on past experience, it may be suggested that about £6,000,000 a year will be raised for programme purposes by the Secretary of State. ... Under the Loans Act of 1908, £997,300 has been spent on the discharge of debentures; before the end of this year ... it will be necessary to repay ... £2,250,000; possibly ... £1,510,000 may be required ... The loans for these purposes will be raised under—and, I may add, go far to exhaust—the borrowing powers of the Act of 1908.",
+      "what_passage_establishes": "The debate records the scale of borrowing already raised under the 1908 Act, the expected annual requirement for railway capital purposes in Britain, and the use of borrowing powers to discharge railway-company capital liabilities and debentures.",
+      "evidence_limits": "The passage is a parliamentary debate and establishes stated Government figures and proposed borrowing requirements; it does not by itself prove that every projected amount was subsequently issued, nor identify every lender, investor, security term or final transaction.",
+      "notes": "Distinct from the 1908 authority and the 1910 Jekyll Island record. This record is a primary parliamentary-finance layer showing the continuation and practical exhaustion of the 1908 borrowing authority and the rationale for renewed borrowing power.",
+      "related_banking_power_records": [
+        "east-india-loans-25000000-1908",
+        "jekyll-island-1910",
+        "east-india-revenue-accounts-1909"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Loans (Railways and Irrigation) Bill, 17 March 1910, Hansard vol. 15, cc. 607–612."
+      ],
+      "publication_status": "A-grade — exact contemporary parliamentary borrowing record locked.",
+      "bn_title": "১৯১০ সালের ইস্ট ইন্ডিয়া ঋণ বিল: রেলপথ ও সেচের জন্য নতুন ঋণ-ক্ষমতা",
+      "bn_historical_claim": "১৯১০ সালের সংসদীয় আলোচনায় ১৯০৮ সালের আইনের অধীনে ইতিমধ্যে £১৩.৩ মিলিয়ন তোলা হয়েছে এবং রেলপথের মূলধনী কর্মসূচি ও বিদ্যমান মূলধনী দায় পরিশোধের জন্য নতুন ঋণ-ক্ষমতার প্রয়োজন দেখানো হয়।",
+      "bn_notes": "এটি ১৯০৮ সালের ঋণ-অনুমোদন এবং ১৯১০ সালের Jekyll Island রেকর্ডের থেকে পৃথক একটি প্রাথমিক সংসদীয় আর্থিক প্রমাণস্তর।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1910
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12338,7 +12391,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 177,
+  "source_count": 178,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12686,5 +12739,17 @@
       "B": 5
     },
     "notes": "Added 1909 East India Revenue Accounts as a distinct official financial-accounting evidence layer: government remittances, debt-interest component and railway capital outlay."
+  },
+  "structural_audit_2026_10_08_v102": {
+    "audit_date": "2026-10-08",
+    "record_count": 178,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 173,
+      "B": 5
+    },
+    "notes": "Added distinct 1910 East India Loans parliamentary borrowing layer; kept separate from existing Jekyll Island 1910 record."
   }
 }
