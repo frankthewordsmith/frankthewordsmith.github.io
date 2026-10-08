@@ -9105,6 +9105,57 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-budget-1911",
+      "title": "East India Revenue Accounts (Indian Budget), 1911",
+      "date_label": "26 July 1911",
+      "year": 1911,
+      "evidence_grade": "A",
+      "historical_claim": "The 1911 Indian Budget debate recorded improved railway and irrigation finances, higher earnings of guaranteed railway companies, a reduction of non-productive Indian public debt to £46 million by 31 March 1911, and allocation of £2 million of the surplus toward discharge of floating debt.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1911/jul/26/east-india-revenue-accounts-indian-budget",
+      "passage_locator": "House of Commons Hansard, 26 July 1911, vol. 28, cc. 1664–1783, especially cc. 1667–1669.",
+      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 26 July 1911, Hansard vol. 28, cc. 1664–1783.",
+      "edition": "House of Commons Debates (Hansard), 26 July 1911, vol. 28.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1911,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
+      "primary_passage": "Railways accounted for £1,272,000 of the surplus; irrigation £91,000, and telegraphs £104,000. The improvement in the profit of railways is the result of the increase in the gross traffic receipts—£674,500—and the decrease of working expenses, interest charges, and miscellaneous charges by £597,700. The guaranteed companies received as surplus profits or net earnings £100,000 more last year than the year before. ... £2,000,000 has been set aside to be used towards the discharge of floating debt. ... the non-productive debt amounted on the 31st March, 1911, to only £46,000,000, as against £71,000,000 ten years previously.",
+      "what_passage_establishes": "The contemporary Budget debate establishes stated government figures for railway profitability and guaranteed-company earnings, and records a substantial reduction in non-productive debt together with a £2 million allocation toward floating-debt discharge.",
+      "evidence_limits": "These figures are official budgetary statements in parliamentary debate; they do not by themselves establish the ultimate distribution of railway profits, the identities or returns of individual investors, the economic incidence of debt service, or that debt reduction represented cancellation of all underlying obligations.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-1909",
+        "east-india-loans-25000000-1908",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts (Indian Budget), 26 July 1911, Hansard vol. 28, cc. 1664–1783."
+      ],
+      "notes": "Distinct 1911 financial-accounting layer. The separate 13 December 1911 Return of Loans Raised in India was identified but not promoted to an A-grade evidence record because the Hansard entry only records presentation of the Return; the underlying Return itself should be inspected before extracting figures.",
+      "publication_status": "A-grade — exact contemporary Indian Budget financial passage locked.",
+      "bn_title": "১৯১১ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: রেলওয়ে মুনাফা, ঋণ হ্রাস ও ফ্লোটিং ডেট পরিশোধ",
+      "bn_historical_claim": "১৯১১ সালের ভারতীয় বাজেট আলোচনায় রেলওয়ে থেকে £১.২৭২ মিলিয়ন উদ্বৃত্ত, গ্যারান্টিযুক্ত রেলওয়ে কোম্পানিগুলোর বাড়তি আয় এবং ৩১ মার্চ ১৯১১-এ অনুৎপাদনশীল ঋণ £৪৬ মিলিয়নে নেমে আসার কথা নথিভুক্ত হয়; উদ্বৃত্তের £২ মিলিয়ন ফ্লোটিং ডেট পরিশোধে রাখা হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1911
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12391,7 +12442,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 178,
+  "source_count": 179,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12751,5 +12802,17 @@
       "B": 5
     },
     "notes": "Added distinct 1910 East India Loans parliamentary borrowing layer; kept separate from existing Jekyll Island 1910 record."
+  },
+  "structural_audit_2026_10_08_v103": {
+    "audit_date": "2026-10-08",
+    "record_count": 179,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 174,
+      "B": 5
+    },
+    "notes": "Added distinct 1911 East India Revenue Accounts financial layer; underlying 13 Dec 1911 Loans Raised in India Return flagged for separate primary-document inspection."
   }
 }
