@@ -7112,6 +7112,63 @@
       }
     },
     {
+      "source_id": "india-trade-gold-flows-april-1920",
+      "title": "India's Trade Balance and Private Gold Flows, April 1920",
+      "date_label": "6 July 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "A July 1920 parliamentary answer reported India's April 1920 private-account merchandise trade, remittance demand to London, and net private gold imports into India, providing contemporary evidence of exchange-related monetary flows.",
+      "verification_status": "Primary written-answer record verified in official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/written-answers/1920/jul/06/international-trade-exchange",
+      "passage_locator": "House of Commons Hansard, 6 July 1920, vol. 131, cc. 1252–1253W, International Trade (Exchange).",
+      "source_identity": "Written question and answer, House of Commons, 6 July 1920; answer by Secretary of State for India Mr. Montagu.",
+      "edition": "House of Commons Debates, 6 July 1920, Series 5, vol. 131, cc. 1252–1253W.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — exact official answer and locator verified.",
+      "primary_passage": "India's net exports of merchandise on private account amounted in April to 6.87 lakhs. This information was reported by telegram by the Government of India, but as the detailed figures have not yet reached me I am not in a position to state what share in this trade balance relates to trade between India and this country. Exports and imports of commodities form, however, only one element in a country's international account, and during April there was a steady demand for remittance of funds from India to London. In April the net imports of gold into India on private account amounted only to about 14,400 fine ounces, being the equivalent of about 61,200 sovereigns.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "The Secretary of State for India reported a private-account merchandise export surplus of 6.87 lakhs in April 1920, steady demand for remittances from India to London, and private net gold imports of about 14,400 fine ounces (about 61,200 sovereigns).",
+      "evidence_limits": "The answer says detailed trade figures were not yet available, so it does not establish India's complete international balance, the bilateral India-UK share, or the causal relationship among trade, remittances, gold flows and exchange rates.",
+      "related_banking_power_records": [
+        "india-currency-war-legacy-1919",
+        "east-africa-indian-rupee-currency-1920",
+        "india-gold-silver-export-control-1920",
+        "imperial-exchange-support-policy-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 6 July 1920, vol. 131, cc. 1252–1253W.",
+        "Contemporary parliamentary evidence on India's post-war currency and exchange position should be read alongside the 1919 currency record and the 1920 East Africa/rupee record."
+      ],
+      "publication_status": "A-grade — direct ministerial written answer containing contemporary quantitative figures.",
+      "bn_title": "ভারতের বাণিজ্য ভারসাম্য ও বেসরকারি সোনা প্রবাহ, এপ্রিল ১৯২০",
+      "bn_historical_claim": "১৯২০ সালের জুলাইয়ের এক সংসদীয় উত্তরে এপ্রিল মাসে ভারতের বেসরকারি পণ্য-বাণিজ্য, লন্ডনে অর্থ প্রেরণের চাহিদা এবং ভারতে বেসরকারি হিসাবে নিট সোনা আমদানির সমসাময়িক পরিসংখ্যান দেওয়া হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "currency_and_exchange",
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13070,7 +13127,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 191,
+  "source_count": 192,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13585,5 +13642,17 @@
       "B": 5
     },
     "notes": "Added distinct July 1920 ministerial evidence on Treasury consultation with leading bankers, Treasury Bill and money-rate policy, and restraint of bank overdrafts/loans used for speculation. Kept separate from the March exchange-policy and April East Africa/India currency records."
+  },
+  "structural_audit_2026_10_08_v116": {
+    "audit_date": "2026-10-08",
+    "record_count": 192,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 187,
+      "B": 5
+    },
+    "notes": "Added distinct July 1920 India exchange-flow evidence: April private-account merchandise exports, remittance demand to London, and private net gold imports. Kept separate from policy records on exchange support, East Africa currency, and bullion-export controls."
   }
 }
