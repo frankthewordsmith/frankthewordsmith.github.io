@@ -7169,6 +7169,62 @@
       }
     },
     {
+      "source_id": "bombay-development-loan-1920",
+      "title": "Bombay Provincial Development Loan: 6½% Loan, 1920",
+      "date_label": "17 November 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "The Government of Bombay launched a development loan in India in 1920 to inaugurate a five-year programme requiring 30 crores of rupees for industrial housing, reclamation, development and local-body operations; the issue carried 6½% interest, was income-tax free, repayable at par in 1935, and received 9⅓ crores of subscriptions.",
+      "verification_status": "Primary parliamentary answer verified against the official UK Parliament Hansard record.",
+      "source_url": "https://hansard.parliament.uk/Commons/1920-11-17/debates/c7232e6f-c933-4b11-9e6b-c9437b91f462/ProvincialLoanBombay",
+      "passage_locator": "House of Commons Hansard, 17 November 1920, vol. 134, c. 1854, 'Provincial Loan, Bombay'.",
+      "source_identity": "House of Commons oral answer by Secretary of State for India Edwin Montagu concerning the Government of Bombay's recently issued development loan.",
+      "edition": "House of Commons Debates, 17 November 1920, Series 5, vol. 134, c. 1854.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — exact official answer and locator verified.",
+      "primary_passage": "The Government of Bombay anticipate that during the next five years they will require 30 crores of rupees to finance industrial housing, reclamation and development, and the operations of Bombay local bodies. With a view to inaugurating this important programme, the Government of Bombay recently issued a development loan in India. The terms of the loan were as follows: Issue price, par; rate of interest, 6½ per cent., free of Income Tax; loan to be repaid at par in 1935. No limit was announced to the amount of subscriptions that the Government would be willing to receive, and when the lists closed at the end of October the gratifying sum of 9⅓ crores had been subscribed.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "Bombay had begun raising provincial development finance directly in India through a public loan; the parliamentary answer specifies its 6½% tax-free coupon, par issue and repayment in 1935, while recording 9⅓ crores subscribed against an anticipated five-year requirement of 30 crores.",
+      "evidence_limits": "The answer does not identify individual subscribers, intermediary banks, underwriting arrangements, secondary-market activity, or the ultimate allocation of proceeds among the listed purposes. It also does not establish that the full 30-crore programme was ultimately financed through this loan.",
+      "related_banking_power_records": [
+        "india-trade-gold-flows-april-1920",
+        "treasury-bank-credit-restraint-1920",
+        "india-gold-silver-export-control-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 17 November 1920, vol. 134, c. 1854.",
+        "The record should be read as evidence of provincial capital-market development in India, not as evidence of a particular private banking group's control."
+      ],
+      "publication_status": "A-grade — direct ministerial statement with precise contemporary loan terms and subscription amount.",
+      "bn_title": "বোম্বে প্রাদেশিক উন্নয়ন ঋণ: ৬½% ঋণ, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালে বোম্বে সরকার শিল্প-আবাসন, ভূমি পুনরুদ্ধার, উন্নয়ন ও স্থানীয় সংস্থার কার্যক্রমের জন্য ভারতে একটি উন্নয়ন ঋণ ইস্যু করে; পাঁচ বছরে ৩০ কোটি রুপি প্রয়োজনের পরিকল্পনার বিপরীতে ঋণের সুদ ছিল ৬½%, আয়করমুক্ত, ১৯৩৫ সালে সমমূল্যে পরিশোধযোগ্য এবং ৯⅓ কোটি রুপির সাবস্ক্রিপশন পাওয়া যায়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "credit_and_banking",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "central_banks",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13127,7 +13183,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 192,
+  "source_count": 193,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13654,5 +13710,17 @@
       "B": 5
     },
     "notes": "Added distinct July 1920 India exchange-flow evidence: April private-account merchandise exports, remittance demand to London, and private net gold imports. Kept separate from policy records on exchange support, East Africa currency, and bullion-export controls."
+  },
+  "structural_audit_2026_10_08_v117": {
+    "audit_date": "2026-10-08",
+    "record_count": 193,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 188,
+      "B": 5
+    },
+    "notes": "Added distinct November 1920 Bombay provincial development-loan evidence with exact issue terms, 1935 maturity, tax treatment, five-year funding requirement and 9⅓-crore subscription total. Kept separate from broader exchange and Treasury-credit records."
   }
 }
