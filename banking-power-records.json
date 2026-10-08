@@ -7545,6 +7545,62 @@
       }
     },
     {
+      "source_id": "uk-exchequer-bonds-external-debt-refinancing-1921",
+      "title": "United Kingdom Debt Refinancing: £103 Million Exchequer Bonds and £80 Million External Debt, 1921",
+      "date_label": "9 November 1921",
+      "year": 1921,
+      "evidence_grade": "A",
+      "historical_claim": "During 1921 the British Exchequer refinanced £103 million of maturing domestic Exchequer Bonds and £80 million of external debt, mostly owed in the United States and Canada, through new loan issues; the Chancellor stated that this converted the external debt into internal debt.",
+      "verification_status": "Primary parliamentary debate verified against official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1921/nov/09/exchequer-bonds-and-external-debt",
+      "passage_locator": "House of Commons Hansard, 9 November 1921, vol. 148, cc. 457–566; debt-refinancing statement at c. 457.",
+      "source_identity": "Chancellor of the Exchequer Sir Robert Horne, Consolidated Fund (Appropriation—No. 2) Bill debate.",
+      "edition": "House of Commons Debates, 9 November 1921, Series 5, vol. 148, cc. 457–566.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1921,
+      "passage_status": "Passage locked — exact official debate and locator verified.",
+      "primary_passage": "There were Exchequer Bonds issued in this country falling due for repayment in the course of the present financial year to the amount of £103,000,000, and there were also external debts due, mostly in the United States and Canada, amounting altogether to £80,000,000. In the course of the year up to now we have succeeded, by the issue of loans, in meeting or providing money to meet the whole of the £103,000,000 and we have also provided for the £80,000,000 of external debt by the same means. ... Of course it has converted an external debt into an internal debt.",
+      "what_passage_establishes": "The Chancellor's statement establishes the scale of maturing domestic and external obligations and that new British loan issues were used to provide for both, with the external debt thereby converted into an internal debt in the stated refinancing operation.",
+      "evidence_limits": "The debate does not provide a complete list of refinancing issues, their coupons or maturities, lender identities, subscription distribution, or the full subsequent debt path. It establishes the Government's stated refinancing operation, not the ultimate economic incidence or private ownership of the replacement debt.",
+      "related_banking_power_records": [
+        "uk-final-balance-sheet-war-loans-1920",
+        "uk-national-debt-composition-1920",
+        "uk-currency-note-contraction-1920",
+        "treasury-bank-credit-restraint-1920",
+        "imperial-exchange-support-policy-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 9 November 1921, vol. 148, cc. 457–566.",
+        "The 1920 national-debt record gives the preceding debt composition; this 1921 record documents a subsequent refinancing operation."
+      ],
+      "publication_status": "A-grade — direct Chancellor of the Exchequer statement with quantified domestic and external refinancing.",
+      "bn_title": "যুক্তরাজ্যের ঋণ পুনঃঅর্থায়ন: ১০৩ মিলিয়ন পাউন্ড এক্সচেকার বন্ড ও ৮০ মিলিয়ন পাউন্ড বৈদেশিক ঋণ, ১৯২১",
+      "bn_historical_claim": "১৯২১ সালে ব্রিটিশ এক্সচেকার ১০৩ মিলিয়ন পাউন্ড পরিপক্ব দেশীয় এক্সচেকার বন্ড এবং ৮০ মিলিয়ন পাউন্ড বৈদেশিক ঋণের জন্য নতুন ঋণ ইস্যুর মাধ্যমে অর্থের ব্যবস্থা করে; চ্যান্সেলর জানান, বৈদেশিক ঋণটি এভাবে অভ্যন্তরীণ ঋণে রূপান্তরিত হয়।",
+      "bn_what_passage_establishes": "চ্যান্সেলরের বক্তব্যে পরিপক্ব দেশীয় ও বৈদেশিক ঋণের পরিমাণ এবং নতুন ঋণের মাধ্যমে সেগুলোর পুনঃঅর্থায়ন সরাসরি নথিবদ্ধ হয়েছে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1921
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13503,7 +13559,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 199,
+  "source_count": 200,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -14114,5 +14170,17 @@
       "B": 5
     },
     "notes": "Added a distinct 1921 exchange-crisis record from the 23 February written answer: Rs.43 crores adverse merchandise-and-treasure balance for the twelve months ending December 1920, versus Rs.125 crores favorable in 1919, with Montagu stating effective intervention was impracticable given sterling resources and obligations. Kept separate from the 1920 sterling-draft-support record and the June 1921 sterling loan."
+  },
+  "structural_audit_2026_10_08_v124": {
+    "audit_date": "2026-10-08",
+    "record_count": 200,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 195,
+      "B": 5
+    },
+    "notes": "Added distinct 1921 refinancing evidence: £103m maturing domestic Exchequer Bonds and £80m external debt, mostly US/Canada, provided for through new loan issues; the Chancellor stated the external debt was thereby converted into internal debt. Kept separate from the February Indian exchange crisis and June Indian sterling loan."
   }
 }
