@@ -8749,6 +8749,57 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-gold-export-state-account-reserve-1904",
+      "title": "India Gold Exports £4.572 Million; £3.268 Million on State Account, 1904",
+      "date_label": "9 March 1904",
+      "historical_claim": "The Secretary of State reported that India exported £4.5717 million of gold from July through December 1903, of which £3.2677 million was consigned to the Secretary of State; on 31 January 1904 the Currency Reserve held £9.207 million and the Gold Reserve Fund £500,000, with £4.76215 million of British securities held for that fund.",
+      "verification_status": "Primary contemporary parliamentary record verified through official UK Parliament Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1904-03-09/debates/8044aa51-5689-4e66-aea2-3ed325e90e91/IndianCurrency%E2%80%94Gold",
+      "bn_title": "১৯০৪ সালে ভারতের £৪.৫৭২ মিলিয়ন সোনা রপ্তানি; £৩.২৬৮ মিলিয়ন রাষ্ট্রের হিসাবে",
+      "bn_historical_claim": "১৯০৪ সালে জানানো হয় যে ১৯০৩ সালের জুলাই–ডিসেম্বরে ভারত থেকে £৪.৫৭২ মিলিয়ন সোনা রপ্তানি হয়, যার £৩.২৬৮ মিলিয়ন সেক্রেটারি অব স্টেটের হিসাবে পাঠানো হয়। ৩১ জানুয়ারি ১৯০৪ কারেন্সি রিজার্ভ ছিল £৯.২০৭ মিলিয়ন এবং গোল্ড রিজার্ভ ফান্ড £৫০০,০০০; ওই ফান্ডের পক্ষে ব্রিটিশ সিকিউরিটিজ ছিল £৪.৭৬২১৫ মিলিয়ন।",
+      "notes": "Distinct from the 1903 cumulative gold-flow record and the 1902 point-in-time reserve snapshot: this record identifies the state-account share of gold exports and the reserve fund's British securities position at 31 January 1904.",
+      "primary_passage": "Exports from 1st July to 31st December, 1903, £4,571,700, of which £3,267,700 was consigned to the Secretary of State. Imports, £6,640,300. Net Imports, £2,068,600.",
+      "passage_locator": "House of Commons Hansard, 9 March 1904, vol. 131, cc. 558–559; Question 9, Indian Currency—Gold; answer by Secretary of State for India Mr. Brodrick.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://hansard.parliament.uk/commons/1904-03-09/debates/8044aa51-5689-4e66-aea2-3ed325e90e91/IndianCurrency%E2%80%94Gold",
+      "source_identity": "House of Commons, Indian Currency—Gold, 9 March 1904, Hansard vol. 131, cc. 558–559; answer by Secretary of State for India William Brodrick.",
+      "edition": "House of Commons Debates (Hansard), 9 March 1904, vol. 131.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1904,
+      "what_passage_establishes": "It establishes the gold export and import figures for the second half of 1903, the amount of exported gold consigned to the Secretary of State, and, in the same answer, the Government of India's gold-reserve holdings and British securities held for the Gold Reserve Fund at 31 January 1904.",
+      "evidence_limits": "The figures are a parliamentary answer based on Government of India information. January 1904 figures were incomplete at the time, and the passage does not classify every gold transaction, identify counterparties, or establish broader monetary effects.",
+      "related_banking_power_records": [
+        "india-gold-receipts-and-issues-1903",
+        "india-gold-remittances-currency-reserves-1902",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons, Indian Currency—Gold, 9 March 1904, Hansard vol. 131, cc. 558–559."
+      ],
+      "publication_status": "A-grade — exact contemporary gold-export, state-account and reserve figures locked.",
+      "year": 1904,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1904
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12035,7 +12086,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 171,
+  "source_count": 172,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12189,6 +12240,42 @@
       },
       "global_power_network": {
         "records": 115
+      }
+    }
+  },
+  "structural_audit_2026_10_08_v96": {
+    "audit_date": "2026-10-08",
+    "record_count": 172,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 167,
+      "B": 5
+    },
+    "notes": "Added distinct 1904 Indian gold-flow/reserve evidence: second-half-1903 gold exports, the state-account share, and the 31 January 1904 Currency Reserve/Gold Reserve Fund securities position."
+  },
+  "book_1_research_maps_2026_10_08_v51": {
+    "status": "Reconciled after 1904 India gold-export and reserve deployment",
+    "records_mapped": 172,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 67
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 74
+      },
+      "global_power_network": {
+        "records": 116
       }
     }
   }
