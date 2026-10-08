@@ -9511,6 +9511,57 @@
           "monetary_regimes"
         ]
       }
+    },
+    {
+      "source_id": "india-currency-war-legacy-1919",
+      "title": "India's Currency and Exchange Crisis After the War, 1919",
+      "date_label": "22 May 1919",
+      "year": 1919,
+      "evidence_grade": "A",
+      "historical_claim": "The 1919 Indian Budget debate recorded that India's currency position had been a major wartime concern, that the post-war rise in silver prices had forced the rupee to 1s. 8d., and that the Government proposed a new Currency Commission to address the resulting currency and exchange problems.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1919/may/22/east-india-revenue-accounts",
+      "passage_locator": "House of Commons Hansard, 22 May 1919, vol. 116, cc. 621–713; Mr. Montagu's opening statement.",
+      "source_identity": "House of Commons, East India Revenue Accounts, 22 May 1919, Hansard vol. 116, cc. 621–713.",
+      "edition": "House of Commons Debates (Hansard), 22 May 1919, vol. 116.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1919,
+      "passage_status": "Passage locked — exact contemporary currency-policy statement.",
+      "primary_passage": "The currency position in India was a source of great anxiety to the Government throughout the War ... the currency situation is now causing us renewed anxiety owing to the increase in the price of silver which has necessitated a rupee of 1s. 8d. ... I have decided to appoint a new Currency Commission to investigate the situation caused by the rise in the price of silver in a limited world supply.",
+      "what_passage_establishes": "The statement establishes the Government's contemporary account of wartime currency stress, the post-war silver-price pressure on the rupee, and the decision to create a Currency Commission to investigate the currency and exchange problem.",
+      "evidence_limits": "This does not by itself establish the later Commission's recommendations, the precise market mechanism producing the rupee rate, or the complete wartime monetary operations that preceded the 1919 policy response.",
+      "related_banking_power_records": [
+        "india-war-contribution-realized-1918",
+        "india-war-expenditure-127800000-1919"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts, 22 May 1919, Hansard vol. 116, cc. 621–713."
+      ],
+      "publication_status": "A-grade — exact contemporary currency-policy passage locked.",
+      "bn_title": "১৯১৯ সালে ভারতের মুদ্রা ও বিনিময় সংকট: যুদ্ধ-পরবর্তী রুপি ও রৌপ্যের মূল্য",
+      "bn_historical_claim": "১৯১৯ সালের ভারতীয় বাজেট আলোচনায় বলা হয় যে যুদ্ধকালে ভারতের মুদ্রাব্যবস্থা নিয়ে সরকারের বড় উদ্বেগ ছিল; যুদ্ধের পর রৌপ্যের মূল্য বৃদ্ধির কারণে রুপির মূল্য ১ শিলিং ৮ পেন্সে ওঠে এবং নতুন কারেন্সি কমিশন গঠনের সিদ্ধান্ত নেওয়া হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1919
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12797,7 +12848,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 186,
+  "source_count": 187,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13252,5 +13303,17 @@
       "B": 5
     },
     "notes": "Added 1919 aggregate Indian war-expenditure record; distinct from 1917 authorization and 1918 loan realization."
+  },
+  "structural_audit_2026_10_08_v111": {
+    "audit_date": "2026-10-08",
+    "record_count": 187,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 182,
+      "B": 5
+    },
+    "notes": "Added distinct 1919 currency/exchange crisis layer from Indian Budget debate."
   }
 }
