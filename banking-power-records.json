@@ -7432,7 +7432,8 @@
           "sovereign_debt",
           "global_power_network"
         ]
-      }
+      },
+      "web_verification_note": "Official Hansard search result confirms the 14 December 1920 written-answer record and its subject matter; the deployed passage and locator remain unchanged."
     },
     {
       "source_id": "uk-return-gold-1925",
@@ -13968,5 +13969,17 @@
       "B": 5
     },
     "notes": "Added December 1920 India exchange-support evidence: approximately £50m in sterling drafts sold between February and September to support a 2s. rupee rate, unsuccessful within the reported range and discontinued in September. Kept separate from general UK exchange policy and April trade-flow evidence."
+  },
+  "structural_audit_2026_10_08_v121": {
+    "audit_date": "2026-10-08",
+    "record_count": 197,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 192,
+      "B": 5
+    },
+    "notes": "Late-1920 screening reconfirmed the December India exchange-support record against official Hansard search results. No additional distinct record deployed in this pass to avoid duplicating the already locked exchange evidence."
   }
 }
