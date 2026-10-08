@@ -7225,6 +7225,62 @@
       }
     },
     {
+      "source_id": "uk-final-balance-sheet-war-loans-1920",
+      "title": "United Kingdom Final Balance Sheet: Dominion, Allied and Indian War Loans, 1920",
+      "date_label": "19 April 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "The 1920 British Budget statement quantified major outstanding government financial assets and liabilities, including loans to Dominions, loans to Allies and relief, and India's remaining liability for the 5% War Loan.",
+      "verification_status": "Primary parliamentary budget statement verified in official UK Parliament Hansard.",
+      "source_url": "https://hansard.parliament.uk/Commons/1920-04-19/debates/f632be9f-9171-4461-b373-d4c4483e410a/CommonsChamber",
+      "passage_locator": "House of Commons Hansard, 19 April 1920, 1920 Budget debate, 'Final Balance Sheet, 1920–21'.",
+      "source_identity": "1920 Budget speech by Chancellor of the Exchequer Austen Chamberlain, House of Commons, 19 April 1920.",
+      "edition": "House of Commons Debates, 19 April 1920, Series 5, 1920 Budget debate.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — official Hansard budget text verified.",
+      "primary_passage": "At the close of the year we shall have outstanding assets to the following amount: Loans to Dominions, £119,500,000; loans to Allies and for relief, £1,767,000,000; or, taking them as in former years at one-half that figure, £883,500,000; the remaining liability of India for 5 per cent. War Loan, £21,000,000. To these must be added Vote of Credit Assets (£300,000,000), of which a portion may still be required to meet Extraordinary Charges, and Excess Profits Duty payable after the close of the current financial year of £400,000,000, making total assets of £1,724,000,000.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "The British Treasury's 1920 budget statement placed loans to Dominions at £119.5 million, loans to Allies and relief at £1.767 billion (with an alternative accounting basis of £883.5 million), India's remaining liability for the 5% War Loan at £21 million, and total stated assets at £1.724 billion after adding other listed items.",
+      "evidence_limits": "This is a budgetary statement and accounting presentation, not a complete balance sheet under modern accounting standards. It does not establish the identities of lenders or borrowers beyond the categories stated, repayment performance, private ownership, or economic incidence.",
+      "related_banking_power_records": [
+        "india-war-contribution-100-million-1917",
+        "india-war-expenditure-127800000-1919",
+        "imperial-exchange-support-policy-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 19 April 1920, 1920 Budget debate, 'Final Balance Sheet, 1920–21'.",
+        "Later records should separately establish the evolution and settlement of these wartime intergovernmental loans."
+      ],
+      "publication_status": "A-grade — direct Chancellor's budget statement with contemporary quantitative sovereign-finance figures.",
+      "bn_title": "যুক্তরাজ্যের চূড়ান্ত হিসাবপত্র: ডোমিনিয়ন, মিত্র ও ভারতীয় যুদ্ধঋণ, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালের ব্রিটিশ বাজেট বিবৃতিতে ডোমিনিয়ন, মিত্র ও ত্রাণঋণ এবং ভারতের অবশিষ্ট ৫% যুদ্ধঋণ দায়সহ সরকারের বড় আর্থিক সম্পদ ও দায়ের পরিমাণ দেওয়া হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "war_finance",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "financial_crises",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13183,7 +13239,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 193,
+  "source_count": 194,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13722,5 +13778,17 @@
       "B": 5
     },
     "notes": "Added distinct November 1920 Bombay provincial development-loan evidence with exact issue terms, 1935 maturity, tax treatment, five-year funding requirement and 9⅓-crore subscription total. Kept separate from broader exchange and Treasury-credit records."
+  },
+  "structural_audit_2026_10_08_v118": {
+    "audit_date": "2026-10-08",
+    "record_count": 194,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 189,
+      "B": 5
+    },
+    "notes": "Added distinct April 1920 UK budget evidence quantifying loans to Dominions, Allies and relief, India's remaining 5% War Loan liability, and other stated government assets. Kept separate from India-specific exchange and provincial-loan records."
   }
 }
