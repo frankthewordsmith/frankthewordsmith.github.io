@@ -7489,6 +7489,62 @@
       }
     },
     {
+      "source_id": "india-exchange-crisis-43-crores-1921",
+      "title": "India's Exchange Crisis: Rs.43 Crore Adverse Balance and Limited Government Support, 1921",
+      "date_label": "23 February 1921",
+      "year": 1921,
+      "evidence_grade": "A",
+      "historical_claim": "By the twelve months ending December 1920, India's merchandise-and-treasure balance had turned sharply adverse, while the Secretary of State stated that limited sterling resources and obligations prevented effective Government intervention to support the Indian exchange.",
+      "verification_status": "Primary parliamentary written-answer record verified against official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/written-answers/1921/feb/23/exchange",
+      "passage_locator": "House of Commons Hansard, 23 February 1921, vol. 138, cc. 956–957W, Exchange.",
+      "source_identity": "Written answer by Secretary of State for India Edwin Montagu on stabilising the rupee and supporting Indian exchange.",
+      "edition": "House of Commons Debates, 23 February 1921, Series 5, vol. 138, cc. 956–957W.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1921,
+      "passage_status": "Passage locked — exact official answer and locator verified.",
+      "primary_passage": "The twelve months ending December last exhibited an adverse balance against India in respect of merchandise and treasure of Rs.43 crores, as compared with the favourable balance of Rs.125 crores in 1919. ... I do not see at present that it is practicable for me, having regard to the extent of my sterling resources and obligations, to intervene with effect in support of the Indian exchange. While I fully appreciate the drawbacks of the present position, the causes are world wide, and beyond the control of individual Governments, and ... there is similar instability in the sterling, franc, and other exchanges.",
+      "what_passage_establishes": "The official answer records a major reversal in India's merchandise-and-treasure balance between 1919 and the twelve months ending December 1920, and states that the Secretary of State did not consider effective intervention to support Indian exchange practicable given his sterling resources and obligations.",
+      "evidence_limits": "This is a ministerial statement, not a complete balance-of-payments table. It does not identify the full components of the Rs.43-crore balance, counterparties, private holders, transaction terms, or prove that the cited worldwide causes were the sole or dominant cause of the exchange movement.",
+      "related_banking_power_records": [
+        "india-currency-war-legacy-1919",
+        "india-sterling-drafts-exchange-support-1920",
+        "india-sterling-loan-7500000-1921",
+        "imperial-exchange-support-policy-1920",
+        "east-africa-indian-rupee-currency-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 23 February 1921, vol. 138, cc. 956–957W.",
+        "The 1920 exchange-support record separately documents the earlier £50m sterling-draft operation; this record documents the subsequent adverse-balance and support constraint."
+      ],
+      "publication_status": "A-grade — direct ministerial parliamentary statement with quantified balance comparison and explicit resource constraint.",
+      "bn_title": "ভারতের বিনিময় সংকট: ৪৩ কোটি রুপির প্রতিকূল ভারসাম্য ও সীমিত সরকারি সহায়তা, ১৯২১",
+      "bn_historical_claim": "১৯২০ সালের ডিসেম্বর-সমাপ্ত বারো মাসে ভারতের পণ্য ও ধন-সম্পদের হিসাবে ৪৩ কোটি রুপির প্রতিকূল ভারসাম্য তৈরি হয়; ভারতীয় বিনিময় হার সমর্থনে কার্যকর সরকারি হস্তক্ষেপ সম্ভব নয় বলে সেক্রেটারি অব স্টেট জানান, কারণ স্টার্লিং সম্পদ ও দায়বদ্ধতা সীমিত ছিল।",
+      "bn_what_passage_establishes": "সরকারি উত্তরটি ১৯১৯ থেকে ১৯২০-সমাপ্ত সময়ে ভারতের পণ্য ও ধন-সম্পদের ভারসাম্যের বড় পরিবর্তন এবং ভারতীয় বিনিময় হার সমর্থনে সরকারি সক্ষমতার সীমাবদ্ধতা সরাসরি নথিবদ্ধ করে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1921
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13447,7 +13503,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 198,
+  "source_count": 199,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -14046,5 +14102,17 @@
       "B": 5
     },
     "notes": "Closed the currently screened 1920 exchange material without adding duplicates, then began 1921 with a distinct Indian sterling-loan record: £7.5m loan, prospectus earmarking proceeds for UK railway-material purchases, and £900k spent in Britain by May."
+  },
+  "structural_audit_2026_10_08_v123": {
+    "audit_date": "2026-10-08",
+    "record_count": 199,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 194,
+      "B": 5
+    },
+    "notes": "Added a distinct 1921 exchange-crisis record from the 23 February written answer: Rs.43 crores adverse merchandise-and-treasure balance for the twelve months ending December 1920, versus Rs.125 crores favorable in 1919, with Montagu stating effective intervention was impracticable given sterling resources and obligations. Kept separate from the 1920 sterling-draft-support record and the June 1921 sterling loan."
   }
 }
