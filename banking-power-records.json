@@ -8800,6 +8800,57 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-railway-loans-authority-20000000-1905",
+      "title": "East India Railway Loans: £20 Million Borrowing Authority, 1905",
+      "date_label": "23 June 1905",
+      "historical_claim": "Parliament authorised the Secretary of State in Council of India to raise up to £20 million in the United Kingdom on the security of Indian revenues for railway construction and extension, repayment of company railway bonds or debentures guaranteed by the Secretary of State, and obligations arising from railway purchases or contract termination.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1905/jun/23/east-india-loans-railways",
+      "bn_title": "১৯০৫ সালে ইস্ট ইন্ডিয়া রেলওয়ের জন্য £২০ মিলিয়ন ঋণগ্রহণের ক্ষমতা",
+      "bn_historical_claim": "১৯০৫ সালে পার্লামেন্ট ভারতীয় রাজস্বের নিরাপত্তায় যুক্তরাজ্য থেকে সর্বোচ্চ £২০ মিলিয়ন ঋণ তোলার অনুমোদন দেয়। অর্থটি ভারতীয় রেলওয়ে নির্মাণ ও সম্প্রসারণ, গ্যারান্টিযুক্ত রেলওয়ে বন্ড/ডিবেঞ্চারের মূলধন পরিশোধ এবং রেলওয়ে ক্রয় বা চুক্তি-সমাপ্তির দায় মেটাতে ব্যবহারের জন্য নির্ধারিত ছিল।",
+      "notes": "Distinct sovereign-debt/railway-capital layer. The parliamentary debate states that the larger authority reflected the intended purchase of the Bombay and Baroda Railway and other railway obligations. It does not mean the full £20 million was immediately borrowed.",
+      "primary_passage": "to raise in the United Kingdom on the security of the Revenues of India, by the creation and issue of capital stock, bonds, debentures, or bills, a sum not exceeding £20,000,000",
+      "passage_locator": "House of Commons Hansard, 23 June 1905, vol. 147, cc. 1475–1484; East India Loans (Railways), Committee resolution.",
+      "passage_status": "Passage locked — exact parliamentary borrowing-authority wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1905/jun/23/east-india-loans-railways",
+      "source_identity": "House of Commons, East India Loans (Railways), 23 June 1905, Hansard vol. 147, cc. 1475–1484; Secretary of State for India William Brodrick.",
+      "edition": "House of Commons Debates (Hansard), 23 June 1905, vol. 147.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1905,
+      "what_passage_establishes": "It establishes a statutory-policy resolution for up to £20 million of UK borrowing secured on Indian revenues, with defined railway purposes including construction, extension and equipment, repayment of guaranteed railway debt, and obligations arising from railway purchases or contract termination.",
+      "evidence_limits": "The resolution establishes borrowing authority, not the amount actually drawn, issue price, maturity, investor identity, or final allocation. The debate's references to the Bombay and Baroda purchase explain intended use but do not by themselves establish final settlement terms.",
+      "related_banking_power_records": [
+        "east-india-loan-authority-10000000-1898",
+        "india-borrowing-powers-reduced-1899",
+        "india-three-percent-stock-subscription-1901"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Loans (Railways), 23 June 1905, Hansard vol. 147, cc. 1475–1484."
+      ],
+      "publication_status": "A-grade — exact contemporary £20 million borrowing authority and stated railway purposes locked.",
+      "year": 1905,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1905
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12086,7 +12137,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 172,
+  "source_count": 173,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12276,6 +12327,42 @@
       },
       "global_power_network": {
         "records": 116
+      }
+    }
+  },
+  "structural_audit_2026_10_08_v97": {
+    "audit_date": "2026-10-08",
+    "record_count": 173,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 168,
+      "B": 5
+    },
+    "notes": "Added distinct 1905 sovereign-finance evidence: £20 million UK railway borrowing authority secured on Indian revenues, including railway construction, guaranteed-debt repayment and railway purchase obligations."
+  },
+  "book_1_research_maps_2026_10_08_v52": {
+    "status": "Reconciled after 1905 East India railway-loan authority deployment",
+    "records_mapped": 173,
+    "maps": {
+      "central_banks": {
+        "records": 79
+      },
+      "banking_dynasties": {
+        "records": 21
+      },
+      "sovereign_debt": {
+        "records": 68
+      },
+      "financial_crises": {
+        "records": 11
+      },
+      "monetary_regimes": {
+        "records": 74
+      },
+      "global_power_network": {
+        "records": 117
       }
     }
   }
