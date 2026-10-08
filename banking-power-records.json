@@ -9156,6 +9156,55 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-budget-1912",
+      "title": "East India Revenue Accounts (Indian Budget), 1912",
+      "date_label": "30 July 1912",
+      "year": 1912,
+      "evidence_grade": "A",
+      "historical_claim": "The 1912 Indian Budget debate recorded record railway net profit of £3,204,500 for 1911–12 and stated that the surplus would be retained to reduce borrowing for capital expenditure on railways, irrigation works and the construction of New Delhi.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1912/jul/30/east-india-revenue-accounts-indian-budget",
+      "passage_locator": "House of Commons Hansard, 30 July 1912, East India Revenue Accounts (Indian Budget).",
+      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 30 July 1912, Hansard.",
+      "edition": "House of Commons Debates (Hansard), 30 July 1912.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1912,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
+      "primary_passage": "The net profit on the year's working was therefore the record sum of £3,204,500, an excess over the Budget Estimate of £1,272,800. ... The surplus, therefore, is going to be retained, in order to reduce the amount to be borrowed on capital expenditure, on railways, irrigation works, and the building of the new Delhi.",
+      "what_passage_establishes": "The contemporary Budget debate establishes the reported railway net profit and the Government's stated decision to use the surplus to reduce the amount that otherwise would have to be borrowed for specified capital expenditure.",
+      "evidence_limits": "This establishes reported budgetary figures and the stated financing policy; it does not by itself establish the final amount of borrowing avoided, the ultimate incidence of railway profits, or the identity and terms of capital providers.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-budget-1911",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts (Indian Budget), 30 July 1912, Hansard."
+      ],
+      "publication_status": "A-grade — exact contemporary Budget financing passage locked.",
+      "bn_title": "১৯১২ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: রেলওয়ে মুনাফা ও ঋণ কমানোর জন্য উদ্বৃত্ত ব্যবহার",
+      "bn_historical_claim": "১৯১২ সালের ভারতীয় বাজেট আলোচনায় ১৯১১–১২ সালে রেলওয়ের রেকর্ড £৩.২০৪৫ মিলিয়ন নিট মুনাফা এবং রেলপথ, সেচ ও নতুন দিল্লি নির্মাণের মূলধনী ব্যয়ে ভবিষ্যৎ ঋণের প্রয়োজন কমাতে উদ্বৃত্ত ধরে রাখার সরকারি সিদ্ধান্ত নথিভুক্ত হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1912
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12442,7 +12491,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 179,
+  "source_count": 180,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12814,5 +12863,16 @@
       "B": 5
     },
     "notes": "Added distinct 1911 East India Revenue Accounts financial layer; underlying 13 Dec 1911 Loans Raised in India Return flagged for separate primary-document inspection."
+  },
+  "structural_audit_2026_10_08_v104": {
+    "audit_date": "2026-10-08",
+    "record_count": 180,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 175,
+      "B": 5
+    }
   }
 }
