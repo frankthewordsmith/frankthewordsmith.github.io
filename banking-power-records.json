@@ -9000,6 +9000,58 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-1909",
+      "title": "East India Revenue Accounts: Indian Government Remittances, Debt Interest and British Capital, 1909",
+      "date_label": "5 August 1909",
+      "year": 1909,
+      "evidence_grade": "A",
+      "historical_claim": "The 1909 East India Revenue Accounts debate recorded the Indian Government's average annual remittance to England at £21.2 million for 1904–1906, including average annual home charges of £18.5 million, of which £9.5 million was interest on debt; it also recorded £265 million of railway capital outlay in India by the end of 1907.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1909/aug/05/east-india-revenue-accounts",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1909/aug/05/east-india-revenue-accounts",
+      "passage_locator": "House of Commons Hansard, 5 August 1909, vol. 8, cc. 1981–2097; relevant financial-remittance passage at cc. 1990–1992.",
+      "passage_status": "Passage locked — exact contemporary parliamentary record.",
+      "source_identity": "House of Commons, East India Revenue Accounts, 5 August 1909, Hansard vol. 8, cc. 1981–2097.",
+      "edition": "House of Commons Debates (Hansard), 5 August 1909, vol. 8.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1909,
+      "primary_passage": "If the Trade Returns are examined for 1904, 1905, and 1906, after making due allowance for the capital sent to India in connection with Government transactions, the average excess of exports over imports—or, in other words, payments by India to England for services rendered—is £23,900,000 per year during the three years that have been mentioned. This payment is made up of:—£21,200,000, being the average annual amount of the Government remittance during three years; £2,700,000, the average annual amount of private remittances during the same period. The Government remittance is mainly for the payment of home charges, namely those charges in England which are normally met from revenue. These charges, in the three years which I have referred to, averaged £18,500,000, made up in the following manner:—Interest on debt, £9,500,000; payments for stores ordered and purchased in this country, £2,500,000; pensions and furlough pay to civil and military officers, £5,000,000; miscellaneous, £1,250,000. Besides the home charges proper, certain sums were remitted to England by the Government to defray capital charges. These bring the Government remittances to the total of £21,200,000 already mentioned. ... at the end of 1907 the capital outlay on railways alone in India amounted to £265,000,000 sterling, the bulk of which is British capital.",
+      "what_passage_establishes": "The passage establishes the contemporary official figures and stated composition of Indian Government remittances to England for 1904–1906, including debt interest within home charges, and records the scale and predominantly British character of railway capital outlay at the end of 1907.",
+      "evidence_limits": "It does not by itself establish the ultimate economic incidence of these payments, the identity of individual lenders or investors, the terms of every underlying debt, or whether all remittances should be classified as a 'drain.' Those are interpretive questions requiring separate evidence.",
+      "notes": "This is a distinct 1909 financial-accounting evidence layer, not a duplicate of the 1908 borrowing-authority record. The source is especially useful for separating official contemporary accounting of debt interest, home charges and British capital from later interpretations.",
+      "related_banking_power_records": [
+        "east-india-loans-25000000-1908",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts, 5 August 1909, Hansard vol. 8, cc. 1981–2097."
+      ],
+      "publication_status": "A-grade — exact contemporary financial-accounting passage locked.",
+      "bn_title": "১৯০৯ সালের ভারতীয় রাজস্ব হিসাব: ঋণের সুদ, ব্রিটেনে সরকারি রেমিট্যান্স ও ব্রিটিশ মূলধন",
+      "bn_historical_claim": "১৯০৯ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব আলোচনায় ১৯০৪–১৯০৬ সময়ে ভারতের ব্রিটেনে গড় বার্ষিক সরকারি রেমিট্যান্স £২১.২ মিলিয়ন, যার মধ্যে ঋণের সুদ ছিল £৯.৫ মিলিয়ন—এবং ১৯০৭ সালের শেষে ভারতীয় রেলপথে মূলধনী বিনিয়োগ £২৬৫ মিলিয়ন বলে নথিভুক্ত হয়।",
+      "bn_notes": "এটি ১৯০৮ সালের ঋণ-ক্ষমতার রেকর্ডের পুনরাবৃত্তি নয়; এটি ১৯০৯ সালের সমকালীন আর্থিক হিসাবের স্বতন্ত্র প্রমাণস্তর।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1909
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12286,7 +12338,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 176,
+  "source_count": 177,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -12622,5 +12674,17 @@
         "records": 120
       }
     }
+  },
+  "structural_audit_2026_10_08_v101": {
+    "audit_date": "2026-10-08",
+    "record_count": 177,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 172,
+      "B": 5
+    },
+    "notes": "Added 1909 East India Revenue Accounts as a distinct official financial-accounting evidence layer: government remittances, debt-interest component and railway capital outlay."
   }
 }
