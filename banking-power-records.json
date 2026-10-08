@@ -7281,6 +7281,107 @@
       }
     },
     {
+      "source_id": "uk-national-debt-composition-1920",
+      "title": "United Kingdom National Debt Composition at 30 November 1920",
+      "date_label": "9 December 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "A December 1920 parliamentary return quantified the composition of the United Kingdom's approximately £7.736 billion national debt across funded debt, War Loans, Treasury Bills, Ways and Means Advances, National Savings Certificates and other debt.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1920/dec/09/national-debt",
+      "passage_locator": "House of Commons Hansard, 9 December 1920, vol. 135, cc. 2416–2417, National Debt.",
+      "source_identity": "Official statement laid before the House in answer to Major Nall; Chancellor of the Exchequer's printed statement of approximate debt outstanding on 30 November 1920.",
+      "edition": "House of Commons Debates, 9 December 1920, Series 5, vol. 135, cc. 2416–2417.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — official statement and figures verified.",
+      "primary_passage": "The approximate debt outstanding on 30th November, 1920 was as follows: Funded Debt £315,000,000; Terminable Annuities £18,500,000; 3½ per cent. War Loan, 1925/8 £62,700,000; 4½ per cent. War Loan, 1925/45 £12,800,000; 5 per cent. War Loan, 1929/47 £1,949,300,000; 4 per cent. War Loan, 1929/42 £67,200,000; 4 per cent. Funding Loan, 1960/90 £407,000,000; 4 per cent. Victory Bonds £357,700,000; Exchequer Bonds £315,000,000; 4 per cent. and 5 per cent. National War Bonds £1,441,000,000; Treasury Bonds £13,850,000; Treasury Bills £1,111,564,000; Ways and Means Advances £222,614,000; National Savings Certificates £277,900,000; Other Debt £1,163,500,000; £7,735,628,000.",
+      "what_passage_establishes": "The official statement gives the contemporary scale and composition of Britain's national debt, including £1.9493bn of 5% War Loan, £1.441bn of National War Bonds, £1.111564bn of Treasury Bills and £222.614m of Ways and Means Advances, within a total of £7.735628bn.",
+      "evidence_limits": "The aggregate statement does not identify ultimate holders, geographic ownership, secondary-market transactions, or the economic incidence of the debt. 'Other Debt' is not broken down in the quoted table.",
+      "related_banking_power_records": [
+        "uk-final-balance-sheet-war-loans-1920",
+        "treasury-bank-credit-restraint-1920",
+        "india-war-contribution-100-million-1917"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 9 December 1920, vol. 135, cc. 2416–2417."
+      ],
+      "publication_status": "A-grade — direct official quantitative debt statement.",
+      "bn_title": "৩০ নভেম্বর ১৯২০-এ যুক্তরাজ্যের জাতীয় ঋণের গঠন",
+      "bn_historical_claim": "১৯২০ সালের ডিসেম্বরে সংসদে দেওয়া সরকারি বিবৃতিতে যুক্তরাজ্যের প্রায় ৭.৭৩৬ বিলিয়ন পাউন্ড জাতীয় ঋণের বিভিন্ন উপাদান—যুদ্ধঋণ, ট্রেজারি বিল, Ways and Means Advances ও অন্যান্য ঋণ—পরিমাণসহ দেখানো হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "war_finance",
+          "credit_and_banking"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "financial_crises",
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
+      "source_id": "uk-currency-note-contraction-1920",
+      "title": "British Currency-Note Contraction and Credit Pressure, 1920",
+      "date_label": "2 December 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "The Chancellor reported a £6.5 million reduction in British currency notes between 6 October and 24 November 1920 and attributed importance to money-market pressure against inflated credits and earlier Budget balancing from revenue.",
+      "source_url": "https://api.parliament.uk/historic-hansard/written-answers/1920/dec/02/currency-notes",
+      "passage_locator": "House of Commons Hansard, 2 December 1920, vol. 135, c. 1478W, Currency Notes.",
+      "source_identity": "Written answer by Chancellor of the Exchequer Austen Chamberlain.",
+      "edition": "House of Commons Debates, 2 December 1920, Series 5, vol. 135, c. 1478W.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — official written answer verified.",
+      "primary_passage": "The reduction of currency notes in the period from 6th October to 24th November has been £6,500,000. No special measures have been taken for a deflation of the currency during that period. As to the main causes of the contraction, while I am not prepared to dogmatise, I attach importance to the money market pressure against inflated credits and to the action of the Government early in the year in balancing Budget expenditure from Budget revenue.",
+      "what_passage_establishes": "The Chancellor reported a £6.5 million contraction in currency notes over the specified period and explicitly associated the contraction with money-market pressure against inflated credit and the Government's budget-balancing policy, while declining to state the causes categorically.",
+      "evidence_limits": "The answer is a ministerial assessment rather than a full monetary-statistical analysis; it does not establish a single causal mechanism, private-bank behavior in aggregate, or the later persistence of the contraction.",
+      "related_banking_power_records": [
+        "treasury-bank-credit-restraint-1920",
+        "uk-national-debt-composition-1920"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 2 December 1920, vol. 135, c. 1478W."
+      ],
+      "publication_status": "A-grade — direct quantitative ministerial written answer.",
+      "bn_title": "ব্রিটিশ কারেন্সি-নোট সংকোচন ও ঋণবাজারের চাপ, ১৯২০",
+      "bn_historical_claim": "১৯২০ সালের ৬ অক্টোবর থেকে ২৪ নভেম্বরের মধ্যে ব্রিটিশ কারেন্সি নোট ৬.৫ মিলিয়ন পাউন্ড কমে যায়; চ্যান্সেলর এর সঙ্গে স্ফীত ঋণের বিরুদ্ধে অর্থবাজারের চাপ এবং বাজেট রাজস্ব দিয়ে ব্যয় ভারসাম্য করার নীতির সম্পর্ক উল্লেখ করেন।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "credit_and_banking",
+          "central_banks"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "central_banks",
+          "financial_crises"
+        ]
+      }
+    },
+    {
       "source_id": "uk-return-gold-1925",
       "title": "United Kingdom returns to gold, 1925",
       "date_label": "1925",
@@ -13239,7 +13340,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 194,
+  "source_count": 196,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13790,5 +13891,17 @@
       "B": 5
     },
     "notes": "Added distinct April 1920 UK budget evidence quantifying loans to Dominions, Allies and relief, India's remaining 5% War Loan liability, and other stated government assets. Kept separate from India-specific exchange and provincial-loan records."
+  },
+  "structural_audit_2026_10_08_v119": {
+    "audit_date": "2026-10-08",
+    "record_count": 196,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 191,
+      "B": 5
+    },
+    "notes": "Added two distinct December 1920 quantitative records: the official composition of UK national debt at 30 November and the £6.5m currency-note contraction with ministerial explanation of credit and budget pressures. Kept separate from earlier Treasury-bank policy and exchange records."
   }
 }
