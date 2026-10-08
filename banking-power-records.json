@@ -5806,6 +5806,209 @@
       }
     },
     {
+      "source_id": "india-gold-receipts-and-issues-1903",
+      "title": "India Gold Receipts Reach £25.282 Million; £7 Million Shipped to England, 1903",
+      "date_label": "12 March 1903",
+      "historical_claim": "The Secretary of State reported that since gold became legal tender in India, the Government of India had received £25.282 million in gold and issued £18.825 million, including £7 million shipped to England and £11.825 million issued to the public.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1903/mar/12/indian-currency",
+      "bn_title": "১৯০৩ সালে ভারতে সোনা গ্রহণ £২৫.২৮২ মিলিয়ন; £৭ মিলিয়ন ইংল্যান্ডে পাঠানো হয়",
+      "bn_historical_claim": "১৯০৩ সালে জানানো হয় যে ভারতে সোনা আইনগত টেন্ডার হওয়ার পর থেকে ভারত সরকার £২৫.২৮২ মিলিয়ন সোনা গ্রহণ করেছে এবং £১৮.৮২৫ মিলিয়ন ইস্যু করেছে; এর মধ্যে £৭ মিলিয়ন ইংল্যান্ডে পাঠানো হয় এবং £১১.৮২৫ মিলিয়ন জনসাধারণকে দেওয়া হয়।",
+      "notes": "Distinct from the 1902 reserve snapshot: this record captures cumulative gold receipts and issues since gold became legal tender, including the amount shipped to England and issued to the public.",
+      "primary_passage": "Since gold was made legal tender in India £25,282,000 has been received in gold by the Government of India, and £18,825,000 has been issued—viz., £7,000,000 shipped to England and £11,825,000 issued to the public.",
+      "passage_locator": "House of Commons Hansard, 12 March 1903, vol. 119, c. 581; Question on Indian Currency, answer by Lord George Hamilton.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1903/mar/12/indian-currency",
+      "source_identity": "House of Commons, Indian Currency, 12 March 1903, Hansard vol. 119, c. 581; answer by Secretary of State for India Lord George Hamilton.",
+      "edition": "House of Commons Debates (Hansard), 12 March 1903, vol. 119.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1903,
+      "what_passage_establishes": "It establishes the cumulative amount of gold received by the Government of India after gold became legal tender, the amount issued, and the split between gold shipped to England and gold issued to the public.",
+      "evidence_limits": "It is a parliamentary answer based on Government of India figures and does not classify each underlying transaction, identify counterparties, establish the complete legal reserve mechanism, or by itself prove broader economic effects. It should not be treated as a full monetary-flow reconstruction.",
+      "related_banking_power_records": [
+        "india-gold-standard-sterling-accounting-1900",
+        "india-gold-remittances-currency-reserves-1902",
+        "india-mint-closure-gold-standard-1893"
+      ],
+      "scholarly_references": [
+        "House of Commons, Indian Currency, 12 March 1903, Hansard vol. 119, c. 581."
+      ],
+      "publication_status": "A-grade — exact contemporary cumulative gold-flow figures locked.",
+      "year": 1903,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1903
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-gold-export-state-account-reserve-1904",
+      "title": "India Gold Exports £4.572 Million; £3.268 Million on State Account, 1904",
+      "date_label": "9 March 1904",
+      "historical_claim": "The Secretary of State reported that India exported £4.5717 million of gold from July through December 1903, of which £3.2677 million was consigned to the Secretary of State; on 31 January 1904 the Currency Reserve held £9.207 million and the Gold Reserve Fund £500,000, with £4.76215 million of British securities held for that fund.",
+      "verification_status": "Primary contemporary parliamentary record verified through official UK Parliament Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/commons/1904-03-09/debates/8044aa51-5689-4e66-aea2-3ed325e90e91/IndianCurrency%E2%80%94Gold",
+      "bn_title": "১৯০৪ সালে ভারতের £৪.৫৭২ মিলিয়ন সোনা রপ্তানি; £৩.২৬৮ মিলিয়ন রাষ্ট্রের হিসাবে",
+      "bn_historical_claim": "১৯০৪ সালে জানানো হয় যে ১৯০৩ সালের জুলাই–ডিসেম্বরে ভারত থেকে £৪.৫৭২ মিলিয়ন সোনা রপ্তানি হয়, যার £৩.২৬৮ মিলিয়ন সেক্রেটারি অব স্টেটের হিসাবে পাঠানো হয়। ৩১ জানুয়ারি ১৯০৪ কারেন্সি রিজার্ভ ছিল £৯.২০৭ মিলিয়ন এবং গোল্ড রিজার্ভ ফান্ড £৫০০,০০০; ওই ফান্ডের পক্ষে ব্রিটিশ সিকিউরিটিজ ছিল £৪.৭৬২১৫ মিলিয়ন।",
+      "notes": "Distinct from the 1903 cumulative gold-flow record and the 1902 point-in-time reserve snapshot: this record identifies the state-account share of gold exports and the reserve fund's British securities position at 31 January 1904.",
+      "primary_passage": "Exports from 1st July to 31st December, 1903, £4,571,700, of which £3,267,700 was consigned to the Secretary of State. Imports, £6,640,300. Net Imports, £2,068,600.",
+      "passage_locator": "House of Commons Hansard, 9 March 1904, vol. 131, cc. 558–559; Question 9, Indian Currency—Gold; answer by Secretary of State for India Mr. Brodrick.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://hansard.parliament.uk/commons/1904-03-09/debates/8044aa51-5689-4e66-aea2-3ed325e90e91/IndianCurrency%E2%80%94Gold",
+      "source_identity": "House of Commons, Indian Currency—Gold, 9 March 1904, Hansard vol. 131, cc. 558–559; answer by Secretary of State for India William Brodrick.",
+      "edition": "House of Commons Debates (Hansard), 9 March 1904, vol. 131.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1904,
+      "what_passage_establishes": "It establishes the gold export and import figures for the second half of 1903, the amount of exported gold consigned to the Secretary of State, and, in the same answer, the Government of India's gold-reserve holdings and British securities held for the Gold Reserve Fund at 31 January 1904.",
+      "evidence_limits": "The figures are a parliamentary answer based on Government of India information. January 1904 figures were incomplete at the time, and the passage does not classify every gold transaction, identify counterparties, or establish broader monetary effects.",
+      "related_banking_power_records": [
+        "india-gold-receipts-and-issues-1903",
+        "india-gold-remittances-currency-reserves-1902",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons, Indian Currency—Gold, 9 March 1904, Hansard vol. 131, cc. 558–559."
+      ],
+      "publication_status": "A-grade — exact contemporary gold-export, state-account and reserve figures locked.",
+      "year": 1904,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1904
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-railway-loans-authority-20000000-1905",
+      "title": "East India Railway Loans: £20 Million Borrowing Authority, 1905",
+      "date_label": "23 June 1905",
+      "historical_claim": "Parliament authorised the Secretary of State in Council of India to raise up to £20 million in the United Kingdom on the security of Indian revenues for railway construction and extension, repayment of company railway bonds or debentures guaranteed by the Secretary of State, and obligations arising from railway purchases or contract termination.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1905/jun/23/east-india-loans-railways",
+      "bn_title": "১৯০৫ সালে ইস্ট ইন্ডিয়া রেলওয়ের জন্য £২০ মিলিয়ন ঋণগ্রহণের ক্ষমতা",
+      "bn_historical_claim": "১৯০৫ সালে পার্লামেন্ট ভারতীয় রাজস্বের নিরাপত্তায় যুক্তরাজ্য থেকে সর্বোচ্চ £২০ মিলিয়ন ঋণ তোলার অনুমোদন দেয়। অর্থটি ভারতীয় রেলওয়ে নির্মাণ ও সম্প্রসারণ, গ্যারান্টিযুক্ত রেলওয়ে বন্ড/ডিবেঞ্চারের মূলধন পরিশোধ এবং রেলওয়ে ক্রয় বা চুক্তি-সমাপ্তির দায় মেটাতে ব্যবহারের জন্য নির্ধারিত ছিল।",
+      "notes": "Distinct sovereign-debt/railway-capital layer. The parliamentary debate states that the larger authority reflected the intended purchase of the Bombay and Baroda Railway and other railway obligations. It does not mean the full £20 million was immediately borrowed.",
+      "primary_passage": "to raise in the United Kingdom on the security of the Revenues of India, by the creation and issue of capital stock, bonds, debentures, or bills, a sum not exceeding £20,000,000",
+      "passage_locator": "House of Commons Hansard, 23 June 1905, vol. 147, cc. 1475–1484; East India Loans (Railways), Committee resolution.",
+      "passage_status": "Passage locked — exact parliamentary borrowing-authority wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1905/jun/23/east-india-loans-railways",
+      "source_identity": "House of Commons, East India Loans (Railways), 23 June 1905, Hansard vol. 147, cc. 1475–1484; Secretary of State for India William Brodrick.",
+      "edition": "House of Commons Debates (Hansard), 23 June 1905, vol. 147.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1905,
+      "what_passage_establishes": "It establishes a statutory-policy resolution for up to £20 million of UK borrowing secured on Indian revenues, with defined railway purposes including construction, extension and equipment, repayment of guaranteed railway debt, and obligations arising from railway purchases or contract termination.",
+      "evidence_limits": "The resolution establishes borrowing authority, not the amount actually drawn, issue price, maturity, investor identity, or final allocation. The debate's references to the Bombay and Baroda purchase explain intended use but do not by themselves establish final settlement terms.",
+      "related_banking_power_records": [
+        "east-india-loan-authority-10000000-1898",
+        "india-borrowing-powers-reduced-1899",
+        "india-three-percent-stock-subscription-1901"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Loans (Railways), 23 June 1905, Hansard vol. 147, cc. 1475–1484."
+      ],
+      "publication_status": "A-grade — exact contemporary £20 million borrowing authority and stated railway purposes locked.",
+      "year": 1905,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1905
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "indian-railways-act-capitalized-construction-interest-1906",
+      "title": "Indian Railways Act Amendment Preserves Capitalized Construction Interest, 1906",
+      "date_label": "29 May 1906",
+      "historical_claim": "Parliament continued the statutory power allowing Indian railway companies, under specified conditions, to pay interest out of capital during construction, a financing mechanism used to facilitate railway development.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Hansard; statutory purpose confirmed in the 1906 legislative debate",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1906-05-29/debates/6ee03a81-aa16-4920-82a8-40c4a3bfd33e/IndianRailwaysActAmendmentBill",
+      "bn_title": "১৯০৬ সালের ভারতীয় রেলওয়ে আইন সংশোধন: নির্মাণকালে সুদ মূলধন থেকে পরিশোধের ক্ষমতা",
+      "bn_historical_claim": "১৯০৬ সালে পার্লামেন্ট ভারতীয় রেলওয়ে কোম্পানিগুলোর নির্মাণকালীন সুদ নির্দিষ্ট শর্তে মূলধন থেকে পরিশোধের ক্ষমতা অব্যাহত রাখে। এই বিধান রেলওয়ে সম্প্রসারণের অর্থায়নে ব্যবহৃত একটি সরাসরি আর্থিক ব্যবস্থা ছিল।",
+      "notes": "Distinct from the 1905 £20 million borrowing authority: this record concerns the statutory treatment of interest during railway construction, not the amount of borrowing authority or a particular loan issue.",
+      "primary_passage": "That Act gave power under certain conditions to pay interest out of capital during construction. It had worked well for twelve years.",
+      "passage_locator": "House of Commons Hansard, 29 May 1906, Indian Railways Act Amendment Bill, Second Reading; official Hansard report.",
+      "passage_status": "Passage locked — exact contemporary parliamentary description of the statutory financing mechanism",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1906-05-29/debates/6ee03a81-aa16-4920-82a8-40c4a3bfd33e/IndianRailwaysActAmendmentBill",
+      "source_identity": "House of Commons, Indian Railways Act Amendment Bill, 29 May 1906; speech by Under-Secretary of State for India John Ellis.",
+      "edition": "House of Commons Debates (Hansard), 29 May 1906.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1906,
+      "what_passage_establishes": "It establishes that the 1894 Act provided, under specified conditions, for interest during railway construction to be paid out of capital, and that the 1906 amendment was intended to make continuation of that arrangement permanent rather than repeatedly renewing it through the Expiring Laws Bill.",
+      "evidence_limits": "The Hansard passage describes the statutory mechanism and legislative purpose; it does not quantify individual railway companies' use of the provision, total capitalized interest, investor returns, or the complete text of the enacted 1906 statute.",
+      "related_banking_power_records": [
+        "east-india-railway-loans-authority-20000000-1905",
+        "india-three-percent-stock-subscription-1901"
+      ],
+      "scholarly_references": [
+        "House of Commons, Indian Railways Act Amendment Bill, 29 May 1906, Hansard."
+      ],
+      "publication_status": "A-grade — contemporary parliamentary statement of a statutory railway-finance mechanism; full enacted statute remains the preferred supplementary primary text.",
+      "year": 1906,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1906
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "panic-1907",
       "title": "Panic of 1907",
       "date_label": "1907",
@@ -5857,6 +6060,157 @@
         "chapter_title": null,
         "research_maps": [
           "financial_crises"
+        ]
+      }
+    },
+    {
+      "source_id": "india-gold-standard-reserve-16283000-1907",
+      "title": "India’s Gold Standard Reserve Reaches About £16.283 Million, 1907",
+      "date_label": "25 April 1907",
+      "year": 1907,
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1907/apr/25/financial-reserve",
+      "primary_source": "House of Commons Hansard, 25 April 1907, vol. 173, cc. 232–233; Financial Reserve.",
+      "exact_primary_passage": "The composition of the gold standard reserve on the 31st March, 1907, was as follows: In England, British Government securities ... £11,983,000. In India, 600 lakhs of rupees £4,000,000; Gold ... £300,000. Total, about £16,283,000.",
+      "exact_locator": "House of Commons Hansard, 25 April 1907, vol. 173, cc. 232–233; Financial Reserve.",
+      "historical_claim": "At 31 March 1907, India’s gold standard reserve was about £16.283 million: about £11.983m in British Government securities in England, £4m in rupee holdings in India, and £300,000 in gold in India.",
+      "what_passage_establishes": "A precise contemporary parliamentary snapshot of the reserve’s size and geographic/compositional distribution; the answer also says further accumulation was not to be stopped immediately.",
+      "evidence_limits": "Point-in-time parliamentary statement; it does not establish every transfer, security identity, legal development, or later crisis effects.",
+      "source_identity": "House of Commons, Financial Reserve, 25 April 1907; answer by John Morley, Secretary of State for India.",
+      "edition": "House of Commons Debates (Hansard), 25 April 1907, vol. 173.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1907,
+      "bn_title": "১৯০৭ সালে ভারতের গোল্ড স্ট্যান্ডার্ড রিজার্ভ প্রায় £১৬.২৮৩ মিলিয়নে পৌঁছে",
+      "bn_historical_claim": "১৯০৭ সালের ৩১ মার্চ ভারতের গোল্ড স্ট্যান্ডার্ড রিজার্ভের পরিমাণ ছিল প্রায় £১৬.২৮৩ মিলিয়ন। এর মধ্যে ইংল্যান্ডে প্রায় £১১.৯৮৩ মিলিয়ন ব্রিটিশ সরকারি সিকিউরিটিজ, ভারতে £৪ মিলিয়ন রুপি এবং প্রায় £৩০০,০০০ সোনা ছিল।",
+      "related_banking_power_records": [
+        "india-gold-remittances-currency-reserves-1902",
+        "india-gold-receipts-and-issues-1903",
+        "india-gold-export-state-account-reserve-1904",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "publication_status": "A-grade — contemporary parliamentary statement with precise reserve composition and valuation.",
+      "notes": "Distinct 1907 reserve-size/composition layer; not a duplicate of the 1902–1904 gold-flow records.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1907
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-loans-25000000-1908",
+      "title": "East India Loans Authority: £25 Million for Railways, Irrigation and General Purposes, 1908",
+      "date_label": "30 July 1908",
+      "historical_claim": "Parliament authorised the Secretary of State in Council of India to raise in the United Kingdom, on the security of the Revenues of India, up to £20 million for railways and irrigation and up to £5 million for general purposes.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1908/jul/30/east-india-loans-railway-and-irrigation",
+      "bn_title": "১৯০৮ সালে রেলপথ, সেচ ও সাধারণ উদ্দেশ্যে £২৫ মিলিয়ন ভারতীয় ঋণ-ক্ষমতা",
+      "bn_historical_claim": "১৯০৮ সালে সংসদ ভারত সরকারের রাজস্বের জামানতে যুক্তরাজ্যে সর্বোচ্চ £২০ মিলিয়ন রেলপথ ও সেচ এবং আরও £৫ মিলিয়ন সাধারণ উদ্দেশ্যে ঋণ তোলার ক্ষমতা অনুমোদন করে।",
+      "notes": "Distinct from the 1905 £20 million railway-loan authority: this 1908 measure renewed and expanded borrowing authority, explicitly combining railway/irrigation purposes with a separate £5 million general-purpose power.",
+      "primary_passage": "That it is expedient to authorise the Secretary of State in Council of India to raise in the United Kingdom, on the security of the Revenues of India, by the creation and issue of capital stock, bonds, debentures, or bills:—(1) A sum not exceeding £20,000,000, for the following purposes: (a) The construction, extension, and equipment of railways in India by State agency or through the agency of companies; (b) the repayment of the principal of any bonds or debentures issued by any such company under the guarantee of the Secretary of State; (c) the discharge of any obligations incurred by the Secretary of State by reason of the purchase of any railway or the determination of any contract from or with such company; (d) the construction of irrigation works in India. (2) A sum not exceeding £5,000,000 for the general purposes of the Government of India.",
+      "passage_locator": "House of Commons Hansard, 30 July 1908, vol. 193, cc. 1903–1904; East India Loans [Railway and Irrigation Works, and General Purposes], reported Resolution.",
+      "passage_status": "Passage locked — exact contemporary parliamentary wording",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1908/jul/30/east-india-loans-railway-and-irrigation",
+      "source_identity": "House of Commons, East India Loans [Railway and Irrigation Works, and General Purposes], 30 July 1908, Hansard vol. 193, cc. 1903–1904.",
+      "edition": "House of Commons Debates (Hansard), 30 July 1908, vol. 193.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1908,
+      "what_passage_establishes": "It establishes the statutory borrowing mechanism proposed in 1908: the Secretary of State in Council of India could raise specified sums in the United Kingdom against Indian revenues, with £20 million earmarked for railway and irrigation purposes and £5 million for general Government purposes.",
+      "evidence_limits": "The resolution establishes borrowing authority and permitted purposes, not the subsequent amounts actually borrowed, individual bond issues, lenders or investors, transaction terms, or the economic effects of the expenditure.",
+      "related_banking_power_records": [
+        "india-railway-gold-interest-exchange-burden-1891",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Loans [Railway and Irrigation Works, and General Purposes], 30 July 1908, Hansard vol. 193, cc. 1903–1904."
+      ],
+      "publication_status": "A-grade — exact contemporary borrowing-authority resolution locked.",
+      "year": 1908,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1908
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-1909",
+      "title": "East India Revenue Accounts: Indian Government Remittances, Debt Interest and British Capital, 1909",
+      "date_label": "5 August 1909",
+      "year": 1909,
+      "evidence_grade": "A",
+      "historical_claim": "The 1909 East India Revenue Accounts debate recorded the Indian Government's average annual remittance to England at £21.2 million for 1904–1906, including average annual home charges of £18.5 million, of which £9.5 million was interest on debt; it also recorded £265 million of railway capital outlay in India by the end of 1907.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1909/aug/05/east-india-revenue-accounts",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1909/aug/05/east-india-revenue-accounts",
+      "passage_locator": "House of Commons Hansard, 5 August 1909, vol. 8, cc. 1981–2097; relevant financial-remittance passage at cc. 1990–1992.",
+      "passage_status": "Passage locked — exact contemporary parliamentary record.",
+      "source_identity": "House of Commons, East India Revenue Accounts, 5 August 1909, Hansard vol. 8, cc. 1981–2097.",
+      "edition": "House of Commons Debates (Hansard), 5 August 1909, vol. 8.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1909,
+      "primary_passage": "If the Trade Returns are examined for 1904, 1905, and 1906, after making due allowance for the capital sent to India in connection with Government transactions, the average excess of exports over imports—or, in other words, payments by India to England for services rendered—is £23,900,000 per year during the three years that have been mentioned. This payment is made up of:—£21,200,000, being the average annual amount of the Government remittance during three years; £2,700,000, the average annual amount of private remittances during the same period. The Government remittance is mainly for the payment of home charges, namely those charges in England which are normally met from revenue. These charges, in the three years which I have referred to, averaged £18,500,000, made up in the following manner:—Interest on debt, £9,500,000; payments for stores ordered and purchased in this country, £2,500,000; pensions and furlough pay to civil and military officers, £5,000,000; miscellaneous, £1,250,000. Besides the home charges proper, certain sums were remitted to England by the Government to defray capital charges. These bring the Government remittances to the total of £21,200,000 already mentioned. ... at the end of 1907 the capital outlay on railways alone in India amounted to £265,000,000 sterling, the bulk of which is British capital.",
+      "what_passage_establishes": "The passage establishes the contemporary official figures and stated composition of Indian Government remittances to England for 1904–1906, including debt interest within home charges, and records the scale and predominantly British character of railway capital outlay at the end of 1907.",
+      "evidence_limits": "It does not by itself establish the ultimate economic incidence of these payments, the identity of individual lenders or investors, the terms of every underlying debt, or whether all remittances should be classified as a 'drain.' Those are interpretive questions requiring separate evidence.",
+      "notes": "This is a distinct 1909 financial-accounting evidence layer, not a duplicate of the 1908 borrowing-authority record. The source is especially useful for separating official contemporary accounting of debt interest, home charges and British capital from later interpretations.",
+      "related_banking_power_records": [
+        "east-india-loans-25000000-1908",
+        "india-gold-standard-sterling-accounting-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts, 5 August 1909, Hansard vol. 8, cc. 1981–2097."
+      ],
+      "publication_status": "A-grade — exact contemporary financial-accounting passage locked.",
+      "bn_title": "১৯০৯ সালের ভারতীয় রাজস্ব হিসাব: ঋণের সুদ, ব্রিটেনে সরকারি রেমিট্যান্স ও ব্রিটিশ মূলধন",
+      "bn_historical_claim": "১৯০৯ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব আলোচনায় ১৯০৪–১৯০৬ সময়ে ভারতের ব্রিটেনে গড় বার্ষিক সরকারি রেমিট্যান্স £২১.২ মিলিয়ন, যার মধ্যে ঋণের সুদ ছিল £৯.৫ মিলিয়ন—এবং ১৯০৭ সালের শেষে ভারতীয় রেলপথে মূলধনী বিনিয়োগ £২৬৫ মিলিয়ন বলে নথিভুক্ত হয়।",
+      "bn_notes": "এটি ১৯০৮ সালের ঋণ-ক্ষমতার রেকর্ডের পুনরাবৃত্তি নয়; এটি ১৯০৯ সালের সমকালীন আর্থিক হিসাবের স্বতন্ত্র প্রমাণস্তর।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1909
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
         ]
       }
     },
@@ -5918,6 +6272,159 @@
       }
     },
     {
+      "source_id": "east-india-loans-1910-railways-irrigation",
+      "title": "East India Loans (Railways and Irrigation) Bill, 1910",
+      "date_label": "17 March 1910",
+      "year": 1910,
+      "evidence_grade": "A",
+      "historical_claim": "Parliament considered renewed borrowing powers for the Government of India, principally for railway capital expenditure and associated capital liabilities, with the 1910 debate stating that the 1908 authority had raised £13,307,273 for programme purposes and that further borrowing powers were required.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1910/mar/17/east-india-loans-railways-and-irrigation",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1910/mar/17/east-india-loans-railways-and-irrigation",
+      "passage_locator": "House of Commons Hansard, 17 March 1910, vol. 15, cc. 607–612; East India Loans (Railways and Irrigation) Bill.",
+      "passage_status": "Passage locked — exact contemporary parliamentary record.",
+      "source_identity": "House of Commons, East India Loans (Railways and Irrigation) Bill, 17 March 1910, Hansard vol. 15, cc. 607–612.",
+      "edition": "House of Commons Debates (Hansard), 17 March 1910, vol. 15.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1910,
+      "primary_passage": "The amount raised for programme purposes under the Bill of 1908 has been £13,307,273. ... It is probable, therefore, that about £8,000,000 a year must be raised in this country for the purposes of the programme. Some part of this sum will be raised in the form of Capital Stock or Debentures of Guaranteed Railway Companies ... It is not possible to give any accurate estimate, but, based on past experience, it may be suggested that about £6,000,000 a year will be raised for programme purposes by the Secretary of State. ... Under the Loans Act of 1908, £997,300 has been spent on the discharge of debentures; before the end of this year ... it will be necessary to repay ... £2,250,000; possibly ... £1,510,000 may be required ... The loans for these purposes will be raised under—and, I may add, go far to exhaust—the borrowing powers of the Act of 1908.",
+      "what_passage_establishes": "The debate records the scale of borrowing already raised under the 1908 Act, the expected annual requirement for railway capital purposes in Britain, and the use of borrowing powers to discharge railway-company capital liabilities and debentures.",
+      "evidence_limits": "The passage is a parliamentary debate and establishes stated Government figures and proposed borrowing requirements; it does not by itself prove that every projected amount was subsequently issued, nor identify every lender, investor, security term or final transaction.",
+      "notes": "Distinct from the 1908 authority and the 1910 Jekyll Island record. This record is a primary parliamentary-finance layer showing the continuation and practical exhaustion of the 1908 borrowing authority and the rationale for renewed borrowing power.",
+      "related_banking_power_records": [
+        "east-india-loans-25000000-1908",
+        "jekyll-island-1910",
+        "east-india-revenue-accounts-1909"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Loans (Railways and Irrigation) Bill, 17 March 1910, Hansard vol. 15, cc. 607–612."
+      ],
+      "publication_status": "A-grade — exact contemporary parliamentary borrowing record locked.",
+      "bn_title": "১৯১০ সালের ইস্ট ইন্ডিয়া ঋণ বিল: রেলপথ ও সেচের জন্য নতুন ঋণ-ক্ষমতা",
+      "bn_historical_claim": "১৯১০ সালের সংসদীয় আলোচনায় ১৯০৮ সালের আইনের অধীনে ইতিমধ্যে £১৩.৩ মিলিয়ন তোলা হয়েছে এবং রেলপথের মূলধনী কর্মসূচি ও বিদ্যমান মূলধনী দায় পরিশোধের জন্য নতুন ঋণ-ক্ষমতার প্রয়োজন দেখানো হয়।",
+      "bn_notes": "এটি ১৯০৮ সালের ঋণ-অনুমোদন এবং ১৯১০ সালের Jekyll Island রেকর্ডের থেকে পৃথক একটি প্রাথমিক সংসদীয় আর্থিক প্রমাণস্তর।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1910
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-budget-1911",
+      "title": "East India Revenue Accounts (Indian Budget), 1911",
+      "date_label": "26 July 1911",
+      "year": 1911,
+      "evidence_grade": "A",
+      "historical_claim": "The 1911 Indian Budget debate recorded improved railway and irrigation finances, higher earnings of guaranteed railway companies, a reduction of non-productive Indian public debt to £46 million by 31 March 1911, and allocation of £2 million of the surplus toward discharge of floating debt.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1911/jul/26/east-india-revenue-accounts-indian-budget",
+      "passage_locator": "House of Commons Hansard, 26 July 1911, vol. 28, cc. 1664–1783, especially cc. 1667–1669.",
+      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 26 July 1911, Hansard vol. 28, cc. 1664–1783.",
+      "edition": "House of Commons Debates (Hansard), 26 July 1911, vol. 28.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1911,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
+      "primary_passage": "Railways accounted for £1,272,000 of the surplus; irrigation £91,000, and telegraphs £104,000. The improvement in the profit of railways is the result of the increase in the gross traffic receipts—£674,500—and the decrease of working expenses, interest charges, and miscellaneous charges by £597,700. The guaranteed companies received as surplus profits or net earnings £100,000 more last year than the year before. ... £2,000,000 has been set aside to be used towards the discharge of floating debt. ... the non-productive debt amounted on the 31st March, 1911, to only £46,000,000, as against £71,000,000 ten years previously.",
+      "what_passage_establishes": "The contemporary Budget debate establishes stated government figures for railway profitability and guaranteed-company earnings, and records a substantial reduction in non-productive debt together with a £2 million allocation toward floating-debt discharge.",
+      "evidence_limits": "These figures are official budgetary statements in parliamentary debate; they do not by themselves establish the ultimate distribution of railway profits, the identities or returns of individual investors, the economic incidence of debt service, or that debt reduction represented cancellation of all underlying obligations.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-1909",
+        "east-india-loans-25000000-1908",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts (Indian Budget), 26 July 1911, Hansard vol. 28, cc. 1664–1783."
+      ],
+      "notes": "Distinct 1911 financial-accounting layer. The separate 13 December 1911 Return of Loans Raised in India was identified but not promoted to an A-grade evidence record because the Hansard entry only records presentation of the Return; the underlying Return itself should be inspected before extracting figures.",
+      "publication_status": "A-grade — exact contemporary Indian Budget financial passage locked.",
+      "bn_title": "১৯১১ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: রেলওয়ে মুনাফা, ঋণ হ্রাস ও ফ্লোটিং ডেট পরিশোধ",
+      "bn_historical_claim": "১৯১১ সালের ভারতীয় বাজেট আলোচনায় রেলওয়ে থেকে £১.২৭২ মিলিয়ন উদ্বৃত্ত, গ্যারান্টিযুক্ত রেলওয়ে কোম্পানিগুলোর বাড়তি আয় এবং ৩১ মার্চ ১৯১১-এ অনুৎপাদনশীল ঋণ £৪৬ মিলিয়নে নেমে আসার কথা নথিভুক্ত হয়; উদ্বৃত্তের £২ মিলিয়ন ফ্লোটিং ডেট পরিশোধে রাখা হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1911
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-budget-1912",
+      "title": "East India Revenue Accounts (Indian Budget), 1912",
+      "date_label": "30 July 1912",
+      "year": 1912,
+      "evidence_grade": "A",
+      "historical_claim": "The 1912 Indian Budget debate recorded record railway net profit of £3,204,500 for 1911–12 and stated that the surplus would be retained to reduce borrowing for capital expenditure on railways, irrigation works and the construction of New Delhi.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1912/jul/30/east-india-revenue-accounts-indian-budget",
+      "passage_locator": "House of Commons Hansard, 30 July 1912, East India Revenue Accounts (Indian Budget).",
+      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 30 July 1912, Hansard.",
+      "edition": "House of Commons Debates (Hansard), 30 July 1912.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1912,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
+      "primary_passage": "The net profit on the year's working was therefore the record sum of £3,204,500, an excess over the Budget Estimate of £1,272,800. ... The surplus, therefore, is going to be retained, in order to reduce the amount to be borrowed on capital expenditure, on railways, irrigation works, and the building of the new Delhi.",
+      "what_passage_establishes": "The contemporary Budget debate establishes the reported railway net profit and the Government's stated decision to use the surplus to reduce the amount that otherwise would have to be borrowed for specified capital expenditure.",
+      "evidence_limits": "This establishes reported budgetary figures and the stated financing policy; it does not by itself establish the final amount of borrowing avoided, the ultimate incidence of railway profits, or the identity and terms of capital providers.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-budget-1911",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts (Indian Budget), 30 July 1912, Hansard."
+      ],
+      "publication_status": "A-grade — exact contemporary Budget financing passage locked.",
+      "bn_title": "১৯১২ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: রেলওয়ে মুনাফা ও ঋণ কমানোর জন্য উদ্বৃত্ত ব্যবহার",
+      "bn_historical_claim": "১৯১২ সালের ভারতীয় বাজেট আলোচনায় ১৯১১–১২ সালে রেলওয়ের রেকর্ড £৩.২০৪৫ মিলিয়ন নিট মুনাফা এবং রেলপথ, সেচ ও নতুন দিল্লি নির্মাণের মূলধনী ব্যয়ে ভবিষ্যৎ ঋণের প্রয়োজন কমাতে উদ্বৃত্ত ধরে রাখার সরকারি সিদ্ধান্ত নথিভুক্ত হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1912
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
       "source_id": "federal-reserve-act-1913",
       "title": "Federal Reserve Act, 1913",
       "date_label": "1913",
@@ -5972,6 +6479,58 @@
       }
     },
     {
+      "source_id": "east-india-revenue-accounts-budget-1913",
+      "title": "East India Revenue Accounts (Indian Budget), 1913",
+      "date_label": "7 August 1913",
+      "year": 1913,
+      "evidence_grade": "A",
+      "historical_claim": "The 1913 Indian Budget debate recorded a surplus of nearly £8 million over the Budget Estimate, attributed mainly to large railway receipts and high opium prices, with the surplus directed principally toward provincial grants and reduction or avoidance of debt; it also stated that successive Governments had used India's resources and credit to build the railway system.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1913/aug/07/east-india-revenue-accounts-indian-budget",
+      "passage_locator": "House of Commons Hansard, 7 August 1913, vol. 56, cc. 1780–1908; financial discussion at cc. 1783–1784.",
+      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 7 August 1913, Hansard vol. 56, cc. 1780–1908.",
+      "edition": "House of Commons Debates (Hansard), 7 August 1913, vol. 56.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1913,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
+      "primary_passage": "There was last year, due mainly to the very large railway receipts and the high prices obtained for opium, a surplus of not less than nearly £8,000,000 over the Budget Estimate. This surplus is to be spent mainly on Grants to provincial Governments for education and sanitation and, with the surplus estimated for in the Budget on the reduction and avoidance of debt. ... For the last two generations successive Secretaries of State and Governments of India have used the resources and the credit of India to build up a railway system which has always been closely associated with the State, and has become more closely associated with it during the last generation.",
+      "what_passage_establishes": "The contemporary Budget debate establishes the reported size and stated causes of the prior-year surplus, its intended allocation partly to debt reduction/avoidance, and the official characterization of railway development as having been built using India's resources and credit under close State association.",
+      "evidence_limits": "The debate establishes official statements and policy descriptions, not the ultimate economic incidence of railway finance, the identities of capital providers, or whether every planned debt-reduction allocation was subsequently executed exactly as stated.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-budget-1912",
+        "east-india-revenue-accounts-budget-1911",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts (Indian Budget), 7 August 1913, Hansard vol. 56, cc. 1780–1908."
+      ],
+      "publication_status": "A-grade — exact contemporary Budget passage locked.",
+      "bn_title": "১৯১৩ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: উদ্বৃত্ত, ঋণ হ্রাস ও ভারতের ঋণভিত্তিক রেলওয়ে উন্নয়ন",
+      "bn_historical_claim": "১৯১৩ সালের ভারতীয় বাজেট আলোচনায় প্রায় £৮ মিলিয়ন উদ্বৃত্ত, তার প্রধান উৎস রেলওয়ে আয় ও আফিম রাজস্ব, এবং উদ্বৃত্তের একটি অংশ ঋণ হ্রাস বা এড়াতে ব্যবহারের পরিকল্পনা নথিভুক্ত হয়; একই সঙ্গে ভারতের সম্পদ ও ঋণক্ষমতা ব্যবহার করে রাষ্ট্র-ঘনিষ্ঠ রেলওয়ে ব্যবস্থা গড়ে তোলার কথা বলা হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1913
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
       "source_id": "wwi-central-bank-war-finance-1914",
       "title": "World War I and central-bank war finance, 1914",
       "date_label": "1914",
@@ -6021,6 +6580,366 @@
         "chapter_title": null,
         "research_maps": [
           "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-loans-raised-england-1914",
+      "title": "East India Loans Raised in England: Outstanding Indian-Revenue Loans, 1914",
+      "date_label": "3 April 1914",
+      "year": 1914,
+      "evidence_grade": "A",
+      "historical_claim": "A Parliamentary Return recorded all loans raised in England and charged on the revenues of India that were outstanding at the commencement of the half-year ending 31 March 1914, providing a primary documentary layer for the sterling debt then outstanding against Indian revenues.",
+      "verification_status": "Primary parliamentary record verified through official Historic Hansard; the underlying Return is identified as Parliamentary Paper No. 180.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1914/apr/03/east-india-loans-raised-in-england",
+      "passage_locator": "House of Commons Hansard, 3 April 1914, vol. 60, c.1503; Parliamentary Paper No. 180.",
+      "source_identity": "House of Commons, Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at commencement of half-year ending 31 March 1914, presented 3 April 1914, Parliamentary Paper No. 180.",
+      "edition": "House of Commons Papers, 1914, Parliamentary Paper No. 180.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1914,
+      "passage_status": "Presentation record locked; underlying Parliamentary Paper identified for document-level follow-up.",
+      "primary_passage": "Copy presented of Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at the commencement of the half-year ending on the 31st March, 1914, etc. [by Act]; to lie upon the Table, and to be printed. [No. 180.]",
+      "what_passage_establishes": "The parliamentary record establishes the existence, title, statutory presentation, date, and paper number of the official Return covering outstanding English-raised loans charged on Indian revenues as of the beginning of the half-year ending 31 March 1914.",
+      "evidence_limits": "The Hansard entry itself does not reproduce the Return's loan-by-loan figures, rates, maturities, or holders. Those details must be extracted from Parliamentary Paper No. 180 before being treated as established by this record.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-budget-1913",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, Parliamentary Paper No. 180 (1914), Return of Loans raised in England chargeable on the Revenues of India."
+      ],
+      "notes": "Kept deliberately conservative: this is a Grade A presentation/identification record, not a claim that the underlying loan schedule has already been fully transcribed.",
+      "publication_status": "A-grade presentation record — underlying Parliamentary Paper No. 180 flagged for next-stage extraction.",
+      "bn_title": "১৯১৪ সালে ইংল্যান্ডে তোলা ভারতের ঋণ: ভারতীয় রাজস্বের ওপর বকেয়া ঋণের সরকারি রিটার্ন",
+      "bn_historical_claim": "১৯১৪ সালে সংসদে ভারতের রাজস্বের ওপর ধার্য এবং ইংল্যান্ডে তোলা বকেয়া ঋণের একটি সরকারি রিটার্ন পেশ করা হয়; রিটার্নটি ৩১ মার্চ ১৯১৪-এ শেষ হওয়া অর্ধ-বর্ষের শুরুতে বকেয়া ঋণগুলো নথিভুক্ত করার জন্য ছিল।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1914
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "east-india-loans-raised-england-1916",
+      "title": "East India Loans Raised in England: Outstanding Indian-Revenue Loans, 1916",
+      "date_label": "12 October 1916",
+      "year": 1916,
+      "evidence_grade": "A",
+      "historical_claim": "A Parliamentary Return recorded all loans raised in England and charged on the revenues of India that were outstanding at the commencement of the half-year ending 30 September 1916, providing a primary documentary marker for sterling debt outstanding during the First World War.",
+      "verification_status": "Primary parliamentary record verified through official Historic Hansard; the underlying Return is identified by the statutory presentation notice.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1916/oct/12/east-india-loans-raised-in-england",
+      "passage_locator": "House of Commons Hansard, 12 October 1916, vol. 86, c.163; Return of loans raised in England chargeable on Indian revenues, outstanding at commencement of half-year ending 30 September 1916.",
+      "source_identity": "House of Commons, Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at commencement of half-year ending 30 September 1916, presented 12 October 1916.",
+      "edition": "House of Commons Papers, 1916; statutory Return presented 12 October 1916.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1916,
+      "passage_status": "Presentation record locked; underlying Return retained for later loan-level extraction.",
+      "primary_passage": "Copy presented of Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at the commencement of the half-year ending on the 30th September, 1916, etc. [by Act]; to lie upon the Table, and to be printed.",
+      "what_passage_establishes": "The parliamentary record establishes the existence and scope of the official Return covering England-raised loans charged on Indian revenues and outstanding as of the beginning of the half-year ending 30 September 1916.",
+      "evidence_limits": "The Hansard presentation notice does not reproduce individual loan amounts, rates, maturities, holders, or wartime changes. Those details require the underlying Return and must not be inferred from this notice.",
+      "related_banking_power_records": [
+        "east-india-loans-raised-england-1914",
+        "east-india-loans-1910-railways-irrigation"
+      ],
+      "scholarly_references": [
+        "House of Commons, Return of Loans raised in England chargeable on the Revenues of India, presented 12 October 1916."
+      ],
+      "notes": "1915 was screened but no stronger distinct 1915 parliamentary financial passage was found in the current search; the 1915 Indian Financial Statement and Budget was presented as a Parliamentary Return, but the accessible Hansard entry is only a presentation notice. The chronology therefore advances to the stronger 1916 loan-return marker rather than manufacturing a 1915 substantive claim.",
+      "publication_status": "A-grade presentation record — underlying 1916 Return flagged for document-level extraction.",
+      "bn_title": "১৯১৬ সালে ইংল্যান্ডে তোলা ভারতের ঋণ: ভারতীয় রাজস্বের ওপর বকেয়া ঋণের সরকারি রিটার্ন",
+      "bn_historical_claim": "১৯১৬ সালে সংসদে ভারতের রাজস্বের ওপর ধার্য এবং ইংল্যান্ডে তোলা বকেয়া ঋণের একটি সরকারি রিটার্ন পেশ করা হয়, যা ৩০ সেপ্টেম্বর ১৯১৬-এ শেষ হওয়া অর্ধ-বর্ষের শুরুতে বকেয়া ঋণগুলোকে চিহ্নিত করে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1916
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-war-contribution-100-million-1917",
+      "title": "India's £100 Million Contribution to the Cost of the War, 1917",
+      "date_label": "14 March 1917",
+      "year": 1917,
+      "evidence_grade": "A",
+      "historical_claim": "Parliament formally consented to a £100,000,000 contribution charged on the revenues of India toward the cost of the First World War, to be provided partly from a loan raised in India and partly through India's assumption of interest liability on the required amount of British War Loan; Indian taxation and budget provisions were to meet the resulting annual interest and sinking-fund charges.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1917/mar/14/mr-chamberlains-motion",
+      "passage_locator": "House of Commons Hansard, 14 March 1917, vol. 91, cc. 1137–1241; Motion 'Contribution Towards Cost of War'.",
+      "source_identity": "House of Commons, Mr. Chamberlain's Motion / Contribution Towards Cost of War, 14 March 1917, Hansard vol. 91, cc. 1137–1241.",
+      "edition": "House of Commons Debates (Hansard), 14 March 1917, vol. 91.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1917,
+      "passage_status": "Passage locked — exact contemporary parliamentary resolution.",
+      "primary_passage": "That ... the Government of India ... have recommended that a Contribution charged on the Revenues of India should be made towards the expenses of the same, such contribution to consist of the sum of £100,000,000 to be provided in part from the proceeds of a loan to be raised in India and the remainder by assuming liability for interest on British War Loan of the required amount ... the Government of India have now made provision by legislation and in their Revenue and Expenditure Estimates for meeting, by means of increased taxation and otherwise, the annual charge for interest and sinking fund in respect of the Contribution ... this House consents that a Contribution of £100,000,000 charged on the Revenues of India shall be made towards the cost of the War.",
+      "what_passage_establishes": "The parliamentary resolution establishes the legal/political consent for a £100 million Indian-revenue war contribution and its financing structure: part by an Indian loan and the balance through assumption of British War Loan interest liability, with Indian revenue measures covering annual interest and sinking-fund charges.",
+      "evidence_limits": "The resolution establishes the authorized contribution and financing mechanism, not the final cash flows, exact amount actually raised in India, final British War Loan instruments assumed, or the incidence of the Indian taxation used to service the obligation. Those require subsequent financial statements and loan records.",
+      "related_banking_power_records": [
+        "east-india-loans-raised-england-1916",
+        "east-india-loans-raised-england-1914"
+      ],
+      "scholarly_references": [
+        "House of Commons, Contribution Towards Cost of War, 14 March 1917, Hansard vol. 91, cc. 1137–1241."
+      ],
+      "notes": "A distinct wartime sovereign-finance layer. A later 1918 debate reports that £35 million was actually raised in India toward the £100 million contribution, which is retained for a separate 1918 verification record rather than imported into this 1917 authorization record.",
+      "publication_status": "A-grade — exact parliamentary resolution locked.",
+      "bn_title": "১৯১৭ সালে ভারতের £১০০ মিলিয়ন যুদ্ধ-অবদান",
+      "bn_historical_claim": "১৯১৭ সালে ব্রিটিশ সংসদ ভারতের রাজস্বের ওপর ধার্য £১০০ মিলিয়ন যুদ্ধ-অবদানে সম্মতি দেয়; এর একটি অংশ ভারতে ঋণ তুলে এবং বাকি অংশ ব্রিটিশ যুদ্ধঋণের সুদের দায় গ্রহণের মাধ্যমে দেওয়ার কথা ছিল, আর ভারতীয় রাজস্ব ও করব্যবস্থা সুদ ও সিঙ্কিং ফান্ডের বার্ষিক ব্যয় মেটাবে।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1917
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
+      "source_id": "india-war-contribution-realized-1918",
+      "title": "India's War Contribution: £35 Million Raised in India, 1918",
+      "date_label": "6 August 1918",
+      "year": 1918,
+      "evidence_grade": "A",
+      "historical_claim": "In August 1918 the Secretary of State for India reported that the £100 million Indian contribution toward the war had produced £35 million from an Indian loan, transferred to the Imperial Government, while a further £30 million was raised through Treasury Bills for India's own wartime expenditure; a second war loan had already realized £16.5 million.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1918/aug/06/mr-montagus-statement",
+      "passage_locator": "House of Commons Hansard, 6 August 1918, Mr. Montagu's Statement, vol. 109, cc. 1138–1142.",
+      "source_identity": "House of Commons, Mr. Montagu's Statement on Indian finance and war effort, 6 August 1918, Hansard vol. 109, cc. 1138–1142.",
+      "edition": "House of Commons Debates (Hansard), 6 August 1918, vol. 109.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1918,
+      "passage_status": "Passage locked — exact contemporary parliamentary financial statement.",
+      "primary_passage": "The contribution of £100,000,000 towards the cost of the War ... The loan last year realised £35,000,000, which was in due course transferred to the Imperial Government, and at a later date in the same year the Government of India succeeded in raising for its own needs £30,000,000 in the form of Treasury Bills for the purpose of financing war expenditure in India. ... This year a new War Loan has been issued ... Already £16,500,000 has been realised, and therefore it is obvious that of the £100,000,000 promised well over £50,000,000 has already been raised in India itself.",
+      "what_passage_establishes": "The statement establishes actual reported proceeds and transfer of the first Indian war loan, a separate £30 million Treasury-bill financing operation for Indian wartime expenditure, and at least £16.5 million already realized from the subsequent war loan by August 1918.",
+      "evidence_limits": "The statement does not provide the full terms, maturities, subscriber composition, or final total of all Indian war loans, nor does it by itself establish the ultimate incidence of taxation or purchasing power used to service them.",
+      "related_banking_power_records": [
+        "india-war-contribution-100-million-1917",
+        "east-india-loans-raised-england-1916"
+      ],
+      "scholarly_references": [
+        "House of Commons, Mr. Montagu's Statement, 6 August 1918, Hansard vol. 109, cc. 1138–1142."
+      ],
+      "publication_status": "A-grade — exact contemporary realization figures locked.",
+      "bn_title": "১৯১৮ সালে ভারতের যুদ্ধ-অবদান: ভারতে £৩৫ মিলিয়ন ঋণ সংগ্রহ ও অতিরিক্ত ট্রেজারি বিল",
+      "bn_historical_claim": "১৯১৮ সালের আগস্টে ভারতের জন্য জানানো হয় যে £১০০ মিলিয়ন যুদ্ধ-অবদানের মধ্যে ভারতে তোলা ঋণ থেকে £৩৫ মিলিয়ন সংগ্রহ করে ইম্পেরিয়াল সরকারের কাছে হস্তান্তর করা হয়েছে; একই সময়ে ভারতের নিজস্ব যুদ্ধব্যয় মেটাতে আরও £৩০ মিলিয়ন ট্রেজারি বিলের মাধ্যমে সংগ্রহ করা হয় এবং নতুন যুদ্ধঋণ থেকে £১৬.৫ মিলিয়ন ইতিমধ্যে পাওয়া গিয়েছিল।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1918
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
+      "source_id": "india-war-expenditure-127800000-1919",
+      "title": "Indian War Expenditure: £127.8 Million by 31 March 1919",
+      "date_label": "19 May 1919",
+      "year": 1919,
+      "evidence_grade": "A",
+      "historical_claim": "The British Government reported in Parliament that India's war expenditure up to 31 March 1919 was approximately £127.8 million, including the £100 million contribution toward His Majesty's Government's war outlay.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1919/may/19/war-expenditure",
+      "passage_locator": "House of Commons Hansard, 19 May 1919, vol. 116, cc. 14–15.",
+      "source_identity": "House of Commons, War Expenditure, 19 May 1919, Hansard vol. 116, cc. 14–15.",
+      "edition": "House of Commons Debates (Hansard), 19 May 1919, vol. 116.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1919,
+      "passage_status": "Passage locked — exact contemporary parliamentary answer.",
+      "primary_passage": "Including a contribution of £100,000,000 towards the war outlay of His Majesty's Government, the war expenditure of the Government of India up to the 31st March, 1919, may be taken at about £127,800,000. A further contribution has been proposed by the Government of India, and is at present under consideration.",
+      "what_passage_establishes": "The parliamentary answer establishes the Government's reported aggregate Indian war expenditure through 31 March 1919 and explicitly states that the £100 million Imperial contribution was included within that figure.",
+      "evidence_limits": "The answer does not provide the full expenditure ledger, distinguish all borrowing from taxation or other financing, or establish the final amount of any further contribution then under consideration.",
+      "related_banking_power_records": [
+        "india-war-contribution-realized-1918",
+        "india-war-contribution-100-million-1917"
+      ],
+      "scholarly_references": [
+        "House of Commons, War Expenditure, 19 May 1919, Hansard vol. 116, cc. 14–15."
+      ],
+      "publication_status": "A-grade — exact contemporary aggregate expenditure figure locked.",
+      "bn_title": "১৯১৯ সালের ভারতীয় যুদ্ধব্যয়: ৩১ মার্চ পর্যন্ত £১২৭.৮ মিলিয়ন",
+      "bn_historical_claim": "১৯১৯ সালের ১৯ মে ব্রিটিশ সংসদে জানানো হয় যে ৩১ মার্চ ১৯১৯ পর্যন্ত ভারতের সরকারের যুদ্ধব্যয় প্রায় £১২৭.৮ মিলিয়ন, যার মধ্যে ব্রিটিশ সরকারের যুদ্ধব্যয়ের জন্য £১০০ মিলিয়ন অবদান অন্তর্ভুক্ত ছিল।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1919
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network",
+          "monetary_regimes"
+        ]
+      }
+    },
+    {
+      "source_id": "india-currency-war-legacy-1919",
+      "title": "India's Currency and Exchange Crisis After the War, 1919",
+      "date_label": "22 May 1919",
+      "year": 1919,
+      "evidence_grade": "A",
+      "historical_claim": "The 1919 Indian Budget debate recorded that India's currency position had been a major wartime concern, that the post-war rise in silver prices had forced the rupee to 1s. 8d., and that the Government proposed a new Currency Commission to address the resulting currency and exchange problems.",
+      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1919/may/22/east-india-revenue-accounts",
+      "passage_locator": "House of Commons Hansard, 22 May 1919, vol. 116, cc. 621–713; Mr. Montagu's opening statement.",
+      "source_identity": "House of Commons, East India Revenue Accounts, 22 May 1919, Hansard vol. 116, cc. 621–713.",
+      "edition": "House of Commons Debates (Hansard), 22 May 1919, vol. 116.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1919,
+      "passage_status": "Passage locked — exact contemporary currency-policy statement.",
+      "primary_passage": "The currency position in India was a source of great anxiety to the Government throughout the War ... the currency situation is now causing us renewed anxiety owing to the increase in the price of silver which has necessitated a rupee of 1s. 8d. ... I have decided to appoint a new Currency Commission to investigate the situation caused by the rise in the price of silver in a limited world supply.",
+      "what_passage_establishes": "The statement establishes the Government's contemporary account of wartime currency stress, the post-war silver-price pressure on the rupee, and the decision to create a Currency Commission to investigate the currency and exchange problem.",
+      "evidence_limits": "This does not by itself establish the later Commission's recommendations, the precise market mechanism producing the rupee rate, or the complete wartime monetary operations that preceded the 1919 policy response.",
+      "related_banking_power_records": [
+        "india-war-contribution-realized-1918",
+        "india-war-expenditure-127800000-1919"
+      ],
+      "scholarly_references": [
+        "House of Commons, East India Revenue Accounts, 22 May 1919, Hansard vol. 116, cc. 621–713."
+      ],
+      "publication_status": "A-grade — exact contemporary currency-policy passage locked.",
+      "bn_title": "১৯১৯ সালে ভারতের মুদ্রা ও বিনিময় সংকট: যুদ্ধ-পরবর্তী রুপি ও রৌপ্যের মূল্য",
+      "bn_historical_claim": "১৯১৯ সালের ভারতীয় বাজেট আলোচনায় বলা হয় যে যুদ্ধকালে ভারতের মুদ্রাব্যবস্থা নিয়ে সরকারের বড় উদ্বেগ ছিল; যুদ্ধের পর রৌপ্যের মূল্য বৃদ্ধির কারণে রুপির মূল্য ১ শিলিং ৮ পেন্সে ওঠে এবং নতুন কারেন্সি কমিশন গঠনের সিদ্ধান্ত নেওয়া হয়।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1919
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
+    },
+    {
+      "source_id": "india-gold-silver-export-control-1920",
+      "title": "Gold and Silver (Export, Control, etc.) Bill: Government Control of Bullion Exports and Indian Exchange, 1920",
+      "date_label": "10 November 1920",
+      "year": 1920,
+      "evidence_grade": "A",
+      "historical_claim": "Parliamentary evidence records the post-war continuation of Government power to control gold and silver bullion exports by Order in Council, with contemporaneous evidence linking the control of silver imports to major movements in the Indian rupee exchange.",
+      "verification_status": "Primary parliamentary debate verified in official Historic Hansard; Government explanation and contemporaneous commercial evidence located in the same debate.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1920/nov/10/gold-and-silver-export-control-etc-bill",
+      "passage_locator": "House of Commons Hansard, 10 November 1920, vol. 134, cc. 1320–1326; Government explanation at cc. 1320–1322, 1322–1323; Indian-exchange evidence at c. 1324.",
+      "source_identity": "Gold and Silver (Export, Control, etc.) Bill, Second Reading, House of Commons, 10 November 1920; Financial Secretary to the Treasury Mr. Baldwin, with subsequent debate including Mr. Samuel Samuel.",
+      "edition": "House of Commons Debates, 10 November 1920, Series 5, vol. 134, cc. 1320–1326.",
+      "publisher": "UK Parliament / Historic Hansard",
+      "publication_year": 1920,
+      "passage_status": "Passage locked — official Hansard text and column locators verified.",
+      "primary_passage": "The Government will then have power, at any time when the situation makes it necessary, to regulate by Order-in-Council the export of gold and silver bullion. In the same debate, Mr. Samuel stated that wartime restrictions on silver imports had seen the rupee move from 1s. 4d. to 2s. 7d.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-08",
+      "what_passage_establishes": "The Government's proposed statute would preserve executive authority to regulate gold and silver bullion exports after the wartime Orders in Council expired. The debate also contains a contemporaneous parliamentary statement that wartime restrictions on silver imports were associated with a major rise in the Indian rupee's exchange quotation.",
+      "evidence_limits": "The Government statement establishes statutory authority and its stated monetary rationale; Mr. Samuel's exchange figures are a parliamentary speaker's contemporaneous account, not an independently tabulated official exchange series. The record does not by itself establish causation between a single restriction and every movement in the rupee, nor does it identify beneficiaries or private bullion-dealer interests.",
+      "related_banking_power_records": [
+        "india-currency-war-legacy-1919",
+        "india-gold-standard-1900"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 10 November 1920, vol. 134, cc. 1320–1326.",
+        "For later Indian currency-policy context, see the Royal Commission on Indian Currency and Finance (1926), while keeping later findings separate from this 1920 primary record."
+      ],
+      "publication_status": "A-grade — direct parliamentary primary evidence; the Government's statutory-control proposition is official, while the exchange-effect portion is explicitly attributed to a contemporary parliamentary speaker.",
+      "bn_title": "সোনা ও রূপা রপ্তানি নিয়ন্ত্রণ বিল: বুলিয়ন রপ্তানিতে সরকারি নিয়ন্ত্রণ ও ভারতীয় বিনিময় হার, ১৯২০",
+      "bn_historical_claim": "পার্লামেন্টারি নথিতে যুদ্ধ-পরবর্তী সময়ে অর্ডার-ইন-কাউন্সিলের মাধ্যমে সোনা ও রূপার বুলিয়ন রপ্তানি নিয়ন্ত্রণের সরকারি ক্ষমতা এবং সমসাময়িক আলোচনায় রূপির বিনিময় হারের বড় পরিবর্তনের সম্পর্ক নথিভুক্ত হয়েছে।",
+      "bn_historical_claim_note": "অনুবাদটি প্রমাণের সীমা বজায় রেখে করা হয়েছে; এটি একক সরকারি নিয়ন্ত্রণকে রূপির সব পরিবর্তনের একমাত্র কারণ হিসেবে দাবি করে না।",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Modern monetary and sovereign-finance development",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1920
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "currency_and_exchange",
+          "sovereign_finance"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
           "global_power_network"
         ]
       }
@@ -8695,870 +9614,6 @@
         "research_maps": [
           "central_banks",
           "monetary_regimes",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "india-gold-receipts-and-issues-1903",
-      "title": "India Gold Receipts Reach £25.282 Million; £7 Million Shipped to England, 1903",
-      "date_label": "12 March 1903",
-      "historical_claim": "The Secretary of State reported that since gold became legal tender in India, the Government of India had received £25.282 million in gold and issued £18.825 million, including £7 million shipped to England and £11.825 million issued to the public.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
-      "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1903/mar/12/indian-currency",
-      "bn_title": "১৯০৩ সালে ভারতে সোনা গ্রহণ £২৫.২৮২ মিলিয়ন; £৭ মিলিয়ন ইংল্যান্ডে পাঠানো হয়",
-      "bn_historical_claim": "১৯০৩ সালে জানানো হয় যে ভারতে সোনা আইনগত টেন্ডার হওয়ার পর থেকে ভারত সরকার £২৫.২৮২ মিলিয়ন সোনা গ্রহণ করেছে এবং £১৮.৮২৫ মিলিয়ন ইস্যু করেছে; এর মধ্যে £৭ মিলিয়ন ইংল্যান্ডে পাঠানো হয় এবং £১১.৮২৫ মিলিয়ন জনসাধারণকে দেওয়া হয়।",
-      "notes": "Distinct from the 1902 reserve snapshot: this record captures cumulative gold receipts and issues since gold became legal tender, including the amount shipped to England and issued to the public.",
-      "primary_passage": "Since gold was made legal tender in India £25,282,000 has been received in gold by the Government of India, and £18,825,000 has been issued—viz., £7,000,000 shipped to England and £11,825,000 issued to the public.",
-      "passage_locator": "House of Commons Hansard, 12 March 1903, vol. 119, c. 581; Question on Indian Currency, answer by Lord George Hamilton.",
-      "passage_status": "Passage locked — exact contemporary parliamentary wording",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1903/mar/12/indian-currency",
-      "source_identity": "House of Commons, Indian Currency, 12 March 1903, Hansard vol. 119, c. 581; answer by Secretary of State for India Lord George Hamilton.",
-      "edition": "House of Commons Debates (Hansard), 12 March 1903, vol. 119.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1903,
-      "what_passage_establishes": "It establishes the cumulative amount of gold received by the Government of India after gold became legal tender, the amount issued, and the split between gold shipped to England and gold issued to the public.",
-      "evidence_limits": "It is a parliamentary answer based on Government of India figures and does not classify each underlying transaction, identify counterparties, establish the complete legal reserve mechanism, or by itself prove broader economic effects. It should not be treated as a full monetary-flow reconstruction.",
-      "related_banking_power_records": [
-        "india-gold-standard-sterling-accounting-1900",
-        "india-gold-remittances-currency-reserves-1902",
-        "india-mint-closure-gold-standard-1893"
-      ],
-      "scholarly_references": [
-        "House of Commons, Indian Currency, 12 March 1903, Hansard vol. 119, c. 581."
-      ],
-      "publication_status": "A-grade — exact contemporary cumulative gold-flow figures locked.",
-      "year": 1903,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1903
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "monetary_regimes",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "india-gold-export-state-account-reserve-1904",
-      "title": "India Gold Exports £4.572 Million; £3.268 Million on State Account, 1904",
-      "date_label": "9 March 1904",
-      "historical_claim": "The Secretary of State reported that India exported £4.5717 million of gold from July through December 1903, of which £3.2677 million was consigned to the Secretary of State; on 31 January 1904 the Currency Reserve held £9.207 million and the Gold Reserve Fund £500,000, with £4.76215 million of British securities held for that fund.",
-      "verification_status": "Primary contemporary parliamentary record verified through official UK Parliament Hansard",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/commons/1904-03-09/debates/8044aa51-5689-4e66-aea2-3ed325e90e91/IndianCurrency%E2%80%94Gold",
-      "bn_title": "১৯০৪ সালে ভারতের £৪.৫৭২ মিলিয়ন সোনা রপ্তানি; £৩.২৬৮ মিলিয়ন রাষ্ট্রের হিসাবে",
-      "bn_historical_claim": "১৯০৪ সালে জানানো হয় যে ১৯০৩ সালের জুলাই–ডিসেম্বরে ভারত থেকে £৪.৫৭২ মিলিয়ন সোনা রপ্তানি হয়, যার £৩.২৬৮ মিলিয়ন সেক্রেটারি অব স্টেটের হিসাবে পাঠানো হয়। ৩১ জানুয়ারি ১৯০৪ কারেন্সি রিজার্ভ ছিল £৯.২০৭ মিলিয়ন এবং গোল্ড রিজার্ভ ফান্ড £৫০০,০০০; ওই ফান্ডের পক্ষে ব্রিটিশ সিকিউরিটিজ ছিল £৪.৭৬২১৫ মিলিয়ন।",
-      "notes": "Distinct from the 1903 cumulative gold-flow record and the 1902 point-in-time reserve snapshot: this record identifies the state-account share of gold exports and the reserve fund's British securities position at 31 January 1904.",
-      "primary_passage": "Exports from 1st July to 31st December, 1903, £4,571,700, of which £3,267,700 was consigned to the Secretary of State. Imports, £6,640,300. Net Imports, £2,068,600.",
-      "passage_locator": "House of Commons Hansard, 9 March 1904, vol. 131, cc. 558–559; Question 9, Indian Currency—Gold; answer by Secretary of State for India Mr. Brodrick.",
-      "passage_status": "Passage locked — exact contemporary parliamentary wording",
-      "passage_source_url": "https://hansard.parliament.uk/commons/1904-03-09/debates/8044aa51-5689-4e66-aea2-3ed325e90e91/IndianCurrency%E2%80%94Gold",
-      "source_identity": "House of Commons, Indian Currency—Gold, 9 March 1904, Hansard vol. 131, cc. 558–559; answer by Secretary of State for India William Brodrick.",
-      "edition": "House of Commons Debates (Hansard), 9 March 1904, vol. 131.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1904,
-      "what_passage_establishes": "It establishes the gold export and import figures for the second half of 1903, the amount of exported gold consigned to the Secretary of State, and, in the same answer, the Government of India's gold-reserve holdings and British securities held for the Gold Reserve Fund at 31 January 1904.",
-      "evidence_limits": "The figures are a parliamentary answer based on Government of India information. January 1904 figures were incomplete at the time, and the passage does not classify every gold transaction, identify counterparties, or establish broader monetary effects.",
-      "related_banking_power_records": [
-        "india-gold-receipts-and-issues-1903",
-        "india-gold-remittances-currency-reserves-1902",
-        "india-gold-standard-sterling-accounting-1900"
-      ],
-      "scholarly_references": [
-        "House of Commons, Indian Currency—Gold, 9 March 1904, Hansard vol. 131, cc. 558–559."
-      ],
-      "publication_status": "A-grade — exact contemporary gold-export, state-account and reserve figures locked.",
-      "year": 1904,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1904
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "monetary_regimes",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-railway-loans-authority-20000000-1905",
-      "title": "East India Railway Loans: £20 Million Borrowing Authority, 1905",
-      "date_label": "23 June 1905",
-      "historical_claim": "Parliament authorised the Secretary of State in Council of India to raise up to £20 million in the United Kingdom on the security of Indian revenues for railway construction and extension, repayment of company railway bonds or debentures guaranteed by the Secretary of State, and obligations arising from railway purchases or contract termination.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
-      "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1905/jun/23/east-india-loans-railways",
-      "bn_title": "১৯০৫ সালে ইস্ট ইন্ডিয়া রেলওয়ের জন্য £২০ মিলিয়ন ঋণগ্রহণের ক্ষমতা",
-      "bn_historical_claim": "১৯০৫ সালে পার্লামেন্ট ভারতীয় রাজস্বের নিরাপত্তায় যুক্তরাজ্য থেকে সর্বোচ্চ £২০ মিলিয়ন ঋণ তোলার অনুমোদন দেয়। অর্থটি ভারতীয় রেলওয়ে নির্মাণ ও সম্প্রসারণ, গ্যারান্টিযুক্ত রেলওয়ে বন্ড/ডিবেঞ্চারের মূলধন পরিশোধ এবং রেলওয়ে ক্রয় বা চুক্তি-সমাপ্তির দায় মেটাতে ব্যবহারের জন্য নির্ধারিত ছিল।",
-      "notes": "Distinct sovereign-debt/railway-capital layer. The parliamentary debate states that the larger authority reflected the intended purchase of the Bombay and Baroda Railway and other railway obligations. It does not mean the full £20 million was immediately borrowed.",
-      "primary_passage": "to raise in the United Kingdom on the security of the Revenues of India, by the creation and issue of capital stock, bonds, debentures, or bills, a sum not exceeding £20,000,000",
-      "passage_locator": "House of Commons Hansard, 23 June 1905, vol. 147, cc. 1475–1484; East India Loans (Railways), Committee resolution.",
-      "passage_status": "Passage locked — exact parliamentary borrowing-authority wording",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1905/jun/23/east-india-loans-railways",
-      "source_identity": "House of Commons, East India Loans (Railways), 23 June 1905, Hansard vol. 147, cc. 1475–1484; Secretary of State for India William Brodrick.",
-      "edition": "House of Commons Debates (Hansard), 23 June 1905, vol. 147.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1905,
-      "what_passage_establishes": "It establishes a statutory-policy resolution for up to £20 million of UK borrowing secured on Indian revenues, with defined railway purposes including construction, extension and equipment, repayment of guaranteed railway debt, and obligations arising from railway purchases or contract termination.",
-      "evidence_limits": "The resolution establishes borrowing authority, not the amount actually drawn, issue price, maturity, investor identity, or final allocation. The debate's references to the Bombay and Baroda purchase explain intended use but do not by themselves establish final settlement terms.",
-      "related_banking_power_records": [
-        "east-india-loan-authority-10000000-1898",
-        "india-borrowing-powers-reduced-1899",
-        "india-three-percent-stock-subscription-1901"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Loans (Railways), 23 June 1905, Hansard vol. 147, cc. 1475–1484."
-      ],
-      "publication_status": "A-grade — exact contemporary £20 million borrowing authority and stated railway purposes locked.",
-      "year": 1905,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1905
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_finance"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "indian-railways-act-capitalized-construction-interest-1906",
-      "title": "Indian Railways Act Amendment Preserves Capitalized Construction Interest, 1906",
-      "date_label": "29 May 1906",
-      "historical_claim": "Parliament continued the statutory power allowing Indian railway companies, under specified conditions, to pay interest out of capital during construction, a financing mechanism used to facilitate railway development.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Hansard; statutory purpose confirmed in the 1906 legislative debate",
-      "evidence_grade": "A",
-      "source_url": "https://hansard.parliament.uk/Commons/1906-05-29/debates/6ee03a81-aa16-4920-82a8-40c4a3bfd33e/IndianRailwaysActAmendmentBill",
-      "bn_title": "১৯০৬ সালের ভারতীয় রেলওয়ে আইন সংশোধন: নির্মাণকালে সুদ মূলধন থেকে পরিশোধের ক্ষমতা",
-      "bn_historical_claim": "১৯০৬ সালে পার্লামেন্ট ভারতীয় রেলওয়ে কোম্পানিগুলোর নির্মাণকালীন সুদ নির্দিষ্ট শর্তে মূলধন থেকে পরিশোধের ক্ষমতা অব্যাহত রাখে। এই বিধান রেলওয়ে সম্প্রসারণের অর্থায়নে ব্যবহৃত একটি সরাসরি আর্থিক ব্যবস্থা ছিল।",
-      "notes": "Distinct from the 1905 £20 million borrowing authority: this record concerns the statutory treatment of interest during railway construction, not the amount of borrowing authority or a particular loan issue.",
-      "primary_passage": "That Act gave power under certain conditions to pay interest out of capital during construction. It had worked well for twelve years.",
-      "passage_locator": "House of Commons Hansard, 29 May 1906, Indian Railways Act Amendment Bill, Second Reading; official Hansard report.",
-      "passage_status": "Passage locked — exact contemporary parliamentary description of the statutory financing mechanism",
-      "passage_source_url": "https://hansard.parliament.uk/Commons/1906-05-29/debates/6ee03a81-aa16-4920-82a8-40c4a3bfd33e/IndianRailwaysActAmendmentBill",
-      "source_identity": "House of Commons, Indian Railways Act Amendment Bill, 29 May 1906; speech by Under-Secretary of State for India John Ellis.",
-      "edition": "House of Commons Debates (Hansard), 29 May 1906.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1906,
-      "what_passage_establishes": "It establishes that the 1894 Act provided, under specified conditions, for interest during railway construction to be paid out of capital, and that the 1906 amendment was intended to make continuation of that arrangement permanent rather than repeatedly renewing it through the Expiring Laws Bill.",
-      "evidence_limits": "The Hansard passage describes the statutory mechanism and legislative purpose; it does not quantify individual railway companies' use of the provision, total capitalized interest, investor returns, or the complete text of the enacted 1906 statute.",
-      "related_banking_power_records": [
-        "east-india-railway-loans-authority-20000000-1905",
-        "india-three-percent-stock-subscription-1901"
-      ],
-      "scholarly_references": [
-        "House of Commons, Indian Railways Act Amendment Bill, 29 May 1906, Hansard."
-      ],
-      "publication_status": "A-grade — contemporary parliamentary statement of a statutory railway-finance mechanism; full enacted statute remains the preferred supplementary primary text.",
-      "year": 1906,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1906
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_finance"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "india-gold-standard-reserve-16283000-1907",
-      "title": "India’s Gold Standard Reserve Reaches About £16.283 Million, 1907",
-      "date_label": "25 April 1907",
-      "year": 1907,
-      "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1907/apr/25/financial-reserve",
-      "primary_source": "House of Commons Hansard, 25 April 1907, vol. 173, cc. 232–233; Financial Reserve.",
-      "exact_primary_passage": "The composition of the gold standard reserve on the 31st March, 1907, was as follows: In England, British Government securities ... £11,983,000. In India, 600 lakhs of rupees £4,000,000; Gold ... £300,000. Total, about £16,283,000.",
-      "exact_locator": "House of Commons Hansard, 25 April 1907, vol. 173, cc. 232–233; Financial Reserve.",
-      "historical_claim": "At 31 March 1907, India’s gold standard reserve was about £16.283 million: about £11.983m in British Government securities in England, £4m in rupee holdings in India, and £300,000 in gold in India.",
-      "what_passage_establishes": "A precise contemporary parliamentary snapshot of the reserve’s size and geographic/compositional distribution; the answer also says further accumulation was not to be stopped immediately.",
-      "evidence_limits": "Point-in-time parliamentary statement; it does not establish every transfer, security identity, legal development, or later crisis effects.",
-      "source_identity": "House of Commons, Financial Reserve, 25 April 1907; answer by John Morley, Secretary of State for India.",
-      "edition": "House of Commons Debates (Hansard), 25 April 1907, vol. 173.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1907,
-      "bn_title": "১৯০৭ সালে ভারতের গোল্ড স্ট্যান্ডার্ড রিজার্ভ প্রায় £১৬.২৮৩ মিলিয়নে পৌঁছে",
-      "bn_historical_claim": "১৯০৭ সালের ৩১ মার্চ ভারতের গোল্ড স্ট্যান্ডার্ড রিজার্ভের পরিমাণ ছিল প্রায় £১৬.২৮৩ মিলিয়ন। এর মধ্যে ইংল্যান্ডে প্রায় £১১.৯৮৩ মিলিয়ন ব্রিটিশ সরকারি সিকিউরিটিজ, ভারতে £৪ মিলিয়ন রুপি এবং প্রায় £৩০০,০০০ সোনা ছিল।",
-      "related_banking_power_records": [
-        "india-gold-remittances-currency-reserves-1902",
-        "india-gold-receipts-and-issues-1903",
-        "india-gold-export-state-account-reserve-1904",
-        "india-gold-standard-sterling-accounting-1900"
-      ],
-      "publication_status": "A-grade — contemporary parliamentary statement with precise reserve composition and valuation.",
-      "notes": "Distinct 1907 reserve-size/composition layer; not a duplicate of the 1902–1904 gold-flow records.",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1907
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "monetary_regimes",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loans-25000000-1908",
-      "title": "East India Loans Authority: £25 Million for Railways, Irrigation and General Purposes, 1908",
-      "date_label": "30 July 1908",
-      "historical_claim": "Parliament authorised the Secretary of State in Council of India to raise in the United Kingdom, on the security of the Revenues of India, up to £20 million for railways and irrigation and up to £5 million for general purposes.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard",
-      "evidence_grade": "A",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1908/jul/30/east-india-loans-railway-and-irrigation",
-      "bn_title": "১৯০৮ সালে রেলপথ, সেচ ও সাধারণ উদ্দেশ্যে £২৫ মিলিয়ন ভারতীয় ঋণ-ক্ষমতা",
-      "bn_historical_claim": "১৯০৮ সালে সংসদ ভারত সরকারের রাজস্বের জামানতে যুক্তরাজ্যে সর্বোচ্চ £২০ মিলিয়ন রেলপথ ও সেচ এবং আরও £৫ মিলিয়ন সাধারণ উদ্দেশ্যে ঋণ তোলার ক্ষমতা অনুমোদন করে।",
-      "notes": "Distinct from the 1905 £20 million railway-loan authority: this 1908 measure renewed and expanded borrowing authority, explicitly combining railway/irrigation purposes with a separate £5 million general-purpose power.",
-      "primary_passage": "That it is expedient to authorise the Secretary of State in Council of India to raise in the United Kingdom, on the security of the Revenues of India, by the creation and issue of capital stock, bonds, debentures, or bills:—(1) A sum not exceeding £20,000,000, for the following purposes: (a) The construction, extension, and equipment of railways in India by State agency or through the agency of companies; (b) the repayment of the principal of any bonds or debentures issued by any such company under the guarantee of the Secretary of State; (c) the discharge of any obligations incurred by the Secretary of State by reason of the purchase of any railway or the determination of any contract from or with such company; (d) the construction of irrigation works in India. (2) A sum not exceeding £5,000,000 for the general purposes of the Government of India.",
-      "passage_locator": "House of Commons Hansard, 30 July 1908, vol. 193, cc. 1903–1904; East India Loans [Railway and Irrigation Works, and General Purposes], reported Resolution.",
-      "passage_status": "Passage locked — exact contemporary parliamentary wording",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1908/jul/30/east-india-loans-railway-and-irrigation",
-      "source_identity": "House of Commons, East India Loans [Railway and Irrigation Works, and General Purposes], 30 July 1908, Hansard vol. 193, cc. 1903–1904.",
-      "edition": "House of Commons Debates (Hansard), 30 July 1908, vol. 193.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1908,
-      "what_passage_establishes": "It establishes the statutory borrowing mechanism proposed in 1908: the Secretary of State in Council of India could raise specified sums in the United Kingdom against Indian revenues, with £20 million earmarked for railway and irrigation purposes and £5 million for general Government purposes.",
-      "evidence_limits": "The resolution establishes borrowing authority and permitted purposes, not the subsequent amounts actually borrowed, individual bond issues, lenders or investors, transaction terms, or the economic effects of the expenditure.",
-      "related_banking_power_records": [
-        "india-railway-gold-interest-exchange-burden-1891",
-        "india-gold-standard-sterling-accounting-1900"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Loans [Railway and Irrigation Works, and General Purposes], 30 July 1908, Hansard vol. 193, cc. 1903–1904."
-      ],
-      "publication_status": "A-grade — exact contemporary borrowing-authority resolution locked.",
-      "year": 1908,
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1908
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-revenue-accounts-1909",
-      "title": "East India Revenue Accounts: Indian Government Remittances, Debt Interest and British Capital, 1909",
-      "date_label": "5 August 1909",
-      "year": 1909,
-      "evidence_grade": "A",
-      "historical_claim": "The 1909 East India Revenue Accounts debate recorded the Indian Government's average annual remittance to England at £21.2 million for 1904–1906, including average annual home charges of £18.5 million, of which £9.5 million was interest on debt; it also recorded £265 million of railway capital outlay in India by the end of 1907.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1909/aug/05/east-india-revenue-accounts",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1909/aug/05/east-india-revenue-accounts",
-      "passage_locator": "House of Commons Hansard, 5 August 1909, vol. 8, cc. 1981–2097; relevant financial-remittance passage at cc. 1990–1992.",
-      "passage_status": "Passage locked — exact contemporary parliamentary record.",
-      "source_identity": "House of Commons, East India Revenue Accounts, 5 August 1909, Hansard vol. 8, cc. 1981–2097.",
-      "edition": "House of Commons Debates (Hansard), 5 August 1909, vol. 8.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1909,
-      "primary_passage": "If the Trade Returns are examined for 1904, 1905, and 1906, after making due allowance for the capital sent to India in connection with Government transactions, the average excess of exports over imports—or, in other words, payments by India to England for services rendered—is £23,900,000 per year during the three years that have been mentioned. This payment is made up of:—£21,200,000, being the average annual amount of the Government remittance during three years; £2,700,000, the average annual amount of private remittances during the same period. The Government remittance is mainly for the payment of home charges, namely those charges in England which are normally met from revenue. These charges, in the three years which I have referred to, averaged £18,500,000, made up in the following manner:—Interest on debt, £9,500,000; payments for stores ordered and purchased in this country, £2,500,000; pensions and furlough pay to civil and military officers, £5,000,000; miscellaneous, £1,250,000. Besides the home charges proper, certain sums were remitted to England by the Government to defray capital charges. These bring the Government remittances to the total of £21,200,000 already mentioned. ... at the end of 1907 the capital outlay on railways alone in India amounted to £265,000,000 sterling, the bulk of which is British capital.",
-      "what_passage_establishes": "The passage establishes the contemporary official figures and stated composition of Indian Government remittances to England for 1904–1906, including debt interest within home charges, and records the scale and predominantly British character of railway capital outlay at the end of 1907.",
-      "evidence_limits": "It does not by itself establish the ultimate economic incidence of these payments, the identity of individual lenders or investors, the terms of every underlying debt, or whether all remittances should be classified as a 'drain.' Those are interpretive questions requiring separate evidence.",
-      "notes": "This is a distinct 1909 financial-accounting evidence layer, not a duplicate of the 1908 borrowing-authority record. The source is especially useful for separating official contemporary accounting of debt interest, home charges and British capital from later interpretations.",
-      "related_banking_power_records": [
-        "east-india-loans-25000000-1908",
-        "india-gold-standard-sterling-accounting-1900"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Revenue Accounts, 5 August 1909, Hansard vol. 8, cc. 1981–2097."
-      ],
-      "publication_status": "A-grade — exact contemporary financial-accounting passage locked.",
-      "bn_title": "১৯০৯ সালের ভারতীয় রাজস্ব হিসাব: ঋণের সুদ, ব্রিটেনে সরকারি রেমিট্যান্স ও ব্রিটিশ মূলধন",
-      "bn_historical_claim": "১৯০৯ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব আলোচনায় ১৯০৪–১৯০৬ সময়ে ভারতের ব্রিটেনে গড় বার্ষিক সরকারি রেমিট্যান্স £২১.২ মিলিয়ন, যার মধ্যে ঋণের সুদ ছিল £৯.৫ মিলিয়ন—এবং ১৯০৭ সালের শেষে ভারতীয় রেলপথে মূলধনী বিনিয়োগ £২৬৫ মিলিয়ন বলে নথিভুক্ত হয়।",
-      "bn_notes": "এটি ১৯০৮ সালের ঋণ-ক্ষমতার রেকর্ডের পুনরাবৃত্তি নয়; এটি ১৯০৯ সালের সমকালীন আর্থিক হিসাবের স্বতন্ত্র প্রমাণস্তর।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1909
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loans-1910-railways-irrigation",
-      "title": "East India Loans (Railways and Irrigation) Bill, 1910",
-      "date_label": "17 March 1910",
-      "year": 1910,
-      "evidence_grade": "A",
-      "historical_claim": "Parliament considered renewed borrowing powers for the Government of India, principally for railway capital expenditure and associated capital liabilities, with the 1910 debate stating that the 1908 authority had raised £13,307,273 for programme purposes and that further borrowing powers were required.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1910/mar/17/east-india-loans-railways-and-irrigation",
-      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1910/mar/17/east-india-loans-railways-and-irrigation",
-      "passage_locator": "House of Commons Hansard, 17 March 1910, vol. 15, cc. 607–612; East India Loans (Railways and Irrigation) Bill.",
-      "passage_status": "Passage locked — exact contemporary parliamentary record.",
-      "source_identity": "House of Commons, East India Loans (Railways and Irrigation) Bill, 17 March 1910, Hansard vol. 15, cc. 607–612.",
-      "edition": "House of Commons Debates (Hansard), 17 March 1910, vol. 15.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1910,
-      "primary_passage": "The amount raised for programme purposes under the Bill of 1908 has been £13,307,273. ... It is probable, therefore, that about £8,000,000 a year must be raised in this country for the purposes of the programme. Some part of this sum will be raised in the form of Capital Stock or Debentures of Guaranteed Railway Companies ... It is not possible to give any accurate estimate, but, based on past experience, it may be suggested that about £6,000,000 a year will be raised for programme purposes by the Secretary of State. ... Under the Loans Act of 1908, £997,300 has been spent on the discharge of debentures; before the end of this year ... it will be necessary to repay ... £2,250,000; possibly ... £1,510,000 may be required ... The loans for these purposes will be raised under—and, I may add, go far to exhaust—the borrowing powers of the Act of 1908.",
-      "what_passage_establishes": "The debate records the scale of borrowing already raised under the 1908 Act, the expected annual requirement for railway capital purposes in Britain, and the use of borrowing powers to discharge railway-company capital liabilities and debentures.",
-      "evidence_limits": "The passage is a parliamentary debate and establishes stated Government figures and proposed borrowing requirements; it does not by itself prove that every projected amount was subsequently issued, nor identify every lender, investor, security term or final transaction.",
-      "notes": "Distinct from the 1908 authority and the 1910 Jekyll Island record. This record is a primary parliamentary-finance layer showing the continuation and practical exhaustion of the 1908 borrowing authority and the rationale for renewed borrowing power.",
-      "related_banking_power_records": [
-        "east-india-loans-25000000-1908",
-        "jekyll-island-1910",
-        "east-india-revenue-accounts-1909"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Loans (Railways and Irrigation) Bill, 17 March 1910, Hansard vol. 15, cc. 607–612."
-      ],
-      "publication_status": "A-grade — exact contemporary parliamentary borrowing record locked.",
-      "bn_title": "১৯১০ সালের ইস্ট ইন্ডিয়া ঋণ বিল: রেলপথ ও সেচের জন্য নতুন ঋণ-ক্ষমতা",
-      "bn_historical_claim": "১৯১০ সালের সংসদীয় আলোচনায় ১৯০৮ সালের আইনের অধীনে ইতিমধ্যে £১৩.৩ মিলিয়ন তোলা হয়েছে এবং রেলপথের মূলধনী কর্মসূচি ও বিদ্যমান মূলধনী দায় পরিশোধের জন্য নতুন ঋণ-ক্ষমতার প্রয়োজন দেখানো হয়।",
-      "bn_notes": "এটি ১৯০৮ সালের ঋণ-অনুমোদন এবং ১৯১০ সালের Jekyll Island রেকর্ডের থেকে পৃথক একটি প্রাথমিক সংসদীয় আর্থিক প্রমাণস্তর।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1910
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-revenue-accounts-budget-1911",
-      "title": "East India Revenue Accounts (Indian Budget), 1911",
-      "date_label": "26 July 1911",
-      "year": 1911,
-      "evidence_grade": "A",
-      "historical_claim": "The 1911 Indian Budget debate recorded improved railway and irrigation finances, higher earnings of guaranteed railway companies, a reduction of non-productive Indian public debt to £46 million by 31 March 1911, and allocation of £2 million of the surplus toward discharge of floating debt.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1911/jul/26/east-india-revenue-accounts-indian-budget",
-      "passage_locator": "House of Commons Hansard, 26 July 1911, vol. 28, cc. 1664–1783, especially cc. 1667–1669.",
-      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 26 July 1911, Hansard vol. 28, cc. 1664–1783.",
-      "edition": "House of Commons Debates (Hansard), 26 July 1911, vol. 28.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1911,
-      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
-      "primary_passage": "Railways accounted for £1,272,000 of the surplus; irrigation £91,000, and telegraphs £104,000. The improvement in the profit of railways is the result of the increase in the gross traffic receipts—£674,500—and the decrease of working expenses, interest charges, and miscellaneous charges by £597,700. The guaranteed companies received as surplus profits or net earnings £100,000 more last year than the year before. ... £2,000,000 has been set aside to be used towards the discharge of floating debt. ... the non-productive debt amounted on the 31st March, 1911, to only £46,000,000, as against £71,000,000 ten years previously.",
-      "what_passage_establishes": "The contemporary Budget debate establishes stated government figures for railway profitability and guaranteed-company earnings, and records a substantial reduction in non-productive debt together with a £2 million allocation toward floating-debt discharge.",
-      "evidence_limits": "These figures are official budgetary statements in parliamentary debate; they do not by themselves establish the ultimate distribution of railway profits, the identities or returns of individual investors, the economic incidence of debt service, or that debt reduction represented cancellation of all underlying obligations.",
-      "related_banking_power_records": [
-        "east-india-revenue-accounts-1909",
-        "east-india-loans-25000000-1908",
-        "east-india-loans-1910-railways-irrigation"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Revenue Accounts (Indian Budget), 26 July 1911, Hansard vol. 28, cc. 1664–1783."
-      ],
-      "notes": "Distinct 1911 financial-accounting layer. The separate 13 December 1911 Return of Loans Raised in India was identified but not promoted to an A-grade evidence record because the Hansard entry only records presentation of the Return; the underlying Return itself should be inspected before extracting figures.",
-      "publication_status": "A-grade — exact contemporary Indian Budget financial passage locked.",
-      "bn_title": "১৯১১ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: রেলওয়ে মুনাফা, ঋণ হ্রাস ও ফ্লোটিং ডেট পরিশোধ",
-      "bn_historical_claim": "১৯১১ সালের ভারতীয় বাজেট আলোচনায় রেলওয়ে থেকে £১.২৭২ মিলিয়ন উদ্বৃত্ত, গ্যারান্টিযুক্ত রেলওয়ে কোম্পানিগুলোর বাড়তি আয় এবং ৩১ মার্চ ১৯১১-এ অনুৎপাদনশীল ঋণ £৪৬ মিলিয়নে নেমে আসার কথা নথিভুক্ত হয়; উদ্বৃত্তের £২ মিলিয়ন ফ্লোটিং ডেট পরিশোধে রাখা হয়।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1911
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-revenue-accounts-budget-1912",
-      "title": "East India Revenue Accounts (Indian Budget), 1912",
-      "date_label": "30 July 1912",
-      "year": 1912,
-      "evidence_grade": "A",
-      "historical_claim": "The 1912 Indian Budget debate recorded record railway net profit of £3,204,500 for 1911–12 and stated that the surplus would be retained to reduce borrowing for capital expenditure on railways, irrigation works and the construction of New Delhi.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1912/jul/30/east-india-revenue-accounts-indian-budget",
-      "passage_locator": "House of Commons Hansard, 30 July 1912, East India Revenue Accounts (Indian Budget).",
-      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 30 July 1912, Hansard.",
-      "edition": "House of Commons Debates (Hansard), 30 July 1912.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1912,
-      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
-      "primary_passage": "The net profit on the year's working was therefore the record sum of £3,204,500, an excess over the Budget Estimate of £1,272,800. ... The surplus, therefore, is going to be retained, in order to reduce the amount to be borrowed on capital expenditure, on railways, irrigation works, and the building of the new Delhi.",
-      "what_passage_establishes": "The contemporary Budget debate establishes the reported railway net profit and the Government's stated decision to use the surplus to reduce the amount that otherwise would have to be borrowed for specified capital expenditure.",
-      "evidence_limits": "This establishes reported budgetary figures and the stated financing policy; it does not by itself establish the final amount of borrowing avoided, the ultimate incidence of railway profits, or the identity and terms of capital providers.",
-      "related_banking_power_records": [
-        "east-india-revenue-accounts-budget-1911",
-        "east-india-loans-1910-railways-irrigation"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Revenue Accounts (Indian Budget), 30 July 1912, Hansard."
-      ],
-      "publication_status": "A-grade — exact contemporary Budget financing passage locked.",
-      "bn_title": "১৯১২ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: রেলওয়ে মুনাফা ও ঋণ কমানোর জন্য উদ্বৃত্ত ব্যবহার",
-      "bn_historical_claim": "১৯১২ সালের ভারতীয় বাজেট আলোচনায় ১৯১১–১২ সালে রেলওয়ের রেকর্ড £৩.২০৪৫ মিলিয়ন নিট মুনাফা এবং রেলপথ, সেচ ও নতুন দিল্লি নির্মাণের মূলধনী ব্যয়ে ভবিষ্যৎ ঋণের প্রয়োজন কমাতে উদ্বৃত্ত ধরে রাখার সরকারি সিদ্ধান্ত নথিভুক্ত হয়।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1912
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-revenue-accounts-budget-1913",
-      "title": "East India Revenue Accounts (Indian Budget), 1913",
-      "date_label": "7 August 1913",
-      "year": 1913,
-      "evidence_grade": "A",
-      "historical_claim": "The 1913 Indian Budget debate recorded a surplus of nearly £8 million over the Budget Estimate, attributed mainly to large railway receipts and high opium prices, with the surplus directed principally toward provincial grants and reduction or avoidance of debt; it also stated that successive Governments had used India's resources and credit to build the railway system.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1913/aug/07/east-india-revenue-accounts-indian-budget",
-      "passage_locator": "House of Commons Hansard, 7 August 1913, vol. 56, cc. 1780–1908; financial discussion at cc. 1783–1784.",
-      "source_identity": "House of Commons, East India Revenue Accounts (Indian Budget), 7 August 1913, Hansard vol. 56, cc. 1780–1908.",
-      "edition": "House of Commons Debates (Hansard), 7 August 1913, vol. 56.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1913,
-      "passage_status": "Passage locked — exact contemporary parliamentary financial record.",
-      "primary_passage": "There was last year, due mainly to the very large railway receipts and the high prices obtained for opium, a surplus of not less than nearly £8,000,000 over the Budget Estimate. This surplus is to be spent mainly on Grants to provincial Governments for education and sanitation and, with the surplus estimated for in the Budget on the reduction and avoidance of debt. ... For the last two generations successive Secretaries of State and Governments of India have used the resources and the credit of India to build up a railway system which has always been closely associated with the State, and has become more closely associated with it during the last generation.",
-      "what_passage_establishes": "The contemporary Budget debate establishes the reported size and stated causes of the prior-year surplus, its intended allocation partly to debt reduction/avoidance, and the official characterization of railway development as having been built using India's resources and credit under close State association.",
-      "evidence_limits": "The debate establishes official statements and policy descriptions, not the ultimate economic incidence of railway finance, the identities of capital providers, or whether every planned debt-reduction allocation was subsequently executed exactly as stated.",
-      "related_banking_power_records": [
-        "east-india-revenue-accounts-budget-1912",
-        "east-india-revenue-accounts-budget-1911",
-        "east-india-loans-1910-railways-irrigation"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Revenue Accounts (Indian Budget), 7 August 1913, Hansard vol. 56, cc. 1780–1908."
-      ],
-      "publication_status": "A-grade — exact contemporary Budget passage locked.",
-      "bn_title": "১৯১৩ সালের ইস্ট ইন্ডিয়া রাজস্ব হিসাব: উদ্বৃত্ত, ঋণ হ্রাস ও ভারতের ঋণভিত্তিক রেলওয়ে উন্নয়ন",
-      "bn_historical_claim": "১৯১৩ সালের ভারতীয় বাজেট আলোচনায় প্রায় £৮ মিলিয়ন উদ্বৃত্ত, তার প্রধান উৎস রেলওয়ে আয় ও আফিম রাজস্ব, এবং উদ্বৃত্তের একটি অংশ ঋণ হ্রাস বা এড়াতে ব্যবহারের পরিকল্পনা নথিভুক্ত হয়; একই সঙ্গে ভারতের সম্পদ ও ঋণক্ষমতা ব্যবহার করে রাষ্ট্র-ঘনিষ্ঠ রেলওয়ে ব্যবস্থা গড়ে তোলার কথা বলা হয়।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1913
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loans-raised-england-1914",
-      "title": "East India Loans Raised in England: Outstanding Indian-Revenue Loans, 1914",
-      "date_label": "3 April 1914",
-      "year": 1914,
-      "evidence_grade": "A",
-      "historical_claim": "A Parliamentary Return recorded all loans raised in England and charged on the revenues of India that were outstanding at the commencement of the half-year ending 31 March 1914, providing a primary documentary layer for the sterling debt then outstanding against Indian revenues.",
-      "verification_status": "Primary parliamentary record verified through official Historic Hansard; the underlying Return is identified as Parliamentary Paper No. 180.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1914/apr/03/east-india-loans-raised-in-england",
-      "passage_locator": "House of Commons Hansard, 3 April 1914, vol. 60, c.1503; Parliamentary Paper No. 180.",
-      "source_identity": "House of Commons, Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at commencement of half-year ending 31 March 1914, presented 3 April 1914, Parliamentary Paper No. 180.",
-      "edition": "House of Commons Papers, 1914, Parliamentary Paper No. 180.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1914,
-      "passage_status": "Presentation record locked; underlying Parliamentary Paper identified for document-level follow-up.",
-      "primary_passage": "Copy presented of Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at the commencement of the half-year ending on the 31st March, 1914, etc. [by Act]; to lie upon the Table, and to be printed. [No. 180.]",
-      "what_passage_establishes": "The parliamentary record establishes the existence, title, statutory presentation, date, and paper number of the official Return covering outstanding English-raised loans charged on Indian revenues as of the beginning of the half-year ending 31 March 1914.",
-      "evidence_limits": "The Hansard entry itself does not reproduce the Return's loan-by-loan figures, rates, maturities, or holders. Those details must be extracted from Parliamentary Paper No. 180 before being treated as established by this record.",
-      "related_banking_power_records": [
-        "east-india-revenue-accounts-budget-1913",
-        "east-india-loans-1910-railways-irrigation"
-      ],
-      "scholarly_references": [
-        "House of Commons, Parliamentary Paper No. 180 (1914), Return of Loans raised in England chargeable on the Revenues of India."
-      ],
-      "notes": "Kept deliberately conservative: this is a Grade A presentation/identification record, not a claim that the underlying loan schedule has already been fully transcribed.",
-      "publication_status": "A-grade presentation record — underlying Parliamentary Paper No. 180 flagged for next-stage extraction.",
-      "bn_title": "১৯১৪ সালে ইংল্যান্ডে তোলা ভারতের ঋণ: ভারতীয় রাজস্বের ওপর বকেয়া ঋণের সরকারি রিটার্ন",
-      "bn_historical_claim": "১৯১৪ সালে সংসদে ভারতের রাজস্বের ওপর ধার্য এবং ইংল্যান্ডে তোলা বকেয়া ঋণের একটি সরকারি রিটার্ন পেশ করা হয়; রিটার্নটি ৩১ মার্চ ১৯১৪-এ শেষ হওয়া অর্ধ-বর্ষের শুরুতে বকেয়া ঋণগুলো নথিভুক্ত করার জন্য ছিল।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1914
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "east-india-loans-raised-england-1916",
-      "title": "East India Loans Raised in England: Outstanding Indian-Revenue Loans, 1916",
-      "date_label": "12 October 1916",
-      "year": 1916,
-      "evidence_grade": "A",
-      "historical_claim": "A Parliamentary Return recorded all loans raised in England and charged on the revenues of India that were outstanding at the commencement of the half-year ending 30 September 1916, providing a primary documentary marker for sterling debt outstanding during the First World War.",
-      "verification_status": "Primary parliamentary record verified through official Historic Hansard; the underlying Return is identified by the statutory presentation notice.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1916/oct/12/east-india-loans-raised-in-england",
-      "passage_locator": "House of Commons Hansard, 12 October 1916, vol. 86, c.163; Return of loans raised in England chargeable on Indian revenues, outstanding at commencement of half-year ending 30 September 1916.",
-      "source_identity": "House of Commons, Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at commencement of half-year ending 30 September 1916, presented 12 October 1916.",
-      "edition": "House of Commons Papers, 1916; statutory Return presented 12 October 1916.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1916,
-      "passage_status": "Presentation record locked; underlying Return retained for later loan-level extraction.",
-      "primary_passage": "Copy presented of Return of all Loans raised in England, chargeable on the Revenues of India, outstanding at the commencement of the half-year ending on the 30th September, 1916, etc. [by Act]; to lie upon the Table, and to be printed.",
-      "what_passage_establishes": "The parliamentary record establishes the existence and scope of the official Return covering England-raised loans charged on Indian revenues and outstanding as of the beginning of the half-year ending 30 September 1916.",
-      "evidence_limits": "The Hansard presentation notice does not reproduce individual loan amounts, rates, maturities, holders, or wartime changes. Those details require the underlying Return and must not be inferred from this notice.",
-      "related_banking_power_records": [
-        "east-india-loans-raised-england-1914",
-        "east-india-loans-1910-railways-irrigation"
-      ],
-      "scholarly_references": [
-        "House of Commons, Return of Loans raised in England chargeable on the Revenues of India, presented 12 October 1916."
-      ],
-      "notes": "1915 was screened but no stronger distinct 1915 parliamentary financial passage was found in the current search; the 1915 Indian Financial Statement and Budget was presented as a Parliamentary Return, but the accessible Hansard entry is only a presentation notice. The chronology therefore advances to the stronger 1916 loan-return marker rather than manufacturing a 1915 substantive claim.",
-      "publication_status": "A-grade presentation record — underlying 1916 Return flagged for document-level extraction.",
-      "bn_title": "১৯১৬ সালে ইংল্যান্ডে তোলা ভারতের ঋণ: ভারতীয় রাজস্বের ওপর বকেয়া ঋণের সরকারি রিটার্ন",
-      "bn_historical_claim": "১৯১৬ সালে সংসদে ভারতের রাজস্বের ওপর ধার্য এবং ইংল্যান্ডে তোলা বকেয়া ঋণের একটি সরকারি রিটার্ন পেশ করা হয়, যা ৩০ সেপ্টেম্বর ১৯১৬-এ শেষ হওয়া অর্ধ-বর্ষের শুরুতে বকেয়া ঋণগুলোকে চিহ্নিত করে।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1916
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network"
-        ]
-      }
-    },
-    {
-      "source_id": "india-war-contribution-100-million-1917",
-      "title": "India's £100 Million Contribution to the Cost of the War, 1917",
-      "date_label": "14 March 1917",
-      "year": 1917,
-      "evidence_grade": "A",
-      "historical_claim": "Parliament formally consented to a £100,000,000 contribution charged on the revenues of India toward the cost of the First World War, to be provided partly from a loan raised in India and partly through India's assumption of interest liability on the required amount of British War Loan; Indian taxation and budget provisions were to meet the resulting annual interest and sinking-fund charges.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1917/mar/14/mr-chamberlains-motion",
-      "passage_locator": "House of Commons Hansard, 14 March 1917, vol. 91, cc. 1137–1241; Motion 'Contribution Towards Cost of War'.",
-      "source_identity": "House of Commons, Mr. Chamberlain's Motion / Contribution Towards Cost of War, 14 March 1917, Hansard vol. 91, cc. 1137–1241.",
-      "edition": "House of Commons Debates (Hansard), 14 March 1917, vol. 91.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1917,
-      "passage_status": "Passage locked — exact contemporary parliamentary resolution.",
-      "primary_passage": "That ... the Government of India ... have recommended that a Contribution charged on the Revenues of India should be made towards the expenses of the same, such contribution to consist of the sum of £100,000,000 to be provided in part from the proceeds of a loan to be raised in India and the remainder by assuming liability for interest on British War Loan of the required amount ... the Government of India have now made provision by legislation and in their Revenue and Expenditure Estimates for meeting, by means of increased taxation and otherwise, the annual charge for interest and sinking fund in respect of the Contribution ... this House consents that a Contribution of £100,000,000 charged on the Revenues of India shall be made towards the cost of the War.",
-      "what_passage_establishes": "The parliamentary resolution establishes the legal/political consent for a £100 million Indian-revenue war contribution and its financing structure: part by an Indian loan and the balance through assumption of British War Loan interest liability, with Indian revenue measures covering annual interest and sinking-fund charges.",
-      "evidence_limits": "The resolution establishes the authorized contribution and financing mechanism, not the final cash flows, exact amount actually raised in India, final British War Loan instruments assumed, or the incidence of the Indian taxation used to service the obligation. Those require subsequent financial statements and loan records.",
-      "related_banking_power_records": [
-        "east-india-loans-raised-england-1916",
-        "east-india-loans-raised-england-1914"
-      ],
-      "scholarly_references": [
-        "House of Commons, Contribution Towards Cost of War, 14 March 1917, Hansard vol. 91, cc. 1137–1241."
-      ],
-      "notes": "A distinct wartime sovereign-finance layer. A later 1918 debate reports that £35 million was actually raised in India toward the £100 million contribution, which is retained for a separate 1918 verification record rather than imported into this 1917 authorization record.",
-      "publication_status": "A-grade — exact parliamentary resolution locked.",
-      "bn_title": "১৯১৭ সালে ভারতের £১০০ মিলিয়ন যুদ্ধ-অবদান",
-      "bn_historical_claim": "১৯১৭ সালে ব্রিটিশ সংসদ ভারতের রাজস্বের ওপর ধার্য £১০০ মিলিয়ন যুদ্ধ-অবদানে সম্মতি দেয়; এর একটি অংশ ভারতে ঋণ তুলে এবং বাকি অংশ ব্রিটিশ যুদ্ধঋণের সুদের দায় গ্রহণের মাধ্যমে দেওয়ার কথা ছিল, আর ভারতীয় রাজস্ব ও করব্যবস্থা সুদ ও সিঙ্কিং ফান্ডের বার্ষিক ব্যয় মেটাবে।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1917
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ]
-      }
-    },
-    {
-      "source_id": "india-war-contribution-realized-1918",
-      "title": "India's War Contribution: £35 Million Raised in India, 1918",
-      "date_label": "6 August 1918",
-      "year": 1918,
-      "evidence_grade": "A",
-      "historical_claim": "In August 1918 the Secretary of State for India reported that the £100 million Indian contribution toward the war had produced £35 million from an Indian loan, transferred to the Imperial Government, while a further £30 million was raised through Treasury Bills for India's own wartime expenditure; a second war loan had already realized £16.5 million.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1918/aug/06/mr-montagus-statement",
-      "passage_locator": "House of Commons Hansard, 6 August 1918, Mr. Montagu's Statement, vol. 109, cc. 1138–1142.",
-      "source_identity": "House of Commons, Mr. Montagu's Statement on Indian finance and war effort, 6 August 1918, Hansard vol. 109, cc. 1138–1142.",
-      "edition": "House of Commons Debates (Hansard), 6 August 1918, vol. 109.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1918,
-      "passage_status": "Passage locked — exact contemporary parliamentary financial statement.",
-      "primary_passage": "The contribution of £100,000,000 towards the cost of the War ... The loan last year realised £35,000,000, which was in due course transferred to the Imperial Government, and at a later date in the same year the Government of India succeeded in raising for its own needs £30,000,000 in the form of Treasury Bills for the purpose of financing war expenditure in India. ... This year a new War Loan has been issued ... Already £16,500,000 has been realised, and therefore it is obvious that of the £100,000,000 promised well over £50,000,000 has already been raised in India itself.",
-      "what_passage_establishes": "The statement establishes actual reported proceeds and transfer of the first Indian war loan, a separate £30 million Treasury-bill financing operation for Indian wartime expenditure, and at least £16.5 million already realized from the subsequent war loan by August 1918.",
-      "evidence_limits": "The statement does not provide the full terms, maturities, subscriber composition, or final total of all Indian war loans, nor does it by itself establish the ultimate incidence of taxation or purchasing power used to service them.",
-      "related_banking_power_records": [
-        "india-war-contribution-100-million-1917",
-        "east-india-loans-raised-england-1916"
-      ],
-      "scholarly_references": [
-        "House of Commons, Mr. Montagu's Statement, 6 August 1918, Hansard vol. 109, cc. 1138–1142."
-      ],
-      "publication_status": "A-grade — exact contemporary realization figures locked.",
-      "bn_title": "১৯১৮ সালে ভারতের যুদ্ধ-অবদান: ভারতে £৩৫ মিলিয়ন ঋণ সংগ্রহ ও অতিরিক্ত ট্রেজারি বিল",
-      "bn_historical_claim": "১৯১৮ সালের আগস্টে ভারতের জন্য জানানো হয় যে £১০০ মিলিয়ন যুদ্ধ-অবদানের মধ্যে ভারতে তোলা ঋণ থেকে £৩৫ মিলিয়ন সংগ্রহ করে ইম্পেরিয়াল সরকারের কাছে হস্তান্তর করা হয়েছে; একই সময়ে ভারতের নিজস্ব যুদ্ধব্যয় মেটাতে আরও £৩০ মিলিয়ন ট্রেজারি বিলের মাধ্যমে সংগ্রহ করা হয় এবং নতুন যুদ্ধঋণ থেকে £১৬.৫ মিলিয়ন ইতিমধ্যে পাওয়া গিয়েছিল।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1918
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ]
-      }
-    },
-    {
-      "source_id": "india-war-expenditure-127800000-1919",
-      "title": "Indian War Expenditure: £127.8 Million by 31 March 1919",
-      "date_label": "19 May 1919",
-      "year": 1919,
-      "evidence_grade": "A",
-      "historical_claim": "The British Government reported in Parliament that India's war expenditure up to 31 March 1919 was approximately £127.8 million, including the £100 million contribution toward His Majesty's Government's war outlay.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1919/may/19/war-expenditure",
-      "passage_locator": "House of Commons Hansard, 19 May 1919, vol. 116, cc. 14–15.",
-      "source_identity": "House of Commons, War Expenditure, 19 May 1919, Hansard vol. 116, cc. 14–15.",
-      "edition": "House of Commons Debates (Hansard), 19 May 1919, vol. 116.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1919,
-      "passage_status": "Passage locked — exact contemporary parliamentary answer.",
-      "primary_passage": "Including a contribution of £100,000,000 towards the war outlay of His Majesty's Government, the war expenditure of the Government of India up to the 31st March, 1919, may be taken at about £127,800,000. A further contribution has been proposed by the Government of India, and is at present under consideration.",
-      "what_passage_establishes": "The parliamentary answer establishes the Government's reported aggregate Indian war expenditure through 31 March 1919 and explicitly states that the £100 million Imperial contribution was included within that figure.",
-      "evidence_limits": "The answer does not provide the full expenditure ledger, distinguish all borrowing from taxation or other financing, or establish the final amount of any further contribution then under consideration.",
-      "related_banking_power_records": [
-        "india-war-contribution-realized-1918",
-        "india-war-contribution-100-million-1917"
-      ],
-      "scholarly_references": [
-        "House of Commons, War Expenditure, 19 May 1919, Hansard vol. 116, cc. 14–15."
-      ],
-      "publication_status": "A-grade — exact contemporary aggregate expenditure figure locked.",
-      "bn_title": "১৯১৯ সালের ভারতীয় যুদ্ধব্যয়: ৩১ মার্চ পর্যন্ত £১২৭.৮ মিলিয়ন",
-      "bn_historical_claim": "১৯১৯ সালের ১৯ মে ব্রিটিশ সংসদে জানানো হয় যে ৩১ মার্চ ১৯১৯ পর্যন্ত ভারতের সরকারের যুদ্ধব্যয় প্রায় £১২৭.৮ মিলিয়ন, যার মধ্যে ব্রিটিশ সরকারের যুদ্ধব্যয়ের জন্য £১০০ মিলিয়ন অবদান অন্তর্ভুক্ত ছিল।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1919
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "sovereign_debt",
-          "global_power_network",
-          "monetary_regimes"
-        ]
-      }
-    },
-    {
-      "source_id": "india-currency-war-legacy-1919",
-      "title": "India's Currency and Exchange Crisis After the War, 1919",
-      "date_label": "22 May 1919",
-      "year": 1919,
-      "evidence_grade": "A",
-      "historical_claim": "The 1919 Indian Budget debate recorded that India's currency position had been a major wartime concern, that the post-war rise in silver prices had forced the rupee to 1s. 8d., and that the Government proposed a new Currency Commission to address the resulting currency and exchange problems.",
-      "verification_status": "Primary contemporary parliamentary record verified through official Historic Hansard.",
-      "source_url": "https://api.parliament.uk/historic-hansard/commons/1919/may/22/east-india-revenue-accounts",
-      "passage_locator": "House of Commons Hansard, 22 May 1919, vol. 116, cc. 621–713; Mr. Montagu's opening statement.",
-      "source_identity": "House of Commons, East India Revenue Accounts, 22 May 1919, Hansard vol. 116, cc. 621–713.",
-      "edition": "House of Commons Debates (Hansard), 22 May 1919, vol. 116.",
-      "publisher": "UK Parliament / House of Commons",
-      "publication_year": 1919,
-      "passage_status": "Passage locked — exact contemporary currency-policy statement.",
-      "primary_passage": "The currency position in India was a source of great anxiety to the Government throughout the War ... the currency situation is now causing us renewed anxiety owing to the increase in the price of silver which has necessitated a rupee of 1s. 8d. ... I have decided to appoint a new Currency Commission to investigate the situation caused by the rise in the price of silver in a limited world supply.",
-      "what_passage_establishes": "The statement establishes the Government's contemporary account of wartime currency stress, the post-war silver-price pressure on the rupee, and the decision to create a Currency Commission to investigate the currency and exchange problem.",
-      "evidence_limits": "This does not by itself establish the later Commission's recommendations, the precise market mechanism producing the rupee rate, or the complete wartime monetary operations that preceded the 1919 policy response.",
-      "related_banking_power_records": [
-        "india-war-contribution-realized-1918",
-        "india-war-expenditure-127800000-1919"
-      ],
-      "scholarly_references": [
-        "House of Commons, East India Revenue Accounts, 22 May 1919, Hansard vol. 116, cc. 621–713."
-      ],
-      "publication_status": "A-grade — exact contemporary currency-policy passage locked.",
-      "bn_title": "১৯১৯ সালে ভারতের মুদ্রা ও বিনিময় সংকট: যুদ্ধ-পরবর্তী রুপি ও রৌপ্যের মূল্য",
-      "bn_historical_claim": "১৯১৯ সালের ভারতীয় বাজেট আলোচনায় বলা হয় যে যুদ্ধকালে ভারতের মুদ্রাব্যবস্থা নিয়ে সরকারের বড় উদ্বেগ ছিল; যুদ্ধের পর রৌপ্যের মূল্য বৃদ্ধির কারণে রুপির মূল্য ১ শিলিং ৮ পেন্সে ওঠে এবং নতুন কারেন্সি কমিশন গঠনের সিদ্ধান্ত নেওয়া হয়।",
-      "book_1_integration": {
-        "status": "Provisional chronology mapping",
-        "part": "part_2",
-        "part_label": "Book 1 — Part II: Expansion of state-backed monetary and financial systems",
-        "chapter_assignment": "Pending final chapter-wise manuscript structure",
-        "sequence_year": 1919
-      },
-      "book_1_chapter_mapping": {
-        "status": "Pending authoritative chapter assignment",
-        "candidate_research_clusters": [
-          "monetary_regimes",
-          "sovereign_debt",
-          "global_power_network"
-        ],
-        "chapter_number": null,
-        "chapter_title": null,
-        "research_maps": [
-          "monetary_regimes",
-          "sovereign_debt",
           "global_power_network"
         ]
       }
@@ -12848,7 +12903,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 187,
+  "source_count": 188,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -13315,5 +13370,17 @@
       "B": 5
     },
     "notes": "Added distinct 1919 currency/exchange crisis layer from Indian Budget debate."
+  },
+  "structural_audit_2026_10_08_v112": {
+    "audit_date": "2026-10-08",
+    "record_count": 188,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": true,
+    "grades": {
+      "A": 183,
+      "B": 5
+    },
+    "notes": "Added distinct 1920 Gold and Silver (Export, Control, etc.) Bill evidence: statutory power to regulate bullion exports by Order in Council, with contemporaneous parliamentary evidence on the relationship between silver-import controls and Indian rupee exchange movements. Kept separate from the 1919 Indian currency-crisis layer."
   }
 }
