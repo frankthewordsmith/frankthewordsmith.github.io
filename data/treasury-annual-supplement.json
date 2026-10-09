@@ -76,6 +76,85 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-refunding-transition-1923",
+      "title": "U.S. Treasury Annual Report 1923 — Completion of the First Phase of Short-Dated Debt Refunding",
+      "source_type": "Government annual report",
+      "date_start": "1923",
+      "date_end": "1923",
+      "date_label": "Fiscal year ended June 30, 1923",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "short-dated debt; refunding; Treasury notes; Treasury certificates of indebtedness",
+      "original_text": "The Treasury reports that all of the $7,500,000,000 of short-dated debt maturing during the previous two and one-half years had been either retired or refunded into more manageable maturities.",
+      "translation": "Treasury report, fiscal year 1923.",
+      "translator": "",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1923, with Appendices",
+      "publisher": "U.S. Government Printing Office",
+      "publication_year": "1924",
+      "reference_number": "Report on the Finances, pp. 19–23",
+      "page": "19–23",
+      "chapter": "",
+      "verse": "",
+      "tablet": "",
+      "section": "",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1923-appendices-5569/fulltext",
+      "doi": "",
+      "isbn": "",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "By the end of fiscal year 1923, the Treasury had completed the first phase of its refunding program: the old $7.5 billion short-dated debt had been retired or refunded into more manageable maturities.",
+      "context": "The refunding program replaced the inherited short-dated wartime obligations with a new maturity structure distributed through the period before the Third Liberty Loan matured in 1928.",
+      "interpretation": "1923 marks completion of the first major phase of post-war debt refunding. The inherited short-dated debt was reorganized rather than simply carried forward; this does not mean all Treasury short-term financing ended.",
+      "counter_interpretations": [
+        "Retirement or refunding of the old short-dated debt did not end Treasury certificates or short-term financing.",
+        "The annual report is an institutional account; statutory and security-specific evidence remain separate layers.",
+        "Substantial interest-bearing public debt remained outstanding."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-refunding-transition-1922",
+        "us-treasury-postwar-refunding-1921",
+        "us-postwar-credit-withdrawal-1920",
+        "us-postwar-transition-1919",
+        "us-war-finance-currency-1918"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages locked",
+      "last_verified": "2026-10-04",
+      "notes": "Primary institutional evidence locked to printed pp. 19–23, especially p. 20. Do not equate completion of this refunding phase with the end of all short-term Treasury financing.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1923-appendices-5569/fulltext"
+      ],
+      "citation_record": "",
+      "footnote_policy": "Every quotation or paraphrase should resolve to the locked printed-page locator for this edition.",
+      "bibliography_entry": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1923, with Appendices (Washington: Government Printing Office, 1924), pp. 19–23.",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 19–23, especially p. 20",
+        "evidence": "The Treasury states that all $7.5 billion of short-dated debt maturing during the previous two and one-half years had been either retired or refunded into more manageable maturities, with the replacement obligations distributed over later tax-payment dates.",
+        "significance": "Direct institutional evidence that the first major phase of restructuring inherited short-dated wartime debt had been completed.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1923-appendices-5569/fulltext",
+        "checked": "2026-10-04",
+        "verification_note": "Page lock is to the printed pagination of the 1923 annual report; FRASER corroborates the wording and pagination."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Primary institutional report with a locked printed-page passage and stable archival scan/transcription.",
+      "publication_status_6_6": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status_7_5": "A-grade primary institutional evidence — publishable with exact printed-page citation",
+      "publication_status": "primary institutional evidence with exact printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯২৩ — স্বল্পমেয়াদি ঋণ পুনঃঅর্থায়নের প্রথম পর্যায়ের সমাপ্তি",
+      "bn_historical_claim": "১৯২৩ অর্থবছরের শেষে ট্রেজারি জানায় যে আগের আড়াই বছরে পরিশোধযোগ্য ৭.৫ বিলিয়ন ডলারের পুরোনো স্বল্পমেয়াদি ঋণ অবসর দেওয়া হয়েছে অথবা আরও ব্যবস্থাপনাযোগ্য মেয়াদে পুনঃঅর্থায়ন করা হয়েছে।",
+      "bn_context": "পুনঃঅর্থায়ন কর্মসূচিতে উত্তরাধিকারসূত্রে পাওয়া যুদ্ধকালীন স্বল্পমেয়াদি ঋণের পরিবর্তে এমন একটি নতুন মেয়াদ কাঠামো গড়ে তোলা হয়েছিল, যার পরিশোধগুলো ১৯২৮ সালে Third Liberty Loan-এর পরিপক্বতার আগ পর্যন্ত ছড়িয়ে দেওয়া হয়।",
+      "bn_interpretation": "১৯২৩ যুদ্ধ-পরবর্তী ঋণ পুনঃঅর্থায়নের প্রথম বড় পর্যায়ের সমাপ্তি নির্দেশ করে। পুরোনো স্বল্পমেয়াদি ঋণ কেবল বহন করা হয়নি; এর মেয়াদ পুনর্বিন্যাস করা হয়েছিল। তবে এটিকে সব স্বল্পমেয়াদি ট্রেজারি অর্থায়নের সমাপ্তি বলা যাবে না।",
+      "bn_notes": "১৯২৩ সালের ট্রেজারি বার্ষিক প্রতিবেদনের মুদ্রিত পৃষ্ঠা ১৯–২৩, বিশেষত পৃষ্ঠা ২০-এর সঙ্গে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
@@ -215,5 +294,5 @@
       }
     }
   ],
-  "last_updated": "2026-10-08"
+  "last_updated": "2026-10-10"
 }
