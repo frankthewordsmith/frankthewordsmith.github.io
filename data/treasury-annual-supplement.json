@@ -1440,7 +1440,7 @@
       "region": "United States",
       "language": "English",
       "original_term": "",
-      "original_text": "The Treasury reported a gross public debt of approximately $42.3765 billion at June 30, 1940, an increase of about $2.528 billion from June 30, 1939. The deficit in general and special accounts was about $3.740 billion, or $3.611 billion after public-debt retirements. The report also records a $1.005 billion increase in special issues, chiefly associated with trust funds and Social Security accounts, and describes amendments to the Second Liberty Bond Act that preserved the $45 billion aggregate ceiling while authorizing National Defense Series Treasury notes, certificates of indebtedness, and Treasury bills.",
+      "original_text": "The Treasury reported a gross public debt of approximately $42.968 billion at June 30, 1940, an increase of about $2.528 billion from June 30, 1939. The deficit in general and special accounts was about $3.740 billion, or $3.611 billion after public-debt retirements. The report also records a $1.005 billion increase in special issues, chiefly associated with trust funds and Social Security accounts, and describes amendments to the Second Liberty Bond Act that preserved the $45 billion aggregate ceiling while authorizing National Defense Series Treasury notes, certificates of indebtedness, and Treasury bills.",
       "translation": "The 1940 report records renewed public-debt growth alongside a significant reorientation of Treasury financing toward national-defense requirements and expanded special-issue financing.",
       "translator": "",
       "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1940",
@@ -1456,7 +1456,7 @@
       "doi": "",
       "isbn": "",
       "primary_or_secondary": "Primary source",
-      "historical_claim": "During fiscal year 1940, gross public debt increased by approximately $2.528 billion to $42.3765 billion. The Treasury recorded a $3.740 billion deficit in general and special accounts and a $3.611 billion net deficit after public-debt retirements. At the same time, special Treasury issues increased by about $1.005 billion, and the legal financing framework was expanded to include National Defense Series obligations for national-defense requirements.",
+      "historical_claim": "During fiscal year 1940, gross public debt increased by approximately $2.528 billion to $42.968 billion. The Treasury recorded a $3.740 billion deficit in general and special accounts and a $3.611 billion net deficit after public-debt retirements. At the same time, special Treasury issues increased by about $1.005 billion, and the legal financing framework was expanded to include National Defense Series obligations for national-defense requirements.",
       "context": "The report distinguishes the gross public debt from the fiscal deficit, debt retirements, special issues, and changes in the General Fund. It states that special issues increased by $1.005 billion, primarily through trust-fund and Social Security investments. It also records the July 20, 1939 amendment to the Second Liberty Bond Act and Title III of the Revenue Act of 1940, which authorized National Defense Series Treasury notes, certificates of indebtedness, and Treasury bills while retaining the $45 billion aggregate ceiling.",
       "interpretation": "1940 is a major transition point between Depression-era fiscal financing and the emerging defense-financing system. Public debt continued to expand, but the institutional framework was increasingly adapted to anticipated national-defense expenditure. The new National Defense Series and the continued growth of special issues show that Treasury financing was becoming more explicitly organized around defense requirements while retaining the established market and trust-fund structure.",
       "counter_interpretations": [
@@ -1477,7 +1477,7 @@
       ],
       "verification_status": "Passage verified — printed pages",
       "last_verified": "2026-10-04",
-      "notes": "Verified against the GPO 1941 annual report, Treasury Department Document No. 3111. Core fiscal/debt passages are locked to printed pp.36 and 43–50; the National Defense Series authority is documented at printed p.49 and the Revenue Act discussion at p.141. The report's contents identify the public-debt chapter beginning on p.43.",
+      "notes": "Verified against the GPO 1941 annual report, Treasury Department Document No. 3111. Core fiscal/debt passages are locked to printed pp.36 and 43–50; the National Defense Series authority is documented at printed p.49 and the Revenue Act discussion at p.141. The report's contents identify the public-debt chapter beginning on p.43. Numerical cross-check: the report's public-debt reconciliation gives $40.4395 billion + $2.528 billion = approximately $42.9675 billion, shown rounded to $42.968 billion; earlier $42.3765 billion wording was inconsistent and has been corrected.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1940-5586/fulltext"
       ],
@@ -1491,7 +1491,7 @@
         "significance": "Direct primary-source evidence for renewed debt expansion and the institutional shift toward national-defense financing at the threshold of U.S. wartime fiscal expansion.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1940-5586/fulltext",
         "checked": "2026-10-04",
-        "verification_note": "Printed-page locks are based on the GPO 1941 edition. FRASER's extracted text confirms the page headings and figures; page-specific quotations should be checked against the scan."
+        "verification_note": "Printed-page locks are based on the GPO 1941 edition. FRASER's extracted text confirms the page headings and figures; page-specific quotations should be checked against the scan. Gross public debt is corrected to approximately $42.968 billion based on the report's printed reconciliation (increase of $2.528 billion from $40.4395 billion)."
       },
       "evidence_grade_6_4": "A",
       "evidence_grade_basis_6_4": "Named GPO 1941 primary Treasury annual report with exact printed-page locks for fiscal deficit, public debt, financing composition, and National Defense Series authority.",
