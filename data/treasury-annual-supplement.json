@@ -5644,6 +5644,76 @@
         "checked": "2026-10-11",
         "verification_note": "Calendar-year debt growth and fiscal-year budget balance are distinct; inspect original page images before upgrading the evidence grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1999",
+      "title": "Federal Reserve Annual Report 1999 — Fiscal Surplus and Treasury Debt Paydown",
+      "source_type": "Contemporary official central-bank report and government financial audit",
+      "date_start": "1999-01-01",
+      "date_end": "1999-12-31",
+      "date_label": "Calendar year 1999 for debt trends; fiscal year 1999 for the unified budget surplus; reports published 1999–2000",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget surplus; federal debt held by the public; nonfederal debt",
+      "original_text": "The Federal Reserve's 1999 Annual Report states that the unified federal budget surplus rose from about $69 billion in fiscal 1998 to $124 billion in fiscal 1999. It says the larger surplus allowed the Treasury to reduce its outstanding debt by about 2 percent. The report also describes nonfederal-sector debt growth as above 9 percent, supported by spending on consumer durables, housing, and business investment, as well as net equity retirements. GAO's audit of the 1999 federal financial report likewise records a fiscal-year unified surplus of approximately $124 billion and a reduction of more than $85 billion in federal debt held by the public.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯৯ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, সমন্বিত ফেডারেল বাজেট উদ্বৃত্ত ১৯৯৮ অর্থবছরের প্রায় ৬৯ বিলিয়ন ডলার থেকে ১৯৯৯ অর্থবছরে ১২৪ বিলিয়ন ডলারে বেড়েছিল। প্রতিবেদনটি জানায়, বড় উদ্বৃত্তের ফলে ট্রেজারি তার বকেয়া ঋণ প্রায় ২ শতাংশ কমাতে পেরেছিল। এতে আরও বলা হয়েছে, ভোগ্য টেকসই পণ্য, আবাসন ও ব্যবসায়িক বিনিয়োগে ব্যয় এবং নিট ইকুইটি অবসরের সঙ্গে সম্পর্কিতভাবে অ-ফেডারেল খাতের ঋণ ৯ শতাংশের বেশি হারে বেড়েছিল। ১৯৯৯ সালের ফেডারেল আর্থিক প্রতিবেদনের GAO নিরীক্ষাতেও প্রায় ১২৪ বিলিয়ন ডলারের অর্থবছরভিত্তিক সমন্বিত উদ্বৃত্ত এবং জনগণের হাতে থাকা ফেডারেল ঋণ ৮৫ বিলিয়ন ডলারেরও বেশি কমার তথ্য রয়েছে।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের বাজেট উদ্বৃত্ত, Treasury outstanding debt, এবং debt held by the public পৃথকভাবে বর্ণিত",
+      "edition": "86th Annual Report of the Board of Governors of the Federal Reserve System, 1999; GAO/AIMD-00-131, Financial Audit: 1999 Financial Report of the United States Government",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. General Accounting Office",
+      "publication_year": "2000",
+      "reference_number": "Federal Reserve 86th Annual Report, 1999; GAO/AIMD-00-131",
+      "page": "Federal Reserve Annual Report 1999, pp. 13 and 21, discussions of the fiscal surplus and federal/nonfederal debt; GAO/AIMD-00-131, fiscal 1999 budget and debt discussion",
+      "section": "The Government Sector; Debt and the Monetary Aggregates; GAO Financial Audit: 1999 Financial Report of the United States Government",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1999-2452/fulltext",
+      "primary_or_secondary": "Primary institutional sources",
+      "historical_claim": "Contemporary Federal Reserve and GAO sources record a fiscal 1999 unified federal budget surplus of roughly $124 billion; the Federal Reserve says Treasury reduced outstanding debt about 2 percent, while GAO says federal debt held by the public fell by more than $85 billion.",
+      "context": "The surplus is a fiscal-year budget measure. Treasury outstanding debt, federal debt held by the public, and broad nonfederal debt are different measures; the report's nonfederal-sector growth rate should not be presented as Treasury borrowing.",
+      "interpretation": "The 1999 evidence records a federal fiscal surplus accompanied by Treasury debt paydown, while private/nonfederal borrowing continued to expand strongly. This describes concurrent fiscal and credit-market developments; it does not by itself prove that the surplus alone caused private borrowing or establish the effects of any single policy.",
+      "counter_interpretations": [
+        "The unified budget surplus is not identical to the cash change in total federal debt; financing transactions and Treasury cash balances can make the measures differ.",
+        "Treasury outstanding debt and debt held by the public are related but distinct accounting measures.",
+        "The report's description of nonfederal debt growth does not identify a single cause and does not measure Treasury issuance."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1998",
+        "us-treasury-debt-management-1997",
+        "us-treasury-debt-management-1996"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Federal Reserve annual-report text and GAO report summary checked; original printed-page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Annual Report 1999 reports the unified surplus rising to $124 billion and Treasury reducing outstanding debt about 2 percent; GAO/AIMD-00-131 reports the fiscal 1999 surplus and a reduction exceeding $85 billion in debt held by the public. Printed-page image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1999-2452/fulltext",
+        "https://www.gao.gov/products/aimd-00-131",
+        "https://www.gao.gov/assets/aimd-00-131.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve report and GAO financial audit with searchable text; original page-image verification is pending.",
+      "publication_status": "primary institutional evidence; text and report locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৯ সালের বার্ষিক প্রতিবেদন — বাজেট উদ্বৃত্ত ও ট্রেজারির ঋণ পরিশোধ",
+      "bn_historical_claim": "ফেডারেল রিজার্ভ ও GAO-র সমকালীন সূত্রে ১৯৯৯ অর্থবছরে প্রায় ১২৪ বিলিয়ন ডলারের সমন্বিত ফেডারেল বাজেট উদ্বৃত্ত নথিভুক্ত হয়েছে। ফেডারেল রিজার্ভ জানায়, ট্রেজারি তার বকেয়া ঋণ প্রায় ২ শতাংশ কমিয়েছিল; GAO জানায়, জনগণের হাতে থাকা ফেডারেল ঋণ ৮৫ বিলিয়ন ডলারেরও বেশি কমেছিল।",
+      "bn_context": "উদ্বৃত্তটি অর্থবছরভিত্তিক বাজেটের পরিমাপ। ট্রেজারির বকেয়া ঋণ, জনগণের হাতে থাকা ফেডারেল ঋণ এবং সামগ্রিক অ-ফেডারেল ঋণ আলাদা পরিমাপ; অ-ফেডারেল ঋণবৃদ্ধিকে ট্রেজারির ঋণগ্রহণ হিসেবে দেখানো উচিত নয়।",
+      "bn_interpretation": "১৯৯৯ সালের প্রমাণে ফেডারেল বাজেট উদ্বৃত্তের পাশাপাশি ট্রেজারির ঋণ পরিশোধ এবং বেসরকারি/অ-ফেডারেল ঋণের জোরালো বৃদ্ধি দেখা যায়। এটি সমকালীন আর্থিক প্রবণতার বর্ণনা; উদ্বৃত্তই একমাত্র কারণে বেসরকারি ঋণ বেড়েছিল—এমন প্রমাণ নয়।",
+      "bn_notes": "Federal Reserve Annual Report 1999-এ সমন্বিত উদ্বৃত্ত ১২৪ বিলিয়ন ডলারে বৃদ্ধি এবং ট্রেজারির বকেয়া ঋণ প্রায় ২ শতাংশ কমার কথা আছে; GAO/AIMD-00-131-এ ১৯৯৯ অর্থবছরের উদ্বৃত্ত ও জনগণের হাতে থাকা ঋণ ৮৫ বিলিয়ন ডলারের বেশি কমার তথ্য আছে। মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের বার্ষিক প্রতিবেদন ও GAO নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল মুদ্রিত পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official report text checked; original page images pending.",
+        "locator": "Federal Reserve Annual Report 1999, pp. 13 and 21, fiscal surplus and federal/nonfederal debt discussions; GAO/AIMD-00-131, fiscal 1999 budget and debt discussion.",
+        "evidence": "The Federal Reserve reports a $124 billion fiscal 1999 surplus and a roughly 2 percent reduction in Treasury outstanding debt. GAO reports more than $85 billion reduction in federal debt held by the public.",
+        "significance": "Contemporary institutional evidence of federal budget surplus and debt paydown alongside continued nonfederal credit expansion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1999-2452/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Budget surplus, Treasury outstanding debt, debt held by the public, and nonfederal debt are distinct measures; original printed pages need inspection."
+      }
     }
   ],
   "last_updated": "2026-10-11"
