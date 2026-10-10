@@ -4424,7 +4424,7 @@
       "original_term": "Treasury borrowing in U.S. credit markets; combined federal deficit; marketable debt issuance; Treasury bills and coupon issues",
       "original_text": "The U.S. Treasury raised approximately $87 billion in U.S. credit markets in 1981 and financed the remainder of the combined federal deficit by drawing down its cash balance and through nonmarket sources of finance. The borrowing by the Treasury was concentrated in marketable debt issuance that more than offset redemptions of savings bonds and nonmarketable debt in an amount close to $10 billion. Net sales of Treasury bills accounted for roughly one-fourth of the funds raised in markets, and coupon issues accounted for the remainder.",
       "translation": "১৯৮১ সালে মার্কিন ট্রেজারি যুক্তরাষ্ট্রের ঋণবাজার থেকে প্রায় ৮৭ বিলিয়ন ডলার সংগ্রহ করে; সম্মিলিত ফেডারেল ঘাটতির অবশিষ্ট অংশ নগদ-স্থিতি কমিয়ে এবং বাজারবহির্ভূত অর্থায়নের উৎসের মাধ্যমে পূরণ করা হয়। ট্রেজারির ঋণগ্রহণ মূলত বাজারযোগ্য ঋণপত্র ইস্যুতে কেন্দ্রীভূত ছিল, যা সঞ্চয় বন্ড ও বাজারবহির্ভূত ঋণের প্রায় ১০ বিলিয়ন ডলারের কাছাকাছি পরিশোধকে ছাড়িয়ে যায়। বাজার থেকে সংগৃহীত অর্থের প্রায় এক-চতুর্থাংশ আসে Treasury bill-এর নিট বিক্রি থেকে; বাকি অংশ আসে coupon issue থেকে।",
-      "translator": "Archive translation of the passage identified in the official Federal Reserve annual report; check the original page image before treating OCR punctuation or wording as fully locked.",
+      "translator": "Archive translation checked against the visually verified original printed passage.",
       "edition": "Annual Report of the Board of Governors of the Federal Reserve System, 1981",
       "publisher": "Board of Governors of the Federal Reserve System",
       "publication_year": "1982",
@@ -4451,33 +4451,33 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Official annual-report passage located in FRASER OCR with a printed-page locator; page-image verification remains pending, so the verbatim text is not marked fully locked.",
+      "verification_status": "Passage verified against the original PDF page images; printed pp. 19–20 checked.",
       "last_verified": "2026-10-10",
-      "notes": "Do not describe this as the Treasury Department's own annual report: the source is the Board of Governors of the Federal Reserve System's 1981 annual report. The report was transmitted April 15, 1982 and says it covers calendar year 1981. FRASER explicitly warns its extracted full text may contain errors. Verify printed pp. 19–20 against the PDF page images before promoting the passage to a fully locked quotation.",
+      "notes": "The original PDF page images were inspected: printed p. 19 contains the Treasury market-borrowing paragraph and printed p. 20 continues its final sentence and the following discussion. The wording of the excerpt is visible on the scan. The report is the Board of Governors of the Federal Reserve System's annual report, transmitted April 15, 1982, covering calendar year 1981.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1981-2434/fulltext",
         "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1981.pdf"
       ],
-      "evidence_grade_6_4": "B",
-      "evidence_grade_6_6": "B",
-      "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report and identified printed-page locator; downgrade is retained because the OCR wording has not yet been visually checked against the page image.",
-      "publication_status": "official primary source located; passage transcription pending page-image lock",
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report; the quoted passage was visually checked against the original PDF scans on printed pp. 19–20, resolving the OCR-only uncertainty.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
       "bn_title": "ফেডারেল রিজার্ভের ১৯৮১ বার্ষিক প্রতিবেদন — ট্রেজারির বাজারঋণ ও ফেডারেল ঘাটতি অর্থায়ন",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮১ সালের বার্ষিক প্রতিবেদন অনুযায়ী, ট্রেজারি ওই বছরে যুক্তরাষ্ট্রের ঋণবাজার থেকে প্রায় ৮৭ বিলিয়ন ডলার সংগ্রহ করে এবং সম্মিলিত ফেডারেল ঘাটতির বাকি অংশ নগদ-স্থিতি হ্রাস ও বাজারবহির্ভূত উৎসে অর্থায়ন করে।",
       "bn_context": "প্রতিবেদনটি ১৫ এপ্রিল ১৯৮২-এ পাঠানো হয় এবং ১৯৮১ সালের ক্যালেন্ডার বছরের কার্যক্রম নিয়ে আলোচনা করে।",
       "bn_interpretation": "এই অংশ ১৯৮১ সালের ট্রেজারি বাজারঋণের পরিমাণ ও গঠন নথিভুক্ত করে; এটি একা সব সিকিউরিটির চূড়ান্ত মালিক, বিনিয়োগকারীর উদ্দেশ্য বা সুদের হারের কারণ প্রমাণ করে না।",
       "bn_notes": "এটি ট্রেজারি বিভাগের নিজস্ব বার্ষিক প্রতিবেদন নয়; এটি ফেডারেল রিজার্ভ বোর্ডের ১৯৮১ সালের প্রতিবেদন। OCR পাঠ্যকে চূড়ান্ত হুবহু উদ্ধৃতি হিসেবে ব্যবহারের আগে মুদ্রিত পৃষ্ঠার ছবির সঙ্গে মিলিয়ে দেখতে হবে।",
-      "bn_verification_status": "সরকারি বার্ষিক প্রতিবেদনের OCR-এ অংশটি ও মুদ্রিত পৃষ্ঠা-লোকেটর শনাক্ত হয়েছে; পৃষ্ঠার ছবির সঙ্গে যাচাই বাকি।",
+      "bn_verification_status": "উদ্ধৃতিটি মূল PDF-এর মুদ্রিত পৃষ্ঠা ১৯–২০-এর ছবির সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
       "book": "book-1",
       "passage_record": {
-        "status": "Located in official-report OCR; visual page-image verification pending; not yet a fully locked verbatim passage",
+        "status": "Passage verified against original PDF page images; printed pp. 19–20 locked.",
         "locator": "Printed pp. 19–20, “Aggregate flows of funds”",
         "evidence": "Approximately $87 billion raised in U.S. credit markets in 1981; remainder of combined federal deficit financed through cash-balance drawdown and nonmarket sources; Treasury bills roughly one-fourth of market funds raised, coupon issues the remainder.",
         "significance": "Contemporary official evidence for the scale and composition of U.S. Treasury market borrowing during calendar year 1981.",
         "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1981.pdf",
         "checked": "2026-10-10",
-        "verification_note": "FRASER states that its extracted full text may contain errors. Compare printed pp. 19–20 with the original PDF page images before marking the wording as fully locked."
+        "verification_note": "Original PDF images for printed pp. 19 and 20 were inspected; the Treasury borrowing passage is legible in the scan."
       }
     }
   ],
