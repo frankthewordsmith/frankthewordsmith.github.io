@@ -3472,6 +3472,75 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-debt-management-1969",
+      "title": "U.S. Treasury Annual Report 1969 — Unified-Budget Surplus, Continued Debt Management, and Federal Securities Expansion",
+      "source_type": "Institutional annual report",
+      "date_start": "1969-06-30",
+      "date_end": "1969-06-30",
+      "date_label": "Fiscal year ended June 30, 1969",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget surplus; borrowing from the public; Federal securities; public debt; debt management; foreign holdings",
+      "original_text": "On the unified-budget basis the surplus for fiscal 1969 was $3.2 billion, compared with a $25.2 billion deficit in fiscal 1968. Net receipts were $187.8 billion and outlays $184.6 billion. The surplus was associated with a decrease of $11.1 billion in borrowing from the public and an increase of $2.2 billion in the cash balance, offset by $10.1 billion in other means of financing. As of June 30, 1969, Federal securities outstanding totaled $368 billion, consisting of $354 billion in public debt securities and $14 billion in agency securities; $279 billion represented borrowing from the public. Treasury financing nevertheless remained focused on managing the existing debt in a rising-interest-rate environment.",
+      "translation": "১৯৬৯ অর্থবছরে unified-budget ভিত্তিতে ৩.২ বিলিয়ন ডলারের উদ্বৃত্ত ছিল, যেখানে ১৯৬৮ অর্থবছরে ২৫.২ বিলিয়ন ডলারের ঘাটতি ছিল। নিট প্রাপ্তি ছিল ১৮৭.৮ বিলিয়ন ডলার এবং ব্যয় ১৮৪.৬ বিলিয়ন ডলার। জনসাধারণের কাছ থেকে ঋণগ্রহণ ১১.১ বিলিয়ন ডলার কমে এবং নগদ ব্যালেন্স ২.২ বিলিয়ন ডলার বাড়ে; অন্যদিকে অন্যান্য অর্থায়নের উপায় ১০.১ বিলিয়ন ডলার বাড়ে। ৩০ জুন ১৯৬৯-এ মোট Federal securities outstanding ছিল ৩৬৮ বিলিয়ন ডলার, যার মধ্যে ৩৫৪ বিলিয়ন public debt securities এবং ১৪ বিলিয়ন agency securities; ২৭৯ বিলিয়ন ডলার ছিল borrowing from the public।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1969",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1970",
+      "reference_number": "Treasury Department Document No. 3248",
+      "page": "3–4; 11–23; 16; 19",
+      "section": "Review of Treasury Operations; Financial Operations; Federal Debt Management and Ownership",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1969-5605/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1969 marked a major fiscal reversal under the unified-budget accounting framework: a $3.2 billion surplus followed the $25.2 billion FY1968 deficit. Borrowing from the public declined, but the stock of Federal securities remained very large at $368 billion, requiring continued debt-management operations amid rising market interest rates.",
+      "context": "The report describes a transition from net Treasury demands on financial markets toward management of the existing debt. It emphasizes the need to pay prevailing market interest rates and to place some debt outside the very short-term area while avoiding excessive competition with savings institutions facing rising market rates.",
+      "interpretation": "1969 is a useful transition marker in the chronology because the fiscal position shifted sharply from deficit to surplus, yet the Federal securities stock remained enormous. The report therefore helps distinguish annual fiscal balance from the continuing institutional task of refinancing and managing accumulated Federal debt.",
+      "counter_interpretations": [
+        "The $3.2 billion unified-budget surplus should be compared with FY1968 using the same unified-budget accounting basis; it is not directly equivalent to earlier administrative-budget measures.",
+        "The $11.1 billion decrease in borrowing from the public includes $10.2 billion attributable to conversion of certain Government corporations to private ownership, so it should not be treated as a pure cash-flow consequence of the surplus.",
+        "$368 billion of Federal securities includes $354 billion of public debt securities and $14 billion of agency securities; these categories should not be conflated.",
+        "The Treasury's statement that the fiscal surplus removed the need for net demands on financial markets is an institutional description of fiscal operations; it does not mean that Treasury ceased refinancing or issuing securities."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1968",
+        "us-treasury-debt-management-1967",
+        "us-treasury-debt-management-1966"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3248. Printed pp. 3–4 establish the unified-budget surplus and financing reconciliation; pp. 11–23 cover Treasury financing operations and debt management; p. 16 provides ownership data. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1969-5605/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 11–23",
+        "evidence": "$3.2B unified-budget surplus; $11.1B decrease in borrowing from the public; $2.2B increase in cash balance; $10.1B increase in other means of financing; $368B Federal securities outstanding, including $354B public debt and $14B agency securities; $279B borrowing from the public.",
+        "significance": "Primary institutional evidence of the fiscal reversal from FY1968 deficit to FY1969 surplus while accumulated Federal securities remained at a very high level and continued debt management was required.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1969-5605/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, financing, debt management and securities ownership.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৯ — Unified-budget উদ্বৃত্ত, অব্যাহত ঋণ ব্যবস্থাপনা ও Federal securities-এর বিস্তার",
+      "bn_historical_claim": "১৯৬৯ অর্থবছরে unified-budget ভিত্তিতে ৩.২ বিলিয়ন ডলারের উদ্বৃত্ত হয়, যেখানে ১৯৬৮ সালে ২৫.২ বিলিয়ন ডলারের ঘাটতি ছিল। জনসাধারণের কাছ থেকে ঋণগ্রহণ ১১.১ বিলিয়ন ডলার কমলেও ৩০ জুন ১৯৬৯-এ মোট Federal securities outstanding ছিল ৩৬৮ বিলিয়ন ডলার।",
+      "bn_context": "ঘাটতি থেকে উদ্বৃত্তে দ্রুত পরিবর্তন হলেও পূর্ববর্তী ঋণের বিশাল stock পরিচালনা ও refinancing চালিয়ে যেতে হয়েছিল।",
+      "bn_interpretation": "১৯৬৯ দেখায় যে বার্ষিক fiscal balance এবং accumulated Federal debt management একই বিষয় নয়; উদ্বৃত্তের বছরেও বিপুল পরিমাণ securities পরিচালনা ও পুনঃঅর্থায়ন চলতে থাকে।",
+      "bn_notes": "Treasury Department Document No. 3248-এর মুদ্রিত pp. 3–4 ও 11–23 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
