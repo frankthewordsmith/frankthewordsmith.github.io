@@ -4479,6 +4479,75 @@
         "checked": "2026-10-10",
         "verification_note": "Original PDF images for printed pp. 19 and 20 were inspected; the Treasury borrowing passage is legible in the scan."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1982",
+      "title": "Federal Reserve Annual Report 1982 — Treasury Market Borrowing and Federal Deficit Financing",
+      "source_type": "Contemporary official annual report with aggregate credit-flow analysis",
+      "date_start": "1982-01-01",
+      "date_end": "1982-12-31",
+      "date_label": "Calendar year 1982; report transmitted April 15, 1983",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Treasury market borrowing; combined federal deficit; marketable debt; nonmarketable debt; cash balance",
+      "original_text": "The U.S. Treasury raised approximately $160 billion in U.S. credit markets to finance a combined deficit of the federal government and off-budget agencies of $146 billion for calendar year 1982; the Treasury used about half of the excess to build up its cash balance. Issuance of marketable debt totaled approximately $163 billion, as outstanding nonmarketable debt and other borrowing from the public declined by small amounts. Coupon issues accounted for roughly three-fifths of the funds raised, and net sales of Treasury bills for the remainder.",
+      "translation": "১৯৮২ সালের ক্যালেন্ডার বছরে যুক্তরাষ্ট্রের ট্রেজারি ঋণবাজার থেকে প্রায় ১৬০ বিলিয়ন ডলার সংগ্রহ করে, যাতে ফেডারেল সরকার ও বাজেটের বাইরে থাকা সংস্থাগুলোর সম্মিলিত ১৪৬ বিলিয়ন ডলারের ঘাটতি অর্থায়ন করা যায়; অতিরিক্ত অর্থের প্রায় অর্ধেক ট্রেজারি নগদ-স্থিতি বাড়াতে ব্যবহার করে। বাজারযোগ্য ঋণপত্রের ইস্যু প্রায় ১৬৩ বিলিয়ন ডলারে পৌঁছায়, যখন বকেয়া বাজারবহির্ভূত ঋণ ও জনসাধারণের কাছ থেকে অন্যান্য ঋণ অল্প পরিমাণে কমে। সংগৃহীত অর্থের প্রায় তিন-পঞ্চমাংশ আসে coupon issue থেকে এবং বাকি অংশ Treasury bill-এর নিট বিক্রি থেকে।",
+      "translator": "Archive translation of the report passage; based on FRASER's searchable transcription and subject to page-image check before verbatim lock.",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System, 1982",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1983",
+      "reference_number": "Sixty-Ninth Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed pp. 20–21, “Aggregate credit flows”",
+      "section": "Part 1, Monetary Policy and Financial Markets — Aggregate credit flows",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1982.pdf",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "The Federal Reserve's 1982 annual report states that Treasury raised approximately $160 billion in U.S. credit markets to finance a $146 billion combined federal and off-budget deficit during calendar year 1982, using about half of the excess to increase its cash balance. Marketable debt issuance was approximately $163 billion, with coupon issues accounting for about three-fifths of funds raised and Treasury bills the remainder.",
+      "context": "The report was transmitted on April 15, 1983, and covers calendar year 1982. Its aggregate-credit-flows section compares public and private borrowing during the recession and records the Treasury's financing mix.",
+      "interpretation": "This passage documents the scale and composition of Treasury market borrowing in 1982 and distinguishes the combined deficit from total market borrowing and the cash-balance change. It does not by itself establish the ultimate ownership of all securities or prove a single causal explanation for interest rates.",
+      "counter_interpretations": [
+        "The approximately $160 billion in market funds raised is not identical to the $146 billion combined deficit; the report states that about half of the excess was used to build the Treasury cash balance.",
+        "Marketable debt issuance of approximately $163 billion is a separate measure from net funds raised because nonmarketable debt and other borrowing from the public declined slightly.",
+        "FRASER's full text is automatically extracted and may contain errors; visually check the original printed pages before treating this transcription as a locked verbatim quotation."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1981",
+        "us-treasury-debt-management-1980",
+        "us-treasury-debt-management-1979"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Official annual-report passage and printed-page locator identified in FRASER transcription; original page-image verification pending, so quotation remains provisional.",
+      "last_verified": "2026-10-10",
+      "notes": "This is the Board of Governors of the Federal Reserve System's 1982 annual report, not the Treasury Department's own annual report. It was transmitted April 15, 1983 and covers calendar year 1982. The cited passage appears under “Aggregate credit flows,” printed pp. 20–21. Check the original PDF page images before locking the quotation.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1982-2435/fulltext",
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1982.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with identified printed-page locator; grade remains B until the passage is visually checked against the original scan.",
+      "publication_status": "official primary source located; passage transcription pending page-image lock",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮২ বার্ষিক প্রতিবেদন — ট্রেজারির বাজারঋণ ও ফেডারেল ঘাটতি অর্থায়ন",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮২ সালের প্রতিবেদনে বলা হয়েছে, ট্রেজারি ১৪৬ বিলিয়ন ডলারের সম্মিলিত ফেডারেল ও off-budget ঘাটতি অর্থায়নের জন্য ঋণবাজার থেকে প্রায় ১৬০ বিলিয়ন ডলার সংগ্রহ করে এবং অতিরিক্ত অর্থের প্রায় অর্ধেক নগদ-স্থিতি বাড়াতে ব্যবহার করে।",
+      "bn_context": "প্রতিবেদনটি ১৫ এপ্রিল ১৯৮৩-এ পাঠানো হয় এবং ১৯৮২ সালের ক্যালেন্ডার বছরের অর্থনৈতিক ও আর্থিক প্রবাহ বিশ্লেষণ করে।",
+      "bn_interpretation": "এই অংশ ট্রেজারির বাজারঋণের পরিমাণ ও গঠন নথিভুক্ত করে এবং ঘাটতি, বাজারযোগ্য ঋণপত্র ইস্যু ও নগদ-স্থিতির পার্থক্য দেখায়; এটি একা সিকিউরিটির চূড়ান্ত মালিকানা বা সুদের হারের একক কারণ প্রমাণ করে না।",
+      "bn_notes": "এটি ফেডারেল রিজার্ভ বোর্ডের বার্ষিক প্রতিবেদন, ট্রেজারি বিভাগের নিজস্ব প্রতিবেদন নয়। হুবহু উদ্ধৃতি চূড়ান্ত করার আগে মূল PDF-এর মুদ্রিত পৃষ্ঠা ২০–২১ যাচাই করতে হবে।",
+      "bn_verification_status": "FRASER-এর OCR-এ সরকারি প্রতিবেদন ও পৃষ্ঠা-লোকেটর শনাক্ত; মূল পৃষ্ঠার ছবির যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official report transcription located; original page-image verification pending; not yet a fully locked verbatim passage",
+        "locator": "Printed pp. 20–21, “Aggregate credit flows”",
+        "evidence": "Approximately $160 billion raised in U.S. credit markets; $146 billion combined federal and off-budget deficit; about half of the excess used to increase the cash balance; about $163 billion in marketable debt issuance; coupon issues about three-fifths of funds raised.",
+        "significance": "Contemporary official evidence for Treasury borrowing scale, cash-balance management, and marketable debt composition in calendar year 1982.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1982.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "FRASER warns that extracted full text may contain errors. Compare printed pp. 20–21 with the original PDF images before locking the wording."
+      }
     }
   ],
   "last_updated": "2026-10-10"
