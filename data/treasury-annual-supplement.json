@@ -5233,6 +5233,74 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1993",
+      "title": "Federal Reserve Annual Report 1993 — Deficit Reduction and Renewed Nonfinancial Debt Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1993-01-01",
+      "date_end": "1993-12-31",
+      "date_label": "Calendar year 1993; deficit figure is fiscal year 1993; report transmitted April 15, 1994",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget deficit; domestic nonfinancial-sector debt; federal and nonfederal debt",
+      "original_text": "The Federal Reserve's 1993 annual report states that the federal budget deficit declined to $255 billion in fiscal 1993, equal to 4.0 percent of nominal GDP, from $290 billion in fiscal 1992. Its credit-market discussion states that total domestic nonfinancial-sector debt expanded about 5 percent in calendar 1993, the same rate as in 1992, as reduced net funding needs of the federal government were about offset by a pickup in private borrowing. Nonfederal debt grew 3¾ percent.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯৩ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯৩ অর্থবছরে ফেডারেল বাজেট ঘাটতি কমে ২৫৫ বিলিয়ন ডলারে দাঁড়ায়, যা নামমাত্র জিডিপির ৪.০ শতাংশ; ১৯৯২ অর্থবছরে ঘাটতি ছিল ২৯০ বিলিয়ন ডলার। ঋণবাজার-সংক্রান্ত আলোচনায় বলা হয়েছে, ১৯৯৩ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৫ শতাংশ বেড়েছিল, ১৯৯২ সালের সমান হারে। ফেডারেল সরকারের নিট অর্থায়নের চাহিদা কমলেও বেসরকারি ঋণগ্রহণ বাড়ায় সামগ্রিক ঋণবৃদ্ধি প্রায় একই ছিল। ফেডারেল-বহির্ভূত ঋণ ৩.৭৫ শতাংশ বেড়েছিল।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি ও ক্যালেন্ডার বছরের ঋণবৃদ্ধি পৃথক রাখা হয়েছে",
+      "edition": "Eightieth Annual Report of the Board of Governors of the Federal Reserve System, 1993",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1994",
+      "reference_number": "Eightieth Annual Report",
+      "page": "Printed p. 13, federal budget deficit discussion; printed pp. 23–24, “Monetary and Credit Flows”",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1993",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1993-2450/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1993 annual report records a decline in the unified federal budget deficit to $255 billion in fiscal 1993 and about 5 percent growth in total domestic nonfinancial-sector debt during calendar 1993, as reduced federal funding needs were broadly offset by stronger private borrowing.",
+      "context": "The $255 billion deficit is fiscal-year 1993 data; debt growth and the 3¾ percent nonfederal figure cover calendar 1993. Total domestic nonfinancial-sector debt includes federal and nonfederal borrowers and is not a direct measure of Treasury net borrowing or gross issuance.",
+      "interpretation": "This record captures a turn from the early-1990s rise in the federal deficit: the reported fiscal 1993 deficit declined, while broad debt growth recovered modestly as private-sector borrowing strengthened. It does not equate the deficit with Treasury net borrowing or establish that deficit reduction alone caused changes in interest rates.",
+      "counter_interpretations": [
+        "The unified federal budget deficit is not the same as Treasury net borrowing, gross issuance, or the annual change in debt held by the public.",
+        "The broad domestic nonfinancial-sector debt aggregate includes households, businesses, state and local governments, and the federal government.",
+        "The report describes an offset between reduced federal funding needs and increased private demand; it does not claim that these components were identical in size in every measure."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1992",
+        "us-treasury-debt-management-1991",
+        "us-treasury-debt-management-1990"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "The report says the fiscal 1993 deficit was $255 billion, 4.0 percent of nominal GDP, compared with $290 billion in fiscal 1992. The credit-market discussion states domestic nonfinancial-sector debt expanded about 5 percent in calendar 1993 and nonfederal debt 3¾ percent. Text-layer verification only; original page images remain pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1993-2450/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with printed-page locators and searchable source text; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৩ বার্ষিক প্রতিবেদন — ঘাটতি হ্রাস ও অ-আর্থিক ঋণবৃদ্ধির পুনরুদ্ধার",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৯৩ সালের বার্ষিক প্রতিবেদন অনুযায়ী, ১৯৯৩ অর্থবছরে ফেডারেল বাজেট ঘাটতি কমে ২৫৫ বিলিয়ন ডলারে দাঁড়ায়, যা নামমাত্র জিডিপির ৪.০ শতাংশ। ১৯৯৩ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৫ শতাংশ বেড়েছিল, কারণ ফেডারেল সরকারের অর্থায়নের চাহিদা কমার প্রভাব বেসরকারি ঋণগ্রহণ বৃদ্ধির মাধ্যমে প্রায় পুষিয়ে যায়।",
+      "bn_context": "২৫৫ বিলিয়ন ডলারের ঘাটতি ১৯৯৩ অর্থবছরের হিসাব; মোট ঋণবৃদ্ধি ও ৩.৭৫ শতাংশ অ-ফেডারেল ঋণবৃদ্ধি ১৯৯৩ ক্যালেন্ডার বছরের। মোট অ-আর্থিক ঋণে ফেডারেল ও অ-ফেডারেল উভয় ঋণগ্রহীতা অন্তর্ভুক্ত।",
+      "bn_interpretation": "১৯৯৩ সালে ফেডারেল বাজেট ঘাটতি কমে, কিন্তু বেসরকারি ঋণগ্রহণ বাড়ায় সামগ্রিক অ-আর্থিক ঋণবৃদ্ধি ১৯৯২ সালের কাছাকাছি থাকে। ঘাটতি ও ট্রেজারির নিট ধারগ্রহণকে এক হিসাব হিসেবে ধরা যাবে না।",
+      "bn_notes": "ফেডারেল বাজেট ঘাটতির আলোচনা মুদ্রিত পৃষ্ঠা ১৩-তে; “Monetary and Credit Flows” অংশে ১৯৯৩ সালের ঋণবৃদ্ধি মুদ্রিত পৃষ্ঠা ২৩–২৪-এ। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি。",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "locator": "80th Annual Report (1993), printed p. 13, federal budget deficit discussion; printed pp. 23–24, “Monetary and Credit Flows.”",
+        "evidence": "The report states that the fiscal 1993 federal budget deficit was $255 billion, 4.0 percent of nominal GDP, down from $290 billion in fiscal 1992. It states that total domestic nonfinancial-sector debt expanded about 5 percent in calendar 1993 and nonfederal debt 3¾ percent.",
+        "significance": "Contemporary official evidence of a declining fiscal-year deficit alongside modestly renewed broad debt growth in calendar 1993.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1993-2450/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Fiscal-year deficit and calendar-year debt-growth figures are distinct. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-11"
