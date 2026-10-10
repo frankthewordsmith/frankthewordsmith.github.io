@@ -3885,6 +3885,76 @@
         "checked": "2026-10-05",
         "verification_note": "Printed pages control over OCR."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1975",
+      "title": "U.S. Treasury Annual Report 1975 — Record Postwar Deficit, Federal Debt Surge, Market Financing, and Federal Financing Bank Lending",
+      "source_type": "Institutional annual report",
+      "date_start": "1975-06-30",
+      "date_end": "1975-06-30",
+      "date_label": "Fiscal year ended June 30, 1975",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; marketable Treasury securities; Federal Reserve holdings; foreign investors; Federal Financing Bank",
+      "original_text": "The Treasury reported a unified-budget deficit of $43.6 billion for fiscal 1975, with net receipts of $281.0 billion and outlays of $324.6 billion. Borrowing from the public was $50.9 billion. At June 30, 1975, Federal securities outstanding totaled $544.1 billion, including $533.2 billion in public debt securities and $10.9 billion in Federal agency securities; $396.9 billion represented borrowing from the public. Total Treasury public debt securities rose by about $59.0 billion, the largest annual increase since fiscal 1944. Marketable Treasury securities rose $49.0 billion to $315.6 billion, with bills increasing about $23.6 billion, notes $21.8 billion, and bonds $3.6 billion. The Federal Reserve acquired $4.3 billion in public debt securities and held $84.7 billion at year-end. Foreign investors added $9.2 billion to their public-debt holdings, while special nonmarketable foreign issues declined $1.8 billion. The Federal Financing Bank made $15.8 billion in loans to Federal agencies during its first full year of activity.",
+      "translation": "ট্রেজারি জানায়, ১৯৭৫ অর্থবছরে unified-budget ঘাটতি ছিল ৪৩.৬ বিলিয়ন ডলার; নিট রাজস্ব ২৮১.০ বিলিয়ন এবং ব্যয় ৩২৪.৬ বিলিয়ন ডলার। জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫০.৯ বিলিয়ন ডলার। ৩০ জুন ১৯৭৫-এ মোট Federal securities ছিল ৫৪৪.১ বিলিয়ন ডলার, যার মধ্যে ৫৩৩.২ বিলিয়ন public debt securities এবং ১০.৯ বিলিয়ন Federal agency securities; ৩৯৬.৯ বিলিয়ন ডলার ছিল borrowing from the public। Treasury public debt securities প্রায় ৫৯.০ বিলিয়ন ডলার বাড়ে—১৯৪৪ অর্থবছরের পর বৃহত্তম বার্ষিক বৃদ্ধি। Marketable Treasury securities ৪৯.০ বিলিয়ন বেড়ে ৩১৫.৬ বিলিয়ন ডলারে পৌঁছায়; Treasury bills প্রায় ২৩.৬ বিলিয়ন, notes ২১.৮ বিলিয়ন এবং bonds ৩.৬ বিলিয়ন ডলার বাড়ে। Federal Reserve ৪.৩ বিলিয়ন ডলারের public debt securities অধিগ্রহণ করে এবং অর্থবছর শেষে তার holdings ছিল ৮৪.৭ বিলিয়ন ডলার। Foreign investors-এর public-debt holdings ৯.২ বিলিয়ন ডলার বাড়ে, তবে বিশেষ nonmarketable foreign issues ১.৮ বিলিয়ন কমে। Federal Financing Bank তার প্রথম পূর্ণ বছরে Federal agencies-কে ১৫.৮ বিলিয়ন ডলার ঋণ দেয়।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1975",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1975",
+      "reference_number": "Treasury Department Document No. 3266",
+      "page": "3–4; 7; 9–15",
+      "section": "Financial Operations; Federal Debt Management; Federal Financing Bank",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1975-5617/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal 1975 brought a $43.6 billion unified-budget deficit and $50.9 billion of borrowing from the public. Treasury public debt securities increased about $59.0 billion, while marketable securities increased $49.0 billion. The Federal Reserve acquired $4.3 billion in public debt securities, foreign investors increased their public-debt holdings by $9.2 billion, and the Federal Financing Bank made $15.8 billion in agency loans.",
+      "context": "The report describes recession and persistent inflation alongside the largest postwar federal deficit to that point. Treasury financing relied heavily on marketable bill and coupon issuance; the Federal Financing Bank completed its first full year as a channel for Federal-agency borrowing.",
+      "interpretation": "The 1975 report documents a sharp expansion in Treasury debt and market financing during a recessionary, inflationary period. It also records simultaneous Federal Reserve purchases, increased foreign holdings, and substantial Federal Financing Bank lending. These are concurrent institutional and balance-sheet developments, not by themselves proof of a single coordinated motive.",
+      "counter_interpretations": [
+        "The $43.6 billion unified-budget deficit is not the same measure as $50.9 billion borrowed from the public; the report's financing reconciliation includes cash and other financing items.",
+        "The $59.0 billion increase refers to Treasury public debt securities; total Federal securities rose by $57.9 billion because Federal agency securities declined.",
+        "The $4.3 billion increase in Federal Reserve holdings does not by itself establish that the purchases were direct financing of Treasury expenditure.",
+        "Foreign investors' total holdings increased even though special nonmarketable foreign issues declined; the report says marketable holdings, primarily bills, rose.",
+        "Federal Financing Bank lending to agencies is not automatically equivalent to an equal increase in publicly held Treasury debt."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1974",
+        "us-treasury-debt-management-1973",
+        "us-treasury-debt-management-1972"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed-page locator checked against the FRASER Treasury annual report; the OCR text may contain errors, and this record's prose is an archive synthesis rather than a verbatim quotation.",
+      "last_verified": "2026-10-10",
+      "notes": "FRASER's report identifies Treasury Department Document No. 3266. Printed pp. 3–4 give the unified-budget and borrowing-from-public figures; pp. 9–15 cover debt management, security changes and ownership; p. 7 discusses agency borrowing and the Federal Financing Bank. The report's OCR warns that text extraction may contain errors. The record summarizes the cited pages and does not present its original_text field as a verbatim quotation.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1975-5617/fulltext"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3266, with printed-page locators for budget financing, debt expansion, security ownership and Federal Financing Bank lending.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৫ — যুদ্ধ-পরবর্তী সময়ের বৃহৎ ঘাটতি, Federal debt বৃদ্ধি, বাজারভিত্তিক অর্থায়ন ও Federal Financing Bank ঋণ",
+      "bn_historical_claim": "১৯৭৫ অর্থবছরে unified-budget ঘাটতি ছিল ৪৩.৬ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫০.৯ বিলিয়ন ডলার। Treasury public debt securities প্রায় ৫৯.০ বিলিয়ন ডলার বাড়ে। Federal Reserve ৪.৩ বিলিয়ন ডলারের securities অধিগ্রহণ করে, foreign investors-এর holdings ৯.২ বিলিয়ন বাড়ে এবং Federal Financing Bank Federal agencies-কে ১৫.৮ বিলিয়ন ডলার ঋণ দেয়।",
+      "bn_context": "১৯৭৫ সালের প্রতিবেদন মন্দা ও উচ্চ মূল্যস্ফীতির মধ্যে বৃহৎ Federal deficit, বাজারযোগ্য Treasury securities-এর ব্যাপক ইস্যু এবং Federal Financing Bank-এর প্রথম পূর্ণ বছরের কার্যক্রম নথিভুক্ত করে।",
+      "bn_interpretation": "প্রতিবেদনটি Treasury debt ও market financing-এর তীব্র বৃদ্ধি, Federal Reserve holdings বৃদ্ধি, foreign holdings বৃদ্ধি এবং Federal Financing Bank-এর agency lending একই সময়ে নথিভুক্ত করে। এসব সমসাময়িক ঘটনা একক সমন্বিত উদ্দেশ্যের প্রমাণ নয়।",
+      "bn_notes": "Treasury Department Document No. 3266-এর মুদ্রিত pp. 3–4, 7 এবং 9–15 ব্যবহার করা হয়েছে। FRASER সতর্ক করে যে OCR পাঠে ভুল থাকতে পারে; original_text হলো উৎসের সারাংশ, হুবহু উদ্ধৃতি নয়।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locator checked; summary is not a verbatim quotation",
+        "locator": "Printed pp. 3–4, 7, 9–15",
+        "evidence": "$43.6B unified-budget deficit; $50.9B borrowing from the public; $544.1B Federal securities; $533.2B public debt securities; $59.0B increase in Treasury public debt securities; $49.0B marketable-security increase; Federal Reserve holdings +$4.3B; foreign public-debt holdings +$9.2B; $15.8B Federal Financing Bank loans.",
+        "significance": "Primary institutional evidence for the scale and composition of Federal financing during fiscal 1975.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1975-5617/fulltext",
+        "checked": "2026-10-10",
+        "verification_note": "Printed page labels control over OCR; no paraphrase should be presented as a verbatim quotation."
+      }
     }
   ],
   "last_updated": "2026-10-10"
