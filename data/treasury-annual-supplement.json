@@ -4410,6 +4410,75 @@
         "checked": "2026-10-10",
         "verification_note": "The fiscal year ended September 30, 1980. Use page images before making verbatim quotations."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1981",
+      "title": "Federal Reserve Annual Report 1981 — Treasury Market Borrowing and Federal Deficit Financing",
+      "source_type": "Contemporary official annual report with discussion of Treasury financing",
+      "date_start": "1981-01-01",
+      "date_end": "1981-12-31",
+      "date_label": "Calendar year 1981; report transmitted April 15, 1982",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Treasury borrowing in U.S. credit markets; combined federal deficit; marketable debt issuance; Treasury bills and coupon issues",
+      "original_text": "The U.S. Treasury raised approximately $87 billion in U.S. credit markets in 1981 and financed the remainder of the combined federal deficit by drawing down its cash balance and through nonmarket sources of finance. The borrowing by the Treasury was concentrated in marketable debt issuance that more than offset redemptions of savings bonds and nonmarketable debt in an amount close to $10 billion. Net sales of Treasury bills accounted for roughly one-fourth of the funds raised in markets, and coupon issues accounted for the remainder.",
+      "translation": "১৯৮১ সালে মার্কিন ট্রেজারি যুক্তরাষ্ট্রের ঋণবাজার থেকে প্রায় ৮৭ বিলিয়ন ডলার সংগ্রহ করে; সম্মিলিত ফেডারেল ঘাটতির অবশিষ্ট অংশ নগদ-স্থিতি কমিয়ে এবং বাজারবহির্ভূত অর্থায়নের উৎসের মাধ্যমে পূরণ করা হয়। ট্রেজারির ঋণগ্রহণ মূলত বাজারযোগ্য ঋণপত্র ইস্যুতে কেন্দ্রীভূত ছিল, যা সঞ্চয় বন্ড ও বাজারবহির্ভূত ঋণের প্রায় ১০ বিলিয়ন ডলারের কাছাকাছি পরিশোধকে ছাড়িয়ে যায়। বাজার থেকে সংগৃহীত অর্থের প্রায় এক-চতুর্থাংশ আসে Treasury bill-এর নিট বিক্রি থেকে; বাকি অংশ আসে coupon issue থেকে।",
+      "translator": "Archive translation of the passage identified in the official Federal Reserve annual report; check the original page image before treating OCR punctuation or wording as fully locked.",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System, 1981",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1982",
+      "reference_number": "Sixty-Eighth Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed pp. 19–20 (discussion under “Aggregate flows of funds”; printed page 20 appears immediately after the paragraph)",
+      "section": "Monetary Policy and Financial Markets — Aggregate flows of funds",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1981.pdf",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "The Federal Reserve's 1981 annual report states that the U.S. Treasury raised approximately $87 billion in U.S. credit markets during 1981, financing the rest of the combined federal deficit through cash-balance drawdown and nonmarket sources. It describes the composition of market borrowing, including Treasury bills and coupon issues.",
+      "context": "The report was transmitted on April 15, 1982, and covers calendar year 1981. Its aggregate-flows-of-funds discussion describes Treasury borrowing in the context of total domestic credit flows and a combined federal deficit that included off-budget agencies.",
+      "interpretation": "This passage documents the scale and composition of Treasury market borrowing in 1981. It does not by itself identify the ultimate beneficial owners of all securities, establish investor motives, or prove that borrowing alone caused prevailing interest rates.",
+      "counter_interpretations": [
+        "The approximately $87 billion figure refers to Treasury funds raised in U.S. credit markets, not the entire combined federal deficit.",
+        "The report says the remainder of the combined deficit was financed by drawing down cash balances and through nonmarket sources; these should not be conflated with market borrowing.",
+        "FRASER warns that the searchable text is automatically extracted and may contain errors; visually verify the printed page image before treating the transcription as a final verbatim lock."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1980",
+        "us-treasury-debt-management-1979",
+        "us-treasury-debt-management-1978"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Official annual-report passage located in FRASER OCR with a printed-page locator; page-image verification remains pending, so the verbatim text is not marked fully locked.",
+      "last_verified": "2026-10-10",
+      "notes": "Do not describe this as the Treasury Department's own annual report: the source is the Board of Governors of the Federal Reserve System's 1981 annual report. The report was transmitted April 15, 1982 and says it covers calendar year 1981. FRASER explicitly warns its extracted full text may contain errors. Verify printed pp. 19–20 against the PDF page images before promoting the passage to a fully locked quotation.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1981-2434/fulltext",
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1981.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report and identified printed-page locator; downgrade is retained because the OCR wording has not yet been visually checked against the page image.",
+      "publication_status": "official primary source located; passage transcription pending page-image lock",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮১ বার্ষিক প্রতিবেদন — ট্রেজারির বাজারঋণ ও ফেডারেল ঘাটতি অর্থায়ন",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮১ সালের বার্ষিক প্রতিবেদন অনুযায়ী, ট্রেজারি ওই বছরে যুক্তরাষ্ট্রের ঋণবাজার থেকে প্রায় ৮৭ বিলিয়ন ডলার সংগ্রহ করে এবং সম্মিলিত ফেডারেল ঘাটতির বাকি অংশ নগদ-স্থিতি হ্রাস ও বাজারবহির্ভূত উৎসে অর্থায়ন করে।",
+      "bn_context": "প্রতিবেদনটি ১৫ এপ্রিল ১৯৮২-এ পাঠানো হয় এবং ১৯৮১ সালের ক্যালেন্ডার বছরের কার্যক্রম নিয়ে আলোচনা করে।",
+      "bn_interpretation": "এই অংশ ১৯৮১ সালের ট্রেজারি বাজারঋণের পরিমাণ ও গঠন নথিভুক্ত করে; এটি একা সব সিকিউরিটির চূড়ান্ত মালিক, বিনিয়োগকারীর উদ্দেশ্য বা সুদের হারের কারণ প্রমাণ করে না।",
+      "bn_notes": "এটি ট্রেজারি বিভাগের নিজস্ব বার্ষিক প্রতিবেদন নয়; এটি ফেডারেল রিজার্ভ বোর্ডের ১৯৮১ সালের প্রতিবেদন। OCR পাঠ্যকে চূড়ান্ত হুবহু উদ্ধৃতি হিসেবে ব্যবহারের আগে মুদ্রিত পৃষ্ঠার ছবির সঙ্গে মিলিয়ে দেখতে হবে।",
+      "bn_verification_status": "সরকারি বার্ষিক প্রতিবেদনের OCR-এ অংশটি ও মুদ্রিত পৃষ্ঠা-লোকেটর শনাক্ত হয়েছে; পৃষ্ঠার ছবির সঙ্গে যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Located in official-report OCR; visual page-image verification pending; not yet a fully locked verbatim passage",
+        "locator": "Printed pp. 19–20, “Aggregate flows of funds”",
+        "evidence": "Approximately $87 billion raised in U.S. credit markets in 1981; remainder of combined federal deficit financed through cash-balance drawdown and nonmarket sources; Treasury bills roughly one-fourth of market funds raised, coupon issues the remainder.",
+        "significance": "Contemporary official evidence for the scale and composition of U.S. Treasury market borrowing during calendar year 1981.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1981.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "FRASER states that its extracted full text may contain errors. Compare printed pp. 19–20 with the original PDF page images before marking the wording as fully locked."
+      }
     }
   ],
   "last_updated": "2026-10-10"
