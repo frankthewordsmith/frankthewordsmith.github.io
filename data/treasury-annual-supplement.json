@@ -4617,6 +4617,74 @@
         "checked": "2026-10-10",
         "verification_note": "Original PDF image for printed p. 19 inspected; table and adjacent narrative are legible. The record is a careful paraphrase, not a claim that the summary text is a verbatim quotation."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1984",
+      "title": "Federal Reserve Historical Credit-Market Data — Treasury Securities Borrowing in 1984",
+      "source_type": "Official Federal Reserve historical statistical series",
+      "date_start": "1984-01-01",
+      "date_end": "1984-12-31",
+      "date_label": "Calendar year 1984; historical annual credit-market data",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Treasury securities; credit-market borrowing",
+      "original_text": "The Federal Reserve's historical annual table reports $197.4 billion in 1984 credit-market borrowing under the instrument category “Treasury securities.” This is an instrument-level credit-market borrowing figure; it should not be treated as a complete statement of the federal deficit or as an independently verified net Treasury borrowing figure.",
+      "translation": "ফেডারেল রিজার্ভের ঐতিহাসিক বার্ষিক সারণিতে ১৯৮৪ সালে “Treasury securities” বা ট্রেজারি সিকিউরিটিজ শ্রেণিতে ঋণবাজার থেকে ১৯৭.৪ বিলিয়ন ডলারের ধারগ্রহণ দেখানো হয়েছে। এটি ঋণবাজারে নির্দিষ্ট আর্থিক উপকরণের ধারগ্রহণের পরিমাণ; একে সম্পূর্ণ ফেডারেল বাজেট ঘাটতি বা স্বতন্ত্রভাবে যাচাইকৃত নিট ট্রেজারি ধারগ্রহণের সমতুল্য ধরা উচিত নয়।",
+      "translator": "বাংলা অনুবাদ — পরিসংখ্যানের সীমা বজায় রেখে",
+      "edition": "Historical Annuals, 1975–1984, Federal Reserve Financial Accounts / Credit Market Borrowing, All Sectors, by Instrument",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "2014",
+      "reference_number": "Historical Annuals, 1975–1984, F.4 Credit Market Borrowing, All Sectors, by Instrument",
+      "page": "Table F.4, row 3 (“Treasury securities”), 1984 column; online statistical PDF",
+      "section": "Credit-market borrowing by instrument",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20140306/annuals/a1975-1984.pdf",
+      "primary_or_secondary": "Primary official statistical compilation",
+      "historical_claim": "Official Federal Reserve historical data report $197.4 billion in 1984 credit-market borrowing in the Treasury-securities instrument category.",
+      "context": "The Federal Reserve's historical annual table spans 1975–1984 and lists total credit-market borrowing by instrument. For 1984, the Treasury-securities row is $197.4 billion.",
+      "interpretation": "This supports a precise statement about Treasury-securities borrowing as recorded in the Federal Reserve's historical credit-market series. It is not interchangeable with net Treasury borrowing, gross issuance, outstanding debt, or the federal deficit; those measures have different definitions.",
+      "counter_interpretations": [
+        "The table is a retrospective statistical compilation published in 2014, not a contemporaneous 1984 narrative or annual report.",
+        "The $197.4 billion figure belongs to the table's Treasury-securities instrument category and must not be described as the entire federal deficit.",
+        "The figure alone does not identify security holders, financing motives, or a causal effect on interest rates."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1983",
+        "us-treasury-debt-management-1982",
+        "us-treasury-debt-management-1981"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Table row and 1984 value confirmed in the Federal Reserve's indexed historical annual table; original PDF page image not yet independently inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "Added as a qualified official statistical record to preserve the 1984 chronology without pretending the inaccessible 1984 annual-report passage was verified. It is not the same evidence type as the 1981–1983 contemporary annual-report records.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20140306/annuals/a1975-1984.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve historical statistical compilation with a clear table/row locator and a searchable reported value; original page image remains to be checked.",
+      "publication_status": "qualified official statistical evidence; image-level locator check pending",
+      "bn_title": "ফেডারেল রিজার্ভের ঐতিহাসিক ঋণবাজারের উপাত্ত — ১৯৮৪ সালে ট্রেজারি সিকিউরিটিজ ধারগ্রহণ",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ঐতিহাসিক উপাত্তে ১৯৮৪ সালে ট্রেজারি সিকিউরিটিজ শ্রেণিতে ঋণবাজার থেকে ১৯৭.৪ বিলিয়ন ডলারের ধারগ্রহণ নথিভুক্ত হয়েছে।",
+      "bn_context": "১৯৭৫–১৯৮৪ সালের ঋণবাজার-সংক্রান্ত বার্ষিক সারণিতে আর্থিক উপকরণ অনুযায়ী ধারগ্রহণ দেখানো হয়েছে। ১৯৮৪ সালের “Treasury securities” সারিতে ১৯৭.৪ বিলিয়ন ডলার উল্লেখ রয়েছে।",
+      "bn_interpretation": "এই তথ্য ট্রেজারি সিকিউরিটিজ শ্রেণিতে ঋণবাজারের ধারগ্রহণ সম্পর্কে নির্দিষ্ট বক্তব্য সমর্থন করে। এটি নিট ট্রেজারি ধারগ্রহণ, মোট ইস্যু, বকেয়া ঋণ বা ফেডারেল ঘাটতির সমার্থক নয়।",
+      "bn_notes": "এটি ২০১৪ সালে প্রকাশিত ফেডারেল রিজার্ভের পশ্চাৎদৃষ্টিমূলক পরিসংখ্যান সংকলন, ১৯৮৪ সালের সমসাময়িক বার্ষিক প্রতিবেদনের বর্ণনামূলক অংশ নয়। মূল PDF পৃষ্ঠার ছবি এখনও আলাদাভাবে যাচাই করা বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের অনুসন্ধানযোগ্য ঐতিহাসিক সারণিতে সারি ও মান নিশ্চিত; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Searchable official table value confirmed; original PDF page image not yet independently inspected.",
+        "locator": "Table F.4, row 3 (“Treasury securities”), 1984 column; Historical Annuals, 1975–1984.",
+        "evidence": "The official Federal Reserve historical table reports 197.4 (billions of dollars) for Treasury securities in 1984.",
+        "significance": "Qualified statistical evidence for Treasury-securities credit-market borrowing during 1984.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20140306/annuals/a1975-1984.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "The searchable table supports the value and category, but the original PDF page image has not yet been independently inspected. The record explicitly distinguishes this measure from net Treasury borrowing and the federal deficit."
+      }
     }
   ],
   "last_updated": "2026-10-10"
