@@ -4822,6 +4822,75 @@
         "checked": "2026-10-10",
         "verification_note": "The deficit measure is fiscal-year data and must not be conflated with Treasury net borrowing. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1987",
+      "title": "Federal Reserve Annual Report 1987 — Treasury Cash-Balance Replenishment and Federal Debt Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1987-01-01",
+      "date_end": "1987-12-31",
+      "date_label": "Calendar year 1987; report transmitted June 28, 1988",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal government credit needs; Treasury cash balances; net borrowing from the public; Treasury bills and coupon securities",
+      "original_text": "In its account of credit-market developments during the first half of 1987, the Federal Reserve reported that unusually strong tax receipts held down federal government credit needs, but that net borrowing from the public rose in the second quarter as the Treasury replenished cash balances drawn down sharply earlier in the year. The Treasury ran off bills in both quarters while continuing to issue coupon securities in volume; federal debt expanded at a 9¾ percent annual rate in the first half.",
+      "translation": "১৯৮৭ সালের প্রথমার্ধের ঋণবাজার পরিস্থিতি সম্পর্কে ফেডারেল রিজার্ভ জানায়, অস্বাভাবিকভাবে বেশি কর-আদায় ফেডারেল সরকারের ঋণের চাহিদা কমিয়ে রেখেছিল। তবে বছরের শুরুতে দ্রুত কমে যাওয়া নগদ ব্যালান্স পুনর্গঠনের জন্য ট্রেজারি দ্বিতীয় প্রান্তিকে জনগণের কাছ থেকে নিট ধার বাড়ায়। দুই প্রান্তিকেই ট্রেজারি বিলের বকেয়া কমানো হলেও উল্লেখযোগ্য পরিমাণে কুপন-সিকিউরিটি ইস্যু চলতে থাকে; প্রথমার্ধে ফেডারেল ঋণ বার্ষিকীকৃত ৯.৭৫ শতাংশ হারে বাড়ে।",
+      "translator": "বাংলা অনুবাদ — মূল উৎসের প্রথমার্ধ ও দ্বিতীয় প্রান্তিকের সময়সীমা অক্ষুণ্ণ রেখে",
+      "edition": "Seventy-fourth Annual Report of the Board of Governors of the Federal Reserve System, 1987",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1988",
+      "reference_number": "Seventy-fourth Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed p. 19, “Credit Market Developments”; related fiscal context on printed p. 9, “Government Sector”",
+      "section": "Part 1 — Monetary Policy and Financial Markets in 1987",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1987.pdf",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1987 annual report records that Treasury borrowing from the public increased in the second quarter as Treasury replenished cash balances, while bill runoffs and continued coupon-security issuance shaped the financing mix; federal debt growth slowed compared with 1986.",
+      "context": "The report distinguishes first-half credit-market conditions from the full calendar year. It also reports that the federal budget deficit for fiscal 1987 was $150 billion, about one-third below the prior year's record level. The fiscal-year deficit is not interchangeable with net borrowing from the public or federal debt growth.",
+      "interpretation": "This passage is a useful institutional financing detail: changes in Treasury cash balances affected the timing of public borrowing, and issuance composition differed between bills and coupon securities. It shows why a deficit figure alone does not describe the timing or composition of Treasury financing.",
+      "counter_interpretations": [
+        "The 9¾ percent annual rate applies to federal debt expansion in the first half, not a full-year Treasury net-borrowing total.",
+        "The $150 billion deficit figure is for fiscal 1987 and is a separate accounting measure.",
+        "The passage does not by itself identify the ultimate holders of the securities or prove that Treasury financing caused a particular interest-rate outcome."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1986",
+        "us-treasury-debt-management-1985",
+        "us-treasury-debt-management-1984"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed-page locators and statements checked in FRASER PDF text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "Primary source: the Federal Reserve's 1987 annual report, transmitted June 28, 1988. The key passage is printed p. 19 under “Credit Market Developments”; printed p. 9 gives fiscal-year deficit context. Text layer checked; page-image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1987.pdf",
+        "https://www.whenthefedspeaks.com/doc/annual_report_1987"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official annual report with specific printed-page locators and searchable source text; original page images not yet independently checked.",
+      "publication_status": "primary institutional evidence; printed-page transcription checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮৭ বার্ষিক প্রতিবেদন — ট্রেজারির নগদ ব্যালান্স পুনর্গঠন ও ফেডারেল ঋণের বৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮৭ সালের বার্ষিক প্রতিবেদন জানায় যে বছরের দ্বিতীয় প্রান্তিকে ট্রেজারি নগদ ব্যালান্স পুনর্গঠনের সময় জনগণের কাছ থেকে নিট ধার বাড়ায়। একই সময়ে ট্রেজারি বিলের বকেয়া কমালেও উল্লেখযোগ্য পরিমাণে কুপন-সিকিউরিটি ইস্যু করে; ১৯৮৬ সালের তুলনায় ফেডারেল ঋণের বৃদ্ধির গতি কমে।",
+      "bn_context": "প্রতিবেদনের মুদ্রিত পৃষ্ঠা ১৯-এ ১৯৮৭ সালের প্রথমার্ধের ঋণবাজারের বিবরণ রয়েছে। মুদ্রিত পৃষ্ঠা ৯-এ ১৯৮৭ অর্থবছরের ফেডারেল বাজেট ঘাটতি ১৫০ বিলিয়ন ডলার বলা হয়েছে, যা আগের বছরের রেকর্ড ঘাটতির তুলনায় প্রায় এক-তৃতীয়াংশ কম।",
+      "bn_interpretation": "এই অংশটি দেখায় যে ট্রেজারির নগদ ব্যালান্সের পরিবর্তন জনগণের কাছ থেকে ধার নেওয়ার সময়কে প্রভাবিত করেছিল এবং বিল ও কুপন-সিকিউরিটির ইস্যু-মিশ্রণও গুরুত্বপূর্ণ ছিল। তাই শুধু বাজেট ঘাটতির অঙ্ক দিয়ে ট্রেজারির অর্থায়নের সময় ও গঠন পুরোপুরি বোঝা যায় না।",
+      "bn_notes": "প্রাথমিক উৎস: ফেডারেল রিজার্ভের ১৯৮৭ সালের বার্ষিক প্রতিবেদন, ২৮ জুন ১৯৮৮-তে পেশ করা হয়। প্রধান অংশ মুদ্রিত পৃষ্ঠা ১৯-এ “Credit Market Developments” শিরোনামে। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর PDF পাঠে মুদ্রিত পৃষ্ঠার অবস্থান ও বক্তব্য যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locators and statements checked in FRASER PDF text layer; original page-image verification pending.",
+        "locator": "Printed p. 19, “Credit Market Developments”; related fiscal context on printed p. 9, “Government Sector.”",
+        "evidence": "The report says federal government credit needs in the first half were held down by unusually strong tax payments. Net borrowing from the public rose in the second quarter as the Treasury replenished cash balances drawn down earlier in the year. Treasury bills ran off in both quarters while coupon securities continued to be issued in volume; federal debt expanded at a 9¾ percent annual rate in the first half.",
+        "significance": "Contemporary official evidence of how Treasury cash management and security composition affected the timing of public borrowing in 1987.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1987.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "The 9¾ percent rate describes first-half federal debt expansion; the $150 billion deficit is fiscal-year data. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-10"
