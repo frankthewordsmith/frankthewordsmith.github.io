@@ -5097,6 +5097,74 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year sectoral debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1991",
+      "title": "Federal Reserve Annual Report 1991 — Federal Deficit Expansion and Slower Broad Debt Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1991-01-01",
+      "date_end": "1991-12-31",
+      "date_label": "Calendar year 1991; deficit figure is fiscal year 1991; report transmitted April 15, 1992",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget deficit; domestic nonfinancial-sector debt; federal government debt",
+      "original_text": "The Federal Reserve's 1991 annual report states that the unified federal budget deficit increased to $269 billion in fiscal year 1991, $48 billion above fiscal 1990. In its credit-market discussion, the report says aggregate domestic nonfinancial-sector debt expanded 4½ percent in 1991, at the bottom of its monitoring range, while robust growth in federal government debt—related to the economic downturn and additional federal deposit-insurance outlays—masked weaker nonfederal debt growth.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯১ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯১ অর্থবছরে সমন্বিত ফেডারেল বাজেট ঘাটতি বেড়ে ২৬৯ বিলিয়ন ডলারে পৌঁছায়, যা ১৯৯০ অর্থবছরের তুলনায় ৪৮ বিলিয়ন ডলার বেশি। ঋণবাজারের আলোচনায় বলা হয়েছে, ১৯৯১ সালে দেশীয় অ-আর্থিক খাতের মোট ঋণ ৪.৫ শতাংশ বেড়েছিল, যা পর্যবেক্ষণ-সীমার নিম্ন প্রান্তে ছিল। অর্থনৈতিক মন্দা ও ফেডারেল আমানত-বিমা ব্যয়ের অতিরিক্ত বৃদ্ধির সঙ্গে সম্পর্কিত ফেডারেল সরকারের ঋণবৃদ্ধি বেসরকারি ও অন্যান্য অ-ফেডারেল খাতের দুর্বল ঋণবৃদ্ধিকে আড়াল করেছিল।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি ও ক্যালেন্ডার বছরের ঋণবৃদ্ধিকে পৃথক রাখা হয়েছে",
+      "edition": "Seventy-Eighth Annual Report of the Board of Governors of the Federal Reserve System, 1991",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1992",
+      "reference_number": "Seventy-Eighth Annual Report",
+      "page": "Printed p. 12, “The Government Sector”; printed p. 23, “Monetary and Credit Flows”",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1991",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1991-2448/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1991 report documents an increase in the unified federal budget deficit to $269 billion in fiscal 1991 and a slowdown in total domestic nonfinancial-sector debt growth to 4½ percent during calendar 1991, even as federal government debt grew robustly.",
+      "context": "The $269 billion deficit is fiscal-year 1991 data, while the 4½ percent debt-growth figure covers the calendar year. The broad domestic nonfinancial-sector aggregate includes households, businesses, state and local governments, and the federal government. Neither measure is equivalent to Treasury net borrowing or gross issuance.",
+      "interpretation": "This record marks a period when recession-related budget pressures and deposit-insurance outlays pushed the federal deficit higher, while broad debt growth slowed sharply as households, businesses, and state and local governments restrained borrowing. Federal debt growth partly obscured this private/nonfederal deleveraging pattern.",
+      "counter_interpretations": [
+        "The unified budget deficit is not the same as Treasury net borrowing or the annual change in debt held by the public.",
+        "Domestic nonfinancial-sector debt is a broad aggregate, not a Treasury-only measure.",
+        "The report attributes the deficit increase to several factors, including weaker economic activity and deposit-insurance costs; it does not establish a single cause."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1990",
+        "us-treasury-debt-management-1989",
+        "us-treasury-debt-management-1988"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "FRASER text layer gives the unified budget deficit as $269 billion for fiscal 1991 at the “Government Sector” discussion (printed p. 12). The broad domestic nonfinancial-sector debt grew 4½ percent in 1991, while federal debt growth remained robust (printed p. 23). Text-layer verification only; original page images remain pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1991-2448/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with exact printed-page locators and searchable text; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯১ বার্ষিক প্রতিবেদন — ফেডারেল ঘাটতি বৃদ্ধি ও সামগ্রিক ঋণবৃদ্ধির ধীরগতি",
+      "bn_historical_claim": "১৯৯১ সালের প্রতিবেদনে ১৯৯১ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি ২৬৯ বিলিয়ন ডলারে বৃদ্ধির তথ্য রয়েছে। একই প্রতিবেদনে ১৯৯১ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণবৃদ্ধি ৪.৫ শতাংশে নেমে আসার কথা বলা হয়েছে; ফেডারেল সরকারের ঋণবৃদ্ধি তুলনামূলকভাবে শক্তিশালী থাকায় অ-ফেডারেল খাতের দুর্বল ঋণবৃদ্ধি আড়াল হয়েছিল।",
+      "bn_context": "২৬৯ বিলিয়ন ডলারের ঘাটতি ১৯৯১ অর্থবছরের হিসাব, আর ৪.৫ শতাংশ ঋণবৃদ্ধি ১৯৯১ ক্যালেন্ডার বছরের। দেশীয় অ-আর্থিক খাতের মোট ঋণে পরিবার, ব্যবসা, রাজ্য ও স্থানীয় সরকার এবং ফেডারেল সরকার অন্তর্ভুক্ত।",
+      "bn_interpretation": "মন্দার কারণে রাজস্ব ও ব্যয়ের ওপর চাপ এবং আমানত-বিমা ব্যয় ফেডারেল ঘাটতি বাড়ায়। একই সময়ে পরিবার, ব্যবসা ও রাজ্য-স্থানীয় সরকার ঋণগ্রহণে সংযমী হওয়ায় সামগ্রিক ঋণবৃদ্ধি ধীর হয়; ফেডারেল ঋণবৃদ্ধি এই দুর্বলতাকে আংশিকভাবে আড়াল করে।",
+      "bn_notes": "ফেডারেল ঘাটতির অঙ্কটি প্রতিবেদনের “The Government Sector” অংশের মুদ্রিত পৃষ্ঠা ১২-তে; ১৯৯১ সালের ঋণবৃদ্ধির আলোচনা “Monetary and Credit Flows” অংশের মুদ্রিত পৃষ্ঠা ২৩-তে। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "locator": "Seventy-Eighth Annual Report (1991), printed p. 12, “The Government Sector”; printed p. 23, “Monetary and Credit Flows.”",
+        "evidence": "The report records a $269 billion unified federal budget deficit for fiscal 1991, up $48 billion from fiscal 1990. It states that domestic nonfinancial-sector debt expanded 4½ percent in 1991, while robust federal government debt growth masked weaker nonfederal debt growth.",
+        "significance": "Contemporary official evidence of widening federal budget pressure alongside much slower broad debt growth during the 1991 recession.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1991-2448/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Fiscal-year deficit and calendar-year debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-10"
