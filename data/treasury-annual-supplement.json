@@ -3059,6 +3059,74 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-debt-management-1963",
+      "title": "U.S. Treasury Annual Report 1963 — Deficit Financing, Debt Restructuring, and Expanded Foreign Borrowing",
+      "source_type": "Institutional annual report",
+      "date_start": "1963-06-30",
+      "date_end": "1963-06-30",
+      "date_label": "Fiscal year ended June 30, 1963",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "administrative budget deficit; Federal debt; advance refunding; prerefunding; foreign borrowing",
+      "original_text": "The Treasury reported a $6.3 billion administrative budget deficit requiring financing. Federal debt increased $7.8 billion to $306.5 billion, with a $1.7 billion increase in the Treasury cash balance. Foreign nonmarketable securities increased to $1.3 billion. Nearly $8 billion of securities maturing within eight months were prerefunded into longer obligations.",
+      "translation": "১৯৬৩ অর্থবছরে ট্রেজারি ৬.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৭.৮ বিলিয়ন ডলারের ফেডারেল ঋণ বৃদ্ধি রিপোর্ট করে। ট্রেজারির নগদ ভারসাম্য ১.৭ বিলিয়ন ডলার বাড়ে এবং বৈদেশিক অ-বাজারযোগ্য সিকিউরিটিজ ১.৩ বিলিয়ন ডলারে পৌঁছায়। প্রায় ৮ বিলিয়ন ডলারের স্বল্পমেয়াদি সিকিউরিটি দীর্ঘমেয়াদি দায়ে প্রি-রিফান্ড করা হয়।",
+      "translator": "Archive synthesis from verified Treasury annual report.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1963",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1964",
+      "reference_number": "Treasury Department Document No. 3231",
+      "page": "3–4; 18–22; 35–39",
+      "section": "Review of Fiscal Operations; Public Debt Management; Ownership of Federal Securities",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1963-5455/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1963 combined deficit financing, Federal-debt expansion, active maturity restructuring, and expansion of Treasury foreign borrowing.",
+      "context": "The report distinguishes the financing deficit from debt growth and cash-balance changes, while documenting prerefunding, advance refunding, and foreign official holdings.",
+      "interpretation": "1963 shows the 1962 foreign-borrowing initiative becoming part of continuing Treasury debt management alongside deliberate maturity engineering.",
+      "counter_interpretations": [
+        "The $6.3B deficit is not identical to the $7.8B Federal-debt increase because cash balances and other transactions affect reconciliation.",
+        "$306.5B is Federal debt as defined in the debt-management discussion; the report separately gives $305.9B public debt.",
+        "Foreign nonmarketable securities should not be conflated with ordinary marketable Treasury securities."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1962",
+        "us-treasury-debt-management-1961",
+        "us-treasury-debt-management-1960"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3231; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1963-5455/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 18–22, 35–39",
+        "evidence": "$6.3B financing deficit; $7.8B Federal-debt increase to $306.5B; $1.7B cash-balance increase; nearly $8B prerefunding; $1.3B foreign nonmarketable securities.",
+        "significance": "Primary institutional evidence connecting deficit financing, debt-maturity engineering, and foreign official Treasury borrowing.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1963-5455/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৩ — ঘাটতি অর্থায়ন, ঋণ পুনর্গঠন ও বৈদেশিক ঋণগ্রহণের সম্প্রসারণ",
+      "bn_historical_claim": "১৯৬৩ অর্থবছরে ৬.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৭.৮ বিলিয়ন ডলারের ফেডারেল ঋণ বৃদ্ধি ঘটে। ট্রেজারির নগদ ভারসাম্য ১.৭ বিলিয়ন ডলার বাড়ে এবং বৈদেশিক অ-বাজারযোগ্য সিকিউরিটিজ ১.৩ বিলিয়ন ডলারে পৌঁছায়।",
+      "bn_context": "প্রতিবেদনটি ঘাটতি, ঋণবৃদ্ধি ও নগদ ভারসাম্যের পরিবর্তন আলাদা করে দেখায় এবং প্রি-রিফান্ডিং ও advance refunding নথিভুক্ত করে।",
+      "bn_interpretation": "১৯৬৩ সালে ঘাটতি অর্থায়ন, maturity engineering এবং বৈদেশিক সরকারি সংস্থার কাছ থেকে অর্থায়ন ধারাবাহিকভাবে যুক্ত হয়।",
+      "bn_notes": "Treasury Department Document No. 3231-এর মুদ্রিত pp. 3–4, 18–22 ও 35–39 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
