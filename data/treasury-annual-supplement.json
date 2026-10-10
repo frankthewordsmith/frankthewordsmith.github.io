@@ -5165,7 +5165,75 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1992",
+      "title": "Federal Reserve Annual Report 1993 — Fiscal 1992 Deficit and Slower Nonfederal Debt Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1992-01-01",
+      "date_end": "1992-12-31",
+      "date_label": "Calendar year 1992; deficit figure is fiscal year 1992; reported in the 1993 Federal Reserve annual report",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget deficit; domestic nonfinancial-sector debt; federal and nonfederal debt growth",
+      "original_text": "The Federal Reserve's 1993 annual report states that the unified federal budget deficit amounted to $290 billion in fiscal year 1992. Its credit-market discussion says total domestic nonfinancial-sector debt expanded about 4½ percent in calendar 1992, at the lower end of its monitoring range. Debt of nonfederal nonfinancial borrowers grew 2½ percent, while federal debt expansion slowed slightly to about 10¾ percent; the report links the slowdown in federal debt growth partly to the Resolution Trust Corporation exhausting its authority to fund thrift-resolution losses after April, with federal deposit-insurance outlays falling from about $50 billion in 1991 to nil in 1992.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯৩ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯২ অর্থবছরে সমন্বিত ফেডারেল বাজেট ঘাটতি ছিল ২৯০ বিলিয়ন ডলার। ঋণবাজার-সংক্রান্ত আলোচনায় বলা হয়েছে, ১৯৯২ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৪.৫ শতাংশ বেড়েছিল, যা পর্যবেক্ষণ-সীমার নিম্ন প্রান্তে। ফেডারেল-বহির্ভূত অ-আর্থিক ঋণগ্রহীতাদের ঋণ ২.৫ শতাংশ বাড়ে, আর ফেডারেল ঋণবৃদ্ধির হার সামান্য কমে প্রায় ১০.৭৫ শতাংশে দাঁড়ায়। প্রতিবেদনে এই পরিবর্তনের একটি কারণ হিসেবে এপ্রিলের পর Resolution Trust Corporation-এর সঞ্চয়-ঋণ প্রতিষ্ঠান নিষ্পত্তির ক্ষতি মেটাতে আইনগত অর্থায়ন-ক্ষমতা শেষ হয়ে যাওয়ার কথা বলা হয়েছে; ফেডারেল আমানত-বিমা ব্যয় ১৯৯১ সালের প্রায় ৫০ বিলিয়ন ডলার থেকে ১৯৯২ সালে শূন্যে নেমে আসে।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি ও ক্যালেন্ডার বছরের ঋণবৃদ্ধিকে পৃথক রাখা হয়েছে",
+      "edition": "Eightieth Annual Report of the Board of Governors of the Federal Reserve System, 1993",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1994",
+      "reference_number": "Eightieth Annual Report",
+      "page": "Printed p. 13, “The Economy in 1993” (FY 1992 deficit); printed pp. 59–60, “Monetary and Credit Flows” (calendar 1992 debt growth)",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1993; embedded discussion of 1992 monetary and credit flows",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1993-2450/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1993 annual report records a $290 billion unified federal budget deficit for fiscal 1992 and describes about 4½ percent growth in total domestic nonfinancial-sector debt during calendar 1992, with nonfederal debt growth weak and federal debt growth still rapid but slowing.",
+      "context": "The $290 billion deficit is fiscal-year 1992 data. Debt-growth percentages cover calendar 1992 and refer to broad sectoral aggregates, not Treasury net borrowing or gross securities issuance. The report attributes the easing in federal debt expansion in part to the slowdown in RTC-related deposit-insurance outlays.",
+      "interpretation": "The source shows a large federal deficit alongside relatively slow broad nonfinancial debt growth in 1992. Weak borrowing by households and businesses coexisted with rapid federal debt expansion, while the fading of thrift-resolution outlays reduced one source of federal financing pressure. It does not establish that the budget deficit equals Treasury borrowing or that any single factor alone determined credit-market outcomes.",
+      "counter_interpretations": [
+        "The unified federal budget deficit is not the same measure as Treasury net borrowing, gross issuance, or the change in debt held by the public.",
+        "Total domestic nonfinancial-sector debt includes federal and nonfederal borrowers; it is broader than Treasury debt.",
+        "The report's discussion links the slowdown in federal debt growth partly to RTC and deposit-insurance developments; it does not establish these as the sole causes."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1991",
+        "us-treasury-debt-management-1990",
+        "us-treasury-debt-management-1989"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "The $290 billion unified-budget deficit for fiscal 1992 is reported on printed p. 13. The calendar-1992 debt-growth discussion appears in the “Monetary and Credit Flows” section at printed pp. 59–60. Text-layer verification only; original page images remain pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1993-2450/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with printed-page locators and searchable source text; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৩ বার্ষিক প্রতিবেদন — ১৯৯২ অর্থবছরের ঘাটতি ও অ-ফেডারেল ঋণবৃদ্ধির ধীরগতি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৯৩ সালের বার্ষিক প্রতিবেদনে ১৯৯২ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি ২৯০ বিলিয়ন ডলার বলা হয়েছে। প্রতিবেদনে ১৯৯২ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৪.৫ শতাংশ বৃদ্ধির কথা বলা হয়েছে। অ-ফেডারেল অ-আর্থিক ঋণ ২.৫ শতাংশ বাড়ে, আর ফেডারেল ঋণবৃদ্ধি সামান্য কমে প্রায় ১০.৭৫ শতাংশ হয়।",
+      "bn_context": "২৯০ বিলিয়ন ডলারের ঘাটতি ১৯৯২ অর্থবছরের হিসাব; ঋণবৃদ্ধির হারগুলো ১৯৯২ ক্যালেন্ডার বছরের। সামগ্রিক অ-আর্থিক ঋণ ফেডারেল ও অ-ফেডারেল উভয় খাতকে অন্তর্ভুক্ত করে এবং ট্রেজারির নিট ধারগ্রহণের সমান নয়।",
+      "bn_interpretation": "১৯৯২ সালে বড় ফেডারেল বাজেট ঘাটতির পাশাপাশি সামগ্রিক অ-আর্থিক ঋণবৃদ্ধি তুলনামূলকভাবে ধীর ছিল। পরিবার ও ব্যবসার ঋণগ্রহণ দুর্বল থাকলেও ফেডারেল ঋণ দ্রুত বাড়ে; সঞ্চয়-ঋণ প্রতিষ্ঠান নিষ্পত্তি-সংক্রান্ত ব্যয় কমে যাওয়া ফেডারেল ঋণবৃদ্ধির গতি কমার একটি কারণ ছিল।",
+      "bn_notes": "১৯৯২ অর্থবছরের ঘাটতি মুদ্রিত পৃষ্ঠা ১৩-তে; ১৯৯২ সালের ঋণবৃদ্ধি ও RTC-সম্পর্কিত আলোচনার অবস্থান মুদ্রিত পৃষ্ঠা ৫৯–৬০। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি。",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "locator": "80th Annual Report (1993), printed p. 13, “The Economy in 1993” (FY 1992 deficit); printed pp. 59–60, “Monetary and Credit Flows.”",
+        "evidence": "The report gives the unified federal budget deficit as $290 billion for fiscal 1992. It states that total domestic nonfinancial-sector debt expanded about 4½ percent in calendar 1992, nonfederal nonfinancial debt grew 2½ percent, and federal debt expansion slowed slightly to about 10¾ percent. Deposit-insurance outlays fell from about $50 billion in 1991 to nil in 1992.",
+        "significance": "Contemporary official evidence of a large fiscal-year federal deficit alongside subdued broad debt growth, weak nonfederal borrowing, and a slowdown in federal debt expansion as RTC-related outlays receded.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1993-2450/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Fiscal-year deficit and calendar-year debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
-  "last_updated": "2026-10-10"
+  "last_updated": "2026-10-11"
 }
