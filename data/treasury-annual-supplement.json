@@ -5437,6 +5437,74 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year debt-growth figures are distinct. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1996",
+      "title": "Federal Reserve Annual Report 1996 — Deficit Falls and Broad Debt Growth Remains Moderate",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1996-01-01",
+      "date_end": "1996-12-31",
+      "date_label": "Calendar year 1996; deficit figure is fiscal year 1996; reported in the 1996 Federal Reserve annual report",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget deficit; domestic nonfinancial-sector debt; federal debt growth",
+      "original_text": "The Federal Reserve's 1996 annual report states that the unified federal budget deficit declined to $107 billion in fiscal 1996 from almost $165 billion in fiscal 1995, equal to 1.4 percent of nominal GDP. The report's overview says debt of domestic nonfinancial sectors grew about 5½ percent in calendar 1996, similar to 1995. Federal government debt grew 3¾ percent, the lowest rate in more than two decades. The report attributes the slower federal debt growth to spending constraints and increased tax receipts associated with a stronger economy and rising stock market.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯৬ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯৬ অর্থবছরে সমন্বিত ফেডারেল বাজেট ঘাটতি কমে ১০৭ বিলিয়ন ডলারে দাঁড়ায়; ১৯৯৫ অর্থবছরে তা ছিল প্রায় ১৬৫ বিলিয়ন ডলার। এই ঘাটতি নামমাত্র জিডিপির ১.৪ শতাংশ। প্রতিবেদনের সারাংশে বলা হয়েছে, ১৯৯৬ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের ঋণ প্রায় ৫.৫ শতাংশ বেড়েছিল, যা ১৯৯৫ সালের কাছাকাছি। ফেডারেল সরকারের ঋণ ৩.৭৫ শতাংশ বাড়ে—দুই দশকেরও বেশি সময়ের মধ্যে সর্বনিম্ন হার। প্রতিবেদনে সরকারি ব্যয়-সংক্রান্ত বিধিনিষেধ এবং শক্তিশালী অর্থনীতি ও শেয়ারবাজারের কারণে কর-আয় বৃদ্ধিকে ফেডারেল ঋণবৃদ্ধি ধীর হওয়ার কারণ হিসেবে উল্লেখ করা হয়েছে।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি ও ক্যালেন্ডার বছরের ঋণবৃদ্ধি পৃথক রাখা হয়েছে",
+      "edition": "Eighty-Third Annual Report of the Board of Governors of the Federal Reserve System, 1996",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1997",
+      "reference_number": "Eighty-Third Annual Report",
+      "page": "Printed p. 14, overview and federal government debt/deficit discussion; printed pp. 13–14, “Domestic Spending and Finance in 1996”",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1996; overview and domestic spending/finance discussion",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1996-2460/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1996 annual report records a fiscal 1996 unified federal budget deficit of $107 billion and about 5½ percent growth in domestic nonfinancial-sector debt during calendar 1996; federal government debt grew 3¾ percent.",
+      "context": "The $107 billion deficit is fiscal-year 1996 data; broad debt growth and federal debt growth are calendar-year 1996 measures. Domestic nonfinancial-sector debt includes federal and nonfederal borrowers and is not equivalent to Treasury net borrowing, gross issuance, or debt held by the public.",
+      "interpretation": "The record shows a sharp reduction in the fiscal-year federal deficit alongside continued moderate growth in broad nonfinancial-sector debt. Federal debt growth slowed to 3¾ percent, which the report links to spending restraints and stronger receipts. These are sectoral and fiscal measures, not proof that the deficit alone determined Treasury financing or interest rates.",
+      "counter_interpretations": [
+        "The unified federal budget deficit is not identical to Treasury net borrowing, gross issuance, or the annual change in debt held by the public.",
+        "Domestic nonfinancial-sector debt includes federal and nonfederal borrowers, so its growth rate is broader than Treasury debt growth.",
+        "The report attributes slower federal debt growth to multiple factors; it does not establish any single factor as the sole cause."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1995",
+        "us-treasury-debt-management-1994",
+        "us-treasury-debt-management-1993"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Printed p. 14 reports the fiscal 1996 unified deficit as $107 billion (1.4 percent of GDP), domestic nonfinancial-sector debt growth of about 5½ percent in 1996, and federal government debt growth of 3¾ percent. Text-layer verification only; original page images remain pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1996-2460/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with searchable text and printed-page locator; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৬ বার্ষিক প্রতিবেদন — ঘাটতি হ্রাস ও সামগ্রিক ঋণবৃদ্ধি মাঝারি থাকা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৯৬ সালের বার্ষিক প্রতিবেদনে ১৯৯৬ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি ১০৭ বিলিয়ন ডলার বলা হয়েছে, যা জিডিপির ১.৪ শতাংশ। ১৯৯৬ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের ঋণ প্রায় ৫.৫ শতাংশ এবং ফেডারেল সরকারের ঋণ ৩.৭৫ শতাংশ বেড়েছিল।",
+      "bn_context": "১০৭ বিলিয়ন ডলারের ঘাটতি ১৯৯৬ অর্থবছরের হিসাব; ঋণবৃদ্ধির হারগুলো ১৯৯৬ ক্যালেন্ডার বছরের। সামগ্রিক অ-আর্থিক ঋণে ফেডারেল ও অ-ফেডারেল উভয় খাত অন্তর্ভুক্ত, তাই এটি ট্রেজারির নিট ধারগ্রহণের সমান নয়।",
+      "bn_interpretation": "১৯৯৬ সালে ফেডারেল বাজেট ঘাটতি উল্লেখযোগ্যভাবে কমে, কিন্তু সামগ্রিক অ-আর্থিক ঋণ মাঝারি হারে বাড়তে থাকে। সরকারি ব্যয়-সংক্রান্ত বিধিনিষেধ এবং কর-আয় বৃদ্ধি ফেডারেল ঋণবৃদ্ধির গতি কমাতে সহায়তা করে বলে প্রতিবেদনটি উল্লেখ করে।",
+      "bn_notes": "ঘাটতি ও ঋণবৃদ্ধির তথ্য মুদ্রিত পৃষ্ঠা ১৪-তে; “Domestic Spending and Finance in 1996” অংশ মুদ্রিত পৃষ্ঠা ১৩–১৪-তে। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "locator": "83rd Annual Report (1996), printed p. 14, overview and federal government debt/deficit discussion; printed pp. 13–14, “Domestic Spending and Finance in 1996.”",
+        "evidence": "The report states that the unified budget deficit fell to $107 billion in fiscal 1996, or 1.4 percent of nominal GDP. It reports about 5½ percent growth in domestic nonfinancial-sector debt in calendar 1996 and 3¾ percent growth in federal government debt.",
+        "significance": "Contemporary official evidence of a smaller fiscal-year federal deficit alongside continued broad debt growth and a marked slowdown in federal debt growth.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1996-2460/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Fiscal-year deficit and calendar-year debt-growth figures are distinct. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-11"
