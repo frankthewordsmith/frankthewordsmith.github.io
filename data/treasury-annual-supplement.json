@@ -3334,6 +3334,75 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-debt-management-1967",
+      "title": "U.S. Treasury Annual Report 1967 — Deficit Financing, Debt Expansion, Federal Credit Supply, and Debt-Limit Management",
+      "source_type": "Institutional annual report",
+      "date_start": "1967-06-30",
+      "date_end": "1967-06-30",
+      "date_label": "Fiscal year ended June 30, 1967",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "administrative budget deficit; gross public debt; Federal credit markets; Treasury securities; Federal Reserve holdings; debt limit",
+      "original_text": "The Treasury reported a $2.3 billion administrative budget deficit in fiscal 1967. Gross public debt outstanding reached $326.2 billion, an increase of $6.3 billion. Consolidated cash receipts from the public were $153.6 billion and payments were $155.1 billion. The report states that total outstanding Treasury securities, Federal agency securities, and participation certificates increased by slightly under $10 billion, while Government investment accounts increased their holdings by $11.6 billion and the Federal Reserve increased its holdings by $4.5 billion, so Federal credit-market operations supplied more than $6 billion of net credit to private markets. The report also records temporary increases in the statutory public-debt limit during the year.",
+      "translation": "১৯৬৭ অর্থবছরে ট্রেজারি ২.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩২৬.২ বিলিয়ন ডলারের মোট সরকারি ঋণ রিপোর্ট করে, যা বছরে ৬.৩ বিলিয়ন ডলার বেড়েছিল। জনসাধারণের কাছ থেকে সমন্বিত নগদ প্রাপ্তি ছিল ১৫৩.৬ বিলিয়ন ডলার এবং পরিশোধ ১৫৫.১ বিলিয়ন ডলার। প্রতিবেদনটি দেখায় যে Treasury securities, Federal agency securities ও participation certificates-এর মোট বকেয়া পরিমাণ প্রায় ১০ বিলিয়ন ডলার বাড়লেও সরকারি বিনিয়োগ হিসাব ১১.৬ বিলিয়ন ডলার এবং Federal Reserve ৪.৫ বিলিয়ন ডলার বেশি ধারণ করে; ফলে Federal credit-market operations বেসরকারি ঋণবাজারে ৬ বিলিয়ন ডলারের বেশি নেট credit সরবরাহ করে।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1967",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1968",
+      "reference_number": "Treasury Department Document No. 3242",
+      "page": "3–4; 12–16; 192–193",
+      "section": "Review of Fiscal Operations; Public Debt Management and Ownership; Legislation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1967-5601/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1967 combined a modest administrative budget deficit with substantial gross public-debt growth. The Treasury's own credit-market analysis states that Federal credit operations supplied more than $6 billion of net credit to private markets because Government investment accounts and Federal Reserve holdings rose faster than the outstanding volume of Federal credit instruments.",
+      "context": "The report distinguishes administrative-budget results from consolidated cash operations and the public-debt reconciliation. It also provides an institutional analysis of Federal demands on private credit markets, showing that increased Government-account and Federal Reserve holdings more than offset the increase in Treasury and agency securities outstanding.",
+      "interpretation": "1967 is a significant marker because the Treasury explicitly characterized Federal credit-market operations as a net supplier of credit to private markets, despite a $6.3 billion increase in gross public debt. This makes the year useful for tracing the distinction between gross debt expansion and the net credit impact of Federal-sector transactions.",
+      "counter_interpretations": [
+        "The $2.3 billion administrative budget deficit is not identical to the $6.3 billion increase in gross public debt; the report explicitly reconciles debt changes through cash balances, trust accounts, agency investments, and accrued interest.",
+        "The statement that Federal credit operations supplied more than $6 billion of net credit to private markets is the Treasury's own credit-market accounting and should not be interpreted as meaning that Treasury borrowing itself was a net credit injection.",
+        "The report's Federal Reserve figure concerns the increase in Federal Reserve holdings of Federal credit instruments; it does not by itself establish the motive for those purchases.",
+        "Temporary debt-limit increases are statutory financing authorities, not borrowing transactions themselves."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1966",
+        "us-treasury-debt-management-1965",
+        "us-treasury-debt-management-1964"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3242. Printed pp. 3–4 establish fiscal and debt totals; pp. 12–16 cover public debt management, ownership and Federal credit-market analysis; pp. 192–193 contain debt-limit legislation. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1967-5601/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 12–16, 192–193",
+        "evidence": "$2.3B administrative deficit; $326.2B gross public debt; $6.3B debt increase; Federal Government investment-account holdings +$11.6B; Federal Reserve holdings +$4.5B; more than $6B net credit supplied to private markets according to Treasury's Federal credit-market analysis; temporary debt-limit increases.",
+        "significance": "Primary institutional evidence connecting deficit/debt reconciliation with Federal-sector credit-market operations and statutory debt-limit management.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1967-5601/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, public debt management, Federal credit-market analysis, and debt-limit legislation.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৭ — ঘাটতি অর্থায়ন, ঋণবৃদ্ধি, ফেডারেল ক্রেডিট সরবরাহ ও ঋণসীমা ব্যবস্থাপনা",
+      "bn_historical_claim": "১৯৬৭ অর্থবছরে ২.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩২৬.২ বিলিয়ন ডলারের মোট সরকারি ঋণ ছিল, যা ৬.৩ বিলিয়ন ডলার বেড়েছিল। ট্রেজারির নিজস্ব credit-market বিশ্লেষণ অনুযায়ী সরকারি বিনিয়োগ হিসাব ও Federal Reserve-এর holdings বৃদ্ধির ফলে Federal credit operations বেসরকারি বাজারে ৬ বিলিয়ন ডলারের বেশি নেট credit সরবরাহ করে।",
+      "bn_context": "প্রতিবেদনটি বাজেট ঘাটতি, নগদ কার্যক্রম, সরকারি ঋণ এবং Federal-sector credit-market transactions আলাদা করে বিশ্লেষণ করে।",
+      "bn_interpretation": "১৯৬৭ গুরুত্বপূর্ণ কারণ Treasury নিজেই দেখায় যে gross public debt বাড়লেও Federal-sector holdings-এর পরিবর্তনের কারণে private credit markets-এ Federal operations-এর net প্রভাব credit supply বৃদ্ধির দিকে যেতে পারে।",
+      "bn_notes": "Treasury Department Document No. 3242-এর মুদ্রিত pp. 3–4, 12–16 ও 192–193 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
