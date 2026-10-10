@@ -4520,18 +4520,18 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Official annual-report passage and printed-page locator identified in FRASER transcription; original page-image verification pending, so quotation remains provisional.",
+      "verification_status": "Printed p. 20 checked against original PDF image; supporting table on p. 21.",
       "last_verified": "2026-10-10",
       "notes": "This is the Board of Governors of the Federal Reserve System's 1982 annual report, not the Treasury Department's own annual report. It was transmitted April 15, 1983 and covers calendar year 1982. The cited passage appears under “Aggregate credit flows,” printed pp. 20–21. Check the original PDF page images before locking the quotation.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1982-2435/fulltext",
         "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1982.pdf"
       ],
-      "evidence_grade_6_4": "B",
-      "evidence_grade_6_6": "B",
-      "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with identified printed-page locator; grade remains B until the passage is visually checked against the original scan.",
-      "publication_status": "official primary source located; passage transcription pending page-image lock",
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report; the passage and printed locator were visually checked against the original PDF scan on p. 20, with supporting credit-flow table on p. 21.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
       "bn_title": "ফেডারেল রিজার্ভের ১৯৮২ বার্ষিক প্রতিবেদন — ট্রেজারির বাজারঋণ ও ফেডারেল ঘাটতি অর্থায়ন",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮২ সালের প্রতিবেদনে বলা হয়েছে, ট্রেজারি ১৪৬ বিলিয়ন ডলারের সম্মিলিত ফেডারেল ও off-budget ঘাটতি অর্থায়নের জন্য ঋণবাজার থেকে প্রায় ১৬০ বিলিয়ন ডলার সংগ্রহ করে এবং অতিরিক্ত অর্থের প্রায় অর্ধেক নগদ-স্থিতি বাড়াতে ব্যবহার করে।",
       "bn_context": "প্রতিবেদনটি ১৫ এপ্রিল ১৯৮৩-এ পাঠানো হয় এবং ১৯৮২ সালের ক্যালেন্ডার বছরের অর্থনৈতিক ও আর্থিক প্রবাহ বিশ্লেষণ করে।",
@@ -4540,13 +4540,13 @@
       "bn_verification_status": "FRASER-এর OCR-এ সরকারি প্রতিবেদন ও পৃষ্ঠা-লোকেটর শনাক্ত; মূল পৃষ্ঠার ছবির যাচাই বাকি।",
       "book": "book-1",
       "passage_record": {
-        "status": "Official report transcription located; original page-image verification pending; not yet a fully locked verbatim passage",
+        "status": "Printed p. 20 checked against original PDF image; supporting table on p. 21 checked.",
         "locator": "Printed pp. 20–21, “Aggregate credit flows”",
         "evidence": "Approximately $160 billion raised in U.S. credit markets; $146 billion combined federal and off-budget deficit; about half of the excess used to increase the cash balance; about $163 billion in marketable debt issuance; coupon issues about three-fifths of funds raised.",
         "significance": "Contemporary official evidence for Treasury borrowing scale, cash-balance management, and marketable debt composition in calendar year 1982.",
         "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1982.pdf",
         "checked": "2026-10-10",
-        "verification_note": "FRASER warns that extracted full text may contain errors. Compare printed pp. 20–21 with the original PDF images before locking the wording."
+        "verification_note": "Original PDF images for printed pp. 20–21 inspected; passage is legible on p. 20 and supporting credit-flow table is on p. 21."
       }
     }
   ],
