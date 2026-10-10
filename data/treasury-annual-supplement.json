@@ -4093,6 +4093,76 @@
         "checked": "2026-10-10",
         "verification_note": "Fiscal 1977 ended September 30; summary is paraphrase and printed page labels control over OCR."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1978",
+      "title": "U.S. Treasury Annual Report 1978 — Continued Federal Debt Growth and Expanded Federal Securities Outstanding",
+      "source_type": "Institutional annual report",
+      "date_start": "1978-09-30",
+      "date_end": "1978-09-30",
+      "date_label": "Fiscal year ended September 30, 1978",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal securities outstanding; public debt securities; borrowing from the public; Federal agency securities; unified budget deficit",
+      "original_text": "The Treasury's fiscal 1978 statistical appendix reports total Federal securities outstanding of approximately $780.4 billion at September 30, 1978, compared with approximately $709.1 billion at September 30, 1977, an increase of about $71.3 billion. Federal securities held by the public amounted to approximately $610.9 billion at September 30, 1978, compared with approximately $551.8 billion a year earlier. The total includes Treasury public debt securities and Federal agency securities; the appendix separately reports debt balances, ownership and fiscal operations. Contemporary fiscal summaries describe the unified-budget deficit for fiscal 1978 as approximately $48.8 billion.",
+      "translation": "ট্রেজারির ১৯৭৮ অর্থবছরের statistical appendix অনুযায়ী, ৩০ সেপ্টেম্বর ১৯৭৮-এ মোট Federal securities outstanding ছিল প্রায় ৭৮০.৪ বিলিয়ন ডলার; ৩০ সেপ্টেম্বর ১৯৭৭-এ তা ছিল প্রায় ৭০৯.১ বিলিয়ন ডলার—প্রায় ৭১.৩ বিলিয়ন ডলার বৃদ্ধি। জনসাধারণের হাতে থাকা Federal securities-এর পরিমাণ ৩০ সেপ্টেম্বর ১৯৭৮-এ প্রায় ৬১০.৯ বিলিয়ন ডলার, যা এক বছর আগে প্রায় ৫৫১.৮ বিলিয়ন ডলার ছিল। মোট পরিমাণে Treasury public debt securities এবং Federal agency securities অন্তর্ভুক্ত; appendix-এ debt balances, ownership এবং fiscal operations আলাদাভাবে দেখানো হয়েছে। সমসাময়িক আর্থিক সারাংশে ১৯৭৮ অর্থবছরের unified-budget ঘাটতি প্রায় ৪৮.৮ বিলিয়ন ডলার বলা হয়েছে।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances, Fiscal Year 1978: Statistical Appendix",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1978",
+      "reference_number": "Treasury Department Document No. 3276 A",
+      "page": "Statistical Appendix, tables 1, 17–18; printed table pages",
+      "section": "Summary of Fiscal Operations; Federal Debt; Federal Securities Held by the Public",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5623/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "By September 30, 1978, total Federal securities outstanding had reached approximately $780.4 billion, up about $71.3 billion from September 30, 1977. Federal securities held by the public rose to approximately $610.9 billion. The Treasury's statistical appendix provides the debt and ownership tables needed to distinguish total Federal securities from public holdings.",
+      "context": "The report uses the October–September Federal fiscal year. Its statistical appendix provides fiscal-operation tables and debt tables on both total Federal securities and securities held by the public, allowing a year-end comparison with fiscal 1977.",
+      "interpretation": "The primary statistical record documents continued expansion of Federal securities outstanding and of securities held by the public. These aggregate balances do not by themselves identify the holders of each instrument, the motive for issuance, or the causal role of any single institution.",
+      "counter_interpretations": [
+        "Total Federal securities outstanding and Federal securities held by the public are different measures; the latter excludes securities held as investments of Government accounts.",
+        "The $71.3 billion increase is the change in total Federal securities outstanding between September 30, 1977 and September 30, 1978, not a measure of the unified-budget deficit.",
+        "The approximately $48.8 billion unified-budget deficit is a separate fiscal-flow measure and should not be equated with the increase in year-end debt balances.",
+        "The cited document is the statistical appendix, not the narrative annual report; narrative claims should not be attributed to pages that were not inspected."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1977",
+        "us-treasury-debt-management-1976",
+        "us-treasury-debt-management-1975"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Debt-balance figures checked against the Treasury statistical appendix; narrative annual-report pages not independently inspected. Summary wording is not a verbatim quotation.",
+      "last_verified": "2026-10-10",
+      "notes": "Treasury Department Document No. 3276 A, Statistical Appendix. The tables list Federal securities outstanding and securities held by the public for September 30, 1977 and 1978. The approximate $48.8B deficit is contextual and should be cross-checked against the report's fiscal-operations tables before treating it as a page-locked exact figure. FRASER warns that OCR text may contain errors.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5623/fulltext",
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5622"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury statistical appendix, Treasury Department Document No. 3276 A, with debt and ownership tables for September 30, 1977 and September 30, 1978. The narrative report was not independently page-checked for this entry.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৮ — Federal securities ও জনসাধারণের হাতে থাকা সরকারি সিকিউরিটির ধারাবাহিক বৃদ্ধি",
+      "bn_historical_claim": "ট্রেজারির ১৯৭৮ সালের statistical appendix অনুযায়ী, ৩০ সেপ্টেম্বর ১৯৭৮-এ মোট Federal securities outstanding ছিল প্রায় ৭৮০.৪ বিলিয়ন ডলার, যা এক বছর আগে প্রায় ৭০৯.১ বিলিয়ন ডলার ছিল। জনসাধারণের হাতে থাকা Federal securities প্রায় ৬১০.৯ বিলিয়ন ডলারে পৌঁছায়।",
+      "bn_context": "প্রতিবেদনটি অক্টোবর–সেপ্টেম্বর Federal fiscal year অনুসরণ করে এবং মোট Federal securities ও জনসাধারণের হাতে থাকা securities-এর জন্য পৃথক debt ও ownership table দেয়।",
+      "bn_interpretation": "প্রাথমিক পরিসংখ্যান সরকারি securities-এর মোট পরিমাণ এবং জনসাধারণের হাতে থাকা অংশের বৃদ্ধি নথিভুক্ত করে। এসব aggregate balance একা issuance-এর উদ্দেশ্য বা কোনো প্রতিষ্ঠানের একক causal ভূমিকা প্রমাণ করে না।",
+      "bn_notes": "Treasury Department Document No. 3276 A-এর statistical appendix-এর debt ও ownership table ব্যবহার করা হয়েছে। Narrative report-এর পৃষ্ঠাগুলো আলাদাভাবে যাচাই করা হয়নি; ৪৮.৮ বিলিয়ন ডলারের deficit-কে নির্দিষ্ট পৃষ্ঠায় যাচাইকৃত সংখ্যা হিসেবে ব্যবহার করার আগে fiscal-operations table পুনরায় পরীক্ষা করতে হবে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Debt-balance tables checked; narrative report not independently page-checked",
+        "locator": "Statistical Appendix, tables 1 and 17–18",
+        "evidence": "Federal securities outstanding: about $780.4B at Sep. 30, 1978 vs. $709.1B in 1977; Federal securities held by the public: about $610.9B vs. $551.8B.",
+        "significance": "Primary statistical evidence for the continued expansion of Federal securities and the public-held portion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5623/fulltext",
+        "checked": "2026-10-10",
+        "verification_note": "Aggregate debt balances are distinct from budget deficits; this summary is not a verbatim quotation."
+      }
     }
   ],
   "last_updated": "2026-10-10"
