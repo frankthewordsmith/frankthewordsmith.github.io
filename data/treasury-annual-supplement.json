@@ -3679,6 +3679,75 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-debt-management-1972",
+      "title": "U.S. Treasury Annual Report 1972 — Dollar Convertibility Suspension, Smithsonian Realignment, Foreign Official Holdings, and Expanded Treasury Financing",
+      "source_type": "Institutional annual report",
+      "date_start": "1972-06-30",
+      "date_end": "1972-06-30",
+      "date_label": "Fiscal year ended June 30, 1972",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; public debt; foreign official holdings; dollar convertibility; Smithsonian Agreement; Treasury bills; Federal Reserve",
+      "original_text": "On the unified-budget basis the deficit for fiscal 1972 was $23.2 billion. Borrowing from the public amounted to $19.4 billion. Public debt securities totaled $427.3 billion at June 30, 1972, an increase of $29.1 billion from the previous year; all Federal securities totaled $438.2 billion. The marketable public debt rose $11.7 billion, including $8 billion of new cash borrowing in Treasury bills. Average maturity of the interest-bearing marketable public debt declined three months to 3 years 3 months. Foreign official accounts were the principal net buyers of public debt securities, increasing their holdings by $17.3 billion to $50.0 billion, including $7.7 billion in special nonmarketable issues. Federal Reserve net acquisition of Treasury securities was $5.8 billion, and Federal Reserve holdings reached $71.4 billion, or 17 percent of public debt securities. The report identifies August 15, 1971 as the decisive date on which the United States suspended dollar convertibility into gold and other reserve assets; the December 18 Smithsonian agreement then established a new pattern of exchange rates, including an average dollar devaluation of approximately 12 percent against major currencies.",
+      "translation": "১৯৭২ অর্থবছরে unified-budget ভিত্তিতে ২৩.২ বিলিয়ন ডলারের ঘাটতি ছিল এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ১৯.৪ বিলিয়ন ডলার। ৩০ জুন ১৯৭২-এ public debt securities ছিল ৪২৭.৩ বিলিয়ন ডলার, আগের বছরের তুলনায় ২৯.১ বিলিয়ন ডলার বেশি; সব Federal securities মিলিয়ে ছিল ৪৩৮.২ বিলিয়ন ডলার। Marketable public debt ১১.৭ বিলিয়ন ডলার বাড়ে, যার মধ্যে ৮ বিলিয়ন ডলার নতুন cash borrowing হিসেবে Treasury bills-এ যোগ হয়। গড় maturity তিন মাস কমে ৩ বছর ৩ মাস হয়। Foreign official accounts public debt securities-এর প্রধান net buyer ছিল; তাদের holdings ১৭.৩ বিলিয়ন ডলার বেড়ে ৫০.০ বিলিয়ন ডলারে পৌঁছায়, যার ৭.৭ বিলিয়ন ছিল special nonmarketable issues। Federal Reserve-এর Treasury securities net acquisition ছিল ৫.৮ বিলিয়ন ডলার এবং holdings ৭১.৪ বিলিয়ন ডলারে পৌঁছায়, যা public debt securities-এর ১৭ শতাংশ। প্রতিবেদনটি ১৫ আগস্ট ১৯৭১-এ dollar-এর gold ও অন্যান্য reserve assets-এ convertibility স্থগিত হওয়াকে निर्णায়ক ঘটনা এবং ১৮ ডিসেম্বর Smithsonian agreement-কে নতুন exchange-rate pattern-এর ভিত্তি হিসেবে চিহ্নিত করে; major currencies-এর তুলনায় dollar-এর গড় devaluation ছিল প্রায় ১২ শতাংশ।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1972",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1972",
+      "reference_number": "Treasury Department Document No. 3257",
+      "page": "3–4; 18–19; 26; 61; 217",
+      "section": "Financial Operations; Federal Debt Management; International Affairs; Legislation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1972-5611/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1972 combined substantial deficit financing and continued expansion of Federal debt with a decisive international monetary break: the suspension of dollar convertibility on August 15, 1971, followed by the Smithsonian exchange-rate realignment. Foreign official accounts became the largest net buyers of public debt securities, while Federal Reserve holdings also expanded.",
+      "context": "The Treasury report treats August 15, 1971 as the pivotal date of the fiscal year. It connects the balance-of-payments crisis, speculative dollar outflows, suspension of gold convertibility, exchange-rate realignment, foreign official dollar holdings, and domestic Treasury financing within one institutional account.",
+      "interpretation": "1972 is a central chronological marker for the user's reserve-currency transition research. The primary Treasury record documents the end of dollar convertibility into gold, the Smithsonian realignment, rapid growth in foreign official holdings of U.S. debt, and continued Federal Reserve acquisition of Treasury securities.",
+      "counter_interpretations": [
+        "The $23.2B unified-budget deficit and $29.1B increase in public debt securities are different measures; Treasury financing includes cash, trust-fund, and other transactions.",
+        "Foreign official holdings include both special nonmarketable issues and acquisitions of marketable Treasury bills and should not be treated as a single instrument.",
+        "The $5.8B Federal Reserve acquisition is a documented change in holdings and does not by itself establish a motive or direct Treasury financing relationship.",
+        "The report's characterization of August 15 as the decisive date and its assessment of the Smithsonian realignment are contemporaneous Treasury interpretations; the record does not by itself prove that one policy action caused every subsequent exchange-rate or reserve development."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1971",
+        "us-treasury-debt-management-1970",
+        "us-treasury-debt-management-1969"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3257. Printed pp. 3–4 establish fiscal operations; pp. 18–19 cover debt structure and ownership; p. 26 documents the August 15 convertibility suspension and Smithsonian realignment; p. 61 contains the fiscal-1972 balance-of-payments table; p. 217 contains the temporary public-debt-limit legislation. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1972-5611/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 18–19, 26, 61, 217",
+        "evidence": "$23.2B unified-budget deficit; $19.4B borrowing from public; $427.3B public debt securities; $438.2B Federal securities; $17.3B increase in foreign investor holdings; $5.8B Federal Reserve Treasury-security acquisition; August 15, 1971 suspension of dollar convertibility; December 18 Smithsonian realignment and approximately 12% average dollar devaluation.",
+        "significance": "Primary institutional evidence for the 1971–72 monetary transition, linking domestic Treasury financing with the end of dollar-gold convertibility, foreign official accumulation of U.S. debt, and exchange-rate realignment.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1972-5611/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3257, with verified printed pages covering fiscal operations, debt ownership, the August 15 convertibility suspension, Smithsonian exchange-rate realignment, balance-of-payments data, and debt-limit legislation.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭২ — ডলার convertibility স্থগিত, Smithsonian realignment, foreign official holdings ও Treasury financing সম্প্রসারণ",
+      "bn_historical_claim": "১৯৭২ অর্থবছরে unified-budget ঘাটতি ছিল ২৩.২ বিলিয়ন ডলার এবং public debt securities ২৯.১ বিলিয়ন ডলার বেড়ে ৪২৭.৩ বিলিয়ন ডলারে পৌঁছায়। Foreign official accounts-এর public-debt holdings ১৭.৩ বিলিয়ন ডলার বেড়ে ৫০.০ বিলিয়ন ডলারে পৌঁছায় এবং Federal Reserve-এর Treasury-security holdings ৫.৮ বিলিয়ন ডলার বাড়ে। Treasury প্রতিবেদন ১৫ আগস্ট ১৯৭১-এ dollar-এর gold convertibility স্থগিত এবং ১৮ ডিসেম্বর Smithsonian realignment-কে আন্তর্জাতিক monetary system-এর প্রধান পরিবর্তন হিসেবে নথিভুক্ত করে।",
+      "bn_context": "১৯৭২ সালের Treasury record domestic deficit financing, foreign official dollar accumulation এবং Bretton Woods-এর শেষ পর্যায়ের exchange-rate realignment-কে একই institutional framework-এ দেখায়।",
+      "bn_interpretation": "Reserve-currency transition গবেষণার জন্য ১৯৭২ একটি কেন্দ্রীয় chronology marker: dollar-gold convertibility-এর অবসান, foreign official debt accumulation এবং নতুন exchange-rate regime একই primary record-এ নথিভুক্ত।",
+      "bn_notes": "Treasury Department Document No. 3257-এর মুদ্রিত pp. 3–4, 18–19, 26, 61 ও 217 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
