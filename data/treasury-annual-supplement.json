@@ -5301,6 +5301,74 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year debt-growth figures are distinct. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1994",
+      "title": "Federal Reserve Annual Report 1995 — Lower Fiscal Deficit and Continued Broad Debt Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1994-01-01",
+      "date_end": "1994-12-31",
+      "date_label": "Calendar year 1994; deficit figure is fiscal year 1994; reported in the 1995 Federal Reserve annual report",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget deficit; domestic nonfinancial-sector debt; federal and nonfederal debt growth",
+      "original_text": "The Federal Reserve's 1995 annual report states that the federal budget deficit declined to $203 billion in fiscal 1994, equal to 3.1 percent of nominal GDP. Its discussion of credit and money flows states that debt of all domestic nonfinancial sectors increased about 5½ percent in calendar 1994, about the same as in 1993, as stronger business and household borrowing was offset by slower growth in government debt. The report also describes relatively slow federal debt growth and a decline in outstanding state and local government debt.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯৫ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯৪ অর্থবছরে ফেডারেল বাজেট ঘাটতি কমে ২০৩ বিলিয়ন ডলারে দাঁড়ায়, যা নামমাত্র জিডিপির ৩.১ শতাংশ। ঋণ ও অর্থপ্রবাহ-সংক্রান্ত আলোচনায় বলা হয়েছে, ১৯৯৪ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতগুলোর মোট ঋণ প্রায় ৫.৫ শতাংশ বেড়েছিল—১৯৯৩ সালের কাছাকাছি হারে। ব্যবসা ও পরিবারের ঋণগ্রহণ বাড়লেও সরকারি ঋণবৃদ্ধি ধীর হওয়ায় সামগ্রিক বৃদ্ধির হার সীমিত ছিল। প্রতিবেদনে ফেডারেল ঋণ তুলনামূলক ধীরে বাড়া এবং রাজ্য ও স্থানীয় সরকারের বকেয়া ঋণ কমার কথাও বলা হয়েছে।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি ও ক্যালেন্ডার বছরের ঋণবৃদ্ধি পৃথক রাখা হয়েছে",
+      "edition": "Eighty-Second Annual Report of the Board of Governors of the Federal Reserve System, 1995",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1996",
+      "reference_number": "Eighty-Second Annual Report",
+      "page": "Printed p. 9, fiscal 1994 federal deficit discussion; printed pp. 61–62, “Credit and Money Flows in 1994” / debt growth discussion",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1995; retrospective discussion of 1994 fiscal and credit conditions",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1995-2463/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1995 annual report records a $203 billion federal budget deficit for fiscal 1994 and approximately 5½ percent growth in domestic nonfinancial-sector debt during calendar 1994, with stronger private borrowing broadly offset by slower government debt growth.",
+      "context": "The $203 billion deficit is fiscal-year 1994 data; the approximately 5½ percent debt-growth figure is for calendar 1994. The aggregate includes multiple domestic nonfinancial sectors and is not a direct measure of Treasury net borrowing or gross securities issuance.",
+      "interpretation": "The report documents a smaller federal deficit alongside continued growth in broad nonfinancial-sector debt. It describes private borrowing as stronger while government debt growth slowed, and notes that state and local government debt outstanding declined. This supports a sectoral comparison, not a claim that the deficit itself equals Treasury borrowing or alone determines credit conditions.",
+      "counter_interpretations": [
+        "The unified federal budget deficit is not the same as Treasury net borrowing, gross issuance, or the annual change in debt held by the public.",
+        "Domestic nonfinancial-sector debt includes federal and nonfederal borrowers; its growth rate is broader than Treasury debt growth.",
+        "The report describes offsetting sectoral trends but does not establish that deficit reduction alone caused private borrowing to rise or interest rates to change."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1993",
+        "us-treasury-debt-management-1992",
+        "us-treasury-debt-management-1991"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "The report states that the fiscal 1994 federal deficit was $203 billion, 3.1 percent of nominal GDP. Its 1994 credit-flow discussion reports about 5½ percent growth in domestic nonfinancial-sector debt, with stronger household and business borrowing offset by slower government debt growth. Text-layer verification only; original page images remain pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1995-2463/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with searchable source text and printed-page locators; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৫ বার্ষিক প্রতিবেদন — অর্থবছরের ঘাটতি হ্রাস ও সামগ্রিক ঋণবৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৯৫ সালের বার্ষিক প্রতিবেদনে ১৯৯৪ অর্থবছরের ফেডারেল বাজেট ঘাটতি ২০৩ বিলিয়ন ডলার এবং ১৯৯৪ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের ঋণবৃদ্ধি প্রায় ৫.৫ শতাংশ বলা হয়েছে। বেসরকারি ঋণগ্রহণ বাড়লেও সরকারি ঋণবৃদ্ধি ধীর হওয়ায় সামগ্রিক ঋণবৃদ্ধি ১৯৯৩ সালের কাছাকাছি ছিল।",
+      "bn_context": "২০৩ বিলিয়ন ডলারের ঘাটতি ১৯৯৪ অর্থবছরের হিসাব; প্রায় ৫.৫ শতাংশ ঋণবৃদ্ধি ১৯৯৪ ক্যালেন্ডার বছরের। সামগ্রিক অ-আর্থিক ঋণে ফেডারেল ও অ-ফেডারেল উভয় খাত অন্তর্ভুক্ত, তাই এটি ট্রেজারির নিট ধারগ্রহণের সমান নয়।",
+      "bn_interpretation": "১৯৯৪ সালে ফেডারেল বাজেট ঘাটতি কমে, কিন্তু দেশীয় অ-আর্থিক খাতের ঋণ বাড়তে থাকে। প্রতিবেদনে পরিবার ও ব্যবসার ঋণগ্রহণ বাড়া এবং সরকারি ঋণবৃদ্ধি ধীর হওয়ার কথা বলা হয়েছে; রাজ্য ও স্থানীয় সরকারের বকেয়া ঋণও কমে।",
+      "bn_notes": "১৯৯৪ অর্থবছরের ঘাটতির আলোচনা মুদ্রিত পৃষ্ঠা ৯-এ; ১৯৯৪ সালের ঋণপ্রবাহের আলোচনা মুদ্রিত পৃষ্ঠা ৬১–৬২-এ। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "locator": "82nd Annual Report (1995), printed p. 9 (FY 1994 deficit); printed pp. 61–62, “Credit and Money Flows in 1994” / debt growth discussion.",
+        "evidence": "The report states that the federal budget deficit declined to $203 billion in fiscal 1994, equal to 3.1 percent of nominal GDP. It reports that domestic nonfinancial-sector debt grew about 5½ percent in calendar 1994, as stronger business and household borrowing was offset by slower growth in government debt.",
+        "significance": "Contemporary official evidence of a lower fiscal-year federal deficit alongside continued broad nonfinancial-sector debt growth and slower government debt expansion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1995-2463/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Fiscal-year deficit and calendar-year debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-11"
