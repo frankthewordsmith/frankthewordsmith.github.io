@@ -3610,6 +3610,75 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-debt-management-1971",
+      "title": "U.S. Treasury Annual Report 1971 — Large Deficit Financing, Federal Reserve Purchases, Short-Term Debt, and SDR Expansion",
+      "source_type": "Institutional annual report",
+      "date_start": "1971-06-30",
+      "date_end": "1971-06-30",
+      "date_label": "Fiscal year ended June 30, 1971",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; Federal Reserve purchases; public debt; interest-rate ceiling; Special Drawing Rights",
+      "original_text": "On the unified-budget basis the fiscal 1971 deficit was $23.0 billion, compared with $2.8 billion in fiscal 1970. Borrowing from the public amounted to $19.4 billion. Federal securities outstanding totaled $410.3 billion, including $398.1 billion of public debt securities and $12.2 billion of agency securities. Public debt increased $27.2 billion. The Federal Reserve acquired $7.8 billion of Treasury obligations, accounting for almost 30 percent of the public debt increase. The average length of privately held marketable public debt declined two months to 3 years 6 months. Congress authorized Treasury to issue up to $10 billion of Treasury bonds without regard to the 4.25 percent interest-rate ceiling, although no such bonds were issued during the fiscal year. The second SDR allocation of $2.949 billion occurred January 1, 1971, bringing cumulative allocations to $6.363 billion.",
+      "translation": "১৯৭১ অর্থবছরে unified-budget ভিত্তিতে ২৩.০ বিলিয়ন ডলারের ঘাটতি হয়, যেখানে ১৯৭০ সালে ঘাটতি ছিল ২.৮ বিলিয়ন ডলার। জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ১৯.৪ বিলিয়ন ডলার। Federal securities outstanding ছিল ৪১০.৩ বিলিয়ন ডলার, যার মধ্যে ৩৯৮.১ বিলিয়ন public debt securities এবং ১২.২ বিলিয়ন agency securities। Public debt ২৭.২ বিলিয়ন ডলার বাড়ে। Federal Reserve ৭.৮ বিলিয়ন ডলারের Treasury obligations অধিগ্রহণ করে, যা public-debt বৃদ্ধির প্রায় ৩০ শতাংশ। Privately held marketable public debt-এর গড় মেয়াদ দুই মাস কমে ৩ বছর ৬ মাস হয়। Congress Treasury-কে ৪.২৫ শতাংশ interest-rate ceiling উপেক্ষা করে সর্বোচ্চ ১০ বিলিয়ন ডলারের Treasury bonds ইস্যুর অনুমতি দেয়, যদিও ওই অর্থবছরে এমন bond ইস্যু হয়নি। ১ জানুয়ারি ১৯৭১-এ ২.৯৪৯ বিলিয়ন ডলারের দ্বিতীয় SDR allocation হয়; cumulative allocation দাঁড়ায় ৬.৩৬৩ বিলিয়ন ডলার।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1971",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1971",
+      "reference_number": "Treasury Department Document No. 3254",
+      "page": "3–4; 11–16; 41; 323",
+      "section": "Financial Operations; Federal Debt Management; International Financial Affairs; Legislation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1971-5610/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1971 sharply expanded deficit financing. The unified-budget deficit reached $23.0 billion and public debt rose $27.2 billion. The Federal Reserve acquired $7.8 billion of Treasury obligations, while the average maturity of privately held marketable debt shortened. At the same time Congress relaxed the 4.25 percent Treasury bond ceiling for up to $10 billion of issuance, and the IMF made the second SDR allocation.",
+      "context": "The report places domestic debt management within a changing monetary environment: stimulative monetary policy, falling interest rates, heavy refinancing requirements, foreign and international purchases of Treasury securities, and expansion of the SDR reserve asset.",
+      "interpretation": "1971 is a major institutional bridge toward the monetary break of the early 1970s. The Treasury record combines a large fiscal deficit, substantial Federal Reserve acquisition of Treasury obligations, relaxation of the long-standing bond-rate ceiling, continued reliance on short-term bills, and growing SDR reserves.",
+      "counter_interpretations": [
+        "The $23.0B unified-budget deficit is distinct from the $27.2B public-debt increase; Treasury explicitly reconciles the difference through cash assets and other adjustments.",
+        "The $7.8B Federal Reserve acquisition is a documented increase in holdings, not by itself proof of a particular causal motive or of direct Treasury financing.",
+        "Congress authorized up to $10B of bonds without the ceiling, but Treasury issued no such bonds during FY1971.",
+        "The $2.949B SDR allocation is an IMF reserve allocation, not Treasury borrowing or a Treasury security issuance."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1970",
+        "us-treasury-debt-management-1969",
+        "us-treasury-debt-management-1968"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3254. Printed pp. 3–4 establish fiscal operations; pp. 11–16 cover debt structure, ownership and Federal Reserve acquisitions; p. 41 covers SDRs; p. 323 contains the debt-limit/interest-ceiling legislation. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1971-5610/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 11–16, 41, 323",
+        "evidence": "$23.0B unified-budget deficit; $19.4B borrowing from public; $410.3B Federal securities; $27.2B public-debt increase; $7.8B Federal Reserve acquisition; 4.25% ceiling relief up to $10B; second SDR allocation $2.949B.",
+        "significance": "Primary institutional evidence linking large deficit financing, Federal Reserve Treasury-security acquisitions, maturity shortening, statutory interest-rate ceiling relief, and SDR expansion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1971-5610/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, Federal Reserve holdings, legislation, and SDR operations.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭১ — বৃহৎ ঘাটতি অর্থায়ন, Federal Reserve ক্রয়, স্বল্পমেয়াদি ঋণ ও SDR সম্প্রসারণ",
+      "bn_historical_claim": "১৯৭১ অর্থবছরে unified-budget ঘাটতি ছিল ২৩.০ বিলিয়ন ডলার এবং public debt ২৭.২ বিলিয়ন ডলার বাড়ে। Federal Reserve ৭.৮ বিলিয়ন ডলারের Treasury obligations অধিগ্রহণ করে। Congress ৪.২৫ শতাংশ interest-rate ceiling-এর বাইরে সর্বোচ্চ ১০ বিলিয়ন ডলারের Treasury bonds ইস্যুর অনুমতি দেয়, যদিও ওই বছরে এমন bond ইস্যু হয়নি। ১ জানুয়ারি ১৯৭১-এ দ্বিতীয় SDR allocation ২.৯৪৯ বিলিয়ন ডলার ছিল।",
+      "bn_context": "১৯৭১ সালে deficit financing, Federal Reserve holdings, Treasury maturity structure এবং আন্তর্জাতিক reserve asset SDR একই পরিবর্তনশীল monetary environment-এর মধ্যে নথিভুক্ত হয়।",
+      "bn_interpretation": "১৯৭১ early-1970s monetary break-এর দিকে একটি গুরুত্বপূর্ণ institutional bridge; fiscal deficit, Federal Reserve acquisition, interest-rate ceiling relief এবং SDR expansion একসঙ্গে দেখা যায়।",
+      "bn_notes": "Treasury Department Document No. 3254-এর মুদ্রিত pp. 3–4, 11–16, 41 ও 323 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
