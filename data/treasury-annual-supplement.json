@@ -3196,6 +3196,75 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-debt-management-1965",
+      "title": "U.S. Treasury Annual Report 1965 — Deficit Financing, Debt Restructuring, Foreign Official Holdings, and Debt-Limit Expansion",
+      "source_type": "Institutional annual report",
+      "date_start": "1965-06-30",
+      "date_end": "1965-06-30",
+      "date_label": "Fiscal year ended June 30, 1965",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "administrative budget deficit; public debt; advance refunding; foreign official agencies; Treasury bills; debt limit",
+      "original_text": "The Treasury reported a $3.4 billion administrative budget deficit in fiscal 1965. Public debt outstanding reached $317.3 billion, a net increase of $5.6 billion. Treasury financing included $3.8 billion of new cash beyond $5.8 billion of seasonal tax-anticipation-bill borrowing, while advance refundings placed $19 billion of longer-term securities and extended more than one-fourth of the marketable notes and bonds outstanding a year earlier. Securities issued directly to foreign official agencies increased by $1.1 billion. Congress temporarily increased the public debt limit to $328 billion for fiscal 1966.",
+      "translation": "১৯৬৫ অর্থবছরে ট্রেজারি ৩.৪ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১৭.৩ বিলিয়ন ডলারের সরকারি ঋণ রিপোর্ট করে, যা বছরে ৫.৬ বিলিয়ন ডলার বেড়েছিল। ৫.৮ বিলিয়ন ডলারের seasonal tax-anticipation borrowing-এর বাইরে আরও ৩.৮ বিলিয়ন ডলার নতুন নগদ সংগ্রহ করা হয়। জুলাই ১৯৬৪ ও জানুয়ারি ১৯৬৫-এর advance refunding-এ ১৯ বিলিয়ন ডলারের দীর্ঘমেয়াদি সিকিউরিটি স্থাপন করা হয় এবং আগের বছরের marketable notes and bonds-এর এক-চতুর্থাংশের বেশি মেয়াদ বাড়ানো হয়। বিদেশি সরকারি সংস্থার কাছে সরাসরি ইস্যু করা সিকিউরিটি ১.১ বিলিয়ন ডলার বাড়ে। কংগ্রেস ১৯৬৬ অর্থবছরের জন্য সাময়িক সরকারি ঋণসীমা ৩২৮ বিলিয়ন ডলারে উন্নীত করে।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1965",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1966",
+      "reference_number": "Treasury Department Document No. 3236",
+      "page": "3–4; 27–29; 32; 274",
+      "section": "Review of Fiscal Operations; Public Debt Management and Ownership; Legislation",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1965-5458/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1965 combined a smaller administrative deficit with continued public-debt growth, substantial maturity restructuring, increased securities issued directly to foreign official agencies, and another statutory debt-limit increase. The Treasury distinguished the $3.4 billion budget deficit from the $5.6 billion public-debt increase and documented the financing operations that reconciled the two.",
+      "context": "The report records $5.8 billion of seasonal tax-anticipation-bill borrowing and $3.8 billion of additional new cash. Advance refundings in July 1964 and January 1965 placed $19 billion of longer-term securities and extended more than one-fourth of the marketable notes and bonds outstanding at the prior year-end. Foreign official agencies received $1.1 billion more special nonmarketable securities.",
+      "interpretation": "1965 shows the debt-management system becoming increasingly sophisticated: Treasury combined seasonal bill financing, new-cash borrowing, maturity engineering, foreign-official financing, and statutory debt-limit management. The record also demonstrates why the annual deficit should not be treated as a one-for-one measure of annual debt growth.",
+      "counter_interpretations": [
+        "$3.4 billion is the administrative budget deficit and is not identical to the $5.6 billion public-debt increase because cash balances and other transactions enter the reconciliation.",
+        "$317.3 billion is public debt outstanding; total gross public debt and guaranteed debt was $317.9 billion.",
+        "The $1.1 billion increase in securities issued directly to foreign official agencies is distinct from ordinary marketable Treasury securities.",
+        "The $328 billion ceiling was a temporary statutory limit for FY1966, not itself a borrowing transaction."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1964",
+        "us-treasury-debt-management-1963",
+        "us-treasury-debt-management-1962"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passage verified — printed pages",
+      "last_verified": "2026-10-05",
+      "notes": "Verified against Treasury Department Document No. 3236. Printed pp. 3–4 establish fiscal totals; pp. 27–29 document financing and maturity restructuring; p. 32 documents foreign official securities; p. 274 reproduces Public Law 89-49 raising the temporary debt limit to $328 billion. FRASER OCR is automatically extracted; printed page labels control.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1965-5458/fulltext"
+      ],
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "Printed pp. 3–4, 27–29, 32, 274",
+        "evidence": "$3.4B administrative budget deficit; $317.3B public debt; $5.8B seasonal tax-anticipation borrowing plus $3.8B new cash; $19B advance refundings; $1.1B increase in securities issued directly to foreign official agencies; temporary $328B debt limit for FY1966.",
+        "significance": "Primary institutional evidence connecting deficit financing, seasonal Treasury bills, maturity restructuring, foreign official financing, and statutory debt-limit expansion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1965-5458/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Printed pages control over OCR."
+      },
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, foreign official securities, and debt-limit legislation.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৫ — ঘাটতি অর্থায়ন, ঋণ পুনর্গঠন, বৈদেশিক সরকারি সিকিউরিটি ও ঋণসীমা সম্প্রসারণ",
+      "bn_historical_claim": "১৯৬৫ অর্থবছরে ৩.৪ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১৭.৩ বিলিয়ন ডলারের সরকারি ঋণ ছিল। ঋণবৃদ্ধির পাশাপাশি ট্রেজারি seasonal tax-anticipation bills, নতুন নগদ সংগ্রহ, advance refunding এবং বিদেশি সরকারি সংস্থার কাছে সরাসরি সিকিউরিটি ইস্যু ব্যবহার করে অর্থায়ন কাঠামো পরিচালনা করে।",
+      "bn_context": "প্রতিবেদনটি দেখায় যে ঘাটতি, ঋণবৃদ্ধি, স্বল্পমেয়াদি বিল, দীর্ঘমেয়াদি maturity restructuring, বিদেশি সরকারি অর্থায়ন এবং কংগ্রেসের ঋণসীমা একই ঋণ-ব্যবস্থাপনা ব্যবস্থার অংশ ছিল।",
+      "bn_interpretation": "১৯৬৫ সালে ট্রেজারির ঋণ-ব্যবস্থাপনা আরও বহুমাত্রিক হয়ে ওঠে—seasonal borrowing, নতুন নগদ সংগ্রহ, maturity engineering, foreign-official financing এবং statutory debt-limit management একসঙ্গে কাজ করে।",
+      "bn_notes": "Treasury Department Document No. 3236-এর মুদ্রিত pp. 3–4, 27–29, 32 ও 274 দিয়ে যাচাই করা হয়েছে।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1"
+    },
+    {
       "source_id": "us-treasury-debt-management-1973",
       "title": "U.S. Treasury Annual Report 1973 — Reduced Deficit, Continued Treasury Borrowing, Foreign Investor Demand, and Federal Reserve Acquisitions",
       "source_type": "Institutional annual report",
