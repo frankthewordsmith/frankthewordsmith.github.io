@@ -5369,6 +5369,74 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1995",
+      "title": "Federal Reserve Annual Report 1996 — Deficit Reduction and Slower Federal Debt Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1995-01-01",
+      "date_end": "1995-12-31",
+      "date_label": "Calendar year 1995; deficit figure is fiscal year 1995; reported in the 1996 Federal Reserve annual report",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Unified federal budget deficit; domestic nonfinancial-sector debt; federal debt growth",
+      "original_text": "The Federal Reserve's 1996 annual report states that the unified federal budget deficit declined to about $165 billion in fiscal 1995 from $203 billion in fiscal 1994. Its retrospective credit-flow discussion reports that domestic nonfinancial-sector debt grew about 5.3 percent in calendar 1995, close to the 5.2 percent rate in 1994. Federal debt grew about 3¾ percent in 1995, slightly less than in 1994; the report links reduced federal credit demand largely to a roughly 20 percent shrinkage in the deficit for the calendar year and notes that Treasury borrowing near year-end was constrained by the debt ceiling.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৯৬ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯৫ অর্থবছরে সমন্বিত ফেডারেল বাজেট ঘাটতি কমে প্রায় ১৬৫ বিলিয়ন ডলারে দাঁড়ায়; ১৯৯৪ অর্থবছরে তা ছিল ২০৩ বিলিয়ন ডলার। ঋণপ্রবাহ-সংক্রান্ত পর্যালোচনায় বলা হয়েছে, ১৯৯৫ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৫.৩ শতাংশ বেড়েছিল, যা ১৯৯৪ সালের ৫.২ শতাংশের কাছাকাছি। ১৯৯৫ সালে ফেডারেল ঋণ প্রায় ৩.৭৫ শতাংশ বাড়ে, ১৯৯৪ সালের তুলনায় সামান্য কম হারে। প্রতিবেদনে বলা হয়েছে, ক্যালেন্ডার বছরে ঘাটতি প্রায় ২০ শতাংশ কমায় ফেডারেল সরকারের ঋণবাজারে অর্থায়নের চাহিদা কমে; বছরশেষে ঋণসীমার কারণে ট্রেজারির ধারগ্রহণও সীমিত হয়।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি, ক্যালেন্ডার বছরের ঋণবৃদ্ধি এবং ফেডারেল ঋণবৃদ্ধিকে পৃথক রাখা হয়েছে",
+      "edition": "Eighty-Third Annual Report of the Board of Governors of the Federal Reserve System, 1996",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1997",
+      "reference_number": "Eighty-Third Annual Report",
+      "page": "Printed p. 47, fiscal 1995 deficit discussion; printed pp. 54–55, retrospective credit and debt-flow discussion for 1995",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1996; retrospective discussion of fiscal and credit conditions in 1995",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1996-2460/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1996 annual report records a fiscal 1995 federal budget deficit of about $165 billion and about 5.3 percent growth in domestic nonfinancial-sector debt during calendar 1995; federal debt grew about 3¾ percent.",
+      "context": "The deficit figure is for fiscal 1995; broad debt growth and federal debt growth are calendar-year 1995 measures. Domestic nonfinancial-sector debt includes both federal and nonfederal borrowers and is not the same as Treasury net borrowing or gross issuance.",
+      "interpretation": "The report shows the federal deficit narrowing while broad nonfinancial-sector debt continued to grow at a moderate pace. It identifies both the reduced deficit and year-end debt-ceiling constraints as relevant to federal borrowing conditions. These figures should not be treated as interchangeable measures of Treasury issuance.",
+      "counter_interpretations": [
+        "The unified federal budget deficit is not identical to Treasury net borrowing, gross issuance, or the change in debt held by the public.",
+        "Domestic nonfinancial-sector debt includes federal and nonfederal borrowers, so its growth rate cannot be attributed solely to Treasury financing.",
+        "The report describes the debt ceiling as constraining the timing of year-end borrowing; it does not imply that the ceiling alone explains the annual deficit or debt growth."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1994",
+        "us-treasury-debt-management-1993",
+        "us-treasury-debt-management-1992"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "The report's fiscal-year discussion says the deficit fell to about $165 billion in FY1995 from $203 billion in FY1994 (printed p. 47). Its retrospective credit-flow section gives calendar-1995 domestic nonfinancial-sector debt growth of 5.3 percent and federal debt growth of 3¾ percent (printed pp. 54–55). Text-layer verification only; original page images remain pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1996-2460/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report with searchable text and printed-page locators; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৬ বার্ষিক প্রতিবেদন — বাজেট ঘাটতি হ্রাস ও ফেডারেল ঋণবৃদ্ধির ধীরগতি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৯৬ সালের বার্ষিক প্রতিবেদনে ১৯৯৫ অর্থবছরের ফেডারেল বাজেট ঘাটতি প্রায় ১৬৫ বিলিয়ন ডলার বলা হয়েছে, যা ১৯৯৪ অর্থবছরের ২০৩ বিলিয়ন ডলারের চেয়ে কম। ১৯৯৫ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৫.৩ শতাংশ এবং ফেডারেল ঋণ প্রায় ৩.৭৫ শতাংশ বেড়েছিল।",
+      "bn_context": "বাজেট ঘাটতির অঙ্কটি ১৯৯৫ অর্থবছরের; ঋণবৃদ্ধির হারগুলো ১৯৯৫ ক্যালেন্ডার বছরের। সামগ্রিক অ-আর্থিক ঋণে ফেডারেল ও অ-ফেডারেল উভয় খাত অন্তর্ভুক্ত, তাই এটি ট্রেজারির নিট ধারগ্রহণের সমান নয়।",
+      "bn_interpretation": "১৯৯৫ সালে ফেডারেল ঘাটতি কমলেও সামগ্রিক অ-আর্থিক ঋণ মাঝারি হারে বাড়তে থাকে। প্রতিবেদনে ঘাটতি হ্রাস এবং বছরশেষে ঋণসীমাজনিত বিধিনিষেধকে ফেডারেল ধারগ্রহণের প্রেক্ষাপট হিসেবে উল্লেখ করা হয়েছে।",
+      "bn_notes": "১৯৯৫ অর্থবছরের ঘাটতির আলোচনা মুদ্রিত পৃষ্ঠা ৪৭-এ; ১৯৯৫ সালের ঋণপ্রবাহের পর্যালোচনা মুদ্রিত পৃষ্ঠা ৫৪–৫৫-এ। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "locator": "83rd Annual Report (1996), printed p. 47 (FY 1995 deficit); printed pp. 54–55 (calendar-1995 credit and debt flows).",
+        "evidence": "The report states that the fiscal 1995 federal budget deficit fell to about $165 billion from $203 billion in fiscal 1994. Its retrospective credit-flow discussion reports domestic nonfinancial-sector debt growth of about 5.3 percent and federal debt growth of about 3¾ percent for calendar 1995.",
+        "significance": "Contemporary official evidence of a declining federal deficit and moderate broad debt growth, with a reported role for the debt ceiling in constraining year-end Treasury borrowing.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1996-2460/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Fiscal-year deficit and calendar-year debt-growth figures are distinct. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-11"
