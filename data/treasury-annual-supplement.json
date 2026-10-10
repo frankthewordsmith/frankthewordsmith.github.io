@@ -5505,6 +5505,75 @@
         "checked": "2026-10-11",
         "verification_note": "Fiscal-year deficit and calendar-year debt-growth figures are distinct. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1997",
+      "title": "Federal Reserve Bulletin, March 1998 — Federal Deficit Reduction and Slower Debt Growth in 1997",
+      "source_type": "Contemporary official central-bank bulletin",
+      "date_start": "1997-01-01",
+      "date_end": "1997-12-31",
+      "date_label": "Calendar year 1997; federal budget deficit is fiscal year 1997; published March 1998",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial-sector debt; federal debt; unified federal budget deficit",
+      "original_text": "The Federal Reserve Bulletin's March 1998 discussion of economic and financial developments in 1997 reports that domestic nonfinancial-sector debt grew at about a 4¾ percent rate in 1997, below the 5¼ percent rate in 1996. It states that the deceleration was accounted for entirely by the federal component, which rose less than 1 percent in 1997 after rising 3¾ percent in 1996. Separately, the GAO's audit of the 1997 consolidated financial statements reports that the unified federal budget deficit fell to $22 billion in fiscal 1997 from $107 billion in fiscal 1996, equal to 0.3 percent of GDP.",
+      "translation": "ফেডারেল রিজার্ভ বুলেটিনের মার্চ ১৯৯৮ সংখ্যায় ১৯৯৭ সালের অর্থনৈতিক ও আর্থিক পরিস্থিতি আলোচনায় বলা হয়েছে, ১৯৯৭ সালে দেশীয় অ-আর্থিক খাতের ঋণ প্রায় ৪.৭৫ শতাংশ হারে বেড়েছিল, যা ১৯৯৬ সালের ৫.২৫ শতাংশ হারের চেয়ে কম। ঋণবৃদ্ধির এই মন্থরতা সম্পূর্ণভাবে ফেডারেল অংশের কারণে ঘটে: ১৯৯৭ সালে ফেডারেল ঋণ ১ শতাংশেরও কম বেড়েছিল, যেখানে ১৯৯৬ সালে বেড়েছিল ৩.৭৫ শতাংশ। পৃথকভাবে, GAO-র ১৯৯৭ সালের সমন্বিত সরকারি আর্থিক বিবরণীর নিরীক্ষায় বলা হয়েছে, সমন্বিত ফেডারেল বাজেট ঘাটতি ১৯৯৬ অর্থবছরের ১০৭ বিলিয়ন ডলার থেকে ১৯৯৭ অর্থবছরে ২২ বিলিয়ন ডলারে নেমে আসে, যা জিডিপির ০.৩ শতাংশ।",
+      "translator": "বাংলা অনুবাদ — অর্থবছরের ঘাটতি ও ক্যালেন্ডার বছরের ঋণবৃদ্ধি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Bulletin, March 1998; GAO/AIMD-98-127, Financial Audit: 1997 Consolidated Financial Statements of the United States Government",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. General Accounting Office",
+      "publication_year": "1998",
+      "reference_number": "Federal Reserve Bulletin, March 1998; GAO/AIMD-98-127",
+      "page": "Federal Reserve Bulletin, March 1998, section “Economic and Financial Developments in 1997,” debt paragraph; GAO report, printed p. 12, “Budget results”",
+      "section": "Economic and Financial Developments in 1997; GAO report section “Budget results”",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/FRB/1990s/frb_031998.pdf",
+      "primary_or_secondary": "Primary institutional sources",
+      "historical_claim": "Contemporary Federal Reserve evidence reports domestic nonfinancial-sector debt growth of about 4¾ percent in 1997 and federal debt growth below 1 percent; the GAO reports a $22 billion fiscal-year 1997 unified federal deficit.",
+      "context": "The debt-growth rates refer to calendar 1997, while the $22 billion unified budget deficit refers to fiscal year 1997. Broad domestic nonfinancial-sector debt includes federal and nonfederal borrowers and is not equivalent to Treasury net borrowing, gross issuance, or debt held by the public.",
+      "interpretation": "The contemporary Federal Reserve account links the slowdown in total domestic nonfinancial debt growth to the reduced federal component, while the GAO independently records the sharp fall in the fiscal-year deficit. These are related but distinct measures and should not be conflated.",
+      "counter_interpretations": [
+        "The unified federal budget deficit is not identical to Treasury net borrowing, gross issuance, or the annual change in debt held by the public.",
+        "Domestic nonfinancial-sector debt includes federal and nonfederal borrowers; the aggregate growth rate is not a Treasury-only measure.",
+        "The sources document changes and describe contributing factors; they do not establish that one policy or institution alone caused the debt and deficit outcomes."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1996",
+        "us-treasury-debt-management-1995",
+        "us-treasury-debt-management-1994"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Official Federal Reserve Bulletin text and GAO report text checked; printed-page image verification remains pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Bulletin, March 1998: domestic nonfinancial-sector debt grew about 4¾ percent in 1997; federal debt rose less than 1 percent. GAO/AIMD-98-127, printed p. 12, reports the fiscal 1997 unified deficit at $22 billion, or 0.3 percent of GDP. Original page images remain to be inspected.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/FRB/1990s/frb_031998.pdf",
+        "https://www.govinfo.gov/content/pkg/GAOREPORTS-AIMD-98-127/html/GAOREPORTS-AIMD-98-127.htm"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve bulletin and GAO audit with searchable text and identified locators; original page images not independently checked.",
+      "publication_status": "primary institutional evidence; text-layer and locator checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভ বুলেটিন, মার্চ ১৯৯৮ — ১৯৯৭ সালে ফেডারেল ঘাটতি হ্রাস ও ঋণবৃদ্ধির গতি মন্থর",
+      "bn_historical_claim": "সমকালীন ফেডারেল রিজার্ভ সূত্রে ১৯৯৭ সালে দেশীয় অ-আর্থিক খাতের ঋণবৃদ্ধি প্রায় ৪.৭৫ শতাংশ এবং ফেডারেল ঋণবৃদ্ধি ১ শতাংশের কম বলা হয়েছে। GAO-র নিরীক্ষায় ১৯৯৭ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি ২২ বিলিয়ন ডলার বলা হয়েছে।",
+      "bn_context": "ঋণবৃদ্ধির হারগুলো ১৯৯৭ ক্যালেন্ডার বছরের; ২২ বিলিয়ন ডলারের ঘাটতি ১৯৯৭ অর্থবছরের। সামগ্রিক দেশীয় অ-আর্থিক ঋণে ফেডারেল ও অ-ফেডারেল উভয় ঋণগ্রহীতা অন্তর্ভুক্ত।",
+      "bn_interpretation": "ফেডারেল রিজার্ভের সমকালীন বিবরণে সামগ্রিক অ-আর্থিক ঋণবৃদ্ধি মন্থর হওয়ার সঙ্গে ফেডারেল অংশের মন্থরতার সম্পর্ক দেখানো হয়েছে; GAO পৃথকভাবে অর্থবছরের ঘাটতি কমার তথ্য দেয়। এই পরিমাপগুলো সম্পর্কিত হলেও এক নয়।",
+      "bn_notes": "Federal Reserve Bulletin, March 1998-এর “Economic and Financial Developments in 1997” অংশ এবং GAO/AIMD-98-127-এর মুদ্রিত পৃষ্ঠা ১২ যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভ বুলেটিন ও GAO প্রতিবেদনের পাঠ্য যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text and locators checked; original page images pending.",
+        "locator": "Federal Reserve Bulletin, March 1998, “Economic and Financial Developments in 1997,” debt paragraph; GAO/AIMD-98-127, printed p. 12, “Budget results.”",
+        "evidence": "The Federal Reserve Bulletin reports about 4¾ percent growth in domestic nonfinancial-sector debt and less than 1 percent growth in federal debt in 1997. GAO reports a $22 billion fiscal 1997 unified budget deficit, 0.3 percent of GDP.",
+        "significance": "Contemporary official evidence that broad debt growth slowed and federal debt growth was below 1 percent while the fiscal-year unified deficit fell sharply.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/FRB/1990s/frb_031998.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Calendar-year debt-growth measures and fiscal-year deficit are distinct; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-11"
