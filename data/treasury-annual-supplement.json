@@ -4891,6 +4891,75 @@
         "checked": "2026-10-10",
         "verification_note": "The 9¾ percent rate describes first-half federal debt expansion; the $150 billion deficit is fiscal-year data. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1988",
+      "title": "Federal Reserve Annual Report 1988 — Federal Financing Demand and Continued Credit Growth",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1988-01-01",
+      "date_end": "1988-12-31",
+      "date_label": "Calendar year 1988; report transmitted May 15, 1989",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal budget deficit; federal government financing demand; domestic nonfinancial debt",
+      "original_text": "The Federal Reserve's 1988 annual report states that domestic nonfinancial debt growth was slightly below the 1987 rate and noticeably slower than in earlier years, but debt continued to grow faster than nominal GNP, largely reflecting continued heavy federal-government demands and increased corporate financing needs. The report separately records a $155 billion federal budget deficit for fiscal year 1988.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৮৮ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, দেশীয় অ-আর্থিক খাতের ঋণবৃদ্ধি ১৯৮৭ সালের তুলনায় সামান্য কম ছিল এবং আগের কয়েক বছরের তুলনায় স্পষ্টতই ধীর হয়েছিল। তবুও ঋণ নামমাত্র GNP-র চেয়ে দ্রুত বেড়েছে, যার পেছনে ফেডারেল সরকারের অব্যাহত বড় অর্থায়ন-চাহিদা এবং কর্পোরেট খাতের বাড়তি অর্থায়ন-প্রয়োজন গুরুত্বপূর্ণ ছিল। প্রতিবেদনে আলাদাভাবে ১৯৮৮ অর্থবছরের ফেডারেল বাজেট ঘাটতি ১৫৫ বিলিয়ন ডলার বলা হয়েছে।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছর ও অর্থবছরের হিসাব পৃথক রেখে",
+      "edition": "Seventy-fifth Annual Report of the Board of Governors of the Federal Reserve System, 1988",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1989",
+      "reference_number": "Seventy-fifth Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed p. 12, “Monetary Policy and Financial Markets in 1988”; printed p. 9, “The Economy in 1988”",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1988",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1988.pdf",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's annual report for 1988 connects continued above-nominal-GNP domestic debt growth to heavy federal financing demands and increased corporate financing needs, while separately reporting a $155 billion fiscal-year deficit.",
+      "context": "The credit-market discussion on printed p. 12 concerns calendar-year 1988 debt growth and broad financing pressures. The $155 billion figure on printed p. 9 refers to fiscal year 1988, not calendar-year Treasury net borrowing.",
+      "interpretation": "The record supports the claim that federal financing demand remained a major part of the credit-market context in 1988, even as overall domestic nonfinancial debt growth moderated. It does not isolate the Treasury's exact net borrowing or prove that federal demand alone determined interest rates.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a broad aggregate, not Treasury debt alone.",
+        "The $155 billion figure is the fiscal-year federal budget deficit, not Treasury net borrowing or gross security issuance.",
+        "The report explicitly includes corporate financing needs alongside federal demand; this passage does not attribute all debt growth to the government."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1987",
+        "us-treasury-debt-management-1986",
+        "us-treasury-debt-management-1985"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed-page locators and statements checked in FRASER PDF text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "The report was transmitted May 15, 1989 and covers calendar year 1988. Main credit-market passage: printed p. 12 (PDF page index 16); fiscal deficit context: printed p. 9. Text layer checked; original page-image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1988.pdf",
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1988-2444/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official annual report with specific printed-page locators and searchable source text; original page images not yet independently checked.",
+      "publication_status": "primary institutional evidence; printed-page transcription checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮৮ বার্ষিক প্রতিবেদন — ফেডারেল অর্থায়ন-চাহিদা ও ঋণবৃদ্ধির ধারাবাহিকতা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮৮ সালের বার্ষিক প্রতিবেদন জানায় যে দেশীয় অ-আর্থিক খাতের ঋণবৃদ্ধি কিছুটা ধীর হলেও নামমাত্র GNP-র চেয়ে দ্রুত ছিল। প্রতিবেদনে এর সঙ্গে ফেডারেল সরকারের বড় অর্থায়ন-চাহিদা ও কর্পোরেট খাতের বাড়তি অর্থায়ন-প্রয়োজনকে যুক্ত করা হয়েছে। একই প্রতিবেদনে ১৯৮৮ অর্থবছরের ফেডারেল বাজেট ঘাটতি ১৫৫ বিলিয়ন ডলার বলা হয়েছে।",
+      "bn_context": "মুদ্রিত পৃষ্ঠা ১২-তে ১৯৮৮ ক্যালেন্ডার বছরের ঋণবাজারের বিবরণ রয়েছে। মুদ্রিত পৃষ্ঠা ৯-এ ১৯৮৮ অর্থবছরের ঘাটতির অঙ্ক দেওয়া হয়েছে। এই দুটি সময়সীমা ও হিসাব এক নয়।",
+      "bn_interpretation": "এই রেকর্ডটি দেখায় যে ১৯৮৮ সালে সামগ্রিক ঋণবৃদ্ধির গতি কমলেও ফেডারেল সরকারের অর্থায়ন-চাহিদা ঋণবাজারের গুরুত্বপূর্ণ প্রেক্ষাপট ছিল। তবে এটি একা ট্রেজারির সুনির্দিষ্ট নিট ধারগ্রহণ বা সুদের হারের একক কারণ প্রমাণ করে না।",
+      "bn_notes": "প্রতিবেদনটি ১৫ মে ১৯৮৯-তে পেশ করা হয় এবং ১৯৮৮ ক্যালেন্ডার বছরের অর্থনৈতিক পরিস্থিতি নিয়ে। প্রধান ঋণবাজার অংশ মুদ্রিত পৃষ্ঠা ১২-তে; অর্থবছরের ঘাটতির তথ্য পৃষ্ঠা ৯-এ। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর PDF পাঠে মুদ্রিত পৃষ্ঠার অবস্থান ও বক্তব্য যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি。",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locators and statements checked in FRASER PDF text layer; original page-image verification pending.",
+        "locator": "Printed p. 12, “Monetary Policy and Financial Markets in 1988”; printed p. 9, “The Economy in 1988.”",
+        "evidence": "The report says domestic nonfinancial debt growth in 1988 was slightly below 1987 but continued to exceed nominal GNP, largely reflecting continued heavy federal-government demands and increased corporate financing needs. Separately, the report gives a $155 billion federal budget deficit for fiscal 1988.",
+        "significance": "Contemporary official evidence that federal financing demand remained a significant part of the 1988 credit-market environment, while broad debt growth moderated.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1988.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "Broad domestic nonfinancial debt and fiscal-year deficit are not the same as Treasury net borrowing. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-10"
