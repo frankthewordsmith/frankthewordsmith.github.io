@@ -4753,6 +4753,75 @@
         "checked": "2026-10-10",
         "verification_note": "This is a paraphrase of the report's statement, not a verbatim quotation. It concerns first-half 1985 conditions and does not give a full-year net borrowing total."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1986",
+      "title": "Federal Reserve Annual Report 1986 — Record Federal Deficit and Continued Growth in Federal-Sector Debt",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1986-01-01",
+      "date_end": "1986-12-31",
+      "date_label": "Calendar year 1986; report transmitted May 18, 1987",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal budget deficit; federal-sector debt; credit-market borrowing",
+      "original_text": "The Federal Reserve's 1986 annual report states that the federal budget deficit reached $221 billion in fiscal 1986 and that growth of federal-sector debt remained strong during calendar 1986. The report treats these as related indicators, but does not equate the deficit figure with a direct measure of Treasury net borrowing.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৮৬ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৮৬ অর্থবছরে ফেডারেল বাজেট ঘাটতি ২২১ বিলিয়ন ডলারে পৌঁছায় এবং ১৯৮৬ ক্যালেন্ডার বছরে ফেডারেল খাতের ঋণও দ্রুত বাড়তে থাকে। প্রতিবেদনটি এই দুটি বিষয়কে সম্পর্কিত সূচক হিসেবে বিবেচনা করে, তবে ঘাটতির অঙ্ককে ট্রেজারির নিট ধারগ্রহণের সরাসরি পরিমাপ হিসেবে এক করে না।",
+      "translator": "বাংলা অনুবাদ — অর্থবছর ও ক্যালেন্ডার বছরের পার্থক্য অক্ষুণ্ণ রেখে",
+      "edition": "Seventy-third Annual Report of the Board of Governors of the Federal Reserve System, 1986",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1987",
+      "reference_number": "Seventy-third Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed pp. 5–6, “The Economy in 1986”; printed p. 19, “Aggregate Credit Flows”",
+      "section": "Part 1 — The Economy in 1986; Monetary Policy and Financial Markets",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1986.pdf",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's contemporary annual report records a $221 billion federal budget deficit in fiscal 1986 and describes federal-sector debt growth as strong during calendar 1986.",
+      "context": "The report's overview on printed pp. 5–6 gives the fiscal-year deficit figure; the credit-flow discussion on printed p. 19 states that federal-sector debt growth remained strong. The source covers calendar-year economic developments but reports the deficit figure for fiscal 1986.",
+      "interpretation": "This provides contemporary official evidence of the scale of the federal deficit and the persistence of federal-sector debt growth. It supports the broader financing context, but does not independently establish Treasury net borrowing, gross issuance, security holders, or a single causal effect on interest rates.",
+      "counter_interpretations": [
+        "The $221 billion figure is the fiscal-year 1986 federal budget deficit, not the same accounting measure as Treasury net borrowing in credit markets.",
+        "The statement that federal-sector debt growth remained strong is qualitative in this passage; it does not supply a precise annual Treasury borrowing total.",
+        "The report discusses several economic imbalances and market influences; this evidence alone does not prove that the deficit caused a particular interest-rate movement."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1985",
+        "us-treasury-debt-management-1984",
+        "us-treasury-debt-management-1983"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed-page locators and statements checked in the FRASER PDF text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "The annual report was transmitted on May 18, 1987 and covers calendar year 1986. Keep the fiscal-year 1986 deficit ($221 billion) distinct from calendar-year credit-market borrowing and Treasury net borrowing. Page-image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1986.pdf",
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1986-2441"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official annual report with specific printed-page locators and searchable source text; original page images not yet independently checked.",
+      "publication_status": "primary institutional evidence; printed-page transcription checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮৬ বার্ষিক প্রতিবেদন — রেকর্ড ফেডারেল ঘাটতি ও ফেডারেল ঋণের বৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮৬ সালের বার্ষিক প্রতিবেদনে ১৯৮৬ অর্থবছরের ফেডারেল বাজেট ঘাটতি ২২১ বিলিয়ন ডলার এবং ক্যালেন্ডার বছরজুড়ে ফেডারেল খাতের ঋণের শক্তিশালী বৃদ্ধি নথিভুক্ত হয়েছে।",
+      "bn_context": "মুদ্রিত পৃষ্ঠা ৫–৬-এ ১৯৮৬ অর্থবছরের ঘাটতির অঙ্ক দেওয়া হয়েছে; মুদ্রিত পৃষ্ঠা ১৯-এর “Aggregate Credit Flows” অংশে ফেডারেল খাতের ঋণ বৃদ্ধিকে শক্তিশালী বলা হয়েছে। অর্থবছর ও ক্যালেন্ডার বছর আলাদা সময়সীমা।",
+      "bn_interpretation": "এই সমসাময়িক সরকারি উৎস ফেডারেল ঘাটতির মাত্রা এবং ফেডারেল খাতের ঋণ বৃদ্ধির ধারাবাহিকতা সম্পর্কে প্রমাণ দেয়। তবে এটি একা ট্রেজারির নিট ধারগ্রহণ, মোট ইস্যু, সিকিউরিটির মালিকানা বা সুদের হারের একক কারণ নির্ধারণ করে না।",
+      "bn_notes": "প্রতিবেদনটি ১৮ মে ১৯৮৭-তে পেশ করা হয় এবং ১৯৮৬ ক্যালেন্ডার বছরের কার্যক্রম ও অর্থনৈতিক পরিস্থিতি নিয়ে। ২২১ বিলিয়ন ডলারের ঘাটতি হলো ১৯৮৬ অর্থবছরের হিসাব; একে ক্যালেন্ডার বছরের ট্রেজারি ধারগ্রহণের সমান ধরা যাবে না। মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর PDF পাঠে মুদ্রিত পৃষ্ঠার অবস্থান ও বক্তব্য যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locators and statements checked in FRASER PDF text layer; original page-image verification pending.",
+        "locator": "Printed pp. 5–6, “The Economy in 1986”; printed p. 19, “Aggregate Credit Flows.”",
+        "evidence": "The report states that the federal budget deficit reached $221 billion in fiscal 1986 and that federal-sector debt growth remained strong in calendar 1986.",
+        "significance": "Contemporary official evidence for the scale of the federal deficit and continuing growth in federal-sector debt.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1986.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "The deficit measure is fiscal-year data and must not be conflated with Treasury net borrowing. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-10"
