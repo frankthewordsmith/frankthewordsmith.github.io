@@ -4024,6 +4024,75 @@
         "checked": "2026-10-10",
         "verification_note": "Keep fiscal-1976 and transition-quarter totals separate; source summary is paraphrase, not a verbatim quotation."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1977",
+      "title": "U.S. Treasury Annual Report 1977 — Deficit Financing, Slower Market Borrowing, and Federal Debt Expansion",
+      "source_type": "Institutional annual report",
+      "date_start": "1977-09-30",
+      "date_end": "1977-09-30",
+      "date_label": "Fiscal year ended September 30, 1977",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; Federal securities; marketable debt; Treasury financing; average maturity",
+      "original_text": "The Treasury reported a unified-budget deficit of $45.0 billion for fiscal 1977, with receipts of $356.9 billion and outlays of $401.9 billion. Borrowing from the public amounted to $53.5 billion, reflecting the deficit, a $2.2 billion increase in cash and monetary assets, and a $6.2 billion decrease in other means of financing. At September 30, 1977, Federal securities outstanding totaled $709.1 billion, including $698.8 billion in public debt securities and $10.3 billion in agency securities; $551.8 billion represented borrowing from the public. Marketable Treasury securities rose to $443.5 billion, an increase of $35.8 billion over the previous September. New cash raised through marketable debt was $38.3 billion, compared with $79.6 billion in fiscal 1976, and the average maturity of privately held marketable debt rose from 2 years 9 months to 2 years 11 months.",
+      "translation": "ট্রেজারি জানায়, ১৯৭৭ অর্থবছরে unified-budget ঘাটতি ছিল ৪৫.০ বিলিয়ন ডলার; রাজস্ব ৩৫৬.৯ বিলিয়ন এবং ব্যয় ৪০১.৯ বিলিয়ন ডলার। জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫৩.৫ বিলিয়ন ডলার, যার হিসাবের মধ্যে ঘাটতি, নগদ ও monetary assets-এর ২.২ বিলিয়ন ডলার বৃদ্ধি এবং অন্যান্য অর্থায়নের ৬.২ বিলিয়ন ডলার হ্রাস অন্তর্ভুক্ত ছিল। ৩০ সেপ্টেম্বর ১৯৭৭-এ Federal securities outstanding ছিল ৭০৯.১ বিলিয়ন ডলার, যার মধ্যে ৬৯৮.৮ বিলিয়ন public debt securities এবং ১০.৩ বিলিয়ন agency securities; ৫৫১.৮ বিলিয়ন ডলার ছিল borrowing from the public। Marketable Treasury securities বেড়ে ৪৪৩.৫ বিলিয়ন ডলারে পৌঁছায়, আগের সেপ্টেম্বরের তুলনায় ৩৫.৮ বিলিয়ন বেশি। Marketable debt থেকে নতুন নগদ সংগ্রহ ছিল ৩৮.৩ বিলিয়ন ডলার, যা ১৯৭৬ অর্থবছরের ৭৯.৬ বিলিয়নের চেয়ে কম; privately held marketable debt-এর গড় maturity ২ বছর ৯ মাস থেকে বেড়ে ২ বছর ১১ মাস হয়।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances, Fiscal Year 1977",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1977",
+      "reference_number": "Treasury Department Document No. 3273",
+      "page": "3–4; 9–12",
+      "section": "Financial Operations; Federal Debt Management; Changes in Federal Securities",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1977-5620/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal 1977 recorded a $45.0 billion unified-budget deficit and $53.5 billion of borrowing from the public. Federal securities outstanding reached $709.1 billion by September 30, 1977. Treasury new-cash financing through marketable debt declined from $79.6 billion in fiscal 1976 to $38.3 billion in fiscal 1977, while the average maturity of privately held marketable debt lengthened modestly.",
+      "context": "This report uses the October 1–September 30 fiscal year established after the 1976 transition quarter. It describes a recovering economy, continued Federal borrowing needs, regularized note offerings and quarterly refundings, and lower new-cash marketable borrowing than in fiscal 1976.",
+      "interpretation": "The report records continued Federal debt expansion alongside a reduction in new cash raised through marketable debt compared with fiscal 1976. It also records a modest lengthening of the average maturity of privately held marketable debt, suggesting a change in financing composition rather than a reduction in total debt.",
+      "counter_interpretations": [
+        "Fiscal 1977 ended September 30, 1977; do not compare its end-of-year balances directly with June 30 fiscal-year-end balances without accounting for the changed calendar.",
+        "The $45.0 billion deficit and $53.5 billion borrowing from the public are distinct because the Treasury financing reconciliation includes cash and other means of financing.",
+        "The $709.1 billion total includes $698.8 billion in public debt securities and $10.3 billion in agency securities.",
+        "The reduction in new cash raised through marketable debt compared with fiscal 1976 does not mean total debt declined; outstanding Federal securities increased."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1976",
+        "us-treasury-debt-management-1975",
+        "us-treasury-debt-management-1974"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Figures and printed-page locator checked against the Treasury annual report; FRASER warns that its OCR text may contain errors, and this record's prose is a summary rather than a verbatim quotation.",
+      "last_verified": "2026-10-10",
+      "notes": "Treasury Department Document No. 3273. Printed pp. 3–4 give fiscal operations and borrowing from the public; pp. 9–12 cover financing, security changes, marketable debt and ownership. Fiscal 1977 ended September 30, 1977, under the revised Federal fiscal-year calendar. Summary wording is not a verbatim quotation.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1977-5620/fulltext"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3273, with printed-page locators for fiscal operations, debt totals and marketable financing.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৭ — ঘাটতি অর্থায়ন, বাজারভিত্তিক নতুন ঋণ হ্রাস ও Federal debt বৃদ্ধি",
+      "bn_historical_claim": "১৯৭৭ অর্থবছরে unified-budget ঘাটতি ছিল ৪৫.০ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫৩.৫ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৭৭-এ Federal securities outstanding ছিল ৭০৯.১ বিলিয়ন ডলার। Marketable debt থেকে নতুন নগদ সংগ্রহ ১৯৭৬ অর্থবছরের ৭৯.৬ বিলিয়ন থেকে কমে ৩৮.৩ বিলিয়ন ডলারে আসে; privately held marketable debt-এর গড় maturity কিছুটা বাড়ে।",
+      "bn_context": "নতুন অর্থবছর ১ অক্টোবর থেকে ৩০ সেপ্টেম্বর পর্যন্ত হওয়ায় ১৯৭৭ সালের প্রতিবেদনটি আগের জুন-শেষ অর্থবছরের সঙ্গে সরাসরি তুলনা করার আগে ক্যালেন্ডার পরিবর্তন বিবেচনা করতে হয়।",
+      "bn_interpretation": "প্রতিবেদনটি মোট Federal debt বৃদ্ধি অব্যাহত থাকার পাশাপাশি marketable debt থেকে নতুন নগদ সংগ্রহ কমে যাওয়া এবং গড় maturity সামান্য দীর্ঘ হওয়া নথিভুক্ত করে। নতুন নগদ সংগ্রহ কমা মোট ঋণ কমে যাওয়ার সমান নয়।",
+      "bn_notes": "Treasury Department Document No. 3273-এর মুদ্রিত pp. 3–4 এবং 9–12 ব্যবহার করা হয়েছে। FRASER-এর OCR পাঠে ভুল থাকতে পারে; এই record-এর মূল বিবরণ হুবহু উদ্ধৃতি নয়।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locator checked; summary is not a verbatim quotation",
+        "locator": "Printed pp. 3–4, 9–12",
+        "evidence": "$45.0B unified-budget deficit; $53.5B borrowing from the public; $709.1B Federal securities; $698.8B public debt securities; $38.3B new cash raised through marketable debt vs. $79.6B in FY1976; average privately held marketable debt maturity rose from 2y9m to 2y11m.",
+        "significance": "Primary institutional evidence of fiscal-1977 financing and the changed Federal fiscal calendar.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1977-5620/fulltext",
+        "checked": "2026-10-10",
+        "verification_note": "Fiscal 1977 ended September 30; summary is paraphrase and printed page labels control over OCR."
+      }
     }
   ],
   "last_updated": "2026-10-10"
