@@ -4232,6 +4232,76 @@
         "checked": "2026-10-10",
         "verification_note": "The annual report covers the fiscal year ended September 30, 1979. Do not present the synthesis as a verbatim quote; use page images for exact quotations."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1980",
+      "title": "U.S. Treasury Annual Report 1980 — Record Deficit Financing, Federal Securities Expansion, and Rising Public Borrowing",
+      "source_type": "Institutional annual report and statistical appendix",
+      "date_start": "1980-09-30",
+      "date_end": "1980-09-30",
+      "date_label": "Fiscal year ended September 30, 1980",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; Federal securities outstanding; public debt securities; Federal agency securities",
+      "original_text": "The Treasury's fiscal 1980 report states that the unified-budget deficit was $59.0 billion, with net receipts of $520.1 billion and outlays of $579.0 billion. Borrowing from the public amounted to $70.5 billion. At September 30, 1980, Federal securities outstanding totaled $914.3 billion, including $907.7 billion of public debt securities and $6.6 billion of agency securities; $715.1 billion represented borrowing from the public. The statistical appendix provides separate tables for Federal securities outstanding and Federal securities held by the public.",
+      "translation": "ট্রেজারির ১৯৮০ অর্থবছরের প্রতিবেদনে unified-budget ঘাটতি ৫৯.০ বিলিয়ন ডলার, net receipts ৫২০.১ বিলিয়ন ডলার এবং outlays ৫৭৯.০ বিলিয়ন ডলার বলা হয়েছে। জনসাধারণের কাছ থেকে borrowing ছিল ৭০.৫ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৮০-এ মোট Federal securities outstanding ছিল ৯১৪.৩ বিলিয়ন ডলার; এর মধ্যে ৯০৭.৭ বিলিয়ন public debt securities এবং ৬.৬ বিলিয়ন agency securities; ৭১৫.১ বিলিয়ন ডলার ছিল borrowing from the public। Statistical appendix-এ Federal securities outstanding এবং জনসাধারণের হাতে থাকা securities-এর জন্য পৃথক টেবিল রয়েছে।",
+      "translator": "Archive synthesis from the contemporary Treasury annual report and statistical appendix; figures checked against named printed-page/table locators. Summary is not a verbatim quotation.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances, Fiscal Year 1980; Statistical Appendix",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1980",
+      "reference_number": "Treasury Department Documents Nos. 3282 and 3282A",
+      "page": "Report: opening Financial Operations summary; Statistical Appendix, tables 17–18 and 51–52 (printed pp. 60, 356–358)",
+      "section": "Financial Operations; Federal Debt; Ownership of Federal Securities",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1980.pdf",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal 1980 saw the unified-budget deficit rise to $59.0 billion and borrowing from the public reach $70.5 billion. Federal securities outstanding reached $914.3 billion at September 30, 1980, with $715.1 billion representing borrowing from the public. The report and statistical appendix distinguish total securities from public-held securities and from the public debt component alone.",
+      "context": "The report covers the fiscal year ended September 30, 1980, when receipts and outlays both increased substantially and financing requirements grew. The statistical appendix supplies the debt and ownership series needed to compare 1979 and 1980 without treating the budget deficit as identical to the change in debt outstanding.",
+      "interpretation": "This record documents substantial fiscal financing and a rise in Federal securities outstanding in 1980. It does not by itself establish the cause of the deficit, the motives of investors, or the causal effect of debt issuance on monetary conditions.",
+      "counter_interpretations": [
+        "The $59.0 billion unified-budget deficit and $70.5 billion borrowing from the public are distinct measures; the report reconciles them through cash and other financing accounts.",
+        "Federal securities include public debt securities and selected agency securities; the $907.7 billion public-debt component is not the same as the $914.3 billion total.",
+        "Federal securities held by the public exclude holdings in Government accounts and must not be equated with total Federal securities outstanding.",
+        "The record summarizes tables and the report; it does not reproduce a verbatim quotation."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1979",
+        "us-treasury-debt-management-1978",
+        "us-treasury-debt-management-1977"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Key figures checked against the report's Financial Operations summary and the statistical appendix's debt/ownership tables; summary is not a verbatim quotation.",
+      "last_verified": "2026-10-10",
+      "notes": "Fiscal year ended September 30, 1980, not June 30. The main report's opening Financial Operations summary gives the $59.0B deficit, $520.1B receipts, $579.0B outlays, $70.5B public borrowing, and $914.3B Federal securities total. Statistical Appendix Document No. 3282A, tables 17–18 and 51–52, supplies the debt and ownership series. FRASER OCR may contain errors; consult the page images before quoting verbatim.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1980.pdf",
+        "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1980-5627/fulltext"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report and statistical appendix, Treasury Department Documents Nos. 3282 and 3282A, with identified fiscal-operations and debt/ownership tables. The record is an evidence summary, not a purported verbatim quotation.",
+      "publication_status": "primary institutional evidence with named edition and printed-page/table locators",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৮০ — বড় ঘাটতি অর্থায়ন, Federal securities বৃদ্ধি ও public borrowing",
+      "bn_historical_claim": "১৯৮০ অর্থবছরে unified-budget ঘাটতি ছিল ৫৯.০ বিলিয়ন ডলার এবং public borrowing ছিল ৭০.৫ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৮০-এ Federal securities outstanding ছিল ৯১৪.৩ বিলিয়ন ডলার, যার মধ্যে ৭১৫.১ বিলিয়ন ডলার ছিল borrowing from the public।",
+      "bn_context": "১৯৮০ অর্থবছরে receipts ও outlays উভয়ই উল্লেখযোগ্যভাবে বাড়ে এবং অর্থায়নের প্রয়োজনও বাড়ে। Statistical appendix মোট securities, public-held securities এবং public debt-এর মধ্যে পার্থক্য দেখায়।",
+      "bn_interpretation": "এই রেকর্ড ১৯৮০ সালে বড় fiscal financing ও Federal securities বৃদ্ধির প্রমাণ দেয়; তবে একা এটি ঘাটতির কারণ, বিনিয়োগকারীর উদ্দেশ্য বা monetary conditions-এর ওপর debt issuance-এর causal effect প্রমাণ করে না।",
+      "bn_notes": "অর্থবছরটি ৩০ সেপ্টেম্বর ১৯৮০-এ শেষ হয়। মূল প্রতিবেদনের Financial Operations summary এবং Statistical Appendix Document No. 3282A-এর tables 17–18 ও 51–52 ব্যবহার করা হয়েছে। সারাংশটি হুবহু উদ্ধৃতি নয়; OCR ভুল থাকতে পারে।",
+      "bn_verification_status": "Key figures checked against printed-page/table locators; summary is not a verbatim quotation.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Key figures checked against report summary and statistical tables; summary is not a verbatim quotation",
+        "locator": "Financial Operations summary; Statistical Appendix tables 17–18 and 51–52",
+        "evidence": "$59.0B unified-budget deficit; $520.1B receipts; $579.0B outlays; $70.5B borrowing from the public; $914.3B Federal securities outstanding; $907.7B public debt securities; $6.6B agency securities; $715.1B borrowing from the public.",
+        "significance": "Primary institutional evidence for fiscal financing, Federal securities expansion, and distinctions between total securities and public-held debt in FY1980.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1980.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "The fiscal year ended September 30, 1980. Use page images before making verbatim quotations."
+      }
     }
   ],
   "last_updated": "2026-10-10"
