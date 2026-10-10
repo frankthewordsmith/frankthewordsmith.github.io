@@ -4685,6 +4685,74 @@
         "checked": "2026-10-10",
         "verification_note": "The searchable table supports the value and category, but the original PDF page image has not yet been independently inspected. The record explicitly distinguishes this measure from net Treasury borrowing and the federal deficit."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1985",
+      "title": "Federal Reserve Annual Report 1985 — Treasury Financing Demands and Credit-Market Pressure",
+      "source_type": "Contemporary official annual report and monetary-policy report to Congress",
+      "date_start": "1985-01-01",
+      "date_end": "1985-12-31",
+      "date_label": "Calendar year 1985; report transmitted in 1986",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal budget deficit; Treasury financing activities; credit-market demand",
+      "original_text": "In its discussion of the 1985 economic and financial background, the Federal Reserve reported that the federal budget deficit remained near $200 billion and that Treasury financing demands were one factor helping to keep real interest rates historically high.",
+      "translation": "১৯৮৫ সালের অর্থনৈতিক ও আর্থিক পরিস্থিতি নিয়ে আলোচনায় ফেডারেল রিজার্ভ জানায়, ফেডারেল বাজেট ঘাটতি প্রায় ২০০ বিলিয়ন ডলারের কাছাকাছি ছিল এবং ট্রেজারির অর্থায়ন-সংক্রান্ত চাহিদা বাস্তব সুদের হার ঐতিহাসিকভাবে উচ্চ রাখতে ভূমিকা রাখা কয়েকটি কারণের একটি ছিল।",
+      "translator": "বাংলা অনুবাদ — মূল বক্তব্যের সতর্ক সারাংশ",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System, 1985",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1986",
+      "reference_number": "Annual Report of the Board of Governors of the Federal Reserve System, 1985; Report on July 16, 1985 to Congress",
+      "page": "Printed p. 43, “Economic and Financial Background”",
+      "section": "Monetary Policy Reports to Congress — Report on July 16, 1985",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1985-2440/fulltext",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1985 annual report states that the federal deficit remained around $200 billion and that Treasury financing demands were one factor helping keep real interest rates historically high.",
+      "context": "Printed p. 43 appears within the report's July 16, 1985 monetary-policy report to Congress, under “Economic and Financial Background.” The passage describes the deficit and credit-market conditions in the first half of 1985; it is not an annual total for Treasury borrowing.",
+      "interpretation": "This is contemporary institutional evidence that Federal Reserve policymakers identified Treasury financing demands as a material contributor to credit-market pressure in 1985. The report explicitly describes them as one factor, not the sole cause of real interest rates.",
+      "counter_interpretations": [
+        "The approximately $200 billion figure describes the federal budget deficit's neighborhood, not a precise measure of Treasury net borrowing or gross securities issuance.",
+        "The discussion is situated in the first-half 1985 economic background and should not be presented as a full-year audited total.",
+        "The report says Treasury financing was one factor among several affecting real rates; it does not establish a single-cause relationship."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1984",
+        "us-treasury-debt-management-1983",
+        "us-treasury-debt-management-1982"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed p. 43 locator and passage checked against the FRASER full-text transcription; original PDF page image not yet independently inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "This is the Federal Reserve Board's 1985 annual report, with the relevant passage in its July 16, 1985 report to Congress. It provides qualitative causal context, not a precise annual Treasury borrowing amount. Page image inspection remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1985-2440/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official report with printed-page locator and searchable full-text passage; original PDF page image not yet independently inspected.",
+      "publication_status": "primary institutional evidence; transcription checked, page-image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮৫ বার্ষিক প্রতিবেদন — ট্রেজারির অর্থায়ন-চাহিদা ও ঋণবাজারের চাপ",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮৫ সালের প্রতিবেদনে বলা হয়েছে, ফেডারেল বাজেট ঘাটতি প্রায় ২০০ বিলিয়ন ডলারের কাছাকাছি ছিল এবং ট্রেজারির অর্থায়ন-চাহিদা বাস্তব সুদের হার ঐতিহাসিকভাবে উচ্চ রাখার একটি কারণ ছিল।",
+      "bn_context": "মুদ্রিত পৃষ্ঠা ৪৩-এ “Economic and Financial Background” অংশটি ১৯৮৫ সালের ১৬ জুলাই কংগ্রেসে দেওয়া আর্থিক-নীতি প্রতিবেদনের অন্তর্ভুক্ত। আলোচনাটি ১৯৮৫ সালের প্রথমার্ধের পরিস্থিতি নিয়ে; এটি ট্রেজারির পুরো বছরের ধারগ্রহণের মোট পরিমাণ নয়।",
+      "bn_interpretation": "এই সমসাময়িক সরকারি উৎস দেখায় যে ফেডারেল রিজার্ভের নীতিনির্ধারকেরা ট্রেজারির অর্থায়ন-চাহিদাকে ১৯৮৫ সালে ঋণবাজারের চাপের একটি গুরুত্বপূর্ণ কারণ হিসেবে চিহ্নিত করেছিলেন। প্রতিবেদনটি একে একমাত্র কারণ বলে না।",
+      "bn_notes": "এটি ফেডারেল রিজার্ভ বোর্ডের ১৯৮৫ সালের বার্ষিক প্রতিবেদন; প্রাসঙ্গিক অংশটি কংগ্রেসে ১৬ জুলাই ১৯৮৫-তে দেওয়া প্রতিবেদনের মধ্যে রয়েছে। এটি গুণগত প্রমাণ, ট্রেজারির বার্ষিক ধারগ্রহণের নির্দিষ্ট মোট নয়। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর পূর্ণ-পাঠ প্রতিলিপিতে মুদ্রিত পৃষ্ঠা ৪৩-এর অবস্থান ও বক্তব্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি এখনও আলাদাভাবে দেখা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed p. 43 locator and passage checked against FRASER full-text transcription; original PDF page image inspection pending.",
+        "locator": "Printed p. 43, “Economic and Financial Background,” Report on July 16, 1985.",
+        "evidence": "The report says the federal deficit remained near $200 billion and Treasury financing demands were one factor helping keep real interest rates historically high.",
+        "significance": "Contemporary evidence of the Federal Reserve's assessment of Treasury financing pressure in 1985.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1985-2440/fulltext",
+        "checked": "2026-10-10",
+        "verification_note": "This is a paraphrase of the report's statement, not a verbatim quotation. It concerns first-half 1985 conditions and does not give a full-year net borrowing total."
+      }
     }
   ],
   "last_updated": "2026-10-10"
