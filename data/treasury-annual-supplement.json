@@ -5574,6 +5574,76 @@
         "checked": "2026-10-11",
         "verification_note": "Calendar-year debt-growth measures and fiscal-year deficit are distinct; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1998",
+      "title": "Federal Reserve Annual Report 1999 — Broad Debt Growth and the First Federal Debt Decline in Nearly Thirty Years",
+      "source_type": "Contemporary official central-bank report and government financial audit",
+      "date_start": "1998-01-01",
+      "date_end": "1998-12-31",
+      "date_label": "Calendar year 1998 for debt-growth measures; fiscal year 1998 for the federal budget surplus; sources published 1999–2000",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial-sector debt; federal debt; unified federal budget surplus",
+      "original_text": "The Federal Reserve Board's Annual Report for 1999 states that domestic nonfinancial debt grew 6¼ percent in 1998. It attributes the robust growth to large increases in business and household debt, associated with stronger spending and debt-financed mergers and acquisitions, while noting that this private-sector increase was partly offset by the first annual decline in federal debt in almost thirty years. Separately, GAO's audit of the federal government's fiscal 1998 financial report records a $69.2 billion budget surplus.",
+      "translation": "ফেডারেল রিজার্ভ বোর্ডের ১৯৯৯ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯৮ সালে দেশীয় অ-আর্থিক খাতের ঋণ ৬.২৫ শতাংশ বেড়েছিল। প্রতিবেদনে ব্যবসা ও পরিবারের ঋণের বড় বৃদ্ধিকে শক্তিশালী ব্যয় এবং ঋণ-অর্থায়িত একীভবন ও অধিগ্রহণের সঙ্গে যুক্ত করা হয়েছে। একই সঙ্গে বলা হয়েছে, বেসরকারি খাতের এই বৃদ্ধি আংশিকভাবে ফেডারেল ঋণের প্রায় ত্রিশ বছরের মধ্যে প্রথম বার্ষিক পতনের দ্বারা ভারসাম্য পেয়েছিল। পৃথকভাবে, GAO-র ১৯৯৮ অর্থবছরের ফেডারেল সরকারের আর্থিক প্রতিবেদন নিরীক্ষায় ৬৯.২ বিলিয়ন ডলারের বাজেট উদ্বৃত্ত নথিভুক্ত হয়েছে।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের বাজেট উদ্বৃত্ত পৃথক রাখা হয়েছে",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System, 1999; GAO/AIMD-99-130, Financial Audit: 1998 Financial Report of the United States Government",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. General Accounting Office",
+      "publication_year": "1999–2000",
+      "reference_number": "Federal Reserve 86th Annual Report, 1999; GAO/AIMD-99-130",
+      "page": "Federal Reserve Annual Report 1999, “Economic and Financial Developments in 1999,” opening debt-growth discussion (printed p. 14); GAO/AIMD-99-130, fiscal 1998 budget-surplus discussion",
+      "section": "Economic and Financial Developments in 1999; GAO Financial Audit: 1998 Financial Report of the United States Government",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1999-2452/fulltext",
+      "primary_or_secondary": "Primary institutional sources",
+      "historical_claim": "A contemporary Federal Reserve report states that domestic nonfinancial debt grew 6¼ percent in calendar 1998 while federal debt registered its first annual decline in almost thirty years; GAO records a $69.2 billion federal budget surplus in fiscal 1998.",
+      "context": "The 6¼ percent figure refers to domestic nonfinancial-sector debt over calendar 1998, an aggregate including private and public borrowers. The $69.2 billion surplus refers to fiscal 1998. These measures are not interchangeable with Treasury gross issuance, net marketable borrowing, or the change in debt held by the public.",
+      "interpretation": "The evidence marks a change in the federal borrowing context: broad domestic nonfinancial debt continued to grow, driven by private-sector borrowing, while federal debt declined amid a fiscal-year budget surplus. The sources describe contemporaneous trends but do not establish that any single policy or institution alone caused them.",
+      "counter_interpretations": [
+        "Domestic nonfinancial-sector debt is a broad aggregate, not a Treasury-only measure.",
+        "A unified budget surplus is not identical to zero Treasury issuance or to a one-for-one fall in gross federal debt; cash management and other financing transactions can differ.",
+        "The report's attribution to business and household borrowing is descriptive and does not prove that debt-financed mergers alone caused the aggregate growth."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1997",
+        "us-treasury-debt-management-1996",
+        "us-treasury-debt-management-1995"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Official Federal Reserve annual-report text and GAO financial-audit summary checked; original printed-page images still require inspection.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Annual Report 1999 reports 6¼ percent domestic nonfinancial debt growth in 1998 and the first annual decline in federal debt in almost thirty years; GAO/AIMD-99-130 reports a $69.2 billion fiscal 1998 budget surplus. OCR/page-image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1999-2452/fulltext",
+        "https://www.gao.gov/products/aimd-99-130",
+        "https://www.gao.gov/assets/aimd-99-130.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve report and GAO audit with searchable text and identified sections; printed-page image verification is not yet complete.",
+      "publication_status": "primary institutional evidence; text-layer and section locator checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৯৯ সালের বার্ষিক প্রতিবেদন — সামগ্রিক ঋণবৃদ্ধি ও প্রায় ত্রিশ বছরে প্রথম ফেডারেল ঋণপতন",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের সমকালীন প্রতিবেদনে ১৯৯৮ সালে দেশীয় অ-আর্থিক খাতের ঋণ ৬.২৫ শতাংশ বৃদ্ধি এবং প্রায় ত্রিশ বছরের মধ্যে প্রথম বার্ষিক ফেডারেল ঋণপতনের কথা বলা হয়েছে; GAO ১৯৯৮ অর্থবছরে ৬৯.২ বিলিয়ন ডলারের ফেডারেল বাজেট উদ্বৃত্ত নথিভুক্ত করেছে।",
+      "bn_context": "৬.২৫ শতাংশের হারটি ১৯৯৮ ক্যালেন্ডার বছরের দেশীয় অ-আর্থিক খাতের ঋণের; ৬৯.২ বিলিয়ন ডলারের উদ্বৃত্তটি ১৯৯৮ অর্থবছরের। এগুলো ট্রেজারির মোট ইস্যু, নিট বাজারঋণ বা জনগণের হাতে থাকা ঋণের পরিবর্তনের সমতুল্য নয়।",
+      "bn_interpretation": "প্রমাণটি ফেডারেল অর্থায়নের পরিবেশে পরিবর্তন দেখায়: বেসরকারি খাতের ঋণের কারণে সামগ্রিক দেশীয় অ-আর্থিক ঋণ বাড়লেও বাজেট উদ্বৃত্তের সময় ফেডারেল ঋণ কমে। সূত্রগুলো সমকালীন প্রবণতা বর্ণনা করে, কিন্তু একক কোনো নীতি বা প্রতিষ্ঠানকে একমাত্র কারণ হিসেবে প্রতিষ্ঠা করে না।",
+      "bn_notes": "Federal Reserve Annual Report 1999-এ ১৯৯৮ সালের দেশীয় অ-আর্থিক ঋণবৃদ্ধি ৬.২৫ শতাংশ এবং প্রায় ত্রিশ বছরের মধ্যে প্রথম বার্ষিক ফেডারেল ঋণপতনের কথা আছে; GAO/AIMD-99-130-এ ১৯৯৮ অর্থবছরের ৬৯.২ বিলিয়ন ডলারের বাজেট উদ্বৃত্ত নথিভুক্ত। মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের বার্ষিক প্রতিবেদন ও GAO নিরীক্ষার পাঠ্য এবং বিভাগ-নির্দেশক যাচাই করা হয়েছে; মূল মুদ্রিত পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text and section locators checked; original page images pending.",
+        "locator": "Federal Reserve Annual Report 1999, “Economic and Financial Developments in 1999,” debt-growth discussion (printed p. 14); GAO/AIMD-99-130, fiscal 1998 budget-surplus discussion.",
+        "evidence": "The Federal Reserve reports 6¼ percent growth in domestic nonfinancial debt in 1998 and the first annual decline in federal debt in almost thirty years. GAO records a $69.2 billion fiscal 1998 budget surplus.",
+        "significance": "Contemporary institutional evidence of rising broad private-and-public nonfinancial debt alongside a federal budget surplus and a decline in federal debt.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1999-2452/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Calendar-year debt growth and fiscal-year budget balance are distinct; inspect original page images before upgrading the evidence grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
