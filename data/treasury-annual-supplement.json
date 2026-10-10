@@ -2178,7 +2178,16 @@
       "bn_interpretation": "১৯৪৮ কেবল ১৯৪৭-এর ধারাবাহিকতা নয়; এটি financing mechanism-এর পরিবর্তনকে নথিবদ্ধ করে। Treasury accumulated wartime cash cushion কমে যাওয়ার পর budget surplus ব্যবহার করে debt retirement চালায় এবং bank-held debt কমানোকে anti-inflation program-এর অংশ হিসেবে ব্যাখ্যা করে।",
       "bn_notes": "GPO 1949 সংস্করণ, Treasury Department Document No. 3157। মুদ্রিত পৃষ্ঠা ২-এ Secretary-এর statement, ৬–৭-এ fiscal summary, এবং ১৯-এ debt-retirement mechanics যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "2; 6–7; 19",
+        "evidence": "The Treasury reported an $8.4 billion Federal budget surplus in fiscal year 1948, of which $6.0 billion was used to reduce the Federal debt. The public debt declined from about $258.4 billion on June 30, 1947, to about $252.4 billion on June 30, 1948. Debt held by the commercial banking system declined by $5.9 billion. Treasury stated that fiscal 1948 was the first postwar year in which a substantial reduction in Federal debt was accomplished entirely through the budget surplus.",
+        "significance": "Fiscal year 1948 marked the first postwar year in which a substantial reduction in Federal debt was accomplished entirely through the budget surplus. The Treasury reported an $8.4 billion budget surplus and a $6.0 billion reduction in Federal debt. Public debt fell from approximately $258.4 billion to $252.4 billion, while debt held by the commercial banking system declined by $5.9 billion. Treasury described the debt-retirement program as part of its anti-inflation policy and reported that most of the $6.0 billion retirement occurred during the first four calendar months of 1948 from the accumulated budget surplus.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1948-5594/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1949 edition, Treasury Department Document No. 3157. Printed p.2 contains the Secretary's statement on the $8.4 billion surplus and $6.0 billion debt reduction; printed pp.6–7 contain the summary and fiscal table; printed p.19 contains the public-debt retirement mechanics. FRASER warns that its text layer is automatically extracted from the scan, so exact quotations should be checked against the page image. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-postwar-debt-management-1949",
@@ -2244,7 +2253,16 @@
       "bn_interpretation": "১৯৪৯ দেখায় যে annual budget balance এবং debt management এক জিনিস নয়। Budget deficit থাকা সত্ত্বেও Treasury marketable securities retire করতে পারে, কারণ refinancing, nonmarketable issues, trust-account purchases এবং ownership shifts-এর মতো আলাদা financing operations কাজ করে। তাই ১৯৪৯-কে debt-retirement-এর সমাপ্তি নয়, বরং আরও সক্রিয় portfolio ও maturity management-এর পর্যায় হিসেবে দেখা উচিত।",
       "bn_notes": "GPO 1950 সংস্করণ, Treasury Department Document No. 3162। মুদ্রিত পৃষ্ঠা ৪, ১৭–১৮ এবং ৭১–৭২ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "4; 17–18; 71–72",
+        "evidence": "The Treasury reported a $1.8 billion Federal budget deficit in fiscal year 1949. Federal debt amounted to $252.8 billion on June 30, 1949, an increase of $478 million during the year. Despite the absence of a budget surplus, marketable public debt was reduced by $5.2 billion, largely through the net proceeds of nonmarketable issues sold to the public and special securities sold to Government trust accounts. Treasury also reported that commercial-bank holdings of Federal debt declined while nonbank holdings increased.",
+        "significance": "Fiscal year 1949 marked a reversal from the surplus years of 1947 and 1948: the Federal budget recorded a $1.811 billion deficit. Nevertheless, the Treasury reduced marketable public debt by $5.2 billion, using net proceeds from nonmarketable issues sold to the public and special securities sold to Government trust accounts. Total public debt rose $478 million to $252.8 billion. Treasury explained that postwar debt management also sought to reduce commercial-bank ownership of Federal securities and widen nonbank ownership; from the February 1946 postwar peak to June 1949, total public debt had fallen about $28.5 billion while bank-held debt fell about $34 billion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1949-including-administrative-reports-bureaus-offices-exhibits-tables-relating-treasury-operations-5595/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1950 edition, Treasury Department Document No. 3162. Printed p.4 contains the Secretary's statement on the $252.8 billion debt and $1.8 billion deficit; printed pp.17–18 describe debt-reduction objectives, the reversal to deficit, and the shift from bank-held to nonbank-held debt; printed pp.71–72 give the operational figures for total public debt and the $5.2 billion reduction in marketable debt. FRASER states that its text layer is automatically extracted and may contain errors; the scan is authoritative for exact quotations. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-postwar-debt-management-1950",
@@ -2312,7 +2330,16 @@
       "bn_interpretation": "১৯৫০ সালে postwar borrowing-এর দিক আবার বদলাতে শুরু করে: budget deficit বাড়ে, total public debt ৪.৬ বিলিয়ন ডলার বাড়ে এবং marketable debt ১৯৪৬ সালের পর প্রথমবার net increase দেখায়। একই সময়ে banking system-এর debt ownership ১৯৪৬ peak-এর তুলনায় অনেক নিচে থাকে এবং nonbank holdings বাড়তে থাকে।",
       "bn_notes": "GPO 1951 সংস্করণ, Treasury Department Document No. 3168। মুদ্রিত পৃষ্ঠা ৩, ১৪–১৬, ২৬–২৮ এবং ১১৯ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "3; 14–16; 26–28; 119",
+        "evidence": "The Treasury reported a $3.1 billion Federal budget deficit in fiscal year 1950. The deficit and a $2.0 billion rise in the General Fund balance were met by a $4.6 billion increase in the public debt and $0.6 billion of net receipts in trust accounts and related accounts. Public debt stood at $257.4 billion on June 30, 1950. Marketable interest-bearing debt increased by $162 million, the first net annual rise since 1946. Nonbank holdings increased $3.0 billion, while the banking system's holdings had fallen by almost $33 billion from the February 28, 1946 debt peak. The report also records that hostilities in Korea began on June 25, 1950 and caused a drastic change in the proposed 1950 tax-revision program.",
+        "significance": "Fiscal year 1950 marked a renewed phase of Federal borrowing after the postwar debt-retirement years. The Federal budget deficit reached $3.1 billion; public debt increased $4.6 billion to $257.4 billion; marketable interest-bearing debt rose $162 million, the first net fiscal-year increase since 1946; and nonbank holdings of Federal securities increased $3.0 billion. Treasury also reported that the banking system's share of gross debt had fallen from 42 percent at the February 1946 peak to 33 percent by June 30, 1950. The outbreak of hostilities in Korea on June 25, 1950 immediately altered the tax-revision and prospective defense-financing environment.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1950-5596/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1951 edition, Treasury Department Document No. 3168. Printed p.3 provides the fiscal-operations summary; pp.14–16 cover public-debt operations; pp.26–28 cover interest, statutory limitation, and debt ownership; p.119 records the June 25, 1950 outbreak of hostilities in Korea and its effect on the proposed tax-revision program. FRASER notes that its text layer is automatically extracted and may contain errors; the scan is authoritative for exact quotations. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1951",
@@ -2369,7 +2396,16 @@
       "bn_interpretation": "১৯৫১ সালে debt stock কমলেও Treasury শুধু debt retirement করেনি; একই সঙ্গে বড় refinancing ও debt-structure restructuring চালায়। ১৩.৬ বিলিয়ন ডলারের nonmarketable exchange-টি debt cancellation নয়, বরং refinancing—এবং এটি Treasury-এর bank-held debt কমানো ও anti-inflationary debt-management লক্ষ্যকে সহায়তা করে।",
       "bn_notes": "GPO 1952 সংস্করণ। মুদ্রিত পৃষ্ঠা ৫, ৪৭, ৭১৯, ৭৫১ ও ৭৫৭ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "5; 47; 719; 751; 757",
+        "evidence": "The Treasury reported a Federal budget surplus of $3.510 billion in fiscal year 1951. Public debt declined from $257.357 billion at June 30, 1950 to $255.222 billion at June 30, 1951. The Treasury's debt-management program included substantial refunding: on March 4, 1951, it offered a new 2 3/4 percent, 24–29 year nonmarketable bond in exchange for $19.7 billion of outstanding 2 1/2 percent marketable bonds, and nearly $13.6 billion of those bonds were exchanged. The report's debt tables show the June 30, 1951 gross public debt at $255.222 billion. The report also documents the defense expansion following the Korean outbreak and the fiscal program adopted to meet the new security requirements.",
+        "significance": "Fiscal year 1951 recorded a $3.510 billion Federal budget surplus while gross public debt declined from $257.357 billion to $255.222 billion. The Treasury nevertheless engaged in substantial refinancing as defense expenditures expanded during the Korean War period. On March 4, 1951 it offered nonmarketable 2 3/4 percent long-term bonds in exchange for $19.7 billion of outstanding 2 1/2 percent marketable bonds; nearly $13.6 billion was exchanged. The Treasury's June 30, 1951 debt table records gross public debt of $255.222 billion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1951-5597/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1952 annual report and cross-checked against the FRASER/Internet Archive scan and the Treasury debt tables. Printed p.5 is the fiscal-operations summary; p.47 contains the major March 1951 refunding operation; p.719 covers national-defense activities; p.751 gives the June 30 public-debt composition; p.757 covers the statutory limitation. FRASER's text layer is automatically extracted and the scan remains authoritative for exact quotations. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1952",
@@ -2425,7 +2461,16 @@
       "bn_interpretation": "১৯৫২ এই ধারাবাহিকতায় postwar debt retirement থেকে sustained Korean War-era deficit financing-এ সবচেয়ে স্পষ্ট পরিবর্তনের বছর। Budget deficit এবং debt increase এক নয়—Treasury General Fund drawdown ও অন্যান্য financing flows-এর কারণে তাদের পরিমাণ আলাদা।",
       "bn_notes": "GPO 1953 সংস্করণ। মুদ্রিত পৃষ্ঠা ৪৫-এ fiscal-operations summary এবং ১৯৫১–৫২ comparative table; পৃষ্ঠা ৭৮-এ statutory debt limitation, ২৭৫ বিলিয়ন ceiling এবং ১৬.৫ বিলিয়ন unused authorization যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "45; 78",
+        "evidence": "The Treasury reported that Federal budget expenditures exceeded net budget receipts by $4.0 billion in fiscal year 1952, compared with a $3.5 billion surplus in 1951. The deficit, together with $0.3 billion of net excess expenditures in clearing, trust-account, and other transactions, was met by a $3.9 billion increase in the public debt and a $0.4 billion reduction in the General Fund balance. Public debt stood at $259.1 billion on June 30, 1952. The Treasury also reported that the statutory debt limitation remained $275 billion, with $16.5 billion of unused borrowing authorization at year-end. Defense expenditures were a dominant component of Federal spending during the fiscal year.",
+        "significance": "Fiscal year 1952 was a major Korean War financing year. Budget expenditures exceeded net budget receipts by $4.0 billion, reversing the $3.5 billion surplus of 1951. The deficit plus other net expenditures was met by a $3.9 billion increase in public debt and a $0.4 billion reduction in the General Fund balance. Public debt reached $259.1 billion on June 30, 1952. The statutory debt ceiling remained $275 billion, with $16.5 billion of unused borrowing authorization. The report's six-year retrospective describes the postwar sequence as an adjustment after World War II followed by rearmament in response to the Communist challenge.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1952-5598/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1953 annual report. Printed p.45 contains the fiscal-operations summary and comparative 1951–52 table; printed p.78 contains the statutory limitation statement, including the $275 billion ceiling and $16.5 billion unused authorization. The FRASER scan/text is the underlying source; its extracted text may contain OCR errors, so exact quotations should be checked against the page image. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1953",
@@ -2481,7 +2526,16 @@
       "bn_interpretation": "১৯৫৩ এই ধারাবাহিকতায় fiscal acceleration-এর সবচেয়ে স্পষ্ট বিন্দু। ১৯৫২ সালের ৪.০ বিলিয়ন ডলারের deficit থেকে ১৯৫৩ সালে তা ৯.৪ বিলিয়নে ওঠে এবং public debt ২৫৯.১ বিলিয়ন থেকে ২৬৬.১ বিলিয়ন ডলারে বৃদ্ধি পায়।",
       "bn_notes": "GPO 1954; Treasury Department Document No. 3187। মুদ্রিত পৃষ্ঠা ১–৪ এবং ২৯–৩০ যাচাই করা হয়েছে। FRASER-এর OCR text-এ ত্রুটি থাকতে পারে, তাই exact quotation-এর জন্য page image মিলিয়ে দেখা উচিত।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "1–4; 29–30",
+        "evidence": "Budget expenditures exceeded net budget receipts by $9.4 billion in fiscal year 1953. The deficit was financed by a $7.0 billion increase in the public debt, a $2.3 billion reduction in the general fund balance, and a $0.1 billion excess of receipts in trust-account and other transactions. Public debt outstanding reached $266.1 billion on June 30, 1953, compared with $259.1 billion a year earlier. Budget receipts reached a record $65.2 billion, while expenditures reached $74.6 billion.",
+        "significance": "FY1953 marks a major escalation in the Korean War-era fiscal sequence. Budget expenditures exceeded net budget receipts by $9.4 billion, the highest deficit in U.S. history except for certain World War years according to the Treasury report. Public debt increased $7.0 billion to $266.1 billion. The report says expenditures reached $74.6 billion and net budget receipts $65.2 billion, both records outside specified World War II years. The debt increase included $2.8 billion of special issues to Government investment accounts and a net $4.3 billion increase in interest-bearing public issues; nonmarketable public issues decreased $2.6 billion while marketable public issues increased $6.9 billion.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1953-5599/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1954 annual report, Treasury Department Document No. 3187. Printed pp.1–4 contain the Secretary's fiscal/debt-management statement; pp.29–30 contain the fiscal-operations and debt-change discussion. FRASER notes that its full text is automatically extracted and may contain OCR errors; exact quotations should be checked against the page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1954",
@@ -2537,7 +2591,16 @@
       "bn_interpretation": "১৯৫৪ এই ধারাবাহিকতায় wartime fiscal acceleration থেকে fiscal contraction ও intensive debt management-এর দিকে পরিবর্তনের বছর। Deficit ব্যাপকভাবে কমলেও General Fund cash balance বৃদ্ধির কারণে public debt আরও বাড়ে। একই সঙ্গে বড় refinancing operations debt-এর maturity ও composition বদলায়, কিন্তু সেগুলোকে সমপরিমাণ নতুন spending হিসেবে গণ্য করা যাবে না।",
       "bn_notes": "GPO 1955; Treasury Department Document No. 3194। মুদ্রিত পৃষ্ঠা ৫, ২৩, ২৭ এবং ৪৬৭–৪৬৮ যাচাই করা হয়েছে। ৩০ জুন ১৯৫৪-এ statutory limit ছিল ২৭৫ বিলিয়ন ডলার এবং issuable balance ছিল ৪.২১০ বিলিয়ন; ২৮ আগস্ট ১৯৫৪ থেকে Public Law 686 সাময়িকভাবে সীমা ৬ বিলিয়ন বাড়ায়।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "5; 23; 27; 467–468",
+        "evidence": "Budget expenditures exceeded net budget receipts by $3.1 billion in fiscal year 1954, $6.3 billion less than the 1953 deficit. The $3.1 billion deficit together with a $2.1 billion increase in the Treasury general fund cash balance accounted for a $5.2 billion increase in public debt. Public debt outstanding reached $271.3 billion on June 30, 1954, compared with $266.1 billion at the close of fiscal year 1953. During the year the Treasury conducted major refinancing operations, including a January 27 operation involving five issues totaling $20.8 billion.",
+        "significance": "FY1954 marks a fiscal contraction after the sharp Korean-War-era acceleration of 1953. The Treasury reported a $3.1 billion budget deficit, $6.3 billion below the 1953 deficit, while public debt increased $5.2 billion from $266.1 billion to $271.3 billion. The report attributes the debt increase to the deficit plus a $2.1 billion increase in the Treasury general-fund cash balance. Major refinancing continued: the January 27, 1954 operation involved five issues totaling $20.8 billion, and subscriptions reached $18.2 billion. At June 30, 1954, the statutory debt limit was $275 billion, securities subject to the limitation were $270.790 billion, and the balance issuable was $4.210 billion. Public Law 686 temporarily raised the limit by $6 billion beginning August 28, 1954.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1954-5447/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1955 annual report, Treasury Department Document No. 3194. Printed p.5 contains the fiscal-operations summary; p.23 contains marketable debt changes; p.27 contains major refinancing operations; pp.467–468 contain statutory debt limitation tables. FRASER notes that its text is automatically extracted and may contain OCR errors, so exact quotations should be checked against page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1955",
@@ -2593,7 +2656,16 @@
       "bn_interpretation": "১৯৫৫ দেখায় যে post-armistice contraction সত্ত্বেও budget balance সঙ্গে সঙ্গে ফেরেনি। Public debt বাড়তে থাকে, তবে Treasury একই সঙ্গে debt maturity দীর্ঘ করে এবং short-term refinancing pressure কমায়।",
       "bn_notes": "GPO 1956; Treasury Department Document No. 3197। মুদ্রিত পৃষ্ঠা ৫ এবং ২৩–২৫ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "5; 23–25",
+        "evidence": "Budget expenditures were $4.2 billion more than net budget receipts in fiscal year 1955. The deficit, together with a $0.6 billion decline in the Treasurer's cash balance and a $0.5 billion excess of receipts in trust account and other transactions, resulted in a $3.1 billion increase in public debt. Public debt outstanding on June 30, 1955 was $274.4 billion, compared with $271.3 billion a year earlier. Treasury debt management lengthened the average maturity of marketable debt from 4 years 3 months to 4 years 7 months, while debt coming due within one year fell by $12 billion.",
+        "significance": "FY1955 recorded a $4.2 billion Federal budget deficit, down from the $9.4 billion deficit of 1953 but above the $3.1 billion deficit of 1954. Public debt increased $3.1 billion to $274.4 billion. Treasury reported that the deficit, a $0.6 billion decline in the Treasurer's cash balance, and a $0.5 billion excess of receipts in trust-account and other transactions produced the debt increase. Debt management also shifted the structure of outstanding marketable debt: average maturity increased from 4 years 3 months to 4 years 7 months, and debt maturing within one year fell by $12 billion. The February 1955 refunding placed almost $2 billion of 40-year bonds; a December 1954 refunding placed $6.5 billion of 8-year-8-month bonds.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1955-5448/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1956 annual report, Treasury Department Document No. 3197. Printed p.5 contains the fiscal-operations summary; pp.23–25 contain debt-management and maturity evidence. FRASER's extracted text may contain OCR errors, so exact quotations should be checked against page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1956",
@@ -2648,7 +2720,16 @@
       "bn_interpretation": "১৯৫৬ ১৯৫২–৫৫ সালের deficit sequence-এর বিপরীতে সবচেয়ে স্পষ্ট reversal point। Budget সামান্য surplus-এ ফেরে এবং public debt আবার কমতে শুরু করে; তবে Federal debt operations বন্ধ হয়নি, বরং debt composition ও ownership structure পরিবর্তন অব্যাহত ছিল।",
       "bn_notes": "GPO 1957; Treasury Department Document No. 3203। মুদ্রিত পৃষ্ঠা ৫, ২২ এবং ২৫–৩০ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "5; 22; 25–30",
+        "evidence": "The Treasury reported that a $0.4 billion excess of net budget receipts over budget expenditures was recorded in fiscal year 1956. A net decrease of $1.6 billion in public debt and guaranteed obligations brought total Federal debt outstanding to $272.8 billion on June 30, 1956, the first decline in public debt for a fiscal year since 1951. Nonmarketable public issues decreased $3.5 billion and marketable public issues decreased $0.3 billion, while special issues to Government investment accounts increased $1.9 billion.",
+        "significance": "FY1956 was the first fiscal year since 1951 in which public debt declined. The Treasury reported a $0.4 billion budget surplus and a $1.6 billion net decrease in public debt and guaranteed obligations, bringing total Federal debt outstanding to $272.8 billion. Within public issues, nonmarketable debt fell $3.5 billion and marketable debt fell $0.3 billion, while special issues to Government investment accounts increased $1.9 billion. The report's cash reconciliation shows the Treasurer's account balance rose from $6.216 billion to $6.546 billion, an increase of $331 million.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1956-5449/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1957 annual report, Treasury Department Document No. 3203. Printed p.5 contains the fiscal summary; p.22 contains the public-debt decline statement; pp.25–30 contain public-debt operations and ownership details. FRASER's extracted text may contain OCR errors, so exact quotations should be checked against page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-korean-war-financing-1957",
@@ -2704,7 +2785,16 @@
       "bn_interpretation": "১৯৫৭ প্রমাণ করে যে post-Korean-War fiscal position sustained surplus ও debt reduction-এর দিকে গিয়েছিল। কিন্তু borrowing/refinancing operations বন্ধ হয়নি: Treasury bills থেকে নতুন cash তোলা হয় এবং debt composition সক্রিয়ভাবে বদলানো হয়।",
       "bn_notes": "GPO 1958; Treasury Department Document No. 3205। মুদ্রিত পৃষ্ঠা ৫ এবং ২৯ যাচাই করা হয়েছে।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "5; 29",
+        "evidence": "The Government's budget was balanced for the second consecutive year, with a surplus of $1.6 billion in fiscal year 1957. Net budget receipts were $71.0 billion and expenditures $69.4 billion. The surplus, together with excess receipts in trust-account and other transactions and a reduction in the Treasurer's account, made possible a $2.2 billion reduction in public debt. Public debt outstanding was $270.5 billion on June 30, 1957. Total Federal debt outstanding including guaranteed obligations was $270.6 billion, down $2.2 billion. Interest-bearing public issues declined $3.1 billion: nonmarketable securities fell $3.9 billion while marketable securities increased $0.8 billion; special issues to Government investment accounts increased $1.7 billion.",
+        "significance": "FY1957 extended the fiscal reversal begun in 1956. The Treasury reported a second consecutive budget surplus of $1.6 billion, with receipts of $71.0 billion and expenditures of $69.4 billion. Public debt fell $2.2 billion to $270.5 billion, and the report states that the reductions achieved in FY1956 and FY1957 were the first since FY1951. Debt composition continued to change: interest-bearing public issues declined $3.1 billion, nonmarketable securities declined $3.9 billion, marketable securities increased $0.8 billion, and special issues to Government investment accounts increased $1.7 billion. The Treasury also raised $1.1 billion of new cash through larger weekly 91-day Treasury-bill offerings.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1957-5450/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1958 annual report, Treasury Department Document No. 3205. Printed p.5 contains the fiscal summary; p.29 contains public-debt operations. FRASER's extracted text may contain OCR errors, so exact quotations should be checked against page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-recession-financing-1958",
@@ -2764,7 +2854,16 @@
       "bn_interpretation": "১৯৫৮ সালটি debt-retirement phase থেকে debt-expansion phase-এ একটি স্পষ্ট পরিবর্তন দেখায়। তবে এটি শুধু নতুন ঋণগ্রহণের বছর নয়; Treasury একই সঙ্গে maturity lengthening, refinancing এবং ownership restructuring চালিয়ে যায়।",
       "bn_notes": "GPO 1959 সংস্করণের মুদ্রিত পৃষ্ঠা ৩, ২৪–২৫ ও ৩৪–৩৫ যাচাই করা হয়েছে। পৃষ্ঠা ৩-এ fiscal deficit ও debt increase-এর সারাংশ; ২৪–২৫-এ debt-management objectives ও maturity structure; ৩৪–৩৫-এ banking-system ownership changes নথিভুক্ত।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "3; 24–25; 34–35",
+        "evidence": "The Treasury reported net budget receipts of $69.1 billion and expenditures of $71.9 billion in fiscal year 1958, producing a $2.8 billion deficit. Treasury borrowing increased the public debt by $5.8 billion to $276.3 billion. The report stated that $2.8 billion of the increase reflected the deficit and $3.0 billion reflected an increase in the Treasury cash balance. Marketable public issues increased $11.0 billion while nonmarketable public issues declined $4.2 billion. Commercial banks increased their Federal-security holdings by about $9.0 billion and Federal Reserve holdings by $2.4 billion.",
+        "significance": "FY1958 reversed the recent surplus-and-retirement phase. The Treasury reported a $2.8 billion budget deficit, a $5.8 billion increase in public debt to $276.3 billion, and explained that $2.8 billion of the increase financed the deficit while $3.0 billion increased the Treasury cash balance. Debt structure nevertheless continued to be actively managed: marketable public issues rose $11.0 billion, nonmarketable issues fell $4.2 billion, and the Treasury lengthened the average maturity of marketable debt despite the overall debt increase.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1958-5451/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1959 annual report, Treasury Department Document No. 3210. Printed p.3 contains the fiscal summary; pp.24–25 describe debt-management objectives and maturity restructuring; pp.34–35 document ownership changes and increased bank holdings. FRASER's extracted text may contain OCR errors, so exact quotations should be checked against page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-postwar-debt-management-1959",
@@ -2825,7 +2924,16 @@
       "bn_interpretation": "১৯৫৯ সালটি postwar debt-retirement phase থেকে sustained deficit financing ও active debt-management reform-এর দিকে একটি শক্তিশালী structural marker। নতুন ঋণগ্রহণ, cash-balance management, refinancing এবং debt ownership—সবগুলোকে একই financing framework-এর অংশ হিসেবে পড়তে হবে।",
       "bn_notes": "GPO 1960 সংস্করণের মুদ্রিত পৃষ্ঠা ৬ এবং ২০–২৫ যাচাই করা হয়েছে। পৃষ্ঠা ৬-এ fiscal summary; ২০–২১-এ debt increase ও cash-balance financing; ২৩–২৫-এ refinancing, maturity structure, ownership এবং debt-management legislative program নথিভুক্ত।",
       "bn_verification_status": "Passage verified — printed pages",
-      "book": "book-1"
+      "book": "book-1",
+      "passage_record": {
+        "status": "Passage verified — printed pages",
+        "locator": "6; 20–25",
+        "evidence": "Net budget receipts in fiscal 1959 amounted to $68.3 billion and budget expenditures to $80.7 billion, resulting in a $12.4 billion deficit. The increase in the public debt during fiscal 1959 was less than the amount of deficit because part of it was financed by a $4.4 billion drawing down of the Treasury's cash balance. Public debt outstanding amounted to $284.7 billion on June 30, 1959. A net increase of $8.4 billion in public debt and guaranteed obligations occurred; marketable securities increased $11.4 billion while public nonmarketable issues declined $2.7 billion.",
+        "significance": "FY1959 marked a strong reversal from the preceding surplus-and-debt-reduction phase. The Treasury reported a $12.4 billion budget deficit, described as largely an aftermath of the 1957–58 recession. Public debt increased by $8.4 billion to $284.7 billion, with $4.4 billion of the deficit financed through a drawdown of the Treasury cash balance. Debt management remained active: $45 billion of marketable issues matured or were called and required refinancing; marketable securities increased $11.4 billion while nonmarketable public issues declined $2.7 billion. Private nonbank investors increased their portfolios by $13 billion, absorbing the increase in total public debt and declines in banking-system and Government-investment-account holdings.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1959-5452/fulltext",
+        "checked": "2026-10-05",
+        "verification_note": "Verified against the GPO 1960 annual report, Treasury Department Document No. 3211. Printed p.6 contains the fiscal summary; pp.20–21 document debt increase, cash-balance financing and debt composition; pp.23–25 document refinancing, maturity structure, ownership changes and the 1959 debt-management legislative program. FRASER text is OCR-derived and exact quotations should be checked against page images. The displayed evidence field is an archive summary/paraphrase, not a verbatim quotation; consult the cited scan before quoting exact wording."
+      }
     },
     {
       "source_id": "us-treasury-debt-management-1960",
