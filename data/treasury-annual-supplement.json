@@ -4548,6 +4548,75 @@
         "checked": "2026-10-10",
         "verification_note": "Original PDF images for printed pp. 20–21 inspected; passage is legible on p. 20 and supporting credit-flow table is on p. 21."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1983",
+      "title": "Federal Reserve Annual Report 1983 — Treasury Borrowing and Federal Deficit Financing",
+      "source_type": "Contemporary official annual report with aggregate credit-flow analysis",
+      "date_start": "1983-01-01",
+      "date_end": "1983-12-31",
+      "date_label": "Calendar year 1983; report transmitted in 1984",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Treasury net borrowing; credit markets; combined federal and off-budget deficits",
+      "original_text": "The report states that the financing needs of the U.S. government were again the dominant factor in credit markets in 1983. Net borrowing by the Treasury in credit markets totaled approximately $187 billion to finance the record combined deficits of the federal government and off-budget agencies.",
+      "translation": "প্রতিবেদনটি জানায়, ১৯৮৩ সালেও যুক্তরাষ্ট্র সরকারের অর্থায়নের চাহিদা ঋণবাজারে প্রধান প্রভাবক ছিল। ফেডারেল সরকার ও বাজেটের বাইরে থাকা সংস্থাগুলোর রেকর্ড সম্মিলিত ঘাটতি অর্থায়নের জন্য ট্রেজারির ঋণবাজারে নিট ধারগ্রহণ প্রায় ১৮৭ বিলিয়ন ডলারে পৌঁছায়।",
+      "translator": "বাংলা অনুবাদ — প্রতিবেদনটির বক্তব্যের সারাংশ; মূল ইংরেজি পাঠ ও মুদ্রিত পৃষ্ঠা নির্ধারিত",
+      "edition": "Seventieth Annual Report of the Board of Governors of the Federal Reserve System, 1983",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1984",
+      "reference_number": "Seventieth Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed p. 19, “Net Funds Raised and Supplied in Credit Markets” / aggregate credit flows discussion",
+      "section": "Monetary Policy and Financial Markets — Aggregate credit flows",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1983.pdf",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "The Federal Reserve's 1983 annual report identifies Treasury borrowing as a dominant factor in credit markets and records approximately $187 billion in Treasury net borrowing to finance record combined federal and off-budget deficits.",
+      "context": "The report reviews calendar-year 1983 credit flows. Printed p. 19 contains a credit-market table showing U.S. government net funds raised of $187 billion for 1983 and the adjacent narrative explains the Treasury's borrowing need.",
+      "interpretation": "This contemporary institutional source supports the scale of Treasury borrowing and its prominence in U.S. credit markets during 1983. It does not, by itself, identify the ultimate holders of all Treasury securities or establish that Treasury borrowing alone determined market interest rates.",
+      "counter_interpretations": [
+        "The approximately $187 billion figure is net Treasury borrowing in credit markets, not a direct measure of the entire federal deficit in every accounting definition.",
+        "The report groups the federal government and off-budget agencies when describing the combined deficits.",
+        "The evidence establishes the scale and market context of borrowing; it does not by itself establish the motives of individual investors or a single causal effect on interest rates."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1982",
+        "us-treasury-debt-management-1981",
+        "us-treasury-debt-management-1980"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed p. 19 checked against original PDF image; table and adjacent narrative inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "This is the Board of Governors of the Federal Reserve System's 1983 annual report, not the Treasury Department's own annual report. The report's printed p. 19 table and adjacent narrative were checked against the original PDF page image. The record paraphrases the report rather than presenting a long verbatim quotation.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1983-2436",
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1983.pdf"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve annual report; printed p. 19 table and adjacent narrative were visually checked against the original PDF scan.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page locator",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮৩ বার্ষিক প্রতিবেদন — ট্রেজারির ঋণগ্রহণ ও ফেডারেল ঘাটতি অর্থায়ন",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮৩ সালের প্রতিবেদনে ট্রেজারির ঋণবাজারে প্রায় ১৮৭ বিলিয়ন ডলারের নিট ধারগ্রহণ নথিভুক্ত হয়েছে, যা ফেডারেল সরকার ও বাজেটের বাইরে থাকা সংস্থাগুলোর রেকর্ড সম্মিলিত ঘাটতি অর্থায়নের সঙ্গে যুক্ত ছিল।",
+      "bn_context": "প্রতিবেদনটি ১৯৮৩ সালের ঋণবাজারের প্রবাহ পর্যালোচনা করে। মুদ্রিত পৃষ্ঠা ১৯-এ থাকা সারণিতে যুক্তরাষ্ট্র সরকারের নিট তহবিল সংগ্রহের পরিমাণ ১৮৭ বিলিয়ন ডলার দেখানো হয়েছে এবং পাশের আলোচনায় ট্রেজারির ধারগ্রহণের প্রয়োজন ব্যাখ্যা করা হয়েছে।",
+      "bn_interpretation": "এই সমসাময়িক সরকারি উৎস ১৯৮৩ সালে ট্রেজারির ধারগ্রহণের পরিমাণ ও ঋণবাজারে তার গুরুত্ব সমর্থন করে। তবে এটি একা সব ট্রেজারি সিকিউরিটির চূড়ান্ত মালিকানা বা সুদের হারের একক কারণ প্রমাণ করে না।",
+      "bn_notes": "এটি ফেডারেল রিজার্ভ বোর্ডের ১৯৮৩ সালের বার্ষিক প্রতিবেদন, ট্রেজারি বিভাগের নিজস্ব প্রতিবেদন নয়। মুদ্রিত পৃষ্ঠা ১৯-এর সারণি ও পাশের আলোচনা মূল PDF স্ক্যানের সঙ্গে মিলিয়ে দেখা হয়েছে।",
+      "bn_verification_status": "মুদ্রিত পৃষ্ঠা ১৯-এর সারণি ও পাশের আলোচনা মূল PDF পৃষ্ঠার ছবির সঙ্গে যাচাই করা হয়েছে।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed p. 19 checked against original PDF image; table and adjacent narrative inspected.",
+        "locator": "Printed p. 19, “Net Funds Raised and Supplied in Credit Markets” and adjacent aggregate credit flows discussion",
+        "evidence": "The 1983 table reports U.S. government net funds raised of $187 billion; adjacent narrative states that Treasury net borrowing in credit markets totaled approximately $187 billion to finance record combined federal and off-budget deficits.",
+        "significance": "Contemporary official evidence for the scale of Treasury borrowing and its central role in U.S. credit markets in 1983.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1983.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "Original PDF image for printed p. 19 inspected; table and adjacent narrative are legible. The record is a careful paraphrase, not a claim that the summary text is a verbatim quotation."
+      }
     }
   ],
   "last_updated": "2026-10-10"
