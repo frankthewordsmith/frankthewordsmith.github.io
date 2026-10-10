@@ -3955,6 +3955,75 @@
         "checked": "2026-10-10",
         "verification_note": "Printed page labels control over OCR; no paraphrase should be presented as a verbatim quotation."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1976",
+      "title": "U.S. Treasury Annual Report 1976 — Larger Deficit, Heavy Public Borrowing, and the Fiscal-Year Transition Quarter",
+      "source_type": "Institutional annual report",
+      "date_start": "1976-06-30",
+      "date_end": "1976-09-30",
+      "date_label": "Fiscal year ended June 30, 1976, with separate transition-quarter figures through September 30, 1976",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "unified budget deficit; borrowing from the public; Federal securities; cash and monetary assets; fiscal-year transition quarter",
+      "original_text": "The Treasury reported a unified-budget deficit of $65.6 billion for fiscal 1976, with receipts of $300.0 billion and outlays of $365.6 billion. Borrowing from the public totaled $82.8 billion, reflecting the deficit, a $7.8 billion increase in cash and monetary assets, and a $9.4 billion decrease in other means of financing. At June 30, 1976, Federal securities outstanding totaled $631.3 billion, including $620.4 billion in public debt securities and $10.9 billion in agency securities; $479.7 billion represented borrowing from the public. Because the Federal fiscal year was shifted to begin October 1, the report separately records a July–September 1976 transition quarter: its unified-budget deficit was $12.7 billion and borrowing from the public was $18.0 billion. At September 30, 1976, Federal securities outstanding totaled $645.7 billion.",
+      "translation": "ট্রেজারি জানায়, ১৯৭৬ অর্থবছরে unified-budget ঘাটতি ছিল ৬৫.৬ বিলিয়ন ডলার; রাজস্ব ৩০০.০ বিলিয়ন এবং ব্যয় ৩৬৫.৬ বিলিয়ন ডলার। জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৮২.৮ বিলিয়ন ডলার, যার অর্থায়ন-সমন্বয়ে ঘাটতি, নগদ ও monetary assets-এর ৭.৮ বিলিয়ন ডলার বৃদ্ধি এবং অন্যান্য অর্থায়নের ৯.৪ বিলিয়ন ডলার হ্রাস অন্তর্ভুক্ত ছিল। ৩০ জুন ১৯৭৬-এ Federal securities outstanding ছিল ৬৩১.৩ বিলিয়ন ডলার—এর মধ্যে ৬২০.৪ বিলিয়ন public debt securities এবং ১০.৯ বিলিয়ন agency securities; ৪৭৯.৭ বিলিয়ন ডলার ছিল borrowing from the public। Federal fiscal year অক্টোবর থেকে শুরু করার পরিবর্তনের কারণে প্রতিবেদনটি জুলাই–সেপ্টেম্বর ১৯৭৬ transition quarter আলাদাভাবে দেখায়: ওই তিন মাসে unified-budget ঘাটতি ছিল ১২.৭ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ১৮.০ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৭৬-এ মোট Federal securities outstanding ছিল ৬৪৫.৭ বিলিয়ন ডলার।",
+      "translator": "Archive synthesis from the verified Treasury annual report; figures and propositions checked against named printed pages.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for Fiscal Year 1976",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1976",
+      "reference_number": "U.S. Department of the Treasury, Annual Report for Fiscal 1976",
+      "page": "3–4",
+      "section": "Financial Operations; Summary; Means of Financing",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1976.pdf",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "Fiscal 1976 recorded a $65.6 billion unified-budget deficit and $82.8 billion of borrowing from the public. Federal securities outstanding reached $631.3 billion at June 30, 1976. The report separately identifies a July–September transition quarter after the change in the Federal fiscal-year calendar.",
+      "context": "The report covers continued large Federal financing needs following the 1974–75 recession and inflation, and a statutory change moving the start of the Federal fiscal year from July 1 to October 1. This created a three-month transition quarter that must not be merged into the fiscal-1976 totals.",
+      "interpretation": "The 1976 report shows the deficit and public borrowing expanding further, while documenting the accounting boundary created by the fiscal-calendar transition. The June 30 fiscal-year balance sheet and September 30 transition-quarter figures are distinct reporting dates.",
+      "counter_interpretations": [
+        "The $65.6 billion fiscal-1976 deficit is separate from the $12.7 billion transition-quarter deficit; the latter covers July–September 1976.",
+        "Borrowing from the public of $82.8 billion exceeds the unified-budget deficit because the Treasury financing reconciliation includes changes in cash and other means of financing.",
+        "The $631.3 billion Federal-securities total includes $620.4 billion of public debt securities and $10.9 billion of agency securities; it is not identical to Treasury public debt alone.",
+        "The report's aggregate figures establish fiscal financing and balance-sheet changes, not by themselves the motives behind individual purchases or borrowing decisions."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1975",
+        "us-treasury-debt-management-1974",
+        "us-treasury-debt-management-1973"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Figures and locator checked against the Treasury annual report's Financial Operations summary; the source is a scanned PDF and the cited summary is not a verbatim quotation.",
+      "last_verified": "2026-10-10",
+      "notes": "The FRASER-hosted Treasury annual report for fiscal 1976 gives the unified-budget and financing reconciliation on printed p. 3 and reports Federal securities outstanding at June 30 and September 30, 1976. Fiscal 1976 and the July–September transition quarter must remain separate. Summary wording is paraphrase, not a verbatim quotation.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1976.pdf"
+      ],
+      "evidence_grade_6_4": "A",
+      "evidence_grade_6_6": "A",
+      "evidence_grade": "A",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with fiscal-operations and financing figures, plus distinct year-end and transition-quarter totals.",
+      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৬ — বৃহত্তর ঘাটতি, জনসাধারণের কাছ থেকে ব্যাপক ঋণগ্রহণ ও অর্থবছর পরিবর্তনের অন্তর্বর্তী ত্রৈমাসিক",
+      "bn_historical_claim": "১৯৭৬ অর্থবছরে unified-budget ঘাটতি ছিল ৬৫.৬ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৮২.৮ বিলিয়ন ডলার। ৩০ জুনে Federal securities outstanding ছিল ৬৩১.৩ বিলিয়ন ডলার। অর্থবছর পরিবর্তনের কারণে জুলাই–সেপ্টেম্বর ১৯৭৬ transition quarter আলাদাভাবে দেখানো হয়েছে।",
+      "bn_context": "প্রতিবেদনটি উচ্চ Federal financing needs এবং ১ জুলাইয়ের বদলে ১ অক্টোবর থেকে Federal fiscal year শুরু করার পরিবর্তন নথিভুক্ত করে; এর ফলে তিন মাসের transition quarter তৈরি হয়।",
+      "bn_interpretation": "১৯৭৬ সালের প্রতিবেদন ঘাটতি ও জনসাধারণের কাছ থেকে ঋণগ্রহণ বৃদ্ধির পাশাপাশি অর্থবছরের ক্যালেন্ডার পরিবর্তনের ফলে সৃষ্ট হিসাবগত সীমারেখা দেখায়। জুন ৩০-এর হিসাব এবং সেপ্টেম্বর ৩০-এর transition-quarter figures আলাদা রাখতে হবে।",
+      "bn_notes": "Treasury annual report-এর Financial Operations summary, printed p. 3–4 ব্যবহার করা হয়েছে। FY1976 এবং July–September transition quarter একত্র করা হয়নি; সারাংশটি হুবহু উদ্ধৃতি নয়।",
+      "bn_verification_status": "Passage verified — printed pages",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locator checked; summary is not a verbatim quotation",
+        "locator": "Printed pp. 3–4",
+        "evidence": "$65.6B fiscal-1976 unified-budget deficit; $82.8B borrowing from the public; $631.3B Federal securities at June 30, 1976; separate $12.7B transition-quarter deficit and $18.0B borrowing from the public; $645.7B Federal securities at September 30, 1976.",
+        "significance": "Primary institutional evidence of Federal financing in fiscal 1976 and the separate three-month transition quarter caused by the fiscal-year calendar change.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1976.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "Keep fiscal-1976 and transition-quarter totals separate; source summary is paraphrase, not a verbatim quotation."
+      }
     }
   ],
   "last_updated": "2026-10-10"
