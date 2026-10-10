@@ -4960,6 +4960,75 @@
         "checked": "2026-10-10",
         "verification_note": "Broad domestic nonfinancial debt and fiscal-year deficit are not the same as Treasury net borrowing. Text layer checked; original page images remain to be inspected."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-1989",
+      "title": "Federal Reserve Annual Report 1989 — Slower Federal-Sector Debt Growth and Persistent Deficit",
+      "source_type": "Contemporary official annual report",
+      "date_start": "1989-01-01",
+      "date_end": "1989-12-31",
+      "date_label": "Calendar year 1989; report transmitted May 7, 1990",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal-sector debt; domestic nonfinancial debt; unified federal budget deficit",
+      "original_text": "The Federal Reserve's 1989 annual report states that total domestic nonfinancial debt grew near the midpoint of the FOMC's monitoring range, about one percentage point less than in 1988 and several percentage points below the mid-1980s pace. Federal-sector debt grew about 7½ percent, roughly half a percentage point less than in 1988. Separately, the report gives the unified federal budget deficit for fiscal year 1989 as $152 billion, slightly below 1988.",
+      "translation": "ফেডারেল রিজার্ভের ১৯৮৯ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, মোট দেশীয় অ-আর্থিক ঋণ FOMC-র পর্যবেক্ষণ-সীমার মধ্যবর্তী স্তরের কাছাকাছি বেড়েছিল—১৯৮৮ সালের তুলনায় প্রায় এক শতাংশ-পয়েন্ট কম এবং ১৯৮০-এর দশকের মাঝামাঝি সময়ের গতির চেয়ে কয়েক শতাংশ-পয়েন্ট কম। ফেডারেল খাতের ঋণ প্রায় ৭.৫ শতাংশ বেড়েছিল, যা ১৯৮৮ সালের তুলনায় আনুমানিক অর্ধ শতাংশ-পয়েন্ট কম। আলাদাভাবে, প্রতিবেদনে ১৯৮৯ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি ১৫২ বিলিয়ন ডলার বলা হয়েছে, যা ১৯৮৮ সালের চেয়ে সামান্য কম।",
+      "translator": "বাংলা অনুবাদ — ঋণবৃদ্ধির হার ও অর্থবছরের ঘাটতিকে পৃথক রেখে",
+      "edition": "Seventy-sixth Annual Report of the Board of Governors of the Federal Reserve System, 1989",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "publication_year": "1990",
+      "reference_number": "Seventy-sixth Annual Report of the Board of Governors of the Federal Reserve System",
+      "page": "Printed p. 17, “Credit Markets in 1989”; printed p. 9, “The Economy in 1989”",
+      "section": "Part 1 — Monetary Policy and the U.S. Economy in 1989",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1989.pdf",
+      "primary_or_secondary": "Primary institutional source",
+      "historical_claim": "The Federal Reserve's 1989 annual report records slower growth in broad domestic nonfinancial debt and federal-sector debt than in 1988, while the unified federal budget deficit declined slightly to $152 billion in fiscal 1989.",
+      "context": "The debt-growth passage on printed p. 17 refers to calendar-year 1989 and broad sectoral aggregates. The $152 billion deficit on printed p. 9 is a fiscal-year 1989 unified-budget figure. Neither measure is itself a direct figure for Treasury net borrowing.",
+      "interpretation": "This record marks a slowdown from the mid-1980s debt expansion while showing that federal-sector debt continued to grow and the federal budget remained in deficit. The source supports a contextual chronology, not a claim that debt growth and the deficit are identical or that the deficit alone determined market rates.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is broader than federal debt and includes nonfederal borrowers.",
+        "Federal-sector debt growth is not the same as Treasury net borrowing, gross issuance, or the annual change in debt held by the public.",
+        "The $152 billion unified-budget deficit is fiscal-year data and should not be substituted for calendar-year borrowing."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1988",
+        "us-treasury-debt-management-1987",
+        "us-treasury-debt-management-1986"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Printed-page locators and statements checked in FRASER PDF text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-10",
+      "notes": "The report was transmitted May 7, 1990 and covers calendar year 1989. Main debt-growth passage: printed p. 17; unified-budget deficit: printed p. 9. Text layer checked; original page-image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1989.pdf",
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1989-2446/fulltext"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary official annual report with specific printed-page locators and searchable source text; original page images not yet independently checked.",
+      "publication_status": "primary institutional evidence; printed-page transcription checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ১৯৮৯ বার্ষিক প্রতিবেদন — ফেডারেল খাতের ঋণবৃদ্ধি ধীর হওয়া ও ঘাটতির ধারাবাহিকতা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ১৯৮৯ সালের বার্ষিক প্রতিবেদন জানায় যে ১৯৮৮ সালের তুলনায় মোট দেশীয় অ-আর্থিক ঋণ এবং ফেডারেল খাতের ঋণবৃদ্ধি ধীর হয়েছিল। একই সময়ে ১৯৮৯ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি সামান্য কমে ১৫২ বিলিয়ন ডলারে দাঁড়ায়।",
+      "bn_context": "মুদ্রিত পৃষ্ঠা ১৭-তে ১৯৮৯ ক্যালেন্ডার বছরের ঋণবৃদ্ধির হার আলোচনা করা হয়েছে। মুদ্রিত পৃষ্ঠা ৯-এ ১৯৮৯ অর্থবছরের ঘাটতির অঙ্ক দেওয়া হয়েছে। এগুলো ট্রেজারির নিট ধারগ্রহণের সরাসরি পরিমাপ নয়।",
+      "bn_interpretation": "এই রেকর্ডটি ১৯৮০-এর দশকের মাঝামাঝি সময়ের দ্রুত ঋণবৃদ্ধির তুলনায় ধীরগতির একটি পর্যায় দেখায়, যদিও ফেডারেল খাতের ঋণ বাড়তে থাকে এবং বাজেট ঘাটতি বজায় ছিল। ঘাটতি ও ঋণবৃদ্ধিকে একই হিসাব হিসেবে ধরা যাবে না।",
+      "bn_notes": "প্রতিবেদনটি ৭ মে ১৯৯০-তে পেশ করা হয় এবং ১৯৮৯ ক্যালেন্ডার বছরের কার্যক্রম নিয়ে। ঋণবৃদ্ধির প্রধান অংশ মুদ্রিত পৃষ্ঠা ১৭-তে; সমন্বিত বাজেট ঘাটতি পৃষ্ঠা ৯-এ। পাঠস্তর যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "FRASER-এর PDF পাঠে মুদ্রিত পৃষ্ঠার অবস্থান ও বক্তব্য যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Printed-page locators and statements checked in FRASER PDF text layer; original page-image verification pending.",
+        "locator": "Printed p. 17, “Credit Markets in 1989”; printed p. 9, “The Economy in 1989.”",
+        "evidence": "The report states that total domestic nonfinancial debt growth was about one percentage point below 1988 and that federal-sector debt grew about 7½ percent, roughly half a percentage point less than in 1988. It separately records a $152 billion unified federal budget deficit for fiscal 1989.",
+        "significance": "Contemporary official evidence of slower broad and federal-sector debt growth in 1989 alongside a continuing federal deficit.",
+        "source_url": "https://fraser.stlouisfed.org/files/docs/publications/arfr/1980s/arfr_1989.pdf",
+        "checked": "2026-10-10",
+        "verification_note": "The debt-growth rates are not Treasury net-borrowing totals; the deficit figure is fiscal-year data. Text layer checked; original page images remain to be inspected."
+      }
     }
   ],
   "last_updated": "2026-10-10"
