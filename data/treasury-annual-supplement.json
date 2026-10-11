@@ -7337,9 +7337,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Federal Reserve official Z.1 introductory text and GAO-23-105586 audit summary checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Federal Reserve Z.1 released March 9, 2023 reports 2022 domestic nonfinancial debt growth of 5.7 percent, household 6.2 percent, business 5.9 percent, federal 6.1 percent, and state/local -1.7 percent; debt outstanding was $68.9 trillion at year-end. GAO-23-105586 reports about $30.9 trillion Fiscal Service-managed debt at September 30, 2022, up $2.5 trillion; public-held debt rose about $2.0 trillion and interest on public-held debt was $497 billion, compared with $392 billion in FY2021. Original PDF page-image verification remains pending.",
+      "verification_status": "Federal Reserve Z.1 official release and GAO-23-105586 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-23-105586, printed p. 29 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $22,282,900 million at September 30, 2021 to $24,299,193 million at September 30, 2022; intragovernmental principal increased from $6,139,965 million to $6,624,872 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $28,423 billion to $30,924 billion, a $2,501 billion increase. GAO reports $497 billion interest on debt held by the public in FY2022 and a $1,375 billion federal deficit. Public-held debt rose more than the deficit primarily because of increases in the government's cash balance, net loan activity, and restoration of uninvested principal. Keep rounded summary totals distinct from principal-only movements and from Federal Reserve calendar-year sector debt-growth rates.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20230309/html/introductory_text.htm",
         "https://www.federalreserve.gov/releases/z1/20230309/html/recent_developments.htm",
@@ -7349,8 +7349,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Official Federal Reserve Z.1 annual summary and GAO's audited federal-debt report support the cited measures; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "Federal Reserve Z.1 official tables and GAO-23-105586 audited schedule and explanatory text support sector growth, fiscal-year debt balance, interest expense, and debt-limit chronology; original GAO schedule page image inspected.",
+      "publication_status": "Federal Reserve official statistical release and GAO audited schedules checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০২২ — ফেডারেল ঋণ বৃদ্ধি ও সুদের ব্যয়",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২৩ সালের ৯ মার্চের Z.1 তথ্য অনুযায়ী, ২০২২ সালে দেশীয় অ-আর্থিক ঋণ ৫.৭ শতাংশ এবং ফেডারেল সরকারের ঋণ ৬.১ শতাংশ বেড়েছিল। GAO-23-105586 জানায়, ২০২২ সালের ৩০ সেপ্টেম্বর Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ছিল প্রায় ৩০.৯ ট্রিলিয়ন ডলার, যা ২০২১ অর্থবছরের তুলনায় প্রায় ২.৫ ট্রিলিয়ন বেশি। জনগণের হাতে থাকা ঋণ প্রায় ২.০ ট্রিলিয়ন বেড়েছিল এবং তার সুদ ২০২১ অর্থবছরের ৩৯২ বিলিয়ন থেকে বেড়ে ২০২২ অর্থবছরে ৪৯৭ বিলিয়ন ডলারে পৌঁছায়।",
       "bn_context": "ফেডারেল রিজার্ভের ঋণবৃদ্ধির হার ক্যালেন্ডার বছর ২০২২-এর; GAO-র ঋণ, ঘাটতি ও সুদের পরিমাণ অর্থবছরের। GAO জানায়, ২০২২ সালের শেষে ঋণ-তফিলগুলো গুরুত্বপূর্ণ দিক থেকে সঠিকভাবে উপস্থাপিত হয়েছিল এবং প্রাসঙ্গিক অভ্যন্তরীণ নিয়ন্ত্রণ কার্যকর ছিল। জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ হিসেবে ১.৪ ট্রিলিয়ন ডলারের ২০২২ অর্থবছরের ঘাটতি চিহ্নিত করা হয়েছে।",
@@ -7359,13 +7359,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 বার্ষিক সারণি ও GAO-23-105586 নিরীক্ষার সারাংশ যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official Z.1 annual summary and GAO audit summary checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 9, 2023, introductory text annual summary table; GAO-23-105586, Highlights and Schedules of Federal Debt.",
-        "evidence": "Z.1 reports 5.7 percent domestic nonfinancial debt growth and 6.1 percent federal government debt growth in 2022. GAO reports approximately $30.9 trillion federal debt at September 30, 2022, a $2.5 trillion FY increase, a $1.4 trillion deficit, and $497 billion interest on debt held by the public.",
+        "status": "Federal Reserve Z.1 release and GAO-23-105586 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+        "locator": "Federal Reserve Z.1, March 9, 2023, relevant introductory text and Debt Growth by Sector table; GAO-23-105586, highlights page i; printed page 29, Schedule of Federal Debt; printed pp. 4–6 for deficit reconciliation and debt-limit chronology.",
+        "evidence": "GAO's printed p. 29 schedule shows public-held principal at $22,282,900 million on September 30, 2021 and $24,299,193 million on September 30, 2022; intragovernmental principal at $6,139,965 million and $6,624,872 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $28,423 billion in 2021 and $30,924 billion in 2022, a $2,501 billion increase. GAO reports $497 billion interest on debt held by the public and a $1,375 billion FY2022 deficit.",
         "significance": "Pairs the annual multi-sector debt-growth series with audited fiscal-year federal debt and interest measures during 2022.",
         "source_url": "https://www.gao.gov/assets/gao-23-105586.pdf",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year growth and fiscal-year balance measures distinct; the debt-limit actions described in the audit continued only through December 15, 2021. Inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 29 original PDF image inspected. GAO states the $2,016 billion increase in public-held debt exceeded the $1,375 billion deficit primarily because of increases in the government's cash balance, net loan activity, and restoration of uninvested principal. The schedule's total-debt movement includes accrued interest and unamortized premiums/discounts; principal-only figures should not be treated as the total debt change."
       }
     },
     {
