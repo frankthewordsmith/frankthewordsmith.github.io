@@ -6793,6 +6793,78 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect original PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2015",
+      "title": "Federal Reserve Financial Accounts, Fourth Quarter 2015 — Federal Debt and Extraordinary Debt-Limit Actions",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2015-01-01",
+      "date_end": "2015-12-31",
+      "date_label": "Calendar-year 2015 debt-growth statistics; fiscal-year 2015 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's March 10, 2016 Z.1 release reports calendar-2015 domestic nonfinancial debt growth of 4.5 percent, household debt growth of 2.8 percent, nonfinancial business debt growth of 7.0 percent, state and local government debt growth of 1.8 percent, and federal debt growth of 5.0 percent. GAO-16-160 reports total federal debt managed by the Bureau of the Fiscal Service of $18.113 trillion at September 30, 2015, compared with $17.810 trillion at September 30, 2014. GAO states that from March 16 through September 30, 2015, Treasury took extraordinary actions to avoid exceeding the debt limit. As of September 30, $350 billion in uninvested principal and $2 billion in related interest were not reported on the FY2015 Schedule of Federal Debt; after legislation suspending the limit was enacted on November 2, 2015, Treasury restored the uninvested principal to affected federal accounts, increasing reported federal debt.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৬ সালের ১০ মার্চের Z.1 প্রকাশনা অনুযায়ী, ২০১৫ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ, পারিবারিক ঋণ ২.৮ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৭.০ শতাংশ বেড়েছিল; অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ১.৮ শতাংশ এবং ফেডারেল ঋণ ৫.০ শতাংশ বেড়েছিল। GAO-16-160 জানায়, Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ২০১৫ সালের ৩০ সেপ্টেম্বর ১৮.১১৩ ট্রিলিয়ন ডলারে পৌঁছায়; ২০১৪ সালের একই দিনে তা ছিল ১৭.৮১০ ট্রিলিয়ন ডলার। GAO জানায়, ঋণসীমা অতিক্রম এড়াতে ২০১৫ সালের ১৬ মার্চ থেকে ৩০ সেপ্টেম্বর পর্যন্ত ট্রেজারি অসাধারণ ব্যবস্থা গ্রহণ করে। ৩০ সেপ্টেম্বর ২০১৫-তে ৩৫০ বিলিয়ন ডলারের অনিবেশিত মূলধন এবং সংশ্লিষ্ট ২ বিলিয়ন ডলারের সুদ FY2015 ঋণ-তফসিলে অন্তর্ভুক্ত ছিল না; ২০১৫ সালের ২ নভেম্বর ঋণসীমা স্থগিতের আইন হওয়ার পর ট্রেজারি সংশ্লিষ্ট সরকারি হিসাবে অনিবেশিত মূলধন পুনঃস্থাপন করে, ফলে রিপোর্টকৃত ফেডারেল ঋণ বেড়ে যায়।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, March 10, 2016; GAO-16-160, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2015 and 2014 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2015",
+      "reference_number": "Federal Reserve Z.1, March 10, 2016; GAO-16-160",
+      "page": "Federal Reserve Z.1, March 10, 2016, Summary table and D.1 Debt Growth by Sector; GAO-16-160, Highlights and Total Federal Debt Outstanding table",
+      "section": "Growth of Domestic Nonfinancial Debt; Total Federal Debt Outstanding; FY2015 extraordinary debt-limit actions",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve's March 10, 2016 Z.1 reports calendar-2015 domestic nonfinancial debt growth of 4.5 percent and federal debt growth of 5.0 percent. GAO-16-160 reports total Fiscal Service-managed federal debt of $18.113 trillion at September 30, 2015. GAO also documents extraordinary Treasury actions and $350 billion in uninvested principal omitted from the September 30 schedule, with $2 billion in related interest.",
+      "context": "Federal Reserve rates are calendar-year changes; GAO debt balances are fiscal-year-end figures. GAO explains that Treasury used extraordinary measures from March 16 to September 30, 2015, because of delays in raising the debt limit. The $350 billion uninvested principal and $2 billion related interest were appropriately not reported on the FY2015 schedule at September 30; principal was restored to affected accounts after legislation on November 2, 2015. These amounts should not be added to the September 30 published total without clearly explaining their reporting treatment.",
+      "interpretation": "The official Z.1 series reports 5.0 percent growth in federal debt during calendar 2015. GAO's audited schedule reports $18.113 trillion of Fiscal Service-managed federal debt at the end of FY2015. The audit also documents the temporary accounting and debt-management effects of extraordinary measures during the debt-limit impasse; it does not establish that the impasse caused the entire annual debt increase.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "The $350 billion in uninvested principal was not included in the September 30 schedule; do not add it to the reported total without explaining accounting treatment.",
+        "Do not infer that the debt-limit impasse caused the entire annual debt increase."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2014",
+        "us-treasury-debt-management-2013",
+        "us-treasury-debt-management-2012"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve official Z.1 accessible summary/D.1 table and GAO-16-160 audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 March 10, 2016 reports calendar-2015 debt growth: domestic nonfinancial 4.5%, households 2.8%, business 7.0%, state/local government 1.8%, federal 5.0%. GAO-16-160 reports $18.113 trillion of Fiscal Service-managed debt at September 30, 2015. It identifies $350 billion in uninvested principal and $2 billion related interest omitted from the FY2015 schedule at that date, with principal restored after November 2, 2015 legislation. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
+        "https://www.federalreserve.gov/releases/z1/20160310/accessible/d1.htm",
+        "https://www.gao.gov/products/gao-16-160",
+        "https://www.gao.gov/assets/gao-16-160.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Federal Reserve official Z.1 summary/D.1 table and GAO audited debt schedule support annual growth, fiscal-year debt balance, and debt-limit accounting facts; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৫ — ফেডারেল ঋণ ও ঋণসীমা-সংক্রান্ত অসাধারণ ব্যবস্থা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০১৬ সালের ১০ মার্চের Z.1 তথ্য অনুযায়ী, ২০১৫ সালে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ এবং ফেডারেল ঋণ ৫.০ শতাংশ বেড়েছিল। GAO-16-160 জানায়, ২০১৫ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ছিল ১৮.১১৩ ট্রিলিয়ন ডলার। GAO আরও জানায়, ৩০ সেপ্টেম্বর ২০১৫-তে ৩৫০ বিলিয়ন ডলারের অনিবেশিত মূলধন ও সংশ্লিষ্ট ২ বিলিয়ন ডলারের সুদ ঋণ-তফসিলে অন্তর্ভুক্ত ছিল না।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১৫-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ঋণসীমা অতিক্রম এড়াতে ট্রেজারি ২০১৫ সালের ১৬ মার্চ থেকে ৩০ সেপ্টেম্বর পর্যন্ত অসাধারণ ব্যবস্থা গ্রহণ করে। ২ নভেম্বর ২০১৫-তে আইন হওয়ার পর সংশ্লিষ্ট সরকারি হিসাবে অনিবেশিত মূলধন পুনঃস্থাপন করা হয়।",
+      "bn_interpretation": "সরকারি Z.1 সিরিজে ২০১৫ সালে ফেডারেল ঋণ ৫.০ শতাংশ বৃদ্ধির তথ্য রয়েছে। GAO-র নিরীক্ষিত তফসিলে ২০১৫ অর্থবছরের শেষে ১৮.১১৩ ট্রিলিয়ন ডলার ব্যবস্থাপনাধীন ফেডারেল ঋণ দেখানো হয়েছে। নিরীক্ষায় ঋণসীমা-সংক্রান্ত অসাধারণ ব্যবস্থার সাময়িক হিসাব ও ঋণ ব্যবস্থাপনার প্রভাবও নথিবদ্ধ হয়েছে; তবে এই অচলাবস্থা পুরো বার্ষিক ঋণবৃদ্ধির কারণ—এমন সিদ্ধান্ত এতে প্রতিষ্ঠিত হয় না।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 ২০১৫ সালের ক্যালেন্ডার-বার্ষিক ঋণবৃদ্ধি দেখায়; GAO-16-160 ২০১৫ সালের ৩০ সেপ্টেম্বর ১৮.১১৩ ট্রিলিয়ন ডলার ঋণ নথিবদ্ধ করে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-16-160 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 summary/D.1 table and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 10, 2016, Summary table and D.1 Debt Growth by Sector; GAO-16-160, Highlights and Total Federal Debt Outstanding table.",
+        "evidence": "Z.1 reports 4.5 percent domestic nonfinancial debt growth and 5.0 percent federal debt growth in calendar 2015. GAO reports $18.113 trillion Fiscal Service-managed federal debt at September 30, 2015 and documents $350 billion in uninvested principal plus $2 billion related interest omitted from the schedule at that date.",
+        "significance": "Pairs annual sector debt-growth measures with audited fiscal-year federal debt and documents the effect of extraordinary debt-limit measures on year-end reporting.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; do not add uninvested principal to the reported total; inspect original PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
