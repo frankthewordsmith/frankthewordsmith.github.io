@@ -7121,9 +7121,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Federal Reserve official Z.1 release and GAO-20-117 audit text checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Federal Reserve Z.1 annual summary for 2019 reports domestic nonfinancial debt growth about 4.8%, household 3.5%, business 4.8%, federal 6.7%, and state/local 0.3%. GAO-20-117 reports approximately $22.7 trillion in Fiscal Service-managed federal debt at September 30, 2019; FY2019 debt rose about $1.2 trillion, and GAO identifies the $984 billion deficit as the primary factor in the increase in debt held by the public. Original PDF page-image verification remains pending.",
+      "verification_status": "GAO-20-117 highlights and original printed page 29 Schedule of Federal Debt image verified.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-20-117, printed p. 29 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $15,761,155 million at September 30, 2018 to $16,809,092 million at September 30, 2019; intragovernmental principal increased from $5,744,564 million to $5,901,500 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $21,506 billion to $22,711 billion, a $1,205 billion increase. Debt held by the public increased $1,048 billion against a $984 billion FY2019 deficit; GAO says the excess was primarily due to federal direct student loans and financing related to mortgage insurance. Interest on debt held by the public increased to $404 billion. Distinguish principal balances from total debt and retain the FY2019 source's contemporaneous values.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20200312/html/default.htm",
         "https://www.federalreserve.gov/releases/z1/20200312/html/d1.htm",
@@ -7133,8 +7133,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Official Federal Reserve Z.1 annual summary and GAO audited debt schedule support the sector growth and fiscal-year balance; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official summary and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "GAO-20-117 audited schedule and explanatory text support FY2019 debt balances, annual movement, deficit, interest expense, and debt-limit chronology; original GAO schedule page image inspected.",
+      "publication_status": "Official GAO audited schedule and explanatory text checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৯ — ফেডারেল ঋণবৃদ্ধি ও অর্থবছর ২০১৯-এর নিরীক্ষা",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২০ সালের ১২ মার্চের Z.1 তথ্য অনুযায়ী, ২০১৯ সালে দেশীয় অ-আর্থিক ঋণ প্রায় ৪.৮ শতাংশ এবং ফেডারেল ঋণ ৬.৭ শতাংশ বেড়েছিল। GAO-20-117 জানায়, ২০১৯ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ছিল প্রায় ২২.৭ ট্রিলিয়ন ডলার—এর মধ্যে ১৬.৮ ট্রিলিয়ন ডলার জনগণের হাতে এবং ৫.৯ ট্রিলিয়ন ডলার আন্তঃসরকারি ঋণধারণ। ২০১৯ অর্থবছরে মোট ঋণ প্রায় ১.২ ট্রিলিয়ন ডলার বেড়েছিল; জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ ছিল ৯৮৪ বিলিয়ন ডলারের ফেডারেল ঘাটতি।",
       "bn_context": "Z.1-এর বার্ষিক হার ক্যালেন্ডার বছর ২০১৯-এর; GAO-র ঋণস্থিতি ও ঘাটতির পরিসংখ্যান ৩০ সেপ্টেম্বর ২০১৯-এ শেষ হওয়া অর্থবছরের। GAO জানায়, অর্থবছরে ঋণসীমা একবার বাড়ানো হয় এবং প্রায় সাত মাসের জন্য স্থগিত ছিল।",
@@ -7143,13 +7143,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-20-117 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official Z.1 release and GAO audit text checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 12, 2020, annual summary and D.1 Debt Growth by Sector; GAO-20-117, Highlights and Schedules of Federal Debt.",
-        "evidence": "Z.1 reports 2019 annual sector growth rates; GAO reports approximately $22.7 trillion of Fiscal Service-managed federal debt at September 30, 2019, and a $1.2 trillion FY2019 increase with the deficit as the primary factor in growth of debt held by the public.",
+        "status": "GAO-20-117 highlights and original Schedule of Federal Debt page image verified.",
+        "locator": "GAO-20-117, highlights page i; printed page 29, Schedule of Federal Debt; printed pp. 4–5 for FY2019 debt movement, deficit, and loan-financing explanation.",
+        "evidence": "GAO's printed p. 29 schedule shows public-held principal at $15,761,155 million on September 30, 2018 and $16,809,092 million on September 30, 2019; intragovernmental principal at $5,744,564 million and $5,901,500 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $21,506 billion in 2018 and $22,711 billion in 2019, a $1,205 billion increase. GAO reports a $984 billion FY2019 deficit, a $1,048 billion increase in debt held by the public, and $404 billion interest on debt held by the public.",
         "significance": "Connects sector-level debt growth with the audited federal debt stock and the fiscal deficit, while keeping debt-limit actions analytically separate.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20200312/html/default.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year Z.1 figures distinct from FY2019 GAO figures; inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 29 original PDF image inspected. GAO attributes the public-held debt increase exceeding the deficit primarily to increases in federal direct student loans and financing related to mortgage insurance. The 2019 increase in total debt is not identical to the increase in debt held by the public."
       }
     },
     {
