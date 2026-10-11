@@ -1,0 +1,79 @@
+{
+  "site": "Frank the Wordsmith",
+  "version": 1,
+  "last_updated": "2026-10-11",
+  "sources": [
+    {
+      "source_id": "us-treasury-debt-management-2018",
+      "title": "Federal Reserve Financial Accounts, Fourth Quarter 2018 — Federal Debt and Treasury Debt-Limit Operations",
+      "source_type": "Federal Reserve financial accounts and GAO federal debt audit",
+      "date_start": "2018-01-01",
+      "date_end": "2018-12-31",
+      "date_label": "Calendar-year 2018 growth; fiscal-year 2018 debt balance",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal debt; debt limit",
+      "original_text": "Federal Reserve Z.1, March 7, 2019, reports calendar-2018 domestic nonfinancial debt growth of 4.5%, household debt 3.2%, nonfinancial business debt 3.7%, federal debt 7.6%, and state/local government debt -1.7%. GAO-19-113 reports $21.506 trillion total federal debt managed by the Bureau of the Fiscal Service at September 30, 2018, about $1.3 trillion above FY2017. Debt held by the public rose about $1.1 trillion; GAO identifies the $779 billion FY2018 federal deficit, up from $666 billion in FY2017, as the primary factor. The debt limit was raised once and temporarily suspended for about 10 months during FY2018.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৯ সালের ৭ মার্চের Z.1 অনুযায়ী, ২০১৮ সালে দেশীয় অ-আর্থিক ঋণ ৪.৫%, পারিবারিক ঋণ ৩.২%, ব্যবসায়িক ঋণ ৩.৭% এবং ফেডারেল ঋণ ৭.৬% বেড়েছিল; অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ১.৭% কমেছিল। GAO-19-113 জানায়, ২০১৮ সালের ৩০ সেপ্টেম্বর মোট ফেডারেল ঋণ ছিল ২১.৫০৬ ট্রিলিয়ন ডলার, যা আগের অর্থবছরের তুলনায় প্রায় ১.৩ ট্রিলিয়ন বেশি। জনগণের হাতে থাকা ঋণ প্রায় ১.১ ট্রিলিয়ন বেড়েছিল; GAO এর প্রধান কারণ হিসেবে ২০১৮ অর্থবছরের ৭৭৯ বিলিয়ন ডলারের ফেডারেল ঘাটতিকে চিহ্নিত করে। ২০১৮ অর্থবছরে ঋণসীমা একবার বাড়ানো এবং প্রায় ১০ মাস স্থগিত রাখা হয়।",
+      "translator": "Frank the Wordsmith research translation",
+      "edition": "Federal Reserve Z.1, March 7, 2019; GAO-19-113, Fiscal Years 2018 and 2017 Schedules of Federal Debt",
+      "publisher": "Federal Reserve Board; U.S. Government Accountability Office",
+      "publication_year": "2019",
+      "reference_number": "Federal Reserve Z.1; GAO-19-113",
+      "page": "Federal Reserve Z.1 annual debt-growth table; GAO-19-113 Highlights and Overview",
+      "section": "Annual debt growth by sector; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+      "primary_or_secondary": "Primary institutional data and audit",
+      "historical_claim": "Z.1 reports 4.5% domestic nonfinancial debt growth and 7.6% federal debt growth in calendar 2018. GAO reports $21.506 trillion federal debt at September 30, 2018; public-held debt increased about $1.1 trillion, primarily due to the $779 billion FY2018 deficit.",
+      "context": "Z.1 rates cover calendar 2018; GAO's debt balance and deficit are fiscal-year measures. GAO also noted significant information-system control deficiencies while finding the debt schedules fairly presented in all material respects.",
+      "interpretation": "Federal debt rose substantially in FY2018. GAO identifies the federal deficit as the primary factor in the increase in public-held debt; this does not make it the sole factor in every component of gross debt.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not federal debt alone.",
+        "Calendar-year growth rates differ from fiscal-year-end balances.",
+        "GAO's information-system control finding is separate from its opinion that the debt schedules were fairly presented."
+      ],
+      "scholarly_references": [
+        "GAO-18-134 audit report; no separate secondary scholarly reference asserted."
+      ],
+      "related_sources": [
+        "us-treasury-debt-management-2017",
+        "us-treasury-debt-management-2016",
+        "us-treasury-debt-management-2015"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Official Federal Reserve Z.1 table and GAO-19-113 audit text checked; original PDF page images pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+        "https://www.gao.gov/products/gao-19-113",
+        "https://www.gao.gov/assets/gao-19-113.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve summary and GAO audit highlights support the reported annual growth and fiscal-year debt total; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary and audit highlights checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৮ — ফেডারেল ঋণ ও ঋণসীমা ব্যবস্থাপনা",
+      "bn_historical_claim": "Z.1 অনুযায়ী, ২০১৮ সালে দেশীয় অ-আর্থিক ঋণ ৪.৫% এবং ফেডারেল ঋণ ৭.৬% বেড়েছিল। GAO-19-113 জানায়, ২০১৮ অর্থবছরের শেষে মোট ফেডারেল ঋণ ছিল ২১.৫০৬ ট্রিলিয়ন ডলার; জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ ছিল ৭৭৯ বিলিয়ন ডলারের ফেডারেল ঘাটতি।",
+      "bn_context": "Z.1-এর হার ক্যালেন্ডার বছরভিত্তিক; GAO-র ঋণ ও ঘাটতির হিসাব অর্থবছরভিত্তিক। GAO তথ্য-ব্যবস্থার নিয়ন্ত্রণে দুর্বলতার কথাও জানায়, তবে ঋণ-তফসিলকে সব গুরুত্বপূর্ণ দিক থেকে যথাযথ বলে।",
+      "bn_interpretation": "২০১৮ অর্থবছরে ফেডারেল ঋণ উল্লেখযোগ্যভাবে বেড়েছিল। জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ হিসেবে GAO ফেডারেল ঘাটতিকে চিহ্নিত করে; এর অর্থ এই নয় যে মোট ঋণের প্রতিটি উপাদানের একমাত্র কারণ ঘাটতি।",
+      "bn_notes": "মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "সরকারি Z.1 সারণি ও GAO-19-113 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 table and GAO audit text checked; original PDF images pending.",
+        "locator": "Federal Reserve Z.1, March 7, 2019 annual debt-growth table; GAO-19-113 Highlights and Overview.",
+        "evidence": "Z.1 reports 4.5% domestic nonfinancial and 7.6% federal debt growth in calendar 2018; GAO reports $21.506 trillion total debt at September 30, 2018 and cites the $779 billion FY2018 deficit as the primary factor in public-held debt growth.",
+        "significance": "Pairs calendar-year sector growth with audited fiscal-year debt and debt-limit context.",
+        "source_url": "https://www.gao.gov/products/gao-19-113",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar and fiscal years distinct; inspect PDF page images before upgrading grade."
+      }
+    }
+  ]
+}
