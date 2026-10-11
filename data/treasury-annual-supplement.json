@@ -5930,6 +5930,78 @@
         "checked": "2026-10-11",
         "verification_note": "Do not conflate calendar-year debt-growth rates with fiscal-year balances; inspect original PDF page images before upgrading the evidence grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2003",
+      "title": "Federal Reserve Annual Report 2003 — Accelerating Federal Debt and the Return of Deficits",
+      "source_type": "Federal Reserve annual report; GAO federal-debt audit and budget review",
+      "date_start": "2003-01-01",
+      "date_end": "2003-12-31",
+      "date_label": "Calendar year 2003 debt-growth statistics; fiscal year 2003 budget and debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; unified budget deficit; debt held by the public",
+      "original_text": "The Federal Reserve's 2003 Annual Report estimates that aggregate debt of the domestic nonfinancial sectors increased about 8¼ percent in calendar 2003, just over one percentage point faster than in 2002. Federal debt accelerated sharply, rising 11 percent, owing to the larger budget deficit; household debt also rose rapidly, while business borrowing remained subdued. GAO's federal-debt audit reports that debt managed by the Bureau of the Public Debt reached about $6.783 trillion at September 30, 2003, compared with $6.213 trillion one year earlier. The 2003 total comprised approximately $3.924 trillion held by the public and $2.859 trillion in intragovernmental holdings. The unified budget deficit for fiscal 2003 was about $374.8 billion.",
+      "translation": "ফেডারেল রিজার্ভের ২০০৩ সালের বার্ষিক প্রতিবেদনে অনুমান করা হয়েছে যে ২০০৩ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতগুলোর মোট ঋণ প্রায় ৮.২৫ শতাংশ বেড়েছিল—২০০২ সালের তুলনায় এক শতাংশ-পয়েন্টের কিছু বেশি। বৃহত্তর বাজেট ঘাটতির কারণে ফেডারেল ঋণ দ্রুত বেড়ে ১১ শতাংশে পৌঁছায়; পরিবারগুলোর ঋণও দ্রুত বৃদ্ধি পায়, আর ব্যবসায়িক ঋণগ্রহণ তুলনামূলকভাবে মন্থর থাকে। GAO-র ফেডারেল-ঋণ নিরীক্ষায় বলা হয়েছে, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ২০০৩ সালের ৩০ সেপ্টেম্বর প্রায় ৬.৭৮৩ ট্রিলিয়ন ডলারে পৌঁছায়, যা এক বছর আগে ছিল ৬.২১৩ ট্রিলিয়ন ডলার। ২০০৩ সালের মোট ঋণের মধ্যে জনগণের হাতে ছিল প্রায় ৩.৯২৪ ট্রিলিয়ন ডলার এবং আন্তঃসরকারি ঋণধারণ ছিল ২.৮৫৯ ট্রিলিয়ন ডলার। ২০০৩ অর্থবছরের সমন্বিত বাজেট ঘাটতি ছিল প্রায় ৩৭৪.৮ বিলিয়ন ডলার।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের বাজেট-পরিসংখ্যান পৃথক রাখা হয়েছে",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System 2003; GAO-04-177, Financial Audit: Bureau of the Public Debt's Fiscal Years 2003 and 2002 Schedules of Federal Debt; GAO-04-485SP, Federal Debt: Answers to Frequently Asked Questions: An Update",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. General Accounting Office",
+      "publication_year": "2003–2004",
+      "reference_number": "Federal Reserve Annual Report 2003, p. 27; GAO-04-177; GAO-04-485SP",
+      "page": "Federal Reserve Annual Report 2003, p. 27; GAO-04-177, p. 1; GAO-04-485SP, federal budget and debt tables",
+      "section": "Debt and Financial Intermediation; Schedules of Federal Debt; Unified Budget Deficit",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/2003-2458/fulltext",
+      "primary_or_secondary": "Primary institutional annual report and audit; GAO retrospective budget summary",
+      "historical_claim": "Federal Reserve estimated domestic nonfinancial-sector debt grew about 8¼ percent in calendar 2003 and federal debt grew 11 percent. GAO reported federal debt managed by the Bureau of the Public Debt reached about $6.783 trillion at September 30, 2003, split between $3.924 trillion held by the public and $2.859 trillion in intragovernmental holdings. The fiscal 2003 unified budget deficit was approximately $374.8 billion.",
+      "context": "The Federal Reserve's debt-growth statistics refer to calendar 2003, whereas the deficit and debt balances are for fiscal 2003, ending September 30. The debt figures are those managed by the Bureau of the Public Debt as reported in its audited schedules. Gross federal debt comprises debt held by the public plus intragovernmental holdings.",
+      "interpretation": "The 2003 record documents continued deficit-era growth in federal debt: federal debt grew faster than broad domestic nonfinancial debt, and debt held by the public rose alongside intragovernmental holdings. The data support a descriptive connection between the larger deficit and faster federal debt growth as stated by the Federal Reserve, but they do not imply that all domestic borrowing was federal borrowing.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a broad aggregate across sectors, not Treasury debt alone.",
+        "Calendar-year debt-growth rates and fiscal-year deficits/debt balances are different measures and periods.",
+        "Intragovernmental holdings are Treasury obligations held by federal accounts; they must be distinguished from debt held by the public.",
+        "The statistical association does not establish that the deficit was the sole driver of every component of credit growth."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2002",
+        "us-treasury-debt-management-2001",
+        "us-treasury-debt-management-2000"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve annual-report text and GAO-04-177 audit figures checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Annual Report 2003, p. 27, estimates domestic nonfinancial-sector debt grew about 8¼ percent and federal debt 11 percent in calendar 2003. GAO-04-177 reports federal debt managed by the Bureau of the Public Debt at $6.783 trillion on September 30, 2003, with $3.924 trillion held by the public and $2.859 trillion intragovernmental. GAO-04-485SP lists the fiscal 2003 unified budget deficit as $374.8 billion. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/2003-2458/fulltext",
+        "https://www.gao.gov/assets/gao-04-177.pdf",
+        "https://www.gao.gov/assets/a243713.html",
+        "https://www.gao.gov/assets/a76926.html"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve annual report and audited GAO debt schedules substantiate the key claims; original PDF page images still need inspection.",
+      "publication_status": "primary institutional evidence; text and locator checked, original-page image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ২০০৩ সালের বার্ষিক প্রতিবেদন — ফেডারেল ঋণবৃদ্ধি ত্বরান্বিত ও বাজেট ঘাটতির প্রত্যাবর্তন",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের অনুমান অনুযায়ী, ২০০৩ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের ঋণ প্রায় ৮.২৫ শতাংশ এবং ফেডারেল ঋণ ১১ শতাংশ বেড়েছিল। GAO জানায়, ২০০৩ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ৬.৭৮৩ ট্রিলিয়ন ডলারে পৌঁছায়; এর মধ্যে ৩.৯২৪ ট্রিলিয়ন ডলার জনগণের হাতে এবং ২.৮৫৯ ট্রিলিয়ন ডলার আন্তঃসরকারি ঋণধারণ ছিল। ২০০৩ অর্থবছরের সমন্বিত বাজেট ঘাটতি ছিল প্রায় ৩৭৪.৮ বিলিয়ন ডলার।",
+      "bn_context": "ঋণবৃদ্ধির হার ক্যালেন্ডার বছর ২০০৩-এর; বাজেট ঘাটতি ও ঋণ-স্থিতি ২০০৩ অর্থবছরের, যা ৩০ সেপ্টেম্বর শেষ হয়। স্থূল ফেডারেল ঋণ জনগণের হাতে থাকা ঋণ এবং আন্তঃসরকারি ঋণধারণ—এই দুই অংশ নিয়ে গঠিত।",
+      "bn_interpretation": "২০০৩ সালের নথি ঘাটতির সময়ে ফেডারেল ঋণের ধারাবাহিক বৃদ্ধিকে তুলে ধরে। ফেডারেল ঋণ সামগ্রিক দেশীয় অ-আর্থিক ঋণের চেয়ে দ্রুত বেড়েছিল এবং জনগণের হাতে থাকা ঋণের পাশাপাশি আন্তঃসরকারি ঋণধারণও বেড়েছিল। তথ্যগুলো বর্ণনামূলক সম্পর্ক দেখায়; সব খাতের ঋণবৃদ্ধিকে ফেডারেল ঋণ হিসেবে ব্যাখ্যা করা যায় না।",
+      "bn_notes": "ফেডারেল রিজার্ভের ২০০৩ সালের বার্ষিক প্রতিবেদনের ২৭ পৃষ্ঠায় দেশীয় অ-আর্থিক ঋণ প্রায় ৮.২৫ শতাংশ ও ফেডারেল ঋণ ১১ শতাংশ বৃদ্ধির অনুমান আছে। GAO-04-177-এ ২০০৩ সালের ৩০ সেপ্টেম্বর ফেডারেল ঋণ ৬.৭৮৩ ট্রিলিয়ন ডলার বলা হয়েছে; জনগণের হাতে ৩.৯২৪ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ২.৮৫৯ ট্রিলিয়ন ডলার। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের বার্ষিক প্রতিবেদনের পাঠ্য ও GAO-04-177 নিরীক্ষার পরিসংখ্যান যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Annual Report 2003, p. 27, “Debt and Financial Intermediation”; GAO-04-177, p. 1, federal-debt schedules; GAO-04-485SP, unified budget deficit table.",
+        "evidence": "Federal Reserve estimates 8¼ percent growth in domestic nonfinancial-sector debt and 11 percent federal debt growth in 2003. GAO reports $6.783 trillion of federal debt managed by the Bureau of the Public Debt at September 30, 2003, including $3.924 trillion held by the public and $2.859 trillion intragovernmental; fiscal 2003 deficit was $374.8 billion.",
+        "significance": "Documents the federal-debt acceleration and rising public-held debt during the renewed deficit period, while separating broad sectoral credit from federal obligations.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/2003-2458/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year debt growth separate from fiscal-year budget and debt balances; inspect original PDF page images before upgrading the evidence grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
