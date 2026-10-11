@@ -581,6 +581,63 @@
       "bn_notes": "মোট গৃহীত দরপত্রকে নিট নতুন ঋণ হিসেবে দেখাবেন না। SOMA-এর আগের উপমোটে FIMA-এর অঙ্ক রয়েছে; SOMA-এর অঙ্ক অতিরিক্ত।",
       "bn_verification_status": "সরকারি TreasuryDirect নিলাম-ফলাফলে CUSIP, গৃহীত অঙ্ক, ইস্যু ও মেয়াদপূর্তির তারিখ, উচ্চ হার এবং bid-to-cover অনুপাত যাচাই করা হয়েছে।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-tentative-auction-schedule-october-2026",
+      "title": "U.S. Treasury Tentative Auction Schedule: October 2026 Financing Calendar",
+      "source_type": "Official Treasury auction calendar",
+      "date_start": "2026-10-01",
+      "date_end": "2026-10-30",
+      "date_label": "Tentative auction and settlement dates for October 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Tentative Auction Schedule of U.S. Treasury Securities",
+      "original_text": "The U.S. Treasury's Tentative Auction Schedule lists security type, announcement date, auction date, and settlement date. October entries include 3-year notes announced October 1 and auctioned October 6 for settlement October 15; 10-year notes announced October 1 and auctioned October 7 for settlement October 15; 30-year bonds announced October 1 and auctioned October 8 for settlement October 15. The schedule also lists 20-year bonds auctioned October 21 and 5-year TIPS auctioned October 22, both announced October 15, and 2-year notes, 5-year notes, 2-year FRNs, and 7-year notes announced October 22 and auctioned October 26–29 for settlement November 2.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, Tentative Auction Schedule of U.S. Treasury Securities, PDF, October–January schedule table, pages 1–2.",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "section": "Table headed 'Security Type / Announcement Date / Auction Date / Settlement Date', October 2026 rows.",
+      "source_identity": "Official Treasury schedule PDF showing tentative announcement, auction, and settlement dates for Treasury bills, notes, bonds, FRNs, and TIPS.",
+      "historical_claim": "Treasury published a tentative calendar for October 2026 security auctions, including nominal coupon securities, floating-rate notes, bills, and a 5-year TIPS auction.",
+      "context": "An auction calendar is a schedule, not an auction result. It identifies planned dates and security types but does not establish auction size, accepted bids, proceeds, or final settlement.",
+      "interpretation": "This record documents the operational calendar for Treasury marketable-security issuance during October 2026 and provides a cross-check for later auction-result records.",
+      "notes": "Keep this record classified as a tentative schedule. Do not infer actual issuance, auction success, accepted amounts, or borrowing totals from scheduled dates alone. Dates may be revised.",
+      "what_passage_establishes": "The table lists security type and scheduled announcement, auction, and settlement dates. For example, the 20-year bond is listed for an October 21 auction and October 23 settlement; the 5-year TIPS is listed for an October 22 auction and October 30 settlement.",
+      "evidence_limits": "The schedule alone does not provide auction sizes, yields, bid-to-cover ratios, accepted tenders, net borrowing, total federal debt, or budget deficit. It is explicitly tentative.",
+      "citation_record": "U.S. Department of the Treasury, Tentative Auction Schedule of U.S. Treasury Securities, official PDF, accessed October 11, 2026.",
+      "scholarly_references": [
+        "Primary government scheduling document; no secondary scholarly reference asserted."
+      ],
+      "related_sources": [
+        "us-treasury-nominal-coupon-frn-auction-sizes-2026-aug-oct",
+        "us-treasury-quarterly-refunding-august-2026",
+        "us-treasury-119-day-bill-auction-results-june-2026"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf?mod=article_inline"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury schedule PDF checked; dates transcribed as tentative schedule entries.",
+      "verification_status": "October 2026 schedule rows checked against the official Treasury PDF, including October 6–8 auctions and October 21–29 auctions.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official U.S. Treasury PDF checked.",
+        "locator": "Tentative Auction Schedule of U.S. Treasury Securities, table columns 'Security Type', 'Announcement Date', 'Auction Date', and 'Settlement Date'; October 2026 rows on PDF pages 1–2.",
+        "evidence": "3-year note: announced Oct 1, auction Oct 6, settlement Oct 15; 10-year note: announced Oct 1, auction Oct 7, settlement Oct 15; 30-year bond: announced Oct 1, auction Oct 8, settlement Oct 15; 20-year bond: announced Oct 15, auction Oct 21, settlement Oct 23; 5-year TIPS: announced Oct 15, auction Oct 22, settlement Oct 30; 2-year/5-year/7-year notes and 2-year FRN announced Oct 22 and auctioned Oct 26–29, settlement Nov 2.",
+        "significance": "Provides primary-source scheduling context for October issuance and can be compared with individual auction announcements/results without confusing planned dates with completed sales.",
+        "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf?mod=article_inline",
+        "checked": "2026-10-11",
+        "verification_note": "Tentative calendar only; actual auction notices and results take precedence if the schedule changes."
+      },
+      "bn_title": "২০২৬ সালের অক্টোবরের জন্য যুক্তরাষ্ট্রের ট্রেজারির সম্ভাব্য নিলাম-সময়সূচি",
+      "bn_historical_claim": "যুক্তরাষ্ট্রের ট্রেজারির সরকারি সম্ভাব্য নিলাম-সময়সূচিতে ২০২৬ সালের অক্টোবর মাসে বিল, নোট, বন্ড, ফ্লোটিং-রেট নোট এবং TIPS-এর ঘোষণার তারিখ, নিলামের তারিখ ও নিষ্পত্তির তারিখ তালিকাভুক্ত রয়েছে।",
+      "bn_context": "এটি নিলামের সময়সূচি, নিলামের ফলাফল নয়। এতে নির্ধারিত তারিখ ও সিকিউরিটির ধরন রয়েছে; গৃহীত দরপত্র, বিক্রির পরিমাণ বা নিট ঋণগ্রহণের তথ্য নেই।",
+      "bn_interpretation": "এই রেকর্ড অক্টোবর ২০২৬-এ ট্রেজারি সিকিউরিটি ইস্যুর পরিকল্পিত সময়সূচির প্রাথমিক সরকারি প্রমাণ সরবরাহ করে।",
+      "bn_notes": "সময়সূচিকে সম্ভাব্য হিসেবে চিহ্নিত রাখতে হবে। শুধু নির্ধারিত তারিখ থেকে প্রকৃত ইস্যু, গৃহীত অঙ্ক বা ঋণগ্রহণের পরিমাণ অনুমান করা যাবে না।",
+      "bn_verification_status": "সরকারি ট্রেজারি PDF-এর অক্টোবর ২০২৬-এর সারিগুলোতে ঘোষণার, নিলামের ও নিষ্পত্তির তারিখ যাচাই করা হয়েছে।",
+      "book": "book-1"
     }
   ]
 }
