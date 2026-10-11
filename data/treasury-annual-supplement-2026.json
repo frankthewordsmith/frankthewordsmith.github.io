@@ -116,6 +116,64 @@
       "bn_interpretation": "ঘোষণাটি বাস্তবে সম্পন্ন ত্রৈমাসিক ঋণগ্রহণের একটি সরকারি হিসাব দেয় এবং পূর্বের পূর্বাভাসের সঙ্গে তার পার্থক্য ব্যাখ্যা করে।",
       "bn_notes": "এই অঙ্ককে মোট ফেডারেল ঋণ বৃদ্ধি, FY2026 বাজেট ঘাটতি বা নিরীক্ষিত বার্ষিক ফলাফল হিসেবে ব্যবহার করবেন না।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-marketable-borrowing-actual-2026-q1",
+      "title": "Treasury’s Actual January–March 2026 Marketable Borrowing",
+      "source_type": "U.S. Treasury press release / debt-management announcement",
+      "date_start": "2026-01-01",
+      "date_end": "2026-03-31",
+      "date_label": "Actual quarterly borrowing result reported May 4, 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Privately held net marketable borrowing",
+      "original_text": "In its May 4, 2026 marketable-borrowing announcement, the U.S. Treasury reported that it borrowed $577 billion in privately held net marketable debt during January–March 2026 and ended the quarter with a cash balance of $893 billion. In February 2026, Treasury had estimated $574 billion in borrowing and assumed an end-of-March cash balance of $850 billion. Treasury said the $3 billion higher actual borrowing primarily reflected the higher-than-assumed quarter-end cash balance, partly offset by higher net cash flows; excluding the cash-balance difference, actual borrowing was $40 billion lower than announced in February.",
+      "translation": "",
+      "edition": "Treasury press release SB0485, “Treasury Announces Marketable Borrowing Estimates,” May 4, 2026",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "reference_number": "SB0485",
+      "section": "Press release summary; Sources and Uses Table, January–March 2026 quarter",
+      "source_identity": "Official Treasury quarterly borrowing announcement reporting completed January–March 2026 borrowing and comparing it with the February estimate.",
+      "historical_claim": "Treasury reported $577 billion in privately held net marketable borrowing during January–March 2026 and a quarter-end cash balance of $893 billion.",
+      "context": "This is a reported quarterly result for privately held net marketable borrowing, not total federal debt issuance, the change in total federal debt, or the federal budget deficit.",
+      "interpretation": "The announcement supplies an official realized quarterly borrowing figure and documents the effect of the quarter-end cash balance on the comparison with the prior estimate. It should be read alongside, but kept distinct from, Treasury’s later Q2 actual and Q3/Q4 forecast records.",
+      "notes": "Do not treat privately held net marketable borrowing as total federal debt growth or as the fiscal-year deficit. This announcement is not an audited FY2026 annual report.",
+      "what_passage_establishes": "Treasury reported $577 billion of privately held net marketable borrowing during January–March 2026 and a quarter-end cash balance of $893 billion, with a comparison against the February estimate.",
+      "evidence_limits": "This figure covers one calendar quarter and one Treasury borrowing measure. It does not establish total federal debt outstanding, all forms of federal borrowing, the FY2026 deficit, or audited year-end results.",
+      "citation_record": "U.S. Department of the Treasury, “Treasury Announces Marketable Borrowing Estimates,” press release SB0485, May 4, 2026, summary and Sources and Uses Table.",
+      "scholarly_references": [
+        "Primary government announcement; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-marketable-borrowing-actual-2026-q2",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+        "us-treasury-debt-management-2025"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0485",
+        "https://treasurydirect.services.treasury.gov/government/public-debt-reports/"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury announcement reports actual Q1 calendar-year borrowing; this is not an audited annual outcome.",
+      "verification_status": "Quarterly actual borrowing, end-of-quarter cash balance, and comparison with the February estimate checked against the official Treasury announcement.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official Treasury announcement checked; reported actual Q1 borrowing distinguished from subsequent quarter forecasts.",
+        "locator": "Treasury press release SB0485, May 4, 2026, summary and Sources and Uses Table, paragraph beginning “During the January–March 2026 quarter”.",
+        "evidence": "Treasury reported $577 billion in privately held net marketable borrowing during January–March 2026 and a quarter-end cash balance of $893 billion.",
+        "significance": "Provides an official realized quarterly borrowing figure that can be compared with the later Q2 actual result and Q3/Q4 estimates without conflating actuals and forecasts.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0485",
+        "checked": "2026-10-11",
+        "verification_note": "Quarterly result only; do not infer total federal debt growth or the FY2026 deficit from this figure."
+      },
+      "bn_title": "২০২৬ সালের জানুয়ারি–মার্চে ট্রেজারির প্রকৃত বাজারযোগ্য ঋণগ্রহণ",
+      "bn_historical_claim": "যুক্তরাষ্ট্রের ট্রেজারি জানায়, ২০২৬ সালের জানুয়ারি–মার্চ প্রান্তিকে বেসরকারি বিনিয়োগকারীদের কাছ থেকে নিট বাজারযোগ্য ঋণগ্রহণ ছিল ৫৭৭ বিলিয়ন ডলার এবং প্রান্তিক শেষে নগদ স্থিতি ছিল ৮৯৩ বিলিয়ন ডলার।",
+      "bn_context": "এটি একটি নির্দিষ্ট প্রান্তিকের নির্দিষ্ট ঋণগ্রহণ-পরিমাপ; মোট ফেডারেল ঋণের পরিবর্তন বা বাজেট ঘাটতির সমান নয়।",
+      "bn_interpretation": "ঘোষণাটি বাস্তবে সম্পন্ন ত্রৈমাসিক ঋণগ্রহণের সরকারি অঙ্ক এবং আগের পূর্বাভাসের সঙ্গে তার পার্থক্য জানায়।",
+      "bn_notes": "এই অঙ্ককে মোট ফেডারেল ঋণ বৃদ্ধি, FY2026 বাজেট ঘাটতি বা নিরীক্ষিত বার্ষিক ফলাফল হিসেবে ব্যবহার করবেন না।",
+      "book": "book-1"
     }
   ]
 }
