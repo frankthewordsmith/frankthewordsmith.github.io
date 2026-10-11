@@ -67,6 +67,70 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances and explain the omitted uninvested principal and interest; inspect original PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2016",
+      "title": "Federal Reserve Financial Accounts, Fourth Quarter 2016 — Federal Debt and Fiscal-Year Growth",
+      "source_type": "Federal Reserve financial accounts and GAO federal debt audit",
+      "date_start": "2016-01-01",
+      "date_end": "2016-12-31",
+      "date_label": "Calendar-year 2016 debt-growth statistics; fiscal-year 2016 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; extraordinary measures",
+      "original_text": "The Federal Reserve's March 9, 2017 Z.1 release reports calendar-2016 domestic nonfinancial debt growth of 4.6 percent, household debt growth of 3.6 percent, total nonfinancial business debt growth of 6.7 percent, state and local government debt growth of 1.0 percent, and federal debt growth of 5.6 percent. GAO-17-104 reports gross federal debt managed by the Bureau of the Fiscal Service totaled $19.560 trillion at September 30, 2016, compared with $18.138 trillion at September 30, 2015, an increase of $1.422 trillion. The increase comprised $1.049 trillion in debt held by the public and $373 billion in intragovernmental debt holdings. GAO found the FY2016 and FY2015 schedules fairly presented in all material respects.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৭ সালের ৯ মার্চের Z.1 প্রকাশনা অনুযায়ী, ২০১৬ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.৬ শতাংশ, পারিবারিক ঋণ ৩.৬ শতাংশ এবং মোট অ-আর্থিক ব্যবসায়িক ঋণ ৬.৭ শতাংশ বেড়েছিল; অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ১.০ শতাংশ এবং ফেডারেল ঋণ ৫.৬ শতাংশ বেড়েছিল। GAO-17-104 জানায়, Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ২০১৬ সালের ৩০ সেপ্টেম্বর ১৯.৫৬০ ট্রিলিয়ন ডলারে পৌঁছায়; ২০১৫ সালের একই দিনে তা ছিল ১৮.১৩৮ ট্রিলিয়ন ডলার, অর্থাৎ ১.৪২২ ট্রিলিয়ন ডলার বৃদ্ধি। এর মধ্যে জনগণের হাতে থাকা ঋণ ১.০৪৯ ট্রিলিয়ন ডলার এবং আন্তঃসরকারি ঋণধারণ ৩৭৩ বিলিয়ন ডলার বেড়েছিল। GAO-র মতে, ২০১৬ ও ২০১৫ অর্থবছরের ঋণ-তফসিল সব গুরুত্বপূর্ণ দিক থেকে যথাযথভাবে উপস্থাপিত হয়েছিল।",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, March 9, 2017; GAO-17-104, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2016 and 2015 Schedules of Federal Debt",
+      "publisher": "Federal Reserve Board; U.S. Government Accountability Office",
+      "publication_year": "2017",
+      "reference_number": "Federal Reserve Z.1, March 9, 2017; GAO-17-104",
+      "page": "Federal Reserve Z.1, Table D.1 annual 2016 row; GAO-17-104, Highlights and Overview on Federal Debt",
+      "section": "Debt Growth by Sector; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20171207/html/d1.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audit",
+      "historical_claim": "Federal Reserve Z.1 reports calendar-2016 domestic nonfinancial debt growth of 4.6 percent, total business debt growth of 6.7 percent, and federal debt growth of 5.6 percent. GAO-17-104 reports gross Fiscal Service-managed federal debt of $19.560 trillion at September 30, 2016, up $1.422 trillion from 2015: $1.049 trillion public-held and $373 billion intragovernmental.",
+      "context": "Federal Reserve rates are calendar-year changes, while GAO's debt balance is fiscal-year-end. GAO reports gross debt managed by Fiscal Service of $19.560 trillion at September 30, 2016 and $18.138 trillion at September 30, 2015. The increase of $1.422 trillion consists of $1.049 trillion more debt held by the public and $373 billion more intragovernmental holdings.",
+      "interpretation": "Federal debt continued to rise in 2016. The audited schedule attributes the $1.422 trillion increase in gross federal debt managed by Fiscal Service to increases in both public-held debt and intragovernmental holdings. The sector growth statistics and the fiscal-year-end debt balance measure related but distinct things.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year Z.1 growth rates differ from fiscal-year-end debt balances.",
+        "Gross debt managed by Fiscal Service includes debt held by the public and intragovernmental holdings; do not describe it as only debt held by outside investors."
+      ],
+      "related_sources": [
+        "us-treasury-debt-management-2015",
+        "us-treasury-debt-management-2014",
+        "us-treasury-debt-management-2013"
+      ],
+      "verification_status": "Federal Reserve official Z.1 Table D.1 and GAO-17-104 audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 D.1 reports calendar-2016 domestic nonfinancial debt growth 4.6%, household 3.6%, total business 6.7%, state/local 1.0%, federal 5.6%. GAO-17-104 reports $19.560 trillion gross Fiscal Service-managed federal debt at September 30, 2016, versus $18.138 trillion in 2015, an increase of $1.422 trillion ($1.049 trillion public-held and $373 billion intragovernmental). Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20171207/html/d1.htm",
+        "https://www.gao.gov/products/gao-17-104",
+        "https://www.gao.gov/assets/gao-17-104.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve Z.1 sector table and GAO audited debt schedule support annual growth and fiscal-year balance figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official Z.1 table and GAO audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৬ — ফেডারেল ঋণ ও অর্থবছরভিত্তিক বৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০১৭ সালের ৯ মার্চের Z.1 তথ্য অনুযায়ী, ২০১৬ সালে দেশীয় অ-আর্থিক ঋণ ৪.৬ শতাংশ এবং ফেডারেল ঋণ ৫.৬ শতাংশ বেড়েছিল। GAO-17-104 জানায়, ২০১৬ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ছিল ১৯.৫৬০ ট্রিলিয়ন ডলার—২০১৫ সালের তুলনায় ১.৪২২ ট্রিলিয়ন ডলার বেশি। এর মধ্যে জনগণের হাতে থাকা ঋণ ১.০৪৯ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৩৭৩ বিলিয়ন ডলার বেড়েছিল।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১৬-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। মোট ঋণের বৃদ্ধি জনগণের হাতে থাকা ঋণ এবং আন্তঃসরকারি ঋণধারণ—উভয় অংশ থেকেই এসেছে।",
+      "bn_interpretation": "২০১৬ সালেও ফেডারেল ঋণ বেড়েছিল। নিরীক্ষিত তফসিল মোট ঋণবৃদ্ধিকে জনগণের হাতে থাকা ঋণ এবং আন্তঃসরকারি ঋণধারণের বৃদ্ধিতে ভাগ করে দেখায়। ক্যালেন্ডার-বার্ষিক ঋণবৃদ্ধির হার এবং অর্থবছর-শেষের ঋণস্থিতি আলাদা মাপকাঠি।",
+      "bn_notes": "Z.1 সারণি D.1 অনুযায়ী ২০১৬ সালে দেশীয় অ-আর্থিক ঋণ ৪.৬ শতাংশ ও ফেডারেল ঋণ ৫.৬ শতাংশ বেড়েছিল। GAO-17-104 ২০১৬ সালের ৩০ সেপ্টেম্বর মোট ঋণ ১৯.৫৬০ ট্রিলিয়ন ডলার বলে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-17-104 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 Table D.1 and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, Table D.1 annual 2016 row; GAO-17-104, Highlights and Overview on Federal Debt.",
+        "evidence": "Z.1 reports 4.6 percent domestic nonfinancial debt growth and 5.6 percent federal debt growth in calendar 2016. GAO reports $19.560 trillion gross Fiscal Service-managed federal debt at September 30, 2016, up $1.422 trillion year over year.",
+        "significance": "Connects sector debt-growth measures to the audited fiscal-year-end gross federal debt balance and its components.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20171207/html/d1.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year-end balances; inspect original PDF page images before upgrading grade."
+      }
     }
   ]
 }
