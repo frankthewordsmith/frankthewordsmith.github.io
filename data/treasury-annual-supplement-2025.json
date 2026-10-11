@@ -1,0 +1,67 @@
+{
+  "site": "Frank the Wordsmith",
+  "version": 1,
+  "last_updated": "2026-10-11",
+  "sources": [
+    {
+      "source_id": "us-treasury-debt-management-2025",
+      "title": "GAO Financial Audit of the FY 2025 and FY 2024 Schedules of Federal Debt",
+      "source_type": "U.S. Government Accountability Office financial audit",
+      "date_start": "2024-10-01",
+      "date_end": "2025-09-30",
+      "date_label": "Fiscal year 2025; debt balance as of September 30, 2025",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "GAO-26-107908 reports that total federal debt managed by the Bureau of the Fiscal Service was about $37.6 trillion as of September 30, 2025, an increase of about $2.2 trillion during FY 2025. About $2.0 trillion of the increase was in debt held by the public. GAO reports a FY 2025 budget deficit of $1.8 trillion and says debt held by the public is increasing mainly because the federal government continues to spend more than it collects in revenue, requiring borrowing to finance annual deficits. Interest on debt held by the public was about $1.0 trillion in FY 2025.",
+      "translation": "",
+      "edition": "GAO-26-107908, Financial Audit: Bureau of the Fiscal Service’s FY 2025 and FY 2024 Schedules of Federal Debt",
+      "publisher": "U.S. Government Accountability Office",
+      "publication_year": "2026",
+      "reference_number": "GAO-26-107908",
+      "page": "GAO-26-107908, Fast Facts and Highlights, accessible report page 1",
+      "section": "Fast Facts; What GAO Found; Schedules of Federal Debt",
+      "source_identity": "Official GAO financial audit of the Bureau of the Fiscal Service’s FY2025 and FY2024 Schedules of Federal Debt, published January 20, 2026.",
+      "historical_claim": "At September 30, 2025, total federal debt managed by Fiscal Service was about $37.6 trillion, up about $2.2 trillion during FY2025. Approximately $2.0 trillion of the increase was in debt held by the public. GAO identifies borrowing to finance annual budget deficits as the main reason publicly held debt is increasing and reports a FY2025 deficit of $1.8 trillion. Interest on debt held by the public reached about $1.0 trillion.",
+      "context": "These are fiscal-year figures, not calendar-year growth rates. Total federal debt managed by Fiscal Service includes debt held by the public and intragovernmental debt holdings. The accessible GAO report rounds several figures; retain its approximate wording.",
+      "interpretation": "The audit provides a reliable institutional account of the federal debt stock, the annual change, the public-debt component, and the deficit-financing explanation given by GAO.",
+      "notes": "GAO reports that the FY2025 and FY2024 schedules were fairly presented in all material respects and that relevant internal controls were effective. The source is a retrospective audit published January 20, 2026. Original PDF page-image inspection has not been completed in this pass.",
+      "what_passage_establishes": "GAO's audited schedules support the approximate total debt at September 30, 2025, the approximate annual increase, the increase in debt held by the public, and the report's explanation linking publicly held debt to deficit-financing borrowing.",
+      "evidence_limits": "The rounded summary figures do not show that each dollar borrowed funded a particular expenditure. The annual deficit and the change in debt held by the public are related but are not identical measures. This is not a measure of private or global debt.",
+      "citation_record": "U.S. Government Accountability Office, GAO-26-107908, Financial Audit: Bureau of the Fiscal Service’s FY 2025 and FY 2024 Schedules of Federal Debt (Jan. 20, 2026), Fast Facts and Highlights, accessible report p. 1.",
+      "scholarly_references": [
+        "Primary institutional audit; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-debt-management-2024"
+      ],
+      "web_sources": [
+        "https://www.gao.gov/products/gao-26-107908",
+        "https://www.gao.gov/assets/gao-26-107908.pdf",
+        "https://fiscal.treasury.gov/accounting/us-financial-report/financial-statements",
+        "https://fiscal.treasury.gov/accounting/us-financial-report/where-we-are-now"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official GAO financial audit checked; original PDF page-image verification pending.",
+      "verification_status": "Key figures and scope checked against the official GAO report; original PDF page-image inspection pending.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official GAO report summary checked; original PDF page-image inspection pending.",
+        "locator": "GAO-26-107908, Fast Facts and Highlights, accessible report page 1; Schedules of Federal Debt for FY2025 and FY2024.",
+        "evidence": "GAO reports about $37.6 trillion total federal debt at September 30, 2025, an increase of about $2.2 trillion in FY2025, with about $2.0 trillion of the increase in debt held by the public; the FY2025 deficit was $1.8 trillion and interest on publicly held debt about $1.0 trillion.",
+        "significance": "Provides a current audited government record of debt totals, annual change, and GAO's stated deficit-financing explanation.",
+        "source_url": "https://www.gao.gov/products/gao-26-107908",
+        "checked": "2026-10-11",
+        "verification_note": "Preserve the report's rounded/approximate figures. Separate total federal debt from debt held by the public and do not equate the annual deficit exactly with the annual change in debt. Original PDF image check pending."
+      },
+      "bn_title": "২০২৫ ও ২০২৪ অর্থবছরের ফেডারেল ঋণ-সূচির ওপর GAO-র আর্থিক নিরীক্ষা",
+      "bn_historical_claim": "GAO-26-107908 অনুযায়ী, ২০২৫ সালের ৩০ সেপ্টেম্বর ফেডারেল ফিসকাল সার্ভিসের ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ছিল প্রায় ৩৭.৬ ট্রিলিয়ন ডলার; ২০২৫ অর্থবছরে তা প্রায় ২.২ ট্রিলিয়ন ডলার বেড়েছিল। এর প্রায় ২.০ ট্রিলিয়ন ডলার ছিল জনগণের হাতে থাকা ঋণের বৃদ্ধি। GAO জানায়, ২০২৫ অর্থবছরের বাজেট ঘাটতি ছিল ১.৮ ট্রিলিয়ন ডলার এবং ঘাটতি মেটাতে ঋণগ্রহণ জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ। জনগণের হাতে থাকা ঋণের সুদ ২০২৫ অর্থবছরে প্রায় ১.০ ট্রিলিয়ন ডলারে পৌঁছায়।",
+      "bn_context": "এগুলো অর্থবছরভিত্তিক পরিসংখ্যান, ক্যালেন্ডার বছরের বৃদ্ধির হার নয়। মোট ফেডারেল ঋণে জনগণের হাতে থাকা ঋণ ও আন্তঃসরকারি ঋণধারণ অন্তর্ভুক্ত। GAO-র সারাংশে কিছু সংখ্যা আনুমানিকভাবে দেওয়া হয়েছে।",
+      "bn_interpretation": "নিরীক্ষাটি ফেডারেল ঋণের মোট পরিমাণ, বার্ষিক পরিবর্তন এবং ঘাটতি মেটাতে ঋণগ্রহণ সম্পর্কে GAO-র ব্যাখ্যার প্রাতিষ্ঠানিক প্রমাণ দেয়।",
+      "bn_notes": "GAO জানায় যে ২০২৫ ও ২০২৪ অর্থবছরের ঋণ-সূচি সব গুরুত্বপূর্ণ দিক থেকে যথাযথভাবে উপস্থাপিত হয়েছে এবং প্রাসঙ্গিক অভ্যন্তরীণ নিয়ন্ত্রণ কার্যকর ছিল। মূল PDF পৃষ্ঠার ছবি যাচাই এখনও বাকি।",
+      "bn_verification_status": "GAO-র সরকারি নিরীক্ষা প্রতিবেদনের সারাংশের সঙ্গে মূল পরিসংখ্যান ও পরিধি মিলিয়ে দেখা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1"
+    }
+  ]
+}
