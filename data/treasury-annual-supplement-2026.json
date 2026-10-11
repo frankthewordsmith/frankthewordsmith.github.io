@@ -1,0 +1,64 @@
+{
+  "site": "Frank the Wordsmith",
+  "version": 1,
+  "last_updated": "2026-10-11",
+  "sources": [
+    {
+      "source_id": "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+      "title": "Treasury’s July–September and October–December 2026 Marketable Borrowing Estimates",
+      "source_type": "U.S. Treasury press release / debt-management announcement",
+      "date_start": "2026-07-01",
+      "date_end": "2026-12-31",
+      "date_label": "Announcement dated August 3, 2026; estimates for Q3 and Q4 calendar year 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Privately held net marketable borrowing estimates",
+      "original_text": "On August 3, 2026, the U.S. Treasury estimated privately held net marketable borrowing of $739 billion for July–September 2026, assuming an end-of-September cash balance of $950 billion. Treasury estimated $628 billion for October–December 2026, assuming an end-of-December cash balance of $850 billion. Treasury stated the July–September estimate was $68 billion higher than its May estimate, primarily due to lower projected net cash flows, partially offset by a higher-than-assumed beginning-of-quarter cash balance.",
+      "translation": "",
+      "edition": "Treasury press release SB0584, “Treasury Announces Marketable Borrowing Estimates,” August 3, 2026",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "reference_number": "SB0584",
+      "section": "Press release summary; Sources and Uses Table",
+      "source_identity": "Official Treasury quarterly borrowing-estimates announcement, dated August 3, 2026; forecasts, not audited actual outcomes.",
+      "historical_claim": "Treasury projected $739 billion in privately held net marketable borrowing for July–September 2026 and $628 billion for October–December 2026, under stated end-of-quarter cash-balance assumptions.",
+      "context": "This is a contemporaneous debt-management forecast. It is not a report of borrowing actually completed, total federal debt outstanding, the fiscal-year deficit, or an audited FY2026 result. Forecasts may change as receipts, outlays, and cash balances evolve.",
+      "interpretation": "The announcement documents Treasury’s planned marketable borrowing and its stated cash-balance assumptions for two 2026 calendar quarters. It can support a claim about announced financing expectations, not a claim about realized debt totals.",
+      "notes": "Do not use the forecast amounts as actual borrowing results. A separate FY2026 annual record should remain pending until authoritative year-end data and the relevant audited schedules are available.",
+      "what_passage_establishes": "The Treasury announcement establishes the amounts Treasury estimated it would borrow in privately held net marketable debt for the two specified quarters and the end-of-quarter cash-balance assumptions used.",
+      "evidence_limits": "These are estimates, not final realized amounts. Privately held net marketable borrowing is not the same as total federal debt issuance or the change in total federal debt. The release does not establish the FY2026 deficit or the audited September 30, 2026 debt balance.",
+      "citation_record": "U.S. Department of the Treasury, “Treasury Announces Marketable Borrowing Estimates,” press release SB0584, August 3, 2026, Sources and Uses Table.",
+      "scholarly_references": [
+        "Primary government announcement; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-debt-management-2025"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0584",
+        "https://treasurydirect.services.treasury.gov/government/public-debt-reports/"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury forecast announcement identified; forecasts are not actual year-end outcomes.",
+      "verification_status": "Release date, quarterly forecast amounts, cash assumptions, and stated comparison with May estimate checked against the official Treasury announcement; no claim of realized borrowing is made.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official Treasury announcement checked; forecast status explicitly retained.",
+        "locator": "Treasury press release SB0584, August 3, 2026, summary and Sources and Uses Table.",
+        "evidence": "Treasury estimated $739 billion privately held net marketable borrowing for July–September 2026 assuming $950 billion end-September cash, and $628 billion for October–December 2026 assuming $850 billion end-December cash.",
+        "significance": "Contemporaneous evidence of Treasury’s borrowing expectations and stated cash assumptions during 2026.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0584",
+        "checked": "2026-10-11",
+        "verification_note": "Forecast only. Do not substitute these estimates for actual borrowing or audited year-end debt figures."
+      },
+      "bn_title": "২০২৬ সালের জুলাই–সেপ্টেম্বর ও অক্টোবর–ডিসেম্বরের বাজারযোগ্য ঋণগ্রহণ সম্পর্কে ট্রেজারির পূর্বাভাস",
+      "bn_historical_claim": "২০২৬ সালের ৩ আগস্ট যুক্তরাষ্ট্রের ট্রেজারি জানায়, ২০২৬ সালের জুলাই–সেপ্টেম্বর প্রান্তিকে বেসরকারি বিনিয়োগকারীদের কাছ থেকে নিট বাজারযোগ্য ঋণগ্রহণের পূর্বাভাস ৭৩৯ বিলিয়ন ডলার; সেপ্টেম্বরের শেষে নগদ স্থিতি ৯৫০ বিলিয়ন ডলার ধরে এই হিসাব করা হয়। অক্টোবর–ডিসেম্বর প্রান্তিকের পূর্বাভাস ছিল ৬২৮ বিলিয়ন ডলার, ডিসেম্বরের শেষে ৮৫০ বিলিয়ন ডলার নগদ স্থিতি ধরে।",
+      "bn_context": "এটি সমসাময়িক ঋণ-ব্যবস্থাপনা পূর্বাভাস, বাস্তবে সম্পন্ন ঋণগ্রহণের হিসাব নয়। এটি মোট ফেডারেল ঋণ, অর্থবছরের ঘাটতি বা নিরীক্ষিত FY2026 ফলাফলও নয়।",
+      "bn_interpretation": "এই ঘোষণাটি ২০২৬ সালের দুই প্রান্তিকে ট্রেজারির পরিকল্পিত বাজারযোগ্য ঋণগ্রহণ ও নগদ স্থিতির অনুমান নথিভুক্ত করে।",
+      "bn_notes": "পূর্বাভাসের অঙ্ককে বাস্তব ঋণগ্রহণের ফল হিসেবে ব্যবহার করবেন না। ২০২৬ অর্থবছরের বার্ষিক রেকর্ড প্রামাণ্য বছরশেষের তথ্য ও নিরীক্ষিত সূচি প্রকাশ না হওয়া পর্যন্ত অপেক্ষমাণ থাকবে।",
+      "bn_verification_status": "সরকারি ট্রেজারি ঘোষণার তারিখ, প্রান্তিকভিত্তিক পূর্বাভাস ও নগদ-স্থিতির অনুমান যাচাই করা হয়েছে; বাস্তব ঋণগ্রহণের দাবি করা হচ্ছে না।",
+      "book": "book-1"
+    }
+  ]
+}
