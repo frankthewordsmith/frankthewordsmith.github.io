@@ -5714,6 +5714,77 @@
         "checked": "2026-10-11",
         "verification_note": "Budget surplus, Treasury outstanding debt, debt held by the public, and nonfederal debt are distinct measures; original printed pages need inspection."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2000",
+      "title": "Federal Reserve Annual Report 2001 — Surplus-Era Debt Paydown and Slower Credit Growth",
+      "source_type": "Contemporary official central-bank report and Treasury budget statement",
+      "date_start": "2000-01-01",
+      "date_end": "2000-12-31",
+      "date_label": "Calendar year 2000 for debt-growth measures; fiscal year 2000 for the unified budget surplus; report published 2001",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial-sector debt; federal debt; debt held by the public; unified budget surplus",
+      "original_text": "The Federal Reserve's 2001 Annual Report states that aggregate domestic nonfinancial-sector debt increased an estimated 5¼ percent over calendar 2000, slowing from nearly 7 percent in 1998 and 1999. Nonfederal debt growth moderated to about 8½ percent, while the federal government paid down about 6¾ percent of its debt. Separately, the U.S. Treasury and OMB reported a $237 billion unified federal budget surplus for fiscal year 2000 and a $223 billion reduction in debt held by the public. The Treasury statement notes that debt held by the public fell to under 35 percent of GDP.",
+      "translation": "ফেডারেল রিজার্ভের ২০০১ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ২০০০ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের সামগ্রিক ঋণ আনুমানিক ৫.২৫ শতাংশ বেড়েছিল—১৯৯৮ ও ১৯৯৯ সালের প্রায় ৭ শতাংশ বৃদ্ধির তুলনায় কম। অ-ফেডারেল ঋণবৃদ্ধি প্রায় ৮.৫ শতাংশে নেমে আসে, আর ফেডারেল সরকার তার ঋণ প্রায় ৬.৭৫ শতাংশ পরিশোধ করে। পৃথকভাবে, মার্কিন ট্রেজারি ও OMB ২০০০ অর্থবছরে ২৩৭ বিলিয়ন ডলারের সমন্বিত ফেডারেল বাজেট উদ্বৃত্ত এবং জনগণের হাতে থাকা ঋণ ২২৩ বিলিয়ন ডলার কমার কথা জানায়। ট্রেজারির বিবৃতিতে বলা হয়, জনগণের হাতে থাকা ঋণ জিডিপির ৩৫ শতাংশের নিচে নেমে আসে।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি এবং অর্থবছরের বাজেট/ঋণ-হ্রাসের পরিমাপ পৃথক রাখা হয়েছে",
+      "edition": "Annual Report of the Board of Governors of the Federal Reserve System, 2001; Treasury/OMB Joint Statement on Budget Results for Fiscal Year 2000, October 24, 2000",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Department of the Treasury; Office of Management and Budget",
+      "publication_year": "2000–2001",
+      "reference_number": "Federal Reserve 88th Annual Report, 2001; Treasury release LS-968",
+      "page": "Federal Reserve Annual Report 2001, “Debt and the Monetary Aggregates” (printed p. 92); Treasury/OMB joint statement, fiscal-year 2000 budget results",
+      "section": "Debt and the Monetary Aggregates; Joint Statement on Budget Results for Fiscal Year 2000",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/2001-2455/fulltext",
+      "primary_or_secondary": "Primary institutional sources",
+      "historical_claim": "The Federal Reserve reports 5¼ percent growth in aggregate domestic nonfinancial debt and a 6¾ percent federal-debt paydown during calendar 2000; Treasury and OMB report a $237 billion fiscal 2000 unified surplus and a $223 billion reduction in debt held by the public.",
+      "context": "The Federal Reserve's debt-growth rates describe calendar-year credit-market aggregates; the $237 billion surplus and $223 billion public-debt reduction are fiscal-year 2000 figures. Total gross federal debt may behave differently because intragovernmental holdings can increase while debt held by the public declines.",
+      "interpretation": "The official records show a slower expansion of broad domestic nonfinancial debt, an accelerated federal debt paydown, and a large federal budget surplus in 2000. They also show that the public-debt measure and total gross federal debt are distinct; the figures do not establish that every category of federal debt fell.",
+      "counter_interpretations": [
+        "Domestic nonfinancial-sector debt includes federal, state and local, household, nonprofit, business, and farm debt; it is not a Treasury-only borrowing measure.",
+        "The unified budget surplus is not identical to the change in gross federal debt, which includes intragovernmental holdings.",
+        "Debt held by the public can decline while gross federal debt rises if intragovernmental debt holdings increase.",
+        "These figures describe concurrent outcomes and do not alone prove a single causal explanation for debt or credit-market changes."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-1999",
+        "us-treasury-debt-management-1998",
+        "us-treasury-debt-management-1997"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Federal Reserve Annual Report text and official Treasury/OMB statement checked; original printed-page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Annual Report 2001 reports 5¼ percent aggregate domestic nonfinancial debt growth and a 6¾ percent federal-debt paydown in calendar 2000. Treasury/OMB report a $237 billion fiscal 2000 surplus and a $223 billion reduction in debt held by the public. Printed-page image verification remains pending.",
+      "web_sources": [
+        "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/2001-2455/fulltext",
+        "https://home.treasury.gov/news/press-releases/ls968",
+        "https://www.gao.gov/products/gao-01-317"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve report and official Treasury/OMB budget statement provide distinct debt-growth and fiscal-year figures; original printed-page image verification is pending.",
+      "publication_status": "primary institutional evidence; text and section locators checked, image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভের ২০০১ সালের বার্ষিক প্রতিবেদন — উদ্বৃত্তের সময় ঋণ পরিশোধ ও ঋণবৃদ্ধির মন্থরতা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভ জানায়, ২০০০ সালে দেশীয় অ-আর্থিক খাতের ঋণ ৫.২৫ শতাংশ বেড়েছিল এবং ফেডারেল ঋণ প্রায় ৬.৭৫ শতাংশ কমেছিল। ট্রেজারি ও OMB ২০০০ অর্থবছরে ২৩৭ বিলিয়ন ডলারের সমন্বিত বাজেট উদ্বৃত্ত এবং জনগণের হাতে থাকা ঋণ ২২৩ বিলিয়ন ডলার কমার তথ্য দেয়।",
+      "bn_context": "ফেডারেল রিজার্ভের ঋণবৃদ্ধির হার ক্যালেন্ডার বছরের; ২৩৭ বিলিয়ন ডলারের উদ্বৃত্ত এবং ২২৩ বিলিয়ন ডলারের জনসাধারণের হাতে থাকা ঋণহ্রাস ২০০০ অর্থবছরের। আন্তঃসরকারি ঋণধারণ বাড়তে থাকলে মোট ফেডারেল ঋণের গতিপথ ভিন্ন হতে পারে।",
+      "bn_interpretation": "সরকারি সূত্রে ২০০০ সালে সামগ্রিক দেশীয় অ-আর্থিক ঋণবৃদ্ধি মন্থর হওয়া, ফেডারেল ঋণ পরিশোধ বৃদ্ধি এবং বড় বাজেট উদ্বৃত্ত দেখা যায়। তবে জনগণের হাতে থাকা ঋণ ও মোট ফেডারেল ঋণ আলাদা পরিমাপ; এই তথ্য থেকে সব ধরনের ফেডারেল ঋণ কমেছে বলা যায় না।",
+      "bn_notes": "Federal Reserve Annual Report 2001-এ ২০০০ সালের দেশীয় অ-আর্থিক ঋণবৃদ্ধি ৫.২৫ শতাংশ এবং ফেডারেল ঋণ ৬.৭৫ শতাংশ কমার কথা আছে। ট্রেজারি/OMB ২০০০ অর্থবছরের ২৩৭ বিলিয়ন ডলারের উদ্বৃত্ত ও জনগণের হাতে থাকা ঋণ ২২৩ বিলিয়ন ডলার কমার কথা জানায়। মূল মুদ্রিত পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের বার্ষিক প্রতিবেদন এবং ট্রেজারি/OMB-এর সরকারি বিবৃতি যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official report text and statement checked; original printed-page images pending.",
+        "locator": "Federal Reserve Annual Report 2001, “Debt and the Monetary Aggregates” (printed p. 92); Treasury/OMB Joint Statement on Budget Results for Fiscal Year 2000, October 24, 2000.",
+        "evidence": "Federal Reserve reports 5¼ percent domestic nonfinancial debt growth and 6¾ percent federal-debt paydown in 2000; Treasury/OMB report a $237 billion fiscal-year surplus and $223 billion reduction in debt held by the public.",
+        "significance": "Contemporary evidence of slower broad debt growth and substantial public-debt paydown during the fiscal surplus period.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/2001-2455/fulltext",
+        "checked": "2026-10-11",
+        "verification_note": "Calendar-year credit aggregates and fiscal-year budget/debt measures are distinct; inspect original printed pages before upgrading the evidence grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
