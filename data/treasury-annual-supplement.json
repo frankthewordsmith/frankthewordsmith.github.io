@@ -7193,9 +7193,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Federal Reserve official Z.1 D.1 table and GAO-21-124 audit text checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Federal Reserve Z.1 D.1 reports 2020 growth of 12.47% for domestic nonfinancial debt, 4.08% households/nonprofits, 9.08% nonfinancial business, 23.96% federal government, and 2.91% state/local government. GAO-21-124 reports total federal debt of $26.938 trillion at September 30, 2020, including $21.019 trillion held by the public; public debt rose $4.210 trillion during FY2020 and the federal deficit was $3.132 trillion. Original PDF page-image verification remains pending.",
+      "verification_status": "Federal Reserve Z.1 official release and GAO-21-124 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-21-124, printed p. 32 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $16,809,092 million at September 30, 2019 to $21,018,952 million at September 30, 2020; intragovernmental principal increased from $5,901,500 million to $5,919,177 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $22,711 billion to $26,938 billion, a $4,227 billion increase. Debt held by the public increased $4,210 billion, while the FY2020 deficit was $3,132 billion; GAO attributes the difference primarily to increased government cash balance and direct-loan financing, offset by guaranteed-loan financing. Treasury's cash balance rose from $326 billion on March 13, 2020 to $1,782 billion on September 30, 2020. Interest on debt held by the public was $371 billion. Distinguish principal-only changes from total debt, and fiscal-year measures from calendar-year Federal Reserve sector growth rates.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20210311/html/d1.htm",
         "https://www.federalreserve.gov/releases/z1/20210311/recent_developments.htm",
@@ -7205,8 +7205,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Official Federal Reserve sector growth table and GAO audited federal debt schedule support the figures and stated context; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official table and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "Federal Reserve Z.1 official tables and GAO-21-124 audited schedule and explanatory text support sector growth, fiscal-year debt balance, interest expense, and COVID-era cash-balance borrowing context; original GAO schedule page image inspected.",
+      "publication_status": "Federal Reserve official statistical release and GAO audited schedules checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০২০ — মহামারি-পর্বের ঋণবৃদ্ধি ও ফেডারেল ঋণগ্রহণ",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২১ সালের ১১ মার্চের Z.1 অনুযায়ী, ২০২০ সালে দেশীয় অ-আর্থিক ঋণ ১২.৪৭ শতাংশ এবং ফেডারেল সরকারের ঋণ ২৩.৯৬ শতাংশ বেড়েছিল। GAO-21-124 জানায়, ২০২০ সালের ৩০ সেপ্টেম্বর মোট ফেডারেল ঋণ ছিল ২৬.৯৩৮ ট্রিলিয়ন ডলার, যার মধ্যে জনগণের হাতে ২১.০১৯ ট্রিলিয়ন ডলার। ২০২০ অর্থবছরে জনগণের হাতে থাকা ঋণ ৪.২১০ ট্রিলিয়ন ডলার বেড়েছিল এবং ফেডারেল ঘাটতি ছিল ৩.১৩২ ট্রিলিয়ন ডলার।",
       "bn_context": "ফেডারেল রিজার্ভের পরিসংখ্যান ক্যালেন্ডার বছর ২০২০-এর; GAO-র ঋণ ও ঘাটতির হিসাব ৩০ সেপ্টেম্বর শেষ হওয়া অর্থবছরের। GAO ঘাটতি বৃদ্ধির প্রধান কারণ হিসেবে COVID-19-সম্পর্কিত অর্থনৈতিক বিঘ্ন ও সরকারি প্রতিক্রিয়ামূলক ব্যয় উল্লেখ করে। জনগণের হাতে থাকা ঋণের বৃদ্ধি ঘাটতির চেয়ে বেশি হয়েছিল, যার একটি প্রধান কারণ ছিল সরকারের নগদ স্থিতি বৃদ্ধি।",
@@ -7215,13 +7215,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-21-124 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official Z.1 D.1 table and GAO-21-124 audit text checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 11, 2021, D.1 Debt Growth by Sector, annual row 2020; GAO-21-124, Highlights and Schedules of Federal Debt for FY2020.",
-        "evidence": "Z.1 reports 12.47 percent domestic nonfinancial debt growth and 23.96 percent federal government debt growth in calendar 2020. GAO reports $26.938 trillion total federal debt, $21.019 trillion held by the public, a $4.210 trillion FY2020 increase in public debt, and a $3.132 trillion federal deficit.",
+        "status": "Federal Reserve Z.1 release and GAO-21-124 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+        "locator": "Federal Reserve Z.1, March 11, 2021, introductory text and Debt Growth by Sector table; GAO-21-124, highlights pages i–ii; printed page 32, Schedule of Federal Debt; printed pp. 4–6 for cash balance and borrowing explanation.",
+        "evidence": "GAO's printed p. 32 schedule shows public-held principal at $16,809,092 million on September 30, 2019 and $21,018,952 million on September 30, 2020; intragovernmental principal at $5,901,500 million and $5,919,177 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $22,711 billion in 2019 and $26,938 billion in 2020, a $4,227 billion increase. GAO reports a $3,132 billion FY2020 deficit, a $4,210 billion increase in debt held by the public, and $371 billion interest on debt held by the public.",
         "significance": "Documents the exceptional pandemic-era rise in federal debt and distinguishes sector-level calendar-year growth from fiscal-year debt balances and deficit measures.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20210311/html/d1.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year growth separate from fiscal-year figures and distinguish total federal debt from debt held by the public; inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 32 original PDF image inspected. GAO states that debt held by the public rose more than the deficit primarily because the government's cash balance increased and direct-loan financing, offset by guaranteed-loan financing. Treasury's cash balance rose from $326 billion on March 13, 2020 to $1,782 billion on September 30, 2020. Keep total debt and public-held debt distinct."
       }
     },
     {
