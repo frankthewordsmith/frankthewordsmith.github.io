@@ -6935,6 +6935,78 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth separate from fiscal-year balances; original PDF page images pending."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2017",
+      "title": "Federal Reserve Financial Accounts, 2017 — Federal Debt and Debt-Limit Extraordinary Measures",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2017-01-01",
+      "date_end": "2017-12-31",
+      "date_label": "Calendar-year 2017 debt-growth statistics; fiscal-year 2017 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's March 7, 2019 historical Z.1 tables report calendar-2017 domestic nonfinancial debt growth of 4.1 percent, household debt growth of 3.9 percent, nonfinancial business debt growth of 5.7 percent, federal debt growth of 3.7 percent, and state and local government debt declining 0.1 percent. GAO-18-134 reports total federal debt managed by the Bureau of the Fiscal Service was $20.233 trillion at September 30, 2017, compared with $19.560 trillion at September 30, 2016. The 2017 total comprised $14.673 trillion held by the public and $5.560 trillion in intragovernmental holdings. Due to delays in raising the debt limit, Treasury took extraordinary actions from March 16 through September 7, 2017. A temporary debt-limit suspension was enacted on September 8, 2017, and Treasury restored uninvested principal to affected federal government accounts that day, increasing federal debt.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৯ সালের ৭ মার্চের ঐতিহাসিক Z.1 সারণি অনুযায়ী, ২০১৭ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.১ শতাংশ, পারিবারিক ঋণ ৩.৯ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৫.৭ শতাংশ বেড়েছিল; ফেডারেল ঋণ ৩.৭ শতাংশ বেড়েছিল এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ০.১ শতাংশ কমেছিল। GAO-18-134 জানায়, Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০১৭ সালের ৩০ সেপ্টেম্বর ২০.২৩৩ ট্রিলিয়ন ডলার ছিল; ২০১৬ সালের একই দিনে তা ছিল ১৯.৫৬০ ট্রিলিয়ন ডলার। ২০১৭ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল ১৪.৬৭৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৫.৫৬০ ট্রিলিয়ন ডলার। ঋণসীমা বাড়াতে বিলম্বের কারণে ট্রেজারি ২০১৭ সালের ১৬ মার্চ থেকে ৭ সেপ্টেম্বর পর্যন্ত অসাধারণ ব্যবস্থা নেয়। ৮ সেপ্টেম্বর ঋণসীমা সাময়িকভাবে স্থগিতের আইন পাস হয় এবং ওই দিন ট্রেজারি সংশ্লিষ্ট সরকারি হিসাবে অনিবেশিত মূলধন পুনঃস্থাপন করে, ফলে ফেডারেল ঋণ বেড়ে যায়।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Financial Accounts of the United States, historical Z.1, March 7, 2019; GAO-18-134, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2017 and 2016 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2017",
+      "reference_number": "Federal Reserve Z.1, March 7, 2019 historical tables; GAO-18-134",
+      "page": "Federal Reserve Z.1, March 7, 2019, Household Net Worth and Growth of Domestic Nonfinancial Debt table; GAO-18-134, Highlights and Figure 1",
+      "section": "Annual Growth of Domestic Nonfinancial Debt; Total Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve's March 7, 2019 historical Z.1 tables report calendar-2017 domestic nonfinancial debt growth of 4.1 percent and federal debt growth of 3.7 percent. GAO-18-134 reports Fiscal Service-managed federal debt of $20.233 trillion at September 30, 2017, comprising $14.673 trillion held by the public and $5.560 trillion intragovernmental.",
+      "context": "Federal Reserve rates are calendar-year end-of-period changes; GAO balances are fiscal-year-end figures. GAO describes Treasury's extraordinary actions from March 16 to September 7, 2017, due to debt-limit delays. The temporary suspension enacted September 8 allowed Treasury to restore uninvested principal to affected government accounts. Keep this operational chronology separate from the general year-on-year debt increase.",
+      "interpretation": "Federal debt continued to rise during 2017, and GAO documents a concrete episode in which debt-limit constraints affected Treasury's ordinary operations and the timing of securities credited to federal accounts. The evidence supports a claim about operational disruption, not a claim that the debt-limit impasse caused the whole annual debt increase.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "GAO's audited debt schedule reports $20.233 trillion; debt-subject-to-limit figures and other gross-debt measures can differ because of adjustments and definitions.",
+        "The debt-limit dispute is not evidence that it caused the entire annual debt increase."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2016",
+        "us-treasury-debt-management-2015",
+        "us-treasury-debt-management-2014"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve historical Z.1 tables and GAO-18-134 audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve historical Z.1 reports calendar-2017 domestic nonfinancial debt growth of 4.1 percent, household 3.9 percent, business 5.7 percent, federal 3.7 percent, and state/local -0.1 percent. GAO-18-134 reports $20.233 trillion of Fiscal Service-managed federal debt at September 30, 2017: $14.673 trillion held by the public and $5.560 trillion intragovernmental. GAO documents extraordinary actions from March 16 through September 7, 2017 and restoration of uninvested principal after the September 8 suspension. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+        "https://www.gao.gov/products/gao-18-134",
+        "https://www.gao.gov/assets/690/689391.pdf",
+        "https://fiscal.treasury.gov/accounting/us-financial-report/2017/government-financial-position-and-condition"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve historical Z.1 table and GAO audited debt schedule support the calendar-year growth rates and fiscal-year balances; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official historical table and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৭ — ফেডারেল ঋণ ও ঋণসীমা-সংক্রান্ত অসাধারণ ব্যবস্থা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ঐতিহাসিক Z.1 তথ্য অনুযায়ী, ২০১৭ সালে দেশীয় অ-আর্থিক ঋণ ৪.১ শতাংশ এবং ফেডারেল ঋণ ৩.৭ শতাংশ বেড়েছিল। GAO-18-134 জানায়, ২০১৭ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ঋণ ছিল ২০.২৩৩ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ১৪.৬৭৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৫.৫৬০ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১৭-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে। ঋণসীমা বাড়াতে বিলম্বের কারণে ট্রেজারি ১৬ মার্চ থেকে ৭ সেপ্টেম্বর ২০১৭ পর্যন্ত অসাধারণ ব্যবস্থা নেয়। ৮ সেপ্টেম্বর ঋণসীমা সাময়িকভাবে স্থগিত হওয়ার পর সংশ্লিষ্ট সরকারি হিসাবে অনিবেশিত মূলধন পুনঃস্থাপন করা হয়।",
+      "bn_interpretation": "২০১৭ সালেও ফেডারেল ঋণ বেড়েছিল। GAO-র নিরীক্ষা দেখায়, ঋণসীমা-সংক্রান্ত সীমাবদ্ধতা ট্রেজারির স্বাভাবিক কার্যক্রম এবং সরকারি হিসাবে সিকিউরিটি জমার সময়কে প্রভাবিত করেছিল। এটি ব্যবস্থাপনাগত বিঘ্নের প্রমাণ, তবে পুরো ঋণবৃদ্ধির কারণ হিসেবে ওই অচলাবস্থাকে প্রতিষ্ঠা করে না।",
+      "bn_notes": "ফেডারেল রিজার্ভের ঐতিহাসিক Z.1 ক্যালেন্ডার-বার্ষিক ঋণবৃদ্ধি দেখায়; GAO-18-134 ২০১৭ সালের ৩০ সেপ্টেম্বর ২০.২৩৩ ট্রিলিয়ন ডলার ঋণ নথিবদ্ধ করে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের ঐতিহাসিক Z.1 সারণি ও GAO-18-134 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official historical Z.1 tables and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 7, 2019, Household Net Worth and Growth of Domestic Nonfinancial Debt table; GAO-18-134, Highlights and Figure 1.",
+        "evidence": "Z.1 reports 4.1 percent domestic nonfinancial debt growth and 3.7 percent federal debt growth in calendar 2017. GAO reports $20.233 trillion Fiscal Service-managed federal debt at September 30, 2017 and extraordinary actions during the debt-limit impasse.",
+        "significance": "Links annual debt-growth measures with an audited federal debt balance and a documented debt-limit-related operational disruption.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year rates separate from fiscal-year balances; distinguish GAO's gross debt schedule from debt subject to the limit; inspect original PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
