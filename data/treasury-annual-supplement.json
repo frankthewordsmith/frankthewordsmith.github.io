@@ -7265,9 +7265,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Federal Reserve official Z.1 summary table and GAO-22-104592 accessible audit text checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Federal Reserve Z.1 summary reports calendar-2021 domestic nonfinancial debt growth of 6.3 percent, household 7.4 percent, business 5.0 percent, federal 7.1 percent, and state/local 2.2 percent. GAO-22-104592 reports $28.423 trillion of Fiscal Service-managed federal debt at September 30, 2021: $22.283 trillion held by the public and $6.140 trillion intragovernmental. GAO documents $217 billion in uninvested principal and $0.4 billion interest omitted from the schedule after debt-limit extraordinary actions. Original PDF page-image verification remains pending.",
+      "verification_status": "Federal Reserve Z.1 official release and GAO-22-104592 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-22-104592, printed p. 32 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $21,018,952 million at September 30, 2020 to $22,282,900 million at September 30, 2021; intragovernmental principal increased from $5,919,177 million to $6,139,965 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $26,938 billion to $28,423 billion, a $1,485 billion increase. GAO reports a $2,772 billion FY2021 deficit; the increase in public-held debt was lower than the deficit primarily because the government's cash balance fell by about $1.6 trillion and uninvested principal totaled $0.2 trillion, partly offset by guaranteed-loan financing of $0.3 trillion. Treasury had $217 billion uninvested principal and $0.4 billion related interest not reported on the FY2021 schedule because securities had not been issued to affected federal accounts as of September 30, 2021. Distinguish principal-only changes from total-debt balances.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20221209/html/introductory_text.htm",
         "https://www.gao.gov/products/gao-22-104592",
@@ -7276,8 +7276,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Federal Reserve official summary table and GAO audited schedule text support annual growth and fiscal-year balance figures; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "Federal Reserve Z.1 official tables and GAO-22-104592 audited schedule and explanatory text support sector growth, fiscal-year debt balance, interest expense, and debt-limit chronology; original GAO schedule page image inspected.",
+      "publication_status": "Federal Reserve official statistical release and GAO audited schedules checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০২১ — মহামারী-পরবর্তী ঋণগ্রহণ ও ঋণসীমা-সংক্রান্ত ব্যবস্থা",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২২ সালের ৯ ডিসেম্বরের Z.1 তথ্য অনুযায়ী, ২০২১ সালে দেশীয় অ-আর্থিক ঋণ ৬.৩ শতাংশ এবং ফেডারেল সরকারের ঋণ ৭.১ শতাংশ বেড়েছিল। GAO-22-104592 জানায়, ২০২১ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ঋণ ছিল ২৮.৪২৩ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ২২.২৮৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৬.১৪০ ট্রিলিয়ন ডলার।",
       "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০২১-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ঋণসীমা স্থগিতের মেয়াদ ৩১ জুলাই শেষ হয় এবং ২ আগস্ট থেকে ট্রেজারি বিশেষ ব্যবস্থা গ্রহণ করে। ২১৭ বিলিয়ন ডলারের অনিবেশিত মূলধন এবং সংশ্লিষ্ট ০.৪ বিলিয়ন ডলারের সুদ ৩০ সেপ্টেম্বরের ঋণ-তফসিলে অন্তর্ভুক্ত ছিল না।",
@@ -7286,13 +7286,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-22-104592 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official Z.1 summary table and GAO audit text checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, December 9, 2022, Household Net Worth and Growth of Nonfinancial Debt summary table; GAO-22-104592, Highlights and Table 1, p. 2; debt-limit discussion pp. 5–6.",
-        "evidence": "Z.1 reports 6.3 percent domestic nonfinancial debt growth and 7.1 percent federal government debt growth in calendar 2021. GAO reports $28.423 trillion Fiscal Service-managed debt at September 30, 2021 and $217 billion uninvested principal plus $0.4 billion related interest excluded from the schedule.",
+        "status": "Federal Reserve Z.1 release and GAO-22-104592 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+        "locator": "Federal Reserve Z.1, March 10, 2022, introductory text and Debt Growth by Sector table; GAO-22-104592, highlights page i; printed page 32, Schedule of Federal Debt; printed pp. 5–7 for cash-balance and debt-limit explanations.",
+        "evidence": "GAO's printed p. 32 schedule shows public-held principal at $21,018,952 million on September 30, 2020 and $22,282,900 million on September 30, 2021; intragovernmental principal at $5,919,177 million and $6,139,965 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $26,938 billion in 2020 and $28,423 billion in 2021, a $1,485 billion increase. GAO reports a $2,772 billion FY2021 deficit and $217 billion in uninvested principal plus $0.4 billion related interest not reported on the schedule.",
         "significance": "Documents pandemic-era borrowing and the separate debt-limit operational disruption using the Federal Reserve sector growth table and GAO's audited fiscal-year schedule.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20221209/html/introductory_text.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; do not add the omitted principal and interest to the published schedule total without explanation; inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 32 original PDF image inspected. GAO says the increase in public-held debt was less than the deficit primarily because of a roughly $1.6 trillion decline in the government's cash balance and $0.2 trillion uninvested principal, partly offset by $0.3 trillion guaranteed-loan financing. The $217 billion uninvested principal and $0.4 billion interest were appropriately absent from the schedule because Treasury had not issued securities to the affected accounts by September 30, 2021."
       }
     },
     {
