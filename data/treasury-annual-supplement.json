@@ -7367,6 +7367,78 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth and fiscal-year balance measures distinct; the debt-limit actions described in the audit continued only through December 15, 2021. Inspect original PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2023",
+      "title": "Federal Reserve Financial Accounts, 2023 — Federal Debt Growth, Interest Costs, and Debt-Limit Actions",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2023-01-01",
+      "date_end": "2023-12-31",
+      "date_label": "Calendar-year 2023 sector debt growth; fiscal-year 2023 federal debt balance",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's March 7, 2024 Z.1 release reports calendar-2023 domestic nonfinancial debt growth of 5.16 percent, household debt growth of 2.73 percent, nonfinancial business debt growth of 2.18 percent, federal government debt growth of 9.76 percent, and state and local government debt growth of 0.66 percent. GAO-24-106340 reports that as of September 30, 2023, federal debt managed by the Bureau of the Fiscal Service was approximately $33.2 trillion, up about $2.2 trillion from fiscal year 2022. Interest on the debt was $875.5 billion, $151.9 billion higher than in FY2022. During FY2023, Treasury determined on January 19 that the debt limit had been reached and began extraordinary actions. The Fiscal Responsibility Act of 2023 was enacted June 3, suspending the debt limit through January 1, 2025; Treasury stopped extraordinary actions and resumed normal debt operations on June 5.",
+      "translation": "ফেডারেল রিজার্ভের ২০২৪ সালের ৭ মার্চের Z.1 প্রকাশনা অনুযায়ী, ২০২৩ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৫.১৬ শতাংশ, পারিবারিক ঋণ ২.৭৩ শতাংশ, অ-আর্থিক ব্যবসায়িক ঋণ ২.১৮ শতাংশ, ফেডারেল সরকারের ঋণ ৯.৭৬ শতাংশ এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ০.৬৬ শতাংশ বেড়েছিল। GAO-24-106340 জানায়, ২০২৩ সালের ৩০ সেপ্টেম্বর Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ছিল প্রায় ৩৩.২ ট্রিলিয়ন ডলার, যা ২০২২ অর্থবছরের তুলনায় প্রায় ২.২ ট্রিলিয়ন ডলার বেশি। ঋণের সুদ ব্যয় ছিল ৮৭৫.৫ বিলিয়ন ডলার, যা ২০২২ অর্থবছরের তুলনায় ১৫১.৯ বিলিয়ন ডলার বেশি। ২০২৩ অর্থবছরে ১৯ জানুয়ারি ট্রেজারি ঋণসীমায় পৌঁছানোর কথা জানিয়ে অসাধারণ ব্যবস্থা শুরু করে। ৩ জুন Fiscal Responsibility Act of 2023 পাস হয়ে ২০২৫ সালের ১ জানুয়ারি পর্যন্ত ঋণসীমা স্থগিত করে; ৫ জুন ট্রেজারি অসাধারণ ব্যবস্থা বন্ধ করে স্বাভাবিক ঋণ কার্যক্রমে ফিরে যায়।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, March 7, 2024; GAO-24-106340, Financial Audit: Bureau of the Fiscal Service's FY 2023 and FY 2022 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2023",
+      "reference_number": "Federal Reserve Z.1, March 7, 2024; GAO-24-106340",
+      "page": "Federal Reserve Z.1, Introductory Text and Debt Growth by Sector table; GAO-24-106340, Fast Facts and Highlights",
+      "section": "Annual debt growth by sector; total federal debt outstanding; debt-limit extraordinary actions; interest on federal debt",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20240307/html/introductory_text.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve Z.1 reports calendar-2023 domestic nonfinancial debt growth of 5.16 percent and federal government debt growth of 9.76 percent. GAO-24-106340 reports federal debt of approximately $33.2 trillion at September 30, 2023, up about $2.2 trillion from FY2022, and interest expense of $875.5 billion. Treasury used extraordinary actions from January 19 until the debt-limit suspension took effect in June 2023.",
+      "context": "Federal Reserve growth rates refer to calendar year 2023; GAO's debt balance and interest expense are fiscal-year measures through September 30, 2023. GAO says the FY2023 Schedules of Federal Debt were fairly presented in all material respects and relevant internal controls were effective. The Fiscal Responsibility Act suspended the debt limit through January 1, 2025.",
+      "interpretation": "Federal debt rose substantially in FY2023, with GAO attributing the primary reason for the increase in debt held by the public to the $1.7 trillion federal deficit. GAO also records higher interest costs and the 2023 debt-limit disruption. The evidence establishes chronology and the audit's stated fiscal explanation; it does not by itself prove that debt-limit brinkmanship caused the full increase in debt or interest.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "GAO's approximately $33.2 trillion refers to total federal debt managed by Fiscal Service; do not conflate it with debt held by the public alone.",
+        "Debt-limit actions, deficit financing, and interest expense are related but distinct facts; avoid treating the debt-limit episode as the sole cause of debt growth."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2022",
+        "us-treasury-debt-management-2021",
+        "us-treasury-debt-management-2020"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve official Z.1 release and GAO-24-106340 audit highlights checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 March 7, 2024 table reports 2023 annual sector debt growth: total domestic nonfinancial 5.16%, households 2.73%, business 2.18%, federal government 9.76%, state/local 0.66%. GAO-24-106340 reports $33.2 trillion total federal debt at September 30, 2023, $2.2 trillion annual increase, and $875.5 billion interest expense. Treasury used extraordinary actions starting January 19, 2023, until the June debt-limit suspension. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20240307/html/introductory_text.htm",
+        "https://www.federalreserve.gov/releases/z1/20240307/html/recent_developments.htm",
+        "https://www.gao.gov/products/gao-24-106340",
+        "https://www.gao.gov/assets/d24106340.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Federal Reserve Z.1 official tables and GAO audit report support the sector growth, fiscal-year debt balance, interest expense, and debt-limit chronology; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০২৩ — ফেডারেল ঋণবৃদ্ধি, সুদ ব্যয় ও ঋণসীমা-সংক্রান্ত পদক্ষেপ",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২৪ সালের ৭ মার্চের Z.1 তথ্য অনুযায়ী, ২০২৩ সালে দেশীয় অ-আর্থিক ঋণ ৫.১৬ শতাংশ এবং ফেডারেল সরকারের ঋণ ৯.৭৬ শতাংশ বেড়েছিল। GAO-24-106340 জানায়, ২০২৩ সালের ৩০ সেপ্টেম্বর মোট ব্যবস্থাপনাধীন ফেডারেল ঋণ ছিল প্রায় ৩৩.২ ট্রিলিয়ন ডলার—২০২২ অর্থবছরের তুলনায় প্রায় ২.২ ট্রিলিয়ন ডলার বেশি। ঋণের সুদ ব্যয় ছিল ৮৭৫.৫ বিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের বৃদ্ধির হার ক্যালেন্ডার বছর ২০২৩-এর; GAO-র ঋণ ও সুদ ব্যয়ের হিসাব অর্থবছর ২০২৩-এর। ১৯ জানুয়ারি ট্রেজারি ঋণসীমায় পৌঁছানোর কথা জানিয়ে অসাধারণ ব্যবস্থা শুরু করে। ৩ জুন আইন পাস হয়ে ২০২৫ সালের ১ জানুয়ারি পর্যন্ত ঋণসীমা স্থগিত করে; ৫ জুন স্বাভাবিক ঋণ কার্যক্রম পুনরায় শুরু হয়।",
+      "bn_interpretation": "২০২৩ অর্থবছরে ফেডারেল ঋণ উল্লেখযোগ্যভাবে বাড়ে। জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ হিসেবে GAO ১.৭ ট্রিলিয়ন ডলারের ফেডারেল ঘাটতির কথা উল্লেখ করে। প্রতিবেদনটি ঋণসীমা-সংক্রান্ত বিঘ্ন ও সুদ ব্যয় বৃদ্ধিও নথিবদ্ধ করে, কিন্তু ঋণসীমা-সংক্রান্ত ঘটনাই পুরো ঋণবৃদ্ধির কারণ—এমন সিদ্ধান্ত প্রমাণ করে না।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 ২০২৩ সালের খাতভিত্তিক ঋণবৃদ্ধির হার দেয়; GAO-24-106340 ৩০ সেপ্টেম্বর ২০২৩-এ মোট ব্যবস্থাপনাধীন ফেডারেল ঋণ প্রায় ৩৩.২ ট্রিলিয়ন ডলার এবং সুদ ব্যয় ৮৭৫.৫ বিলিয়ন ডলার বলে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-24-106340 নিরীক্ষার সারাংশ যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Federal Reserve Z.1 release and GAO audit highlights checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 7, 2024, introductory text and Debt Growth by Sector table; GAO-24-106340, Fast Facts and Highlights.",
+        "evidence": "Z.1 reports 5.16 percent domestic nonfinancial debt growth and 9.76 percent federal government debt growth in calendar 2023. GAO reports approximately $33.2 trillion federal debt at September 30, 2023, $875.5 billion interest expense, and extraordinary actions from January 19 until the June debt-limit suspension.",
+        "significance": "Connects annual sector debt growth with audited fiscal-year federal debt and interest costs, while preserving the distinction between deficit financing and debt-limit management.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20240307/html/introductory_text.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances and distinguish public debt from total federal debt; inspect original PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
