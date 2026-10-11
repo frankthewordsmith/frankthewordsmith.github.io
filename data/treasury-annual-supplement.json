@@ -6978,9 +6978,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Federal Reserve historical Z.1 tables and GAO-18-134 audit text checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Federal Reserve historical Z.1 reports calendar-2017 domestic nonfinancial debt growth of 4.1 percent, household 3.9 percent, business 5.7 percent, federal 3.7 percent, and state/local -0.1 percent. GAO-18-134 reports $20.233 trillion of Fiscal Service-managed federal debt at September 30, 2017: $14.673 trillion held by the public and $5.560 trillion intragovernmental. GAO documents extraordinary actions from March 16 through September 7, 2017 and restoration of uninvested principal after the September 8 suspension. Original PDF page-image verification remains pending.",
+      "verification_status": "GAO-18-134 highlights and original printed page 27 Schedule of Federal Debt image verified.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-18-134, printed p. 27 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $14,173,424 million at September 30, 2016 to $14,673,429 million at September 30, 2017; intragovernmental principal increased from $5,386,997 million to $5,560,014 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $19,560 billion to $20,233 billion, a $673 billion increase. Debt held by the public increased $500 billion against a $666 billion FY2017 deficit; GAO attributes the smaller debt increase primarily to a decrease in the government's cash balance, partly offset by increased federal direct student loans. Treasury used extraordinary actions from March 16 through September 7, 2017; after the debt-limit suspension was enacted September 8, Treasury restored uninvested principal, increasing federal debt. Keep the balance sheet movements distinct from the deficit and debt-limit chronology.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
         "https://www.gao.gov/products/gao-18-134",
@@ -6990,8 +6990,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Official Federal Reserve historical Z.1 table and GAO audited debt schedule support the calendar-year growth rates and fiscal-year balances; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official historical table and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "GAO-18-134 audited schedule and explanatory text support FY2017 debt balances, annual movement, deficit, and debt-limit chronology; original GAO schedule page image inspected.",
+      "publication_status": "Official GAO audited schedule and explanatory text checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৭ — ফেডারেল ঋণ ও ঋণসীমা-সংক্রান্ত অসাধারণ ব্যবস্থা",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ঐতিহাসিক Z.1 তথ্য অনুযায়ী, ২০১৭ সালে দেশীয় অ-আর্থিক ঋণ ৪.১ শতাংশ এবং ফেডারেল ঋণ ৩.৭ শতাংশ বেড়েছিল। GAO-18-134 জানায়, ২০১৭ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ঋণ ছিল ২০.২৩৩ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ১৪.৬৭৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৫.৫৬০ ট্রিলিয়ন ডলার।",
       "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১৭-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে। ঋণসীমা বাড়াতে বিলম্বের কারণে ট্রেজারি ১৬ মার্চ থেকে ৭ সেপ্টেম্বর ২০১৭ পর্যন্ত অসাধারণ ব্যবস্থা নেয়। ৮ সেপ্টেম্বর ঋণসীমা সাময়িকভাবে স্থগিত হওয়ার পর সংশ্লিষ্ট সরকারি হিসাবে অনিবেশিত মূলধন পুনঃস্থাপন করা হয়।",
@@ -7000,13 +7000,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের ঐতিহাসিক Z.1 সারণি ও GAO-18-134 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official historical Z.1 tables and GAO audit text checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 7, 2019, Household Net Worth and Growth of Domestic Nonfinancial Debt table; GAO-18-134, Highlights and Figure 1.",
-        "evidence": "Z.1 reports 4.1 percent domestic nonfinancial debt growth and 3.7 percent federal debt growth in calendar 2017. GAO reports $20.233 trillion Fiscal Service-managed federal debt at September 30, 2017 and extraordinary actions during the debt-limit impasse.",
+        "status": "GAO-18-134 highlights and original Schedule of Federal Debt page image verified.",
+        "locator": "GAO-18-134, highlights page i; printed page 27, Schedule of Federal Debt; printed pp. 4–6 for FY2017 debt movement, deficit, and debt-limit extraordinary actions.",
+        "evidence": "GAO's printed p. 27 schedule shows public-held principal at $14,173,424 million on September 30, 2016 and $14,673,429 million on September 30, 2017; intragovernmental principal at $5,386,997 million and $5,560,014 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $19,560 billion in 2016 and $20,233 billion in 2017, a $673 billion increase. GAO reports a $666 billion FY2017 deficit and a $500 billion increase in debt held by the public.",
         "significance": "Links annual debt-growth measures with an audited federal debt balance and a documented debt-limit-related operational disruption.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year rates separate from fiscal-year balances; distinguish GAO's gross debt schedule from debt subject to the limit; inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 27 original PDF image inspected. GAO says the $500 billion public-held debt increase was less than the $666 billion deficit primarily because the government's cash balance decreased, partly offset by increased federal direct student loans. Treasury's extraordinary actions and restoration of uninvested principal following the September 8, 2017 debt-limit suspension are separate dated events."
       }
     },
     {
