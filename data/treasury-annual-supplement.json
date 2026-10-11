@@ -3206,26 +3206,26 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3231; printed page labels control.",
+      "verification_status": "FRASER full-text OCR checked; Treasury Department Document No. 3231 identity recorded. Original page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER's 1963 annual report is identified as Treasury Department Document No. 3231. OCR locates the fiscal summary at printed pp. 3–4 and debt-management/foreign-borrowing discussion at pp. 18–22 and 35–39. The current evidence field is a compact summary, not a verbatim quotation. Original page images and the relevant tables must be inspected before exact figures and passage wording are treated as fully verified.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1963-5455/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER full-text OCR checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 18–22, 35–39",
         "evidence": "$6.3B financing deficit; $7.8B Federal-debt increase to $306.5B; $1.7B cash-balance increase; nearly $8B prerefunding; $1.3B foreign nonmarketable securities.",
         "significance": "Primary institutional evidence connecting deficit financing, debt-maturity engineering, and foreign official Treasury borrowing.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1963-5455/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Treasury Department Document No. 3231 is recorded as the edition identity. Printed-page locators are from FRASER's OCR/text layer; original scan images have not yet been inspected in this pass. Keep grade B pending visual reconciliation of the fiscal totals, debt schedule, prerefunding, and foreign-securities figures."
       },
       "evidence_grade_6_4": "A",
       "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Treasury annual report identified by Treasury Department Document No. 3231 and FRASER OCR; printed-page locators cover the fiscal deficit, public-debt increase, prerefunding, and foreign securities, but original page images have not yet been checked. Retain B pending scan reconciliation.",
+      "publication_status": "Primary institutional evidence; report identity and OCR locators checked; original page-image verification pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৩ — ঘাটতি অর্থায়ন, ঋণ পুনর্গঠন ও বৈদেশিক ঋণগ্রহণের সম্প্রসারণ",
       "bn_historical_claim": "১৯৬৩ অর্থবছরে ৬.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৭.৮ বিলিয়ন ডলারের ফেডারেল ঋণ বৃদ্ধি ঘটে। ট্রেজারির নগদ ভারসাম্য ১.৭ বিলিয়ন ডলার বাড়ে এবং বৈদেশিক অ-বাজারযোগ্য সিকিউরিটিজ ১.৩ বিলিয়ন ডলারে পৌঁছায়।",
       "bn_context": "প্রতিবেদনটি ঘাটতি, ঋণবৃদ্ধি ও নগদ ভারসাম্যের পরিবর্তন আলাদা করে দেখায় এবং প্রি-রিফান্ডিং ও advance refunding নথিভুক্ত করে।",
