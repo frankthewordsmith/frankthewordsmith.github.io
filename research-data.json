@@ -7935,6 +7935,70 @@
       "book": "book-1"
     },
     {
+      "source_id": "us-treasury-recession-financing-1958",
+      "title": "U.S. Treasury Annual Report 1958 — Recession Deficit, $5.8 Billion Public-Debt Increase, and Bank Demand for Treasury Securities",
+      "source_type": "Institutional annual report",
+      "date_start": "1958-06-30",
+      "date_end": "1958-06-30",
+      "date_label": "Fiscal year ended June 30, 1958",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "budget deficit; public debt increase; recession financing; Treasury securities ownership",
+      "original_text": "The Treasury's FY1958 report states that net budget receipts were $69.1 billion and budget expenditures were $71.9 billion, producing a $2.8 billion deficit. Treasury borrowing also increased the cash balance in the Treasurer's account; the summary reports a $5.8 billion increase in public debt, from $270.5 billion at June 30, 1957 to $276.3 billion at June 30, 1958. In its discussion of public-debt operations, the report gives total Federal debt including guaranteed obligations as $276.4 billion. The report attributes the fiscal pressure to the decline in economic activity and lower-than-anticipated revenues. It also reports increased commercial-bank purchases of Federal securities and an increase in Federal Reserve holdings.",
+      "translation": "The 1958 Treasury annual report records a recession-era return to deficit: net budget receipts of $69.1 billion were below expenditures of $71.9 billion, yielding a $2.8 billion deficit. Treasury borrowing financed the deficit and a larger cash balance, so the summary reports a $5.8 billion increase in public debt to $276.3 billion. The report separately states $276.4 billion for total Federal debt including guaranteed obligations in its debt-operations discussion; this distinction should be retained until the original page images are checked. Commercial banks added about $9 billion in Federal securities and Federal Reserve holdings increased by about $2.5 billion, while private nonbank holdings declined.",
+      "edition": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1958",
+      "publisher": "United States Government Printing Office",
+      "publication_year": "1959",
+      "reference_number": "Treasury Department Document No. 3210",
+      "page": "5–6; 22; 26",
+      "chapter": "",
+      "section": "Summary of fiscal operations; Account of the Treasurer of the United States; Public debt operations and ownership of Federal securities",
+      "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1958-5451/fulltext",
+      "primary_or_secondary": "Primary source",
+      "historical_claim": "FY1958 returned to a Federal budget deficit of $2.8 billion as recession-related declines in economic activity reduced revenues. The Treasury's fiscal summary reports a $5.8 billion increase in public debt to $276.3 billion, reflecting both the deficit and an increase in the Treasurer's cash balance. The debt-operations section reports $276.4 billion of total Federal debt including guaranteed obligations. Treasury also described a major shift in securities ownership: commercial banks added about $9 billion in Federal securities and Federal Reserve holdings rose by about $2.5 billion, while private nonbank investors reduced holdings.",
+      "context": "The fiscal year ended June 30, 1958 encompassed the 1957–58 recession. Treasury's opening statement says declining economic activity reduced revenues below expectations and required additional new-money borrowing. These fiscal totals should be distinguished from cash-balance movements and from shifts in who held Federal securities.",
+      "interpretation": "The report documents the reversal from the FY1956–57 surpluses to a recession-era deficit and renewed net debt growth. It also shows that debt management was not simply a question of the annual deficit: Treasury borrowing increased the cash balance, and securities ownership shifted toward commercial banks and the Federal Reserve. The evidence does not establish that the entire debt increase was caused by the deficit alone.",
+      "counter_interpretations": [
+        "The $2.8 billion budget deficit is not identical to the $5.8 billion increase in public debt; the Treasury summary explicitly includes an increase in the Treasurer's cash balance and trust-account/other transactions in the reconciliation.",
+        "The report's summary gives public debt outstanding as $276.3 billion, while the debt-operations narrative gives $276.4 billion for total Federal debt including guaranteed obligations. Preserve the differing labels and resolve exact rounding from page images before quoting the figures as interchangeable.",
+        "Securities held by commercial banks and the Federal Reserve are ownership categories, not evidence that those institutions caused the deficit.",
+        "The report's recession explanation does not imply every 1958 expenditure or borrowing transaction was caused by the recession."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-korean-war-financing-1957",
+        "us-treasury-postwar-debt-management-1959",
+        "us-treasury-debt-management-1960"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Official FRASER OCR text checked; original printed-page images not yet inspected. Grade B pending page-image verification.",
+      "last_verified": "2026-10-12",
+      "notes": "Primary source: GPO 1959, Treasury Department Document No. 3210. FRASER OCR gives the fiscal summary on printed p. 5 and public-debt operations on printed p. 22; printed p. 26 discusses securities ownership. The OCR includes apparent conflicts/rounding differences ($276.3 billion public debt in the summary versus $276.4 billion total Federal debt including guaranteed obligations in the debt-operations section). Inspect original page images before resolving the figures or upgrading the evidence grade.",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report and named GPO edition provide detailed fiscal and debt-management figures, but the original printed page images have not yet been inspected and the summary/narrative debt totals require careful label reconciliation.",
+      "publication_status": "Primary institutional source; OCR passage and printed-page locators identified; original page-image verification pending.",
+      "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৫৮ — মন্দাজনিত বাজেট ঘাটতি, ৫.৮ বিলিয়ন ডলার সরকারি ঋণ বৃদ্ধি ও ট্রেজারি সিকিউরিটির মালিকানা পরিবর্তন",
+      "bn_historical_claim": "১৯৫৮ অর্থবছরে net budget receipts ছিল ৬৯.১ বিলিয়ন ডলার এবং budget expenditures ছিল ৭১.৯ বিলিয়ন ডলার; ফলে ২.৮ বিলিয়ন ডলারের ঘাটতি হয়। ট্রেজারির সারসংক্ষেপে public debt ৫.৮ বিলিয়ন ডলার বেড়ে ২৭৬.৩ বিলিয়ন ডলারে পৌঁছায়। ঋণ-কার্যক্রমের অংশে guaranteed obligations-সহ মোট Federal debt ২৭৬.৪ বিলিয়ন ডলার বলা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই না হওয়া পর্যন্ত এই দুই সংখ্যাকে এক করে দেখা উচিত নয়।",
+      "bn_context": "১৯৫৭–৫৮ সালের মন্দা অর্থবছরের রাজস্বকে প্রত্যাশার চেয়ে কমিয়ে দেয়। ট্রেজারির প্রতিবেদন ঘাটতি, নগদ-স্থিতি বৃদ্ধি এবং সরকারি সিকিউরিটির মালিকানায় পরিবর্তনকে আলাদা করে দেখায়।",
+      "bn_interpretation": "প্রতিবেদনটি ১৯৫৬–৫৭ সালের উদ্বৃত্তের পর ১৯৫৮ অর্থবছরে ঘাটতি ও ঋণবৃদ্ধির প্রত্যাবর্তন দেখায়। তবে ঋণবৃদ্ধিকে শুধু বাজেট ঘাটতির সমান ধরে নেওয়া যায় না, কারণ ট্রেজারির নগদ-স্থিতি ও অন্যান্য লেনদেনও প্রভাব ফেলেছিল।",
+      "bn_notes": "GPO 1959; Treasury Department Document No. 3210। মুদ্রিত পৃষ্ঠা ৫–৬, ২২ এবং ২৬-এর OCR শনাক্ত করা হয়েছে; মূল পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "সরকারি FRASER OCR পাঠ যাচাই করা হয়েছে; মূল মুদ্রিত পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official FRASER OCR text and printed-page locators checked; original page images pending.",
+        "locator": "Annual Report of the Secretary of the Treasury for FY ended June 30, 1958, Treasury Department Document No. 3210; printed pp. 5–6 (fiscal summary), p. 22 (Treasurer's account), and p. 26 (securities ownership).",
+        "evidence": "The report's fiscal summary states receipts of $69.1 billion, expenditures of $71.9 billion, a $2.8 billion deficit, and a $5.8 billion public-debt increase to $276.3 billion. The debt-operations section separately reports $276.4 billion in total Federal debt including guaranteed obligations. Printed-page images must be checked before treating the two debt figures as directly comparable.",
+        "significance": "Documents the FY1958 recession-era return to deficit and net debt growth while showing that cash-balance changes and securities ownership were part of the financing picture.",
+        "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1958-5451/fulltext",
+        "checked": "2026-10-12",
+        "verification_note": "Grade B. Use the contemporaneous GPO report and its printed locators, but do not resolve the $276.3/$276.4 billion difference until the original printed pages are inspected."
+      }
+    },
+    {
       "source_id": "us-treasury-debt-management-1960",
       "title": "U.S. Treasury Annual Report 1960 — Budget Surplus, Continued Debt Increase, Short-Term Financing, and Advance Refunding",
       "source_type": "Institutional annual report",
@@ -12197,5 +12261,5 @@
       "Then assess J. S. Mill, Principles of Political Economy (1848 first edition) for an exact chapter/page lock."
     ]
   },
-  "last_updated": "2026-10-05"
+  "last_updated": "2026-10-12"
 }
