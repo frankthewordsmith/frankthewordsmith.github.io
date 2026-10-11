@@ -7008,6 +7008,77 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year rates separate from fiscal-year balances; distinguish GAO's gross debt schedule from debt subject to the limit; inspect original PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2018",
+      "title": "Federal Reserve Financial Accounts, 2018 — Federal Debt Growth and FY2018 Debt Audit",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2018-01-01",
+      "date_end": "2018-12-31",
+      "date_label": "Calendar-year 2018 debt-growth statistics; fiscal-year 2018 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's March 7, 2019 Z.1 historical tables report calendar-2018 domestic nonfinancial debt growth of 4.5 percent, household debt growth of 3.2 percent, nonfinancial business debt growth of 3.7 percent, federal debt growth of 7.6 percent, and state and local government debt declining 1.7 percent. GAO-19-113 reports gross federal debt managed by the Bureau of the Fiscal Service totaled $21.506 trillion at September 30, 2018, compared with $20.233 trillion at September 30, 2017, an increase of $1.273 trillion. GAO reports debt held by the public increased by $1.088 trillion. The fiscal-year 2018 federal deficit was reported as $779 billion, up from $666 billion in fiscal year 2017. During FY2018, the debt limit was raised once and temporarily suspended for about 10 months.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৯ সালের ৭ মার্চের Z.1 ঐতিহাসিক সারণি অনুযায়ী, ২০১৮ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ, পারিবারিক ঋণ ৩.২ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৩.৭ শতাংশ বেড়েছিল; ফেডারেল ঋণ ৭.৬ শতাংশ বেড়েছিল এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ১.৭ শতাংশ কমেছিল। GAO-19-113 জানায়, Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ২০১৮ সালের ৩০ সেপ্টেম্বর ২১.৫০৬ ট্রিলিয়ন ডলারে পৌঁছায়; ২০১৭ সালের একই দিনে তা ছিল ২০.২৩৩ ট্রিলিয়ন ডলার—বৃদ্ধি ১.২৭৩ ট্রিলিয়ন ডলার। জনগণের হাতে থাকা ঋণ ১.০৮৮ ট্রিলিয়ন ডলার বেড়েছিল। ২০১৮ অর্থবছরের ফেডারেল ঘাটতি ছিল ৭৭৯ বিলিয়ন ডলার, যা ২০১৭ অর্থবছরের ৬৬৬ বিলিয়ন ডলারের চেয়ে বেশি। ২০১৮ অর্থবছরে ঋণসীমা একবার বাড়ানো হয় এবং প্রায় ১০ মাসের জন্য সাময়িকভাবে স্থগিত করা হয়েছিল।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, March 7, 2019 historical tables; GAO-19-113, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2018 and 2017 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2018",
+      "reference_number": "Federal Reserve Z.1, March 7, 2019; GAO-19-113",
+      "page": "Federal Reserve Z.1, March 7, 2019, Household Net Worth and Growth of Domestic Nonfinancial Debt table; GAO-19-113, Highlights and Overview on Federal Debt Managed by Fiscal Service",
+      "section": "Annual growth of domestic nonfinancial debt; gross federal debt outstanding; FY2018 deficit and debt-limit chronology",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve Z.1 reports calendar-2018 domestic nonfinancial debt growth of 4.5 percent and federal debt growth of 7.6 percent. GAO-19-113 reports gross Fiscal Service-managed federal debt of $21.506 trillion at September 30, 2018, up $1.273 trillion from FY2017; debt held by the public increased $1.088 trillion.",
+      "context": "Federal Reserve rates are calendar-year changes, while GAO's audited debt balances are fiscal-year-end. GAO identifies the FY2018 deficit ($779 billion, compared with $666 billion in FY2017) as the primary factor in the increase in debt held by the public. The debt limit was raised once and temporarily suspended for about 10 months during FY2018.",
+      "interpretation": "Federal debt increased materially during FY2018, with most of the $1.273 trillion gross-debt increase arising in debt held by the public. GAO links that increase primarily to the federal deficit. This is a more specific source-backed explanation than attributing the increase simply to the debt-limit suspension.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "Gross federal debt is not identical to debt held by the public.",
+        "The debt-limit chronology is context, not proof that the suspension itself caused the debt increase."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2017",
+        "us-treasury-debt-management-2016",
+        "us-treasury-debt-management-2015"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve historical Z.1 table and GAO-19-113 audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 historical table reports 2018 domestic nonfinancial debt growth 4.5%, household 3.2%, business 3.7%, federal 7.6%, and state/local -1.7%. GAO-19-113 reports gross Fiscal Service-managed federal debt of $21.506 trillion at September 30, 2018, up $1.273 trillion; debt held by the public increased $1.088 trillion. GAO cites a $779 billion FY2018 deficit versus $666 billion in FY2017. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+        "https://www.gao.gov/products/gao-19-113",
+        "https://www.gao.gov/assets/gao-19-113.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve historical Z.1 table and GAO audited debt schedule support annual growth and fiscal-year balance figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official historical summary and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৮ — ফেডারেল ঋণবৃদ্ধি ও অর্থবছরের নিরীক্ষা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০১৯ সালের ৭ মার্চের Z.1 সারণি অনুযায়ী, ২০১৮ সালে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ এবং ফেডারেল ঋণ ৭.৬ শতাংশ বেড়েছিল। GAO-19-113 জানায়, ২০১৮ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ছিল ২১.৫০৬ ট্রিলিয়ন ডলার—২০১৭ সালের তুলনায় ১.২৭৩ ট্রিলিয়ন বেশি। জনগণের হাতে থাকা ঋণ ১.০৮৮ ট্রিলিয়ন ডলার বেড়েছিল।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১৮-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। GAO জানায়, ২০১৮ অর্থবছরের ঘাটতি ছিল ৭৭৯ বিলিয়ন ডলার, ২০১৭ অর্থবছরের ৬৬৬ বিলিয়ন ডলারের তুলনায় বেশি। ওই অর্থবছরে ঋণসীমা একবার বাড়ানো হয় এবং প্রায় ১০ মাস সাময়িকভাবে স্থগিত ছিল।",
+      "bn_interpretation": "২০১৮ অর্থবছরে ফেডারেল ঋণ উল্লেখযোগ্যভাবে বেড়েছিল; মোট ১.২৭৩ ট্রিলিয়ন ডলার বৃদ্ধির অধিকাংশই জনগণের হাতে থাকা ঋণে। GAO এই বৃদ্ধির প্রধান কারণ হিসেবে ফেডারেল ঘাটতির কথা উল্লেখ করে।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 ঐতিহাসিক সারণি ২০১৮ সালের ক্যালেন্ডার-বার্ষিক ঋণবৃদ্ধি দেখায়; GAO-19-113 ২০১৮ সালের ৩০ সেপ্টেম্বর ২১.৫০৬ ট্রিলিয়ন ডলার মোট ব্যবস্থাপনাধীন ঋণ নথিবদ্ধ করে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 ঐতিহাসিক সারণি ও GAO-19-113 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 historical table and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 7, 2019, Household Net Worth and Growth of Domestic Nonfinancial Debt table; GAO-19-113, Highlights and Overview on Federal Debt Managed by Fiscal Service.",
+        "evidence": "Z.1 reports 4.5 percent domestic nonfinancial debt growth and 7.6 percent federal debt growth in calendar 2018. GAO reports $21.506 trillion gross Fiscal Service-managed debt at September 30, 2018, up $1.273 trillion; debt held by the public rose $1.088 trillion.",
+        "significance": "Links calendar-year sector growth to audited fiscal-year debt balances and GAO's explanation that the federal deficit was the primary factor in public-debt growth.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20190307/html/introductory_text.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year rates separate from fiscal-year balances; inspect original PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
