@@ -6361,6 +6361,79 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2009",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2009 — Private Debt Contracts as Federal Borrowing Surges",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2009-01-01",
+      "date_end": "2009-12-31",
+      "date_label": "Calendar year 2009 debt-growth statistics; fiscal year 2009 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2009 reports domestic nonfinancial debt rose 3.3 percent in calendar 2009, about 2.5 percentage points slower than in 2008. Household debt contracted 1.7 percent and nonfinancial business debt contracted 1.8 percent, while state and local government debt rose 4.8 percent. Federal government debt rose 22.7 percent. GAO-10-88 reports federal debt managed by the Bureau of the Public Debt totaled $11.898 trillion at September 30, 2009, compared with $10.011 trillion at September 30, 2008. The 2009 total comprised $7.552 trillion held by the public and $4.346 trillion in intragovernmental holdings. Gross federal debt managed by the bureau increased $1.887 trillion during fiscal 2009, including a $1.743 trillion increase in debt held by the public and a $144 billion increase in intragovernmental holdings.",
+      "translation": "ফেডারেল রিজার্ভের ২০০৯ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপ অনুযায়ী, ২০০৯ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৩.৩ শতাংশ বেড়েছিল—২০০৮ সালের তুলনায় প্রায় ২.৫ শতাংশ-পয়েন্ট কম। পারিবারিক ঋণ ১.৭ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ১.৮ শতাংশ কমেছিল; অন্যদিকে অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ৪.৮ শতাংশ বেড়েছিল। ফেডারেল সরকারের ঋণ ২২.৭ শতাংশ বেড়েছিল। GAO-10-88 জানায়, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০০৯ সালের ৩০ সেপ্টেম্বর ১১.৮৯৮ ট্রিলিয়ন ডলারে পৌঁছায়; ২০০৮ সালের একই দিনে তা ছিল ১০.০১১ ট্রিলিয়ন ডলার। ২০০৯ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল ৭.৫৫২ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.৩৪৬ ট্রিলিয়ন ডলার। ২০০৯ অর্থবছরে ব্যুরোর ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ১.৮৮৭ ট্রিলিয়ন ডলার বেড়েছিল; এর মধ্যে জনগণের হাতে থাকা ঋণ ১.৭৪৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ১৪৪ বিলিয়ন ডলার বেড়েছিল।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2009, March 11, 2010; GAO-10-88, Financial Audit: Bureau of the Public Debt's Fiscal Years 2009 and 2008 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2009–2010",
+      "reference_number": "Federal Reserve Z.1, March 11, 2010; GAO-10-88",
+      "page": "Federal Reserve Z.1, Flow of Funds Summary Statistics — Fourth Quarter 2009; GAO-10-88, Overview on Federal Debt Managed by BPD, p. 11",
+      "section": "Growth of Domestic Nonfinancial Debt; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20100311/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve data report domestic nonfinancial debt grew 3.3 percent in calendar 2009, household debt fell 1.7 percent, business debt fell 1.8 percent, and federal debt grew 22.7 percent. GAO reports BPD-managed federal debt reached $11.898 trillion at September 30, 2009, including $7.552 trillion held by the public and $4.346 trillion intragovernmental.",
+      "context": "Federal Reserve growth rates are calendar-year end-of-period changes, while GAO's debt balances are fiscal-year-end figures. GAO attributes the $1.887 trillion fiscal-year increase to a $1.743 trillion increase in debt held by the public and a $144 billion increase in intragovernmental holdings. GAO says the public-debt increase was primarily due to federal spending exceeding revenues and was significantly affected by government responses to the financial-market crisis and economic downturn.",
+      "interpretation": "In 2009, household and nonfinancial business debt contracted while federal borrowing accelerated. The audited total rose by $1.887 trillion in fiscal 2009, mostly through debt held by the public. The record documents the sectoral contrast and GAO's stated context without implying that all federal borrowing came from one specific rescue program.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt aggregates multiple sectors and is not the same as federal debt.",
+        "Calendar-year growth rates and fiscal-year balances cover different periods.",
+        "The GAO audit describes the main contributors to debt growth but does not allocate the entire increase to one intervention.",
+        "BPD's audited schedule has defined coverage and may differ from other gross-debt measures."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2008",
+        "us-treasury-debt-management-2007",
+        "us-treasury-debt-management-2006"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 release and GAO-10-88 audit text checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 reports 2009 domestic nonfinancial debt growth of 3.3 percent, household debt decline of 1.7 percent, nonfinancial business debt decline of 1.8 percent, and federal debt growth of 22.7 percent. GAO-10-88 reports $11.898 trillion of BPD-managed debt at September 30, 2009, including $7.552 trillion held by the public and $4.346 trillion intragovernmental. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20100311/z1.pdf",
+        "https://www.federalreserve.gov/Releases/z1/20100311/accessible/summary.htm",
+        "https://www.gao.gov/products/gao-10-88",
+        "https://www.gao.gov/assets/gao-10-88.pdf",
+        "https://www.gao.gov/assets/a298254.html"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve statistics and GAO audited schedules support the main figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official text and locator checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০০৯ — বেসরকারি ঋণ সংকোচন, ফেডারেল ঋণের দ্রুত বৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০০৯ সালে দেশীয় অ-আর্থিক ঋণ ৩.৩ শতাংশ এবং ফেডারেল ঋণ ২২.৭ শতাংশ বেড়েছিল; পারিবারিক ঋণ ১.৭ শতাংশ ও ব্যবসায়িক ঋণ ১.৮ শতাংশ কমেছিল। GAO জানায়, ২০০৯ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ১১.৮৯৮ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ৭.৫৫২ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.৩৪৬ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০০৯-এর; GAO-র ঋণ-স্থিতি ২০০৯ অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। GAO-র মতে, ১.৮৮৭ ট্রিলিয়ন ডলারের অর্থবছরভিত্তিক বৃদ্ধির মধ্যে জনগণের হাতে থাকা ঋণ ১.৭৪৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ১৪৪ বিলিয়ন ডলার বেড়েছিল।",
+      "bn_interpretation": "২০০৯ সালে পারিবারিক ও অ-আর্থিক ব্যবসায়িক ঋণ কমলেও ফেডারেল ঋণ দ্রুত বেড়েছিল। অর্থবছরে মোট ঋণবৃদ্ধির বেশির ভাগই জনগণের হাতে থাকা ঋণের মাধ্যমে হয়। এই রেকর্ড বিভিন্ন খাতের বিপরীত প্রবণতা এবং GAO-র ব্যাখ্যা নথিবদ্ধ করে; সব ঋণবৃদ্ধিকে কোনো একটি উদ্ধার-প্রকল্পের ফল বলে না।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 প্রকাশনায় ২০০৯ সালে দেশীয় অ-আর্থিক ঋণ ৩.৩ শতাংশ, পারিবারিক ঋণ −১.৭ শতাংশ, ব্যবসায়িক ঋণ −১.৮ শতাংশ এবং ফেডারেল ঋণ ২২.৭ শতাংশ পরিবর্তনের তথ্য রয়েছে। GAO-10-88-এ ২০০৯ সালের ৩০ সেপ্টেম্বর ঋণ ১১.৮৯৮ ট্রিলিয়ন ডলার বলা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-10-88 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 11, 2010, Flow of Funds Summary Statistics — Fourth Quarter 2009; GAO-10-88, Overview on Federal Debt Managed by BPD, p. 11.",
+        "evidence": "Federal Reserve reports 3.3 percent domestic nonfinancial debt growth and 22.7 percent federal debt growth in 2009. GAO reports $11.898 trillion BPD-managed debt at September 30, 2009 and a $1.887 trillion fiscal-year increase.",
+        "significance": "Documents contraction in household and business debt alongside sharply increased federal borrowing during the recession and financial crisis.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20100311/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
