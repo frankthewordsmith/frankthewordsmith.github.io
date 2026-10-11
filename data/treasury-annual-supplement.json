@@ -6146,6 +6146,79 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year credit growth distinct from fiscal-year balances; inspect original PDF page images before upgrading the evidence grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2006",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2006 — Slower Broad Debt Growth and Moderating Federal Borrowing",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2006-01-01",
+      "date_end": "2006-12-31",
+      "date_label": "Calendar year 2006 debt-growth statistics; fiscal year 2006 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2006 reports that domestic nonfinancial debt rose about 8 percent over calendar 2006, approximately 1½ percentage points slower than in 2005. Household debt increased 8½ percent, nonfinancial business debt 9 percent, state and local government debt 8¼ percent, and federal government debt about 4 percent. The Federal Reserve notes that federal debt growth averaged its slowest pace since 2001. GAO's audit reports that federal debt managed by the Bureau of the Public Debt totaled about $8.493 trillion at September 30, 2006, compared with $7.918 trillion at September 30, 2005. The 2006 total consisted of approximately $4.843 trillion held by the public and $3.650 trillion in intragovernmental holdings.",
+      "translation": "ফেডারেল রিজার্ভের ২০০৬ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপে বলা হয়েছে, ২০০৬ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ প্রায় ৮ শতাংশ বেড়েছিল—২০০৫ সালের তুলনায় প্রায় ১.৫ শতাংশ-পয়েন্ট কম। পরিবারগুলোর ঋণ ৮.৫ শতাংশ, অ-আর্থিক ব্যবসায়িক ঋণ ৯ শতাংশ, অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ৮.২৫ শতাংশ এবং ফেডারেল সরকারের ঋণ প্রায় ৪ শতাংশ বেড়েছিল। ফেডারেল রিজার্ভ উল্লেখ করে, ফেডারেল ঋণবৃদ্ধির গড় হার ২০০১ সালের পর সর্বনিম্ন ছিল। GAO-র নিরীক্ষায় বলা হয়েছে, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০০৬ সালের ৩০ সেপ্টেম্বর প্রায় ৮.৪৯৩ ট্রিলিয়ন ডলারে পৌঁছায়, যা ২০০৫ সালের একই দিনে ছিল ৭.৯১৮ ট্রিলিয়ন ডলার। ২০০৬ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল প্রায় ৪.৮৪৩ ট্রিলিয়ন ডলার এবং আন্তঃসরকারি ঋণধারণ ৩.৬৫০ ট্রিলিয়ন ডলার।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2006, March 8, 2007; GAO-07-127, Financial Audit: Bureau of the Public Debt's Fiscal Years 2006 and 2005 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2006–2007",
+      "reference_number": "Federal Reserve Z.1 release, March 8, 2007; GAO-07-127",
+      "page": "Federal Reserve Z.1, “Flow of Funds Summary Statistics — Fourth Quarter 2006”; GAO-07-127, p. 1 and overview on federal debt managed by the Bureau of the Public Debt",
+      "section": "Growth of Domestic Nonfinancial Debt; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/RELEASES/z1/20070308/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve data report domestic nonfinancial debt grew about 8 percent in calendar 2006, including about 4 percent federal debt growth. GAO reports debt managed by the Bureau of the Public Debt reached $8.493 trillion at September 30, 2006, including $4.843 trillion held by the public and $3.650 trillion in intragovernmental holdings.",
+      "context": "The Federal Reserve's debt-growth rates are calendar-year end-of-period changes, while GAO's debt balances are as of the end of fiscal years, September 30. GAO notes that the bureau's schedules exclude certain securities issued by the Federal Financing Bank and other agencies, so these figures may differ from other published gross federal debt totals.",
+      "interpretation": "In 2006 broad domestic nonfinancial debt continued to expand, but at a slower pace than in 2005. Federal debt growth slowed markedly relative to household and business borrowing, even as both debt held by the public and intragovernmental holdings continued to increase in fiscal 2006. The data show a shift in the composition and pace of borrowing, not a decline in the level of federal debt.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt aggregates several sectors and must not be treated as Treasury debt alone.",
+        "Calendar-year debt-growth rates and fiscal-year debt balances use different periods.",
+        "The audited Bureau of the Public Debt schedules have a defined coverage and should not be silently equated with every gross federal debt series.",
+        "Slower growth does not mean debt balances fell; the audited total increased in fiscal 2006."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2005",
+        "us-treasury-debt-management-2004",
+        "us-treasury-debt-management-2003"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 release and GAO-07-127 audit text checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve's March 8, 2007 Z.1 release reports domestic nonfinancial debt grew 8 percent in 2006, household debt 8½ percent, business debt 9 percent, state and local government debt 8¼ percent, and federal debt about 4 percent. GAO-07-127 reports $8.493 trillion of debt managed by the Bureau of the Public Debt at September 30, 2006, with $4.843 trillion held by the public and $3.650 trillion intragovernmental. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/RELEASES/z1/20070308/z1.pdf",
+        "https://www.federalreserve.gov/RELEASES/z1/20070308/accessible/summary.htm",
+        "https://www.gao.gov/products/gao-07-127",
+        "https://www.gao.gov/assets/gao-07-127.pdf",
+        "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-07-127/pdf/GAOREPORTS-GAO-07-127.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve statistics and GAO's audited debt schedules support the main figures; original PDF page images remain to be inspected.",
+      "publication_status": "primary institutional evidence; official text and locator checked, original-page image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০০৬ সালের চতুর্থ প্রান্তিক — সামগ্রিক ঋণবৃদ্ধি মন্থর ও ফেডারেল ঋণগ্রহণের গতি কমা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০০৬ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ প্রায় ৮ শতাংশ এবং ফেডারেল ঋণ প্রায় ৪ শতাংশ বেড়েছিল। GAO জানায়, ২০০৬ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ৮.৪৯৩ ট্রিলিয়ন ডলারে পৌঁছায়—এর মধ্যে জনগণের হাতে থাকা ঋণ ৪.৮৪৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৩.৬৫০ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের ঋণবৃদ্ধির হার ক্যালেন্ডার বছর ২০০৬-এর; GAO-র ঋণ-স্থিতি ২০০৬ অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। Bureau of the Public Debt-এর নিরীক্ষিত হিসাব কিছু সরকারি সংস্থার সিকিউরিটি অন্তর্ভুক্ত করে না, ফলে অন্যান্য স্থূল ফেডারেল ঋণ-পরিসংখ্যানের সঙ্গে পার্থক্য হতে পারে।",
+      "bn_interpretation": "২০০৬ সালে সামগ্রিক দেশীয় অ-আর্থিক ঋণ বাড়লেও বৃদ্ধির গতি ২০০৫ সালের তুলনায় কমে যায়। পরিবার ও ব্যবসার ঋণবৃদ্ধির তুলনায় ফেডারেল ঋণবৃদ্ধি উল্লেখযোগ্যভাবে মন্থর হয়। তবু ২০০৬ অর্থবছরে জনগণের হাতে থাকা ঋণ ও আন্তঃসরকারি ঋণধারণ উভয়ই বেড়েছিল। বৃদ্ধির হার কমা মানে ঋণের মোট পরিমাণ কমে যাওয়া নয়।",
+      "bn_notes": "ফেডারেল রিজার্ভের ৮ মার্চ ২০০৭-এর Z.1 প্রকাশনায় ২০০৬ সালের দেশীয় অ-আর্থিক ঋণ ৮ শতাংশ, পারিবারিক ঋণ ৮.৫ শতাংশ, ব্যবসায়িক ঋণ ৯ শতাংশ, অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ৮.২৫ শতাংশ এবং ফেডারেল ঋণ প্রায় ৪ শতাংশ বৃদ্ধির তথ্য রয়েছে। GAO-07-127-এ ২০০৬ সালের ৩০ সেপ্টেম্বর ঋণ ৮.৪৯৩ ট্রিলিয়ন ডলার বলা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-07-127 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1 release, March 8, 2007, “Flow of Funds Summary Statistics — Fourth Quarter 2006”; GAO-07-127, p. 1 and overview of federal debt managed by the Bureau of the Public Debt.",
+        "evidence": "Federal Reserve reports 8 percent domestic nonfinancial debt growth and about 4 percent federal debt growth in 2006. GAO reports $8.493 trillion of debt managed by the Bureau of the Public Debt at September 30, 2006, including $4.843 trillion held by the public and $3.650 trillion intragovernmental.",
+        "significance": "Documents slower broad and federal debt growth in 2006 while showing that total federal obligations continued to rise.",
+        "source_url": "https://www.federalreserve.gov/RELEASES/z1/20070308/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect original PDF page images before upgrading the evidence grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
