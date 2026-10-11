@@ -523,6 +523,64 @@
       "bn_notes": "মোট গৃহীত দরপত্রকে নিট নতুন ঋণ হিসেবে দেখাবেন না। SOMA-এর আগের উপমোটে FIMA অপ্রতিযোগিতামূলক দরপত্র অন্তর্ভুক্ত।",
       "bn_verification_status": "সরকারি TreasuryDirect ফলাফলে CUSIP, গৃহীত অঙ্ক, ইস্যু ও মেয়াদপূর্তির তারিখ যাচাই করা হয়েছে।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-42-day-bill-auction-results-june-2026",
+      "title": "Treasury’s June 23, 2026 Auction of a 42-Day Bill Maturing August 6",
+      "source_type": "U.S. Treasury bill auction result",
+      "date_start": "2026-06-23",
+      "date_end": "2026-08-06",
+      "date_label": "Auction announced June 23, 2026; issued June 25; matures August 6, 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "42-day Treasury bill auction results",
+      "original_text": "The TreasuryDirect auction result dated June 23, 2026, for a 42-day bill (CUSIP 912797RG4) reported competitive tenders of $185,631,915,000, of which $61,708,566,900 were accepted. Accepted noncompetitive tenders were $1,291,524,200 and accepted FIMA noncompetitive tenders were $2,000,000,000, making the subtotal $65,000,091,100. SOMA accepted $4,463,542,200, bringing total accepted tenders to $69,463,633,300. The bill was issued June 25, 2026 and matures August 6, 2026. The bid-to-cover ratio was 2.91 and the high rate was 3.620%.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, Treasury Auction Results, 42-Day Bill, June 23, 2026, TreasuryDirect PDF R_20260623_1.pdf",
+      "publisher": "U.S. Department of the Treasury / TreasuryDirect",
+      "publication_year": "2026",
+      "reference_number": "R_20260623_1",
+      "section": "Main Treasury Auction Results table and bid-to-cover footnote",
+      "source_identity": "Official TreasuryDirect auction-results notice for a 42-day Treasury bill announced June 23, 2026.",
+      "historical_claim": "Treasury accepted $69,463,633,300 in total tenders including SOMA; the subtotal before SOMA was $65,000,091,100, including $2 billion in FIMA noncompetitive tenders. The bill was issued June 25 and matures August 6, 2026.",
+      "context": "This is the result of one short-term bill auction. The amount accepted at auction is not a measure of net borrowing, total federal debt growth, or the budget deficit.",
+      "interpretation": "The primary-source record distinguishes accepted competitive tenders, noncompetitive tenders, FIMA tenders, and SOMA acceptance in a specific 42-day bill auction.",
+      "notes": "Do not describe total accepted tenders as net new borrowing. The subtotal before SOMA includes FIMA noncompetitive tenders; SOMA acceptance is additional. The maturity date does not prove later repayment.",
+      "what_passage_establishes": "Auction date, security term and CUSIP, accepted tender amounts by category, issue and maturity dates, high rate, and bid-to-cover ratio.",
+      "evidence_limits": "One bill auction only; it does not establish total Treasury borrowing, net marketable borrowing, total federal debt, the deficit, or whether the bill was later repaid at maturity.",
+      "citation_record": "U.S. Department of the Treasury, Treasury Auction Results, 42-Day Bill, June 23, 2026, TreasuryDirect PDF R_20260623_1.pdf.",
+      "scholarly_references": [
+        "Primary government auction record; no separate secondary scholarly reference is asserted."
+      ],
+      "related_sources": [
+        "us-treasury-119-day-bill-auction-results-june-2026",
+        "us-treasury-182-day-bill-auction-results-june-2026",
+        "us-treasury-marketable-borrowing-actual-2026-q2"
+      ],
+      "web_sources": [
+        "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20260623_1.pdf"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official TreasuryDirect auction-result notice identified; reported amounts checked against the published table.",
+      "verification_status": "Auction date, CUSIP, accepted amounts, issue date, maturity date, high rate, and bid-to-cover ratio checked against the official TreasuryDirect auction result.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official TreasuryDirect auction-results PDF checked.",
+        "locator": "Treasury Auction Results, 42-Day Bill, dated June 23, 2026; main table and footnote 5.",
+        "evidence": "Competitive accepted $61,708,566,900; noncompetitive accepted $1,291,524,200; FIMA noncompetitive accepted $2,000,000,000; subtotal before SOMA $65,000,091,100; SOMA accepted $4,463,542,200; total accepted $69,463,633,300; high rate 3.620%; bid-to-cover 2.91.",
+        "significance": "Documents an actual 42-day bill auction and preserves the source's distinction between pre-SOMA accepted tenders and SOMA acceptance.",
+        "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20260623_1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "The auction acceptance amount is not net new borrowing or total federal debt growth."
+      },
+      "bn_title": "২০২৬ সালের ২৩ জুন ট্রেজারির ৪২ দিনের বিল নিলামের ফলাফল",
+      "bn_historical_claim": "২৩ জুন ২০২৬-এর ৪২ দিনের বিল নিলামে মোট গৃহীত দরপত্র ছিল ৬৯,৪৬৩,৬৩৩,৩০০ ডলার; SOMA-এর আগে উপমোট ছিল ৬৫,০০০,০৯১,১০০ ডলার, যার মধ্যে FIMA-এর ২ বিলিয়ন ডলারের অপ্রতিযোগিতামূলক দরপত্র অন্তর্ভুক্ত। বিলটি ২৫ জুন ইস্যু হয় এবং ৬ আগস্ট ২০২৬-এ মেয়াদপূর্তির জন্য নির্ধারিত ছিল।",
+      "bn_context": "এটি একটি নির্দিষ্ট স্বল্পমেয়াদি বিল নিলামের ফলাফল; নিট ঋণগ্রহণ, মোট ফেডারেল ঋণ বৃদ্ধি বা বাজেট ঘাটতির পরিমাপ নয়।",
+      "bn_interpretation": "সরকারি রেকর্ডে প্রতিযোগিতামূলক, অপ্রতিযোগিতামূলক, FIMA এবং SOMA-এর গৃহীত অঙ্ক আলাদা করে দেখানো হয়েছে।",
+      "bn_notes": "মোট গৃহীত দরপত্রকে নিট নতুন ঋণ হিসেবে দেখাবেন না। SOMA-এর আগের উপমোটে FIMA-এর অঙ্ক রয়েছে; SOMA-এর অঙ্ক অতিরিক্ত।",
+      "bn_verification_status": "সরকারি TreasuryDirect নিলাম-ফলাফলে CUSIP, গৃহীত অঙ্ক, ইস্যু ও মেয়াদপূর্তির তারিখ, উচ্চ হার এবং bid-to-cover অনুপাত যাচাই করা হয়েছে।",
+      "book": "book-1"
     }
   ]
 }
