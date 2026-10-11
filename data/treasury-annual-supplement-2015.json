@@ -1,0 +1,72 @@
+{
+  "site": "Frank the Wordsmith",
+  "version": 1,
+  "last_updated": "2026-10-11",
+  "sources": [
+    {
+      "source_id": "us-treasury-debt-management-2015",
+      "title": "Federal Reserve Financial Accounts, Fourth Quarter 2015 — Federal Debt Growth and Treasury Extraordinary Measures",
+      "source_type": "Federal Reserve financial accounts and GAO federal debt audit",
+      "date_start": "2015-01-01",
+      "date_end": "2015-12-31",
+      "date_label": "Calendar-year 2015 debt-growth statistics; fiscal-year 2015 debt-management events",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; extraordinary measures",
+      "original_text": "The Federal Reserve's March 10, 2016 Z.1 release reports calendar-2015 domestic nonfinancial debt growth of 4.5 percent, household debt growth of 2.8 percent, nonfinancial business debt growth of 6.6 percent, state and local government debt growth of 1.8 percent, and federal debt growth of 5.0 percent. Domestic nonfinancial debt outstanding reached $45.1 trillion at the end of 2015, including $14.2 trillion household debt, $12.8 trillion nonfinancial business debt, and $18.1 trillion total government debt. GAO-16-160 reports Treasury took extraordinary actions from March 16 through September 30, 2015, because the debt limit was not increased before the suspension ended. At September 30, 2015, $350 billion of uninvested principal and $2 billion in related interest were appropriately not reported on the Schedule of Federal Debt. After the Bipartisan Budget Act of November 2, 2015, Treasury restored principal to affected federal accounts, increasing reported federal debt.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৬ সালের ১০ মার্চের Z.1 প্রকাশনা অনুযায়ী, ২০১৫ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ, পারিবারিক ঋণ ২.৮ শতাংশ, অ-আর্থিক ব্যবসায়িক ঋণ ৬.৬ শতাংশ এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ১.৮ শতাংশ বেড়েছিল; ফেডারেল ঋণ বেড়েছিল ৫.০ শতাংশ। ২০১৫ সালের শেষে দেশীয় অ-আর্থিক ঋণ ছিল ৪৫.১ ট্রিলিয়ন ডলার। GAO-16-160 জানায়, ঋণসীমা বাড়াতে বিলম্বের কারণে ট্রেজারি ২০১৫ সালের ১৬ মার্চ থেকে ৩০ সেপ্টেম্বর পর্যন্ত বিশেষ ব্যবস্থা গ্রহণ করে। ৩০ সেপ্টেম্বর ২০১৫-তে ৩৫০ বিলিয়ন ডলারের অনিবেশিত মূলধন ও সংশ্লিষ্ট ২ বিলিয়ন ডলারের সুদ ঋণ-তফসিলে অন্তর্ভুক্ত ছিল না। ২০১৫ সালের ২ নভেম্বরের আইনের পর ট্রেজারি সংশ্লিষ্ট সরকারি হিসাবে মূলধন পুনঃস্থাপন করে, ফলে নথিভুক্ত ফেডারেল ঋণ বেড়ে যায়।",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, March 10, 2016; GAO-16-160, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2015 and 2014 Schedules of Federal Debt",
+      "publisher": "Federal Reserve Board; U.S. Government Accountability Office",
+      "publication_year": "2016",
+      "reference_number": "Federal Reserve Z.1, March 10, 2016; GAO-16-160",
+      "page": "Federal Reserve Z.1 summary table; GAO-16-160 Highlights and Schedule of Federal Debt, note 6",
+      "section": "Growth of Domestic Nonfinancial Debt; Treasury extraordinary actions and uninvested principal",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audit",
+      "historical_claim": "Federal Reserve Z.1 reports calendar-2015 domestic nonfinancial debt growth of 4.5 percent and federal debt growth of 5.0 percent. GAO-16-160 documents extraordinary Treasury actions and $350 billion of uninvested principal plus $2 billion related interest not included in the September 30, 2015 debt schedule; principal was restored after legislation on November 2, 2015.",
+      "context": "Federal Reserve growth figures are calendar-year rates; Treasury's Schedule of Federal Debt is fiscal-year-end reporting. The omitted principal and interest resulted from securities not being issued to certain federal accounts while Treasury used extraordinary measures. These amounts should not be casually added to the published schedule without explaining the accounting and timing.",
+      "interpretation": "The 2015 Z.1 release reports 5.0 percent calendar-year growth in federal debt. GAO documents the operational and accounting effects of the 2015 debt-limit impasse. The record distinguishes this extraordinary-measures event from the broader annual change in debt and does not claim the impasse caused the entire increase.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year Z.1 rates differ from fiscal-year-end Treasury schedules.",
+        "The $350 billion principal and $2 billion interest were not reported on the September 30 schedule; do not add them without explaining their status.",
+        "The debt-limit impasse is not proof that it caused the entire annual debt change."
+      ],
+      "related_sources": [
+        "us-treasury-debt-management-2014",
+        "us-treasury-debt-management-2013"
+      ],
+      "verification_status": "Federal Reserve official Z.1 summary and GAO-16-160 audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Z.1 annual figures: domestic nonfinancial debt 4.5%; household 2.8%; business 6.6%; state/local 1.8%; federal 5.0%. GAO-16-160 documents $350 billion of uninvested principal and $2 billion related interest excluded from the September 30, 2015 debt schedule, followed by restoration after the November 2, 2015 law. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
+        "https://www.federalreserve.gov/Releases/z1/20160310/z1.pdf",
+        "https://www.gao.gov/products/gao-16-160",
+        "https://www.gao.gov/assets/gao-16-160.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve Z.1 summary and GAO audit text support annual sector growth and Treasury debt-management events; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৫ — ফেডারেল ঋণবৃদ্ধি ও ট্রেজারির বিশেষ ব্যবস্থা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০১৬ সালের ১০ মার্চের Z.1 তথ্য অনুযায়ী, ২০১৫ সালে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ এবং ফেডারেল ঋণ ৫.০ শতাংশ বেড়েছিল। GAO-16-160 জানায়, ঋণসীমা-সংক্রান্ত বিশেষ ব্যবস্থার সময় ৩০ সেপ্টেম্বর ২০১৫-এর ঋণ-তফসিলে ৩৫০ বিলিয়ন ডলারের অনিবেশিত মূলধন ও ২ বিলিয়ন ডলারের সংশ্লিষ্ট সুদ অন্তর্ভুক্ত ছিল না; ২ নভেম্বরের আইনের পর মূলধন সংশ্লিষ্ট সরকারি হিসাবে পুনঃস্থাপন করা হয়।",
+      "bn_context": "Z.1-এর হার ক্যালেন্ডার বছরভিত্তিক; ট্রেজারির ঋণ-তফসিল অর্থবছরের শেষে তৈরি হয়। বিশেষ ব্যবস্থা চলাকালে নির্দিষ্ট সরকারি হিসাবের জন্য সিকিউরিটি ইস্যু না হওয়ায় উল্লিখিত মূলধন ও সুদ ৩০ সেপ্টেম্বরের তফসিলে ছিল না।",
+      "bn_interpretation": "Z.1 ২০১৫ সালে ফেডারেল ঋণের ৫.০ শতাংশ বার্ষিক বৃদ্ধি দেখায়। GAO-র নিরীক্ষা ঋণসীমা-সংক্রান্ত বিশেষ ব্যবস্থার কার্যক্রম ও হিসাবগত প্রভাব নথিবদ্ধ করে; তবে পুরো ঋণবৃদ্ধির কারণ হিসেবে একে দেখায় না।",
+      "bn_notes": "২০১৫ সালের Z.1 বার্ষিক হার ও GAO-16-160-এর বিশেষ ব্যবস্থা-সংক্রান্ত তথ্য নথিবদ্ধ করা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-16-160 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 summary table and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 10, 2016, Household Net Worth and Growth of Domestic Nonfinancial Debt summary table; GAO-16-160 Highlights and Schedule of Federal Debt, note 6.",
+        "evidence": "Z.1 reports 4.5 percent domestic nonfinancial debt growth and 5.0 percent federal debt growth in calendar 2015. GAO documents $350 billion uninvested principal and $2 billion related interest not reported on the September 30, 2015 schedule due to extraordinary debt-limit actions.",
+        "significance": "Connects annual debt-growth statistics with the documented operational and accounting effects of Treasury's 2015 debt-limit measures.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Separate calendar-year Z.1 rates from fiscal-year schedule details; inspect original PDF page images before upgrading grade."
+      }
+    }
+  ]
+}
