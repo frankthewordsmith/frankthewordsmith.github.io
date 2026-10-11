@@ -6434,6 +6434,78 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2010",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2010 — Federal Debt Growth Remains Elevated",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2010-01-01",
+      "date_end": "2010-12-31",
+      "date_label": "Calendar year 2010 debt-growth statistics; fiscal year 2010 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2010 reports domestic nonfinancial debt grew 4.6 percent in calendar 2010. Household debt declined 1.8 percent, nonfinancial business debt rose 1.5 percent, and state and local government debt rose 4.4 percent. Federal government debt grew 20.2 percent. GAO-11-52 reports federal debt managed by the Bureau of the Public Debt totaled $13.551 trillion at September 30, 2010, compared with $11.898 trillion at September 30, 2009. The 2010 total comprised $9.023 trillion held by the public and $4.528 trillion in intragovernmental holdings. Gross federal debt managed by the bureau increased $1.653 trillion during fiscal 2010, including a $1.471 trillion increase in debt held by the public and a $182 billion increase in intragovernmental holdings.",
+      "translation": "ফেডারেল রিজার্ভের ২০১০ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপ অনুযায়ী, ২০১০ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.৬ শতাংশ বেড়েছিল। পারিবারিক ঋণ ১.৮ শতাংশ কমে, অ-আর্থিক ব্যবসায়িক ঋণ ১.৫ শতাংশ এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ৪.৪ শতাংশ বেড়েছিল। ফেডারেল সরকারের ঋণ ২০.২ শতাংশ বেড়েছিল। GAO-11-52 জানায়, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০১০ সালের ৩০ সেপ্টেম্বর ১৩.৫৫১ ট্রিলিয়ন ডলারে পৌঁছায়; ২০০৯ সালের একই দিনে তা ছিল ১১.৮৯৮ ট্রিলিয়ন ডলার। ২০১০ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল ৯.০২৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.৫২৮ ট্রিলিয়ন ডলার। ২০১০ অর্থবছরে মোট ঋণ ১.৬৫৩ ট্রিলিয়ন ডলার বেড়েছিল; এর মধ্যে জনগণের হাতে থাকা ঋণ ১.৪৭১ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ১৮২ বিলিয়ন ডলার বেড়েছিল।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2010, March 10, 2011; GAO-11-52, Financial Audit: Bureau of the Public Debt's Fiscal Years 2010 and 2009 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2010–2011",
+      "reference_number": "Federal Reserve Z.1, March 10, 2011; GAO-11-52",
+      "page": "Federal Reserve Z.1, Flow of Funds Summary Statistics — Fourth Quarter 2010; GAO-11-52, Overview on Federal Debt Managed by BPD, p. 11",
+      "section": "Growth of Domestic Nonfinancial Debt; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20110310/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve data report domestic nonfinancial debt grew 4.6 percent in calendar 2010, household debt declined 1.8 percent, nonfinancial business debt rose 1.5 percent, state and local government debt rose 4.4 percent, and federal debt grew 20.2 percent. GAO reports BPD-managed federal debt reached $13.551 trillion at September 30, 2010, including $9.023 trillion held by the public and $4.528 trillion intragovernmental.",
+      "context": "Federal Reserve growth rates are calendar-year end-of-period changes; GAO's debt balances are fiscal-year-end figures. GAO reports the $1.653 trillion fiscal-year increase comprised a $1.471 trillion rise in debt held by the public and a $182 billion rise in intragovernmental holdings. GAO states the increase in public-held debt was primarily due to federal spending exceeding federal revenues.",
+      "interpretation": "Federal debt continued to grow rapidly in 2010 while household debt contracted and nonfinancial business debt rose modestly. The audited fiscal-year total increased $1.653 trillion, mostly through debt held by the public. These figures document sectoral and federal-debt trends; they do not by themselves attribute the full increase to any single policy or program.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt aggregates multiple sectors and is not the same as federal debt.",
+        "Calendar-year growth rates and fiscal-year balances cover different periods.",
+        "The GAO audit explains the principal sources of debt growth but does not attribute the entire increase to one intervention.",
+        "BPD's audited schedule has defined coverage and may differ from other gross-debt measures."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2009",
+        "us-treasury-debt-management-2008",
+        "us-treasury-debt-management-2007"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 release and GAO-11-52 audit text checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 reports 2010 domestic nonfinancial debt growth of 4.6 percent, household debt decline of 1.8 percent, business debt growth of 1.5 percent, and federal debt growth of 20.2 percent. GAO-11-52 reports $13.551 trillion of BPD-managed debt at September 30, 2010, including $9.023 trillion held by the public and $4.528 trillion intragovernmental. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20110310/z1.pdf",
+        "https://www.federalreserve.gov/releases/z1/20110310/accessible/summary.htm",
+        "https://www.gao.gov/products/gao-11-52",
+        "https://www.gao.gov/assets/gao-11-52.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve statistics and GAO audited schedules support the figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official text and locator checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০১০ — ফেডারেল ঋণের উচ্চ প্রবৃদ্ধি অব্যাহত",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০১০ সালে দেশীয় অ-আর্থিক ঋণ ৪.৬ শতাংশ এবং ফেডারেল ঋণ ২০.২ শতাংশ বেড়েছিল; পারিবারিক ঋণ ১.৮ শতাংশ কমে, ব্যবসায়িক ঋণ ১.৫ শতাংশ বেড়েছিল। GAO জানায়, ২০১০ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ১৩.৫৫১ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ৯.০২৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.৫২৮ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১০-এর; GAO-র ঋণ-স্থিতি ২০১০ অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। GAO-র হিসাবে ১.৬৫৩ ট্রিলিয়ন ডলারের বৃদ্ধির মধ্যে জনগণের হাতে থাকা ঋণ ১.৪৭১ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ১৮২ বিলিয়ন ডলার বেড়েছিল।",
+      "bn_interpretation": "২০১০ সালেও ফেডারেল ঋণ দ্রুত বেড়েছিল, যখন পারিবারিক ঋণ কমছিল এবং অ-আর্থিক ব্যবসায়িক ঋণ সামান্য বাড়ছিল। অর্থবছরে নিরীক্ষিত মোট ঋণ ১.৬৫৩ ট্রিলিয়ন ডলার বেড়েছিল, যার বেশির ভাগই জনগণের হাতে থাকা ঋণ। এই পরিসংখ্যান কোনো একক নীতি বা কর্মসূচিকে সম্পূর্ণ বৃদ্ধির কারণ হিসেবে প্রমাণ করে না।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 প্রকাশনায় ২০১০ সালে দেশীয় অ-আর্থিক ঋণ ৪.৬ শতাংশ, পারিবারিক ঋণ −১.৮ শতাংশ, ব্যবসায়িক ঋণ ১.৫ শতাংশ এবং ফেডারেল ঋণ ২০.২ শতাংশ পরিবর্তনের তথ্য রয়েছে। GAO-11-52-এ ২০১০ সালের ৩০ সেপ্টেম্বর ঋণ ১৩.৫৫১ ট্রিলিয়ন ডলার বলা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-11-52 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 10, 2011, Flow of Funds Summary Statistics — Fourth Quarter 2010; GAO-11-52, Overview on Federal Debt Managed by BPD, p. 11.",
+        "evidence": "Federal Reserve reports 4.6 percent domestic nonfinancial debt growth and 20.2 percent federal debt growth in 2010. GAO reports $13.551 trillion BPD-managed debt at September 30, 2010 and a $1.653 trillion fiscal-year increase.",
+        "significance": "Documents continuing rapid federal debt growth while household debt remained in contraction.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20110310/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
