@@ -6865,6 +6865,76 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; do not add uninvested principal to the reported total; inspect original PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2016",
+      "title": "Federal Reserve Financial Accounts, 2016 — Federal Debt and Debt-Limit Aftermath",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2016-01-01",
+      "date_end": "2016-12-31",
+      "date_label": "Calendar-year 2016 growth; fiscal-year 2016 balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "Federal Reserve Z.1 (March 9, 2017) reports 2016 domestic nonfinancial debt growth of 4.7% and federal debt growth of 5.6%. GAO-17-104 audits the Fiscal Service debt schedules for FY2016 and FY2015. GAO accessible audit data reports gross Fiscal Service-managed debt of $19.560 trillion at September 30, 2016 and $18.138 trillion at September 30, 2015, a $1.422 trillion increase. GAO notes that Treasury restored uninvested principal and related interest to federal accounts after the debt-limit suspension law of November 2, 2015.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৭ সালের ৯ মার্চের Z.1 অনুযায়ী, ২০১৬ সালে দেশীয় অ-আর্থিক ঋণ ৪.৭ শতাংশ এবং ফেডারেল ঋণ ৫.৬ শতাংশ বেড়েছিল। GAO-17-104 ২০১৬ ও ২০১৫ অর্থবছরের Fiscal Service ঋণ-তফসিল নিরীক্ষা করে। GAO-র সহজপাঠ্য নিরীক্ষা-তথ্য অনুযায়ী, ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ২০১৬ সালের ৩০ সেপ্টেম্বর ১৯.৫৬০ ট্রিলিয়ন ডলার এবং ২০১৫ সালের একই দিনে ১৮.১৩৮ ট্রিলিয়ন ডলার ছিল; বৃদ্ধি ১.৪২২ ট্রিলিয়ন ডলার। ২০১৫ সালের ২ নভেম্বর ঋণসীমা স্থগিতের আইন পাস হওয়ার পর ট্রেজারি সরকারি হিসাবে অনিবেশিত মূলধন ও সংশ্লিষ্ট সুদ পুনঃস্থাপন করে বলে GAO জানায়।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Z.1, March 9, 2017; GAO-17-104, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2016 and 2015 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2016",
+      "reference_number": "Federal Reserve Z.1, March 9, 2017; GAO-17-104",
+      "page": "Z.1 introductory summary table; GAO-17-104 Highlights; GAO accessible audit data, Overview on Federal Debt",
+      "section": "Growth of Domestic Nonfinancial Debt; Total Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20170305/html/introductory_text.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Z.1 reports calendar-2016 domestic nonfinancial debt growth of 4.7% and federal debt growth of 5.6%. GAO accessible audit data reports gross Fiscal Service-managed debt of $19.560 trillion at September 30, 2016 versus $18.138 trillion at September 30, 2015.",
+      "context": "Federal Reserve growth rates are calendar-year measures; GAO balances are fiscal-year-end figures. The restoration of securities to federal accounts after the 2015 debt-limit episode is relevant context for the year-over-year change.",
+      "interpretation": "Federal debt continued to grow in 2016. The year-over-year change should be read alongside the restoration of securities to federal accounts after the debt-limit impasse, rather than treated as a single undifferentiated borrowing event.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "The cited GAO accessible audit data may differ from rounded values in other GAO summary graphics; retain source/data-vintage labels."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2015",
+        "us-treasury-debt-management-2014"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Official Z.1 summary table and GAO audit text checked; original PDF page images pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Z.1 reports calendar-2016 domestic nonfinancial debt growth 4.7% and federal growth 5.6%. GAO accessible audit data reports gross Fiscal Service-managed debt $19.560T at September 30, 2016 and $18.138T at September 30, 2015. Original PDF page-image verification pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20170305/html/introductory_text.htm",
+        "https://www.gao.gov/products/gao-17-104",
+        "https://www.gao.gov/assets/gao-17-104.pdf",
+        "https://www.gao.gov/assets/690/682911.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Federal Reserve official Z.1 summary/D.1 table and GAO audited debt schedule support annual growth, fiscal-year debt balance, and debt-limit accounting facts; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary and audit text checked, original PDF page images pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৬ — ফেডারেল ঋণ ও ঋণসীমা-পরবর্তী পরিস্থিতি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের Z.1 অনুযায়ী, ২০১৬ সালে দেশীয় অ-আর্থিক ঋণ ৪.৭ শতাংশ এবং ফেডারেল ঋণ ৫.৬ শতাংশ বেড়েছিল। GAO-র সহজপাঠ্য নিরীক্ষা-তথ্য ২০১৬ সালের ৩০ সেপ্টেম্বর ১৯.৫৬০ ট্রিলিয়ন ডলার এবং ২০১৫ সালের একই দিনে ১৮.১৩৮ ট্রিলিয়ন ডলার ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ দেখায়।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছরের; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ২০১৫ সালের ঋণসীমা-সংকটের পর সরকারি হিসাবে সিকিউরিটি পুনঃস্থাপনের বিষয়টি প্রাসঙ্গিক।",
+      "bn_interpretation": "২০১৬ সালেও ফেডারেল ঋণ বেড়েছিল। এই পরিবর্তন বোঝার সময় ঋণসীমা-সংকটের পর সরকারি হিসাবে সিকিউরিটি পুনঃস্থাপনের ঘটনাও বিবেচনা করা উচিত।",
+      "bn_notes": "মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "সরকারি Z.1 সারণি ও GAO নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 summary and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 9, 2017, introductory summary table; GAO-17-104 Highlights; GAO accessible audit data, Overview on Federal Debt.",
+        "evidence": "Z.1 reports 4.7% domestic nonfinancial debt growth and 5.6% federal debt growth in calendar 2016. GAO accessible audit data reports $19.560T gross managed debt at September 30, 2016.",
+        "significance": "Records sector debt growth and audited fiscal-year debt balances after the 2015 debt-limit episode.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20170305/html/introductory_text.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth separate from fiscal-year balances; original PDF page images pending."
+      }
     }
   ],
   "last_updated": "2026-10-11"
