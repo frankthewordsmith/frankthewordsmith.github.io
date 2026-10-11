@@ -1,0 +1,68 @@
+{
+  "site": "Frank the Wordsmith",
+  "version": 1,
+  "last_updated": "2026-10-11",
+  "sources": [
+    {
+      "source_id": "us-treasury-debt-management-2024",
+      "title": "U.S. Treasury Financial Report for FY 2024 and GAO Schedule of Federal Debt Audit",
+      "source_type": "U.S. Treasury financial report and GAO federal debt audit",
+      "date_start": "2023-10-01",
+      "date_end": "2024-09-30",
+      "date_label": "Fiscal year 2024; debt balance as of September 30, 2024",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Federal debt; debt held by the public; intragovernmental debt",
+      "original_text": "GAO-25-107138 reports that total federal debt managed by the Bureau of the Fiscal Service was $35.460 trillion on September 30, 2024. During FY 2024, total debt increased by $2.298 trillion: debt held by the public increased by $1.977 trillion and intragovernmental holdings increased by $321 billion. The report states that the FY 2024 budget deficit was $1.833 trillion and identifies borrowing to finance annual deficits as the primary reason for the increase in debt held by the public.",
+      "translation": "",
+      "translator": "",
+      "edition": "GAO-25-107138, Financial Audit: Bureau of the Fiscal Service’s FY 2024 and FY 2023 Schedules of Federal Debt; FY 2024 Financial Report of the U.S. Government",
+      "publisher": "U.S. Government Accountability Office; U.S. Department of the Treasury, Bureau of the Fiscal Service",
+      "publication_year": "2024",
+      "reference_number": "GAO-25-107138; FY 2024 Financial Report of the U.S. Government",
+      "page": "GAO accessible report, page 2; Treasury Financial Report, Management’s Discussion & Analysis, Government’s Financial Position and Condition",
+      "section": "Schedules of Federal Debt; Government’s Financial Position and Condition",
+      "source_identity": "Official GAO financial audit of Fiscal Service’s FY2024 and FY2023 Schedules of Federal Debt, cross-checked against Treasury’s FY2024 Financial Report.",
+      "historical_claim": "At September 30, 2024, total federal debt managed by Fiscal Service was $35.460 trillion. During FY2024, it rose $2.298 trillion, comprising a $1.977 trillion increase in debt held by the public and a $321 billion increase in intragovernmental holdings. GAO reports the FY2024 deficit as $1.833 trillion and identifies deficit-financing borrowing as the primary reason for the increase in debt held by the public.",
+      "context": "This is a fiscal-year measure, not a calendar-year debt-growth rate. Total federal debt includes debt held by the public and intragovernmental holdings; these categories must not be conflated. The increase in debt held by the public exceeded the reported deficit partly because of changes in the government’s cash balance, partly offset by federal direct-loan financing activity.",
+      "interpretation": "The audited schedule provides an institutional record of federal debt stocks and year-over-year changes, while Treasury’s financial report explains the distinction between publicly held debt and intragovernmental holdings.",
+      "notes": "Use GAO’s accessible report for the explicit numeric breakdown and Treasury’s FY2024 Financial Report as corroboration. Original PDF page-image inspection has not been completed in this pass; do not upgrade the evidence grade until that check is done.",
+      "what_passage_establishes": "The audited schedule reports the total federal debt managed by Fiscal Service and separates the FY2024 increase into debt held by the public and intragovernmental holdings. The accompanying explanation links the increase in publicly held debt primarily to borrowing for the annual budget deficit.",
+      "evidence_limits": "This evidence does not show that every dollar of new debt financed a particular expenditure, nor does it establish that the deficit was the only factor affecting debt balances. It is not a measure of all private or global debt.",
+      "citation_record": "U.S. Government Accountability Office, GAO-25-107138, Financial Audit: Bureau of the Fiscal Service’s FY 2024 and FY 2023 Schedules of Federal Debt (Nov. 7, 2024), accessible report, p. 2; U.S. Department of the Treasury, FY 2024 Financial Report of the U.S. Government, Management’s Discussion & Analysis.",
+      "scholarly_references": [
+        "Primary institutional sources; no separate secondary scholarly reference asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-debt-management-2023"
+      ],
+      "web_sources": [
+        "https://www.gao.gov/products/gao-25-107138",
+        "https://www.gao.gov/assets/880/874710.pdf",
+        "https://fiscal.treasury.gov/accounting/us-financial-report/2024",
+        "https://fiscal.treasury.gov/accounting/us-financial-report/2024/government-financial-position-and-condition"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official GAO audit and Treasury financial report identified; original PDF page-image verification pending.",
+      "verification_status": "Key figures and scope checked against official GAO accessible report and Treasury FY2024 Financial Report; original PDF page-image inspection pending.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official GAO audit text and Treasury report checked; original PDF page-image inspection pending.",
+        "locator": "GAO-25-107138, accessible report, p. 2, Schedules of Federal Debt; Treasury FY2024 Financial Report, Management’s Discussion & Analysis, Government’s Financial Position and Condition.",
+        "evidence": "GAO reports $35.460 trillion total federal debt at September 30, 2024; FY2024 total debt increased $2.298 trillion, comprising a $1.977 trillion increase in debt held by the public and $321 billion in intragovernmental holdings. The FY2024 deficit was $1.833 trillion.",
+        "significance": "Links audited federal debt balances to the fiscal-year deficit while preserving the distinction between publicly held debt and intragovernmental holdings.",
+        "source_url": "https://www.gao.gov/products/gao-25-107138",
+        "checked": "2026-10-11",
+        "verification_note": "Do not equate total federal debt with debt held by the public; do not equate the increase in publicly held debt exactly with the deficit. Original PDF page-image verification is pending."
+      },
+      "bn_title": "মার্কিন ট্রেজারির ২০২৪ অর্থবছরের আর্থিক প্রতিবেদন ও GAO-র ফেডারেল ঋণ নিরীক্ষা",
+      "bn_historical_claim": "GAO-25-107138 অনুযায়ী, ২০২৪ সালের ৩০ সেপ্টেম্বর ফেডারেল ফিসকাল সার্ভিসের ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ ছিল ৩৫.৪৬০ ট্রিলিয়ন ডলার। ২০২৪ অর্থবছরে মোট ঋণ ২.২৯৮ ট্রিলিয়ন ডলার বেড়েছিল: জনগণের হাতে থাকা ঋণ বেড়েছিল ১.৯৭৭ ট্রিলিয়ন ডলার এবং আন্তঃসরকারি ঋণধারণ বেড়েছিল ৩২১ বিলিয়ন ডলার। প্রতিবেদনে ২০২৪ অর্থবছরের ঘাটতি ১.৮৩৩ ট্রিলিয়ন ডলার বলা হয়েছে; জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ হিসেবে বার্ষিক ঘাটতি মেটাতে ঋণগ্রহণকে চিহ্নিত করা হয়েছে।",
+      "bn_context": "এটি অর্থবছরভিত্তিক হিসাব, ক্যালেন্ডার বছরের ঋণবৃদ্ধির হার নয়। মোট ফেডারেল ঋণে জনগণের হাতে থাকা ঋণ ও আন্তঃসরকারি ঋণধারণ উভয়ই অন্তর্ভুক্ত।",
+      "bn_interpretation": "নিরীক্ষিত সূচি ফেডারেল ঋণের পরিমাণ ও বার্ষিক পরিবর্তনের প্রাতিষ্ঠানিক প্রমাণ দেয়। ট্রেজারির আর্থিক প্রতিবেদন জনগণের হাতে থাকা ঋণ ও আন্তঃসরকারি ঋণধারণের পার্থক্য ব্যাখ্যা করে।",
+      "bn_notes": "সংখ্যাগত বিভাজনের জন্য GAO-র প্রবেশযোগ্য প্রতিবেদন এবং সমর্থনকারী উৎস হিসেবে ট্রেজারির ২০২৪ অর্থবছরের আর্থিক প্রতিবেদন ব্যবহার করুন। মূল PDF পৃষ্ঠার ছবি এখনও পরীক্ষা করা হয়নি।",
+      "bn_verification_status": "GAO-র সরকারি নিরীক্ষা প্রতিবেদন ও ট্রেজারির ২০২৪ অর্থবছরের আর্থিক প্রতিবেদন মিলিয়ে মূল তথ্য পরীক্ষা করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1"
+    }
+  ]
+}
