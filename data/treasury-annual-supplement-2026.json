@@ -174,6 +174,65 @@
       "bn_interpretation": "ঘোষণাটি বাস্তবে সম্পন্ন ত্রৈমাসিক ঋণগ্রহণের সরকারি অঙ্ক এবং আগের পূর্বাভাসের সঙ্গে তার পার্থক্য জানায়।",
       "bn_notes": "এই অঙ্ককে মোট ফেডারেল ঋণ বৃদ্ধি, FY2026 বাজেট ঘাটতি বা নিরীক্ষিত বার্ষিক ফলাফল হিসেবে ব্যবহার করবেন না।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-quarterly-refunding-august-2026",
+      "title": "Treasury’s August 2026 Quarterly Refunding: $125 Billion in Securities Offered",
+      "source_type": "U.S. Treasury quarterly refunding statement",
+      "date_start": "2026-08-05",
+      "date_end": "2026-10-31",
+      "date_label": "Statement issued August 5, 2026; refunding and planned issuance for August–October 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Quarterly refunding; privately held Treasury notes and bonds",
+      "original_text": "On August 5, 2026, the U.S. Treasury announced an offering of $125 billion in Treasury securities to refund approximately $96.3 billion in privately held Treasury notes and bonds maturing August 15, 2026. Treasury said the issuance would raise approximately $28.7 billion in new cash from private investors. The offering comprised a $58 billion 3-year note, a $42 billion 10-year note, and a $25 billion 30-year bond. Treasury stated that remaining financing needs for the quarter would be met through regular weekly bill auctions, cash-management bills, and monthly note, bond, TIPS, and 2-year floating-rate-note auctions.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith, August 5, 2026, press release SB0590",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "reference_number": "SB0590",
+      "section": "Opening paragraph; Nominal Coupon and FRN Financing",
+      "source_identity": "Official Treasury quarterly refunding statement specifying the August 2026 refunding amount, maturing privately held securities, estimated new cash, and selected security sizes.",
+      "historical_claim": "Treasury offered $125 billion in securities to refund approximately $96.3 billion of privately held notes and bonds maturing August 15, 2026, expecting to raise approximately $28.7 billion in new cash.",
+      "context": "A refunding replaces maturing securities; the announced total offering is not equivalent to new borrowing. Treasury's stated new-cash estimate is the more relevant figure for the net cash raised by this specific offering.",
+      "interpretation": "The statement distinguishes gross securities offered to refinance maturing obligations from the new cash Treasury expected to raise. It also documents the planned composition of the refunding and the broader set of instruments Treasury expected to use for quarter financing.",
+      "notes": "Do not treat the $125 billion gross offering as $125 billion of new financing. The statement includes planned auction sizes and an estimate of new cash; it is not a complete accounting of all Treasury borrowing or an audited fiscal-year result.",
+      "what_passage_establishes": "Treasury announced a $125 billion refunding offering, approximately $96.3 billion of maturing privately held notes and bonds, and approximately $28.7 billion of expected new cash from the offering.",
+      "evidence_limits": "This is a financing announcement and estimate, not a final settlement ledger or an audited annual debt statement. The gross offering includes refinancing of maturing securities. It does not establish total federal debt growth or the FY2026 deficit.",
+      "citation_record": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” press release SB0590, August 5, 2026.",
+      "scholarly_references": [
+        "Primary government announcement; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-marketable-borrowing-actual-2026-q1",
+        "us-treasury-marketable-borrowing-actual-2026-q2",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+        "us-treasury-debt-management-2025"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0590",
+        "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/most-recent-quarterly-refunding-documents/"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury financing statement identified; the new-cash amount is an estimate in the announcement, not an audited final result.",
+      "verification_status": "Offering total, maturing privately held securities, estimated new cash, and stated financing instruments checked against Treasury's August 5, 2026 statement.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official Treasury quarterly refunding statement checked.",
+        "locator": "Treasury press release SB0590, August 5, 2026, opening paragraph and Nominal Coupon and FRN Financing section.",
+        "evidence": "Treasury stated it was offering $125 billion to refund approximately $96.3 billion of privately held notes and bonds maturing August 15, 2026, raising approximately $28.7 billion in new cash.",
+        "significance": "Documents the distinction between gross refunding issuance and estimated net new cash in a concrete Treasury financing operation.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0590",
+        "checked": "2026-10-11",
+        "verification_note": "Gross offering amount must not be represented as the amount of new cash; the release estimates new cash at approximately $28.7 billion."
+      },
+      "bn_title": "ট্রেজারির আগস্ট ২০২৬ ত্রৈমাসিক ঋণ পুনঃঅর্থায়ন: ১২৫ বিলিয়ন ডলারের সিকিউরিটি",
+      "bn_historical_claim": "২০২৬ সালের ৫ আগস্ট ট্রেজারি ১২৫ বিলিয়ন ডলারের সিকিউরিটি ইস্যুর ঘোষণা দেয়, যার মাধ্যমে ১৫ আগস্ট মেয়াদপূর্তির প্রায় ৯৬.৩ বিলিয়ন ডলারের বেসরকারি ট্রেজারি নোট ও বন্ড পুনঃঅর্থায়ন করা হবে। ট্রেজারির হিসাব অনুযায়ী, এই ইস্যু থেকে নতুন নগদ আসার কথা ছিল প্রায় ২৮.৭ বিলিয়ন ডলার।",
+      "bn_context": "মেয়াদপূর্তির ঋণ পুনঃঅর্থায়ন এবং নতুন নগদ সংগ্রহ এক বিষয় নয়। মোট ১২৫ বিলিয়ন ডলারের ইস্যুকে নতুন ঋণ বা নতুন নগদ হিসেবে গণ্য করা যাবে না।",
+      "bn_interpretation": "এই ঘোষণা মোট ইস্যু, মেয়াদপূর্তির সিকিউরিটি পুনঃঅর্থায়ন এবং প্রত্যাশিত নতুন নগদের মধ্যে পার্থক্য দেখায়।",
+      "bn_notes": "এটি ট্রেজারির অর্থায়ন-ঘোষণা, নিরীক্ষিত বার্ষিক ঋণ-হিসাব নয়।",
+      "book": "book-1"
     }
   ]
 }
