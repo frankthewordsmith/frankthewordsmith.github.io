@@ -6906,9 +6906,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Official Z.1 summary table and GAO audit text checked; original PDF page images pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Z.1 reports calendar-2016 domestic nonfinancial debt growth 4.7% and federal growth 5.6%. GAO accessible audit data reports gross Fiscal Service-managed debt $19.560T at September 30, 2016 and $18.138T at September 30, 2015. Original PDF page-image verification pending.",
+      "verification_status": "GAO-17-104 highlights and original printed page 23 Schedule of Federal Debt image verified.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-17-104, printed p. 23 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $13,123,847 million at September 30, 2015 to $14,173,424 million at September 30, 2016; intragovernmental principal increased from $5,013,961 million to $5,386,997 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $18,138 billion to $19,560 billion, a $1,422 billion increase. Debt held by the public increased $1,049 billion against a $587 billion FY2016 deficit; GAO says the difference was primarily due to restoration of uninvested principal and interest from extraordinary debt-limit actions, increases in the government's cash balance, and federal direct student loans. Retain the debt-limit chronology and distinguish total debt from debt held by the public.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20170305/html/introductory_text.htm",
         "https://www.gao.gov/products/gao-17-104",
@@ -6918,8 +6918,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Federal Reserve official Z.1 summary/D.1 table and GAO audited debt schedule support annual growth, fiscal-year debt balance, and debt-limit accounting facts; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official summary and audit text checked, original PDF page images pending.",
+      "evidence_grade_basis_6_4": "GAO-17-104 audited schedule and explanatory text support FY2016 debt balances, annual movement, deficit, and debt-limit restoration chronology; original GAO schedule page image inspected.",
+      "publication_status": "Official GAO audited schedule and explanatory text checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৬ — ফেডারেল ঋণ ও ঋণসীমা-পরবর্তী পরিস্থিতি",
       "bn_historical_claim": "ফেডারেল রিজার্ভের Z.1 অনুযায়ী, ২০১৬ সালে দেশীয় অ-আর্থিক ঋণ ৪.৭ শতাংশ এবং ফেডারেল ঋণ ৫.৬ শতাংশ বেড়েছিল। GAO-র সহজপাঠ্য নিরীক্ষা-তথ্য ২০১৬ সালের ৩০ সেপ্টেম্বর ১৯.৫৬০ ট্রিলিয়ন ডলার এবং ২০১৫ সালের একই দিনে ১৮.১৩৮ ট্রিলিয়ন ডলার ব্যবস্থাপনাধীন মোট ফেডারেল ঋণ দেখায়।",
       "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছরের; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ২০১৫ সালের ঋণসীমা-সংকটের পর সরকারি হিসাবে সিকিউরিটি পুনঃস্থাপনের বিষয়টি প্রাসঙ্গিক।",
@@ -6928,13 +6928,13 @@
       "bn_verification_status": "সরকারি Z.1 সারণি ও GAO নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official Z.1 summary and GAO audit text checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 9, 2017, introductory summary table; GAO-17-104 Highlights; GAO accessible audit data, Overview on Federal Debt.",
-        "evidence": "Z.1 reports 4.7% domestic nonfinancial debt growth and 5.6% federal debt growth in calendar 2016. GAO accessible audit data reports $19.560T gross managed debt at September 30, 2016.",
+        "status": "GAO-17-104 highlights and original Schedule of Federal Debt page image verified.",
+        "locator": "GAO-17-104, highlights page i; printed page 23, Schedule of Federal Debt; printed pp. 4–6 for FY2016 debt movement, deficit, and restoration of uninvested principal.",
+        "evidence": "GAO's printed p. 23 schedule shows public-held principal at $13,123,847 million on September 30, 2015 and $14,173,424 million on September 30, 2016; intragovernmental principal at $5,013,961 million and $5,386,997 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $18,138 billion in 2015 and $19,560 billion in 2016, a $1,422 billion increase. GAO reports a $587 billion FY2016 deficit and a $1,049 billion increase in debt held by the public.",
         "significance": "Records sector debt growth and audited fiscal-year debt balances after the 2015 debt-limit episode.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20170305/html/introductory_text.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year growth separate from fiscal-year balances; original PDF page images pending."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 23 original PDF image inspected. GAO says the public-held debt increase exceeded the deficit primarily because of restoration of uninvested principal and interest after extraordinary debt-limit actions, increases in the government's cash balance, and federal direct student loans."
       }
     },
     {
