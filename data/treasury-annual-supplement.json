@@ -7223,6 +7223,77 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth separate from fiscal-year figures and distinguish total federal debt from debt held by the public; inspect original PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2021",
+      "title": "Federal Reserve Financial Accounts, 2021 — Pandemic-Era Borrowing and Debt-Limit Actions",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2021-01-01",
+      "date_end": "2021-12-31",
+      "date_label": "Calendar-year 2021 debt-growth statistics; fiscal-year 2021 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's December 9, 2022 Z.1 release reports calendar-2021 domestic nonfinancial debt growth of 6.3 percent, household debt growth of 7.4 percent, nonfinancial business debt growth of 5.0 percent, federal government debt growth of 7.1 percent, and state and local government debt growth of 2.2 percent. GAO-22-104592 reports federal debt managed by the Bureau of the Fiscal Service totaled $28.423 trillion at September 30, 2021, compared with $26.938 trillion at September 30, 2020. The 2021 total comprised $22.283 trillion held by the public and $6.140 trillion in intragovernmental holdings. GAO reports debt increased by $1.485 trillion in FY2021. The debt-limit suspension expired July 31, 2021; Treasury began extraordinary actions on August 2. At September 30, $217 billion in uninvested principal and $0.4 billion in related interest were not reported on the FY2021 Schedule of Federal Debt.",
+      "translation": "ফেডারেল রিজার্ভের ২০২২ সালের ৯ ডিসেম্বরের Z.1 প্রকাশনা অনুযায়ী, ২০২১ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৬.৩ শতাংশ, পারিবারিক ঋণ ৭.৪ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৫.০ শতাংশ বেড়েছিল; ফেডারেল সরকারের ঋণ ৭.১ শতাংশ এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ২.২ শতাংশ বেড়েছিল। GAO-22-104592 জানায়, Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০২১ সালের ৩০ সেপ্টেম্বর ২৮.৪২৩ ট্রিলিয়ন ডলারে পৌঁছায়; ২০২০ সালের একই দিনে তা ছিল ২৬.৯৩৮ ট্রিলিয়ন ডলার। ২০২১ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল ২২.২৮৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৬.১৪০ ট্রিলিয়ন ডলার। GAO জানায়, ২০২১ অর্থবছরে ঋণ ১.৪৮৫ ট্রিলিয়ন ডলার বেড়েছিল। ঋণসীমা স্থগিতের মেয়াদ ২০২১ সালের ৩১ জুলাই শেষ হয়; ২ আগস্ট থেকে ট্রেজারি বিশেষ ব্যবস্থা শুরু করে। ৩০ সেপ্টেম্বর ২১৭ বিলিয়ন ডলারের অনিবেশিত মূলধন এবং সংশ্লিষ্ট ০.৪ বিলিয়ন ডলারের সুদ ২০২১ অর্থবছরের ঋণ-তফসিলে অন্তর্ভুক্ত ছিল না।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, December 9, 2022; GAO-22-104592, Financial Audit: Bureau of the Fiscal Service's FY 2021 and FY 2020 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2021",
+      "reference_number": "Federal Reserve Z.1, December 9, 2022; GAO-22-104592",
+      "page": "Federal Reserve Z.1, December 9, 2022, Household Net Worth and Growth of Nonfinancial Debt summary table; GAO-22-104592, Highlights and Table 1",
+      "section": "Growth of Domestic Nonfinancial Debt; Federal Debt Managed by Fiscal Service; Debt-Limit Extraordinary Actions",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20221209/html/introductory_text.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve Z.1 reports calendar-2021 domestic nonfinancial debt growth of 6.3 percent and federal government debt growth of 7.1 percent. GAO-22-104592 reports Fiscal Service-managed federal debt of $28.423 trillion at September 30, 2021, including $22.283 trillion held by the public and $6.140 trillion intragovernmental. GAO reports $217 billion in uninvested principal and $0.4 billion related interest were not reported on the FY2021 debt schedule due to debt-limit-related extraordinary actions.",
+      "context": "Federal Reserve rates are calendar-year changes, while GAO balances are fiscal-year-end figures. GAO found the FY2021 and FY2020 schedules fairly presented in all material respects, while noting unresolved information-system control deficiencies representing a significant deficiency. The debt-limit suspension ended July 31, 2021; Treasury began extraordinary actions on August 2. The $217 billion principal and $0.4 billion interest were excluded from the September 30 schedule.",
+      "interpretation": "Federal debt managed by Fiscal Service increased by a net $1.485 trillion during FY2021. GAO says the main factor in the increase in debt held by the public was the $2.772 trillion federal deficit; the public-debt increase was smaller than the deficit primarily because the government's cash balance declined by about $1.6 trillion, with other financing factors also relevant. The debt-limit actions and uninvested principal are a separate operational and accounting detail.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "The $217 billion uninvested principal and $0.4 billion interest were not included in the published FY2021 Schedule of Federal Debt; do not add them to the reported total without explaining the accounting treatment.",
+        "Pandemic-related deficits were a major factor in borrowing, but this does not mean every dollar of debt growth can be attributed to a single program or cause."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2020",
+        "us-treasury-debt-management-2019",
+        "us-treasury-debt-management-2018"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve official Z.1 summary table and GAO-22-104592 accessible audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 summary reports calendar-2021 domestic nonfinancial debt growth of 6.3 percent, household 7.4 percent, business 5.0 percent, federal 7.1 percent, and state/local 2.2 percent. GAO-22-104592 reports $28.423 trillion of Fiscal Service-managed federal debt at September 30, 2021: $22.283 trillion held by the public and $6.140 trillion intragovernmental. GAO documents $217 billion in uninvested principal and $0.4 billion interest omitted from the schedule after debt-limit extraordinary actions. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20221209/html/introductory_text.htm",
+        "https://www.gao.gov/products/gao-22-104592",
+        "https://www.gao.gov/assets/720/717470.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Federal Reserve official summary table and GAO audited schedule text support annual growth and fiscal-year balance figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০২১ — মহামারী-পরবর্তী ঋণগ্রহণ ও ঋণসীমা-সংক্রান্ত ব্যবস্থা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২২ সালের ৯ ডিসেম্বরের Z.1 তথ্য অনুযায়ী, ২০২১ সালে দেশীয় অ-আর্থিক ঋণ ৬.৩ শতাংশ এবং ফেডারেল সরকারের ঋণ ৭.১ শতাংশ বেড়েছিল। GAO-22-104592 জানায়, ২০২১ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ঋণ ছিল ২৮.৪২৩ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ২২.২৮৩ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৬.১৪০ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০২১-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ঋণসীমা স্থগিতের মেয়াদ ৩১ জুলাই শেষ হয় এবং ২ আগস্ট থেকে ট্রেজারি বিশেষ ব্যবস্থা গ্রহণ করে। ২১৭ বিলিয়ন ডলারের অনিবেশিত মূলধন এবং সংশ্লিষ্ট ০.৪ বিলিয়ন ডলারের সুদ ৩০ সেপ্টেম্বরের ঋণ-তফসিলে অন্তর্ভুক্ত ছিল না।",
+      "bn_interpretation": "২০২১ অর্থবছরে Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ নিট ১.৪৮৫ ট্রিলিয়ন ডলার বেড়েছিল। GAO জানায়, জনগণের হাতে থাকা ঋণ বৃদ্ধির প্রধান কারণ ছিল ২.৭৭২ ট্রিলিয়ন ডলারের ফেডারেল ঘাটতি; সরকারি নগদ স্থিতি কমে যাওয়ায় ঋণের বৃদ্ধি ঘাটতির চেয়ে কম ছিল। ঋণসীমা-সংক্রান্ত বিশেষ ব্যবস্থা ও তফসিলের হিসাবপদ্ধতি আলাদা বিষয়।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 ২০২১ সালের ক্যালেন্ডার-বার্ষিক ঋণবৃদ্ধি দেখায়; GAO-22-104592 ২০২১ সালের ৩০ সেপ্টেম্বর ২৮.৪২৩ ট্রিলিয়ন ডলার ঋণ নথিবদ্ধ করে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-22-104592 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 summary table and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, December 9, 2022, Household Net Worth and Growth of Nonfinancial Debt summary table; GAO-22-104592, Highlights and Table 1, p. 2; debt-limit discussion pp. 5–6.",
+        "evidence": "Z.1 reports 6.3 percent domestic nonfinancial debt growth and 7.1 percent federal government debt growth in calendar 2021. GAO reports $28.423 trillion Fiscal Service-managed debt at September 30, 2021 and $217 billion uninvested principal plus $0.4 billion related interest excluded from the schedule.",
+        "significance": "Documents pandemic-era borrowing and the separate debt-limit operational disruption using the Federal Reserve sector growth table and GAO's audited fiscal-year schedule.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20221209/html/introductory_text.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; do not add the omitted principal and interest to the published schedule total without explanation; inspect original PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
