@@ -3060,9 +3060,9 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3222 in the FRASER full-text scan/extraction. Printed pp. 63–64 contain the fiscal-year deficit/public-debt reconciliation; p. 81 contains the debt composition and $2.7 billion total debt increase; pp. 83–86 describe maturity changes and advance refunding. The report's separate debt-management narrative on printed pp. 13–15 records $6 billion net new borrowing and more than $65 billion of offerings excluding $85 billion in weekly Treasury-bill rollovers. FRASER warns that its text layer is automatically extracted; printed page labels are therefore the controlling locators.",
+      "verification_status": "FRASER full-text OCR checked; Treasury Department Document No. 3222 identity confirmed. Original page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER's 1961 annual report identifies Treasury Department Document No. 3222, GPO 1962. OCR text locates the budget results at printed pp. 63–64, public-debt reconciliation around pp. 80–81, and maturity/advance-refunding discussion around pp. 83–86. The report says FY1961 had a $3.9 billion deficit and the public debt rose about $2.7 billion; the deficit was financed through new debt and a Treasury cash-balance drawdown. OCR can contain errors; original page images must be inspected before treating exact passages and detailed numerical claims as fully verified.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1961-5454/fulltext"
       ],
@@ -3070,19 +3070,19 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "United States Department of the Treasury, Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1961, Treasury Department Document No. 3222 (Washington: U.S. Government Printing Office, 1962), pp. 13–15, 63–64, 81, 83–86.",
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER full-text OCR checked; original scan page images pending.",
         "locator": "Printed pp. 13–15, 63–64, 81, 83–86",
         "evidence": "The report records the FY1961 $3.9 billion budget deficit, $2.6 billion public-debt increase, $1.3 billion Treasury cash-balance reduction, $289.0 billion public debt, and the broader 1961 debt-management requirement for $6 billion net new borrowing and more than $65 billion of new-money/refinancing offerings excluding $85 billion of weekly bill rollovers.",
         "significance": "Primary institutional evidence connecting fiscal deficit financing, cash management, refinancing, maturity management, Federal Reserve coordination, and international balance-of-payments considerations.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1961-5454/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Figures and claims are tied to the report's printed page labels. FRASER's OCR layer contains extraction errors, so numerical quotations should be checked against the original scan."
+        "checked": "2026-10-12",
+        "verification_note": "Treasury Department Document No. 3222 and GPO 1962 identity confirmed in FRASER. Printed-page locators are taken from the OCR/text layer; they do not establish that page images were inspected. Keep grade B until original scans and the debt table are reconciled."
       },
       "evidence_grade_6_4": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed-page locks covering fiscal operations, debt composition, borrowing/refinancing, maturity management, and Federal Reserve/international-finance coordination.",
+      "evidence_grade_basis_6_4": "Contemporary Treasury annual report identified by official FRASER record and Treasury Department Document No. 3222; printed-page OCR locates the fiscal-year deficit/debt reconciliation and debt-composition tables, but original page images have not yet been checked. Retain B pending scan reconciliation.",
       "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade": "B",
+      "publication_status": "Primary institutional evidence; report identity and OCR locators checked; original page-image verification pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬১ — মন্দা-পরবর্তী ঘাটতি, নতুন ঋণ, পুনঃঅর্থায়ন ও পেমেন্টস-ব্যালান্সভিত্তিক ঋণ-ব্যবস্থাপনা",
       "bn_historical_claim": "১৯৬১ অর্থবছরে ৩.৯ বিলিয়ন ডলারের বাজেট ঘাটতি ছিল। সরকারি ঋণ ২.৬ বিলিয়ন ডলার বেড়ে ২৮৯.০ বিলিয়ন ডলারে পৌঁছায়, কারণ ট্রেজারির নগদ ভারসাম্য ৮.০ বিলিয়ন থেকে ৬.৭ বিলিয়ন ডলারে নামানো হয়। একই সময়ে ট্রেজারি নতুন অর্থ সংগ্রহ ও পুনঃঅর্থায়নের জন্য বিলের সাপ্তাহিক রোলওভার বাদে ৬৫ বিলিয়নেরও বেশি ডলারের অফার করে এবং ১৯৬১ ক্যালেন্ডার বছরে ৬ বিলিয়ন ডলারের নিট নতুন ঋণগ্রহণের প্রয়োজনের কথা জানায়।",
       "bn_context": "প্রতিবেদনটি বাজেট ঘাটতি ও সরকারি ঋণের পরিবর্তনকে এক করে দেখে না; নগদ ভারসাম্য ও অন্যান্য লেনদেনের মাধ্যমে দুটির পার্থক্য ব্যাখ্যা করে। একই সঙ্গে ট্রেজারির ঋণ-ব্যবস্থাপনা ফেডারেল রিজার্ভের কার্যক্রম এবং আন্তর্জাতিক পেমেন্টস-ব্যালান্সের চাপের সঙ্গে সমন্বিত ছিল।",
