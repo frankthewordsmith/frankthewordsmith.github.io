@@ -349,6 +349,64 @@
       "bn_notes": "‘সর্বোচ্চ’ ও ‘পরিকল্পিত’ শব্দ বজায় রাখতে হবে; পূর্ণ অঙ্ক বাস্তবে কেনা হয়েছে—এমন দাবি করা যাবে না।",
       "bn_verification_status": "সরকারি ট্রেজারি বিবৃতির BUYBACKS অংশে উল্লিখিত উদ্দেশ্য, মেয়াদসীমা ও সর্বোচ্চ পরিকল্পিত অঙ্ক যাচাই করা হয়েছে।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-nominal-coupon-frn-auction-sizes-2026-aug-oct",
+      "title": "Treasury’s Planned Nominal Coupon and FRN Auction Sizes, August–October 2026",
+      "source_type": "U.S. Treasury quarterly refunding / auction-size statement",
+      "date_start": "2026-08-01",
+      "date_end": "2026-10-31",
+      "date_label": "Auction sizes stated August 5, 2026; anticipated sizes for August–October 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Nominal coupon and floating-rate note auction sizes",
+      "original_text": "In its August 5, 2026 quarterly refunding statement, Treasury presented anticipated nominal coupon and floating-rate note auction sizes for August–October 2026. For August, the listed sizes were $69 billion for 2-year notes, $58 billion for 3-year notes, $70 billion for 5-year notes, $44 billion for 7-year notes, $42 billion for 10-year notes, $16 billion for 20-year bonds, $25 billion for 30-year bonds, and $28 billion for floating-rate notes. For September, the corresponding listed sizes were $69 billion, $58 billion, $70 billion, $44 billion, $39 billion, $13 billion, $22 billion, and $28 billion. For October, they were $69 billion, $58 billion, $70 billion, $44 billion, $39 billion, $13 billion, $22 billion, and $30 billion.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” press release SB0590, August 5, 2026",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "reference_number": "SB0590",
+      "section": "Nominal Coupon and FRN Financing, table of actual May–July and anticipated August–October 2026 auction sizes",
+      "source_identity": "Official Treasury quarterly refunding statement with monthly nominal coupon and FRN auction-size figures, explicitly distinguishing actual May–July sizes from anticipated August–October sizes.",
+      "historical_claim": "Treasury published anticipated monthly auction sizes for nominal coupon securities and floating-rate notes for August–October 2026, including lower anticipated 10-year, 20-year, and 30-year sizes in September and October than in August, and a planned October FRN size of $30 billion.",
+      "context": "These are announced auction sizes for specified security types and months, not a total of all Treasury financing. Treasury said it could address seasonal or unexpected variations through regular bill auction sizes and/or cash-management bills.",
+      "interpretation": "The table provides a contemporaneous record of Treasury's planned issuance mix across nominal coupon maturities and FRNs for the quarter. It should be analyzed separately from the gross quarterly refunding offering, net marketable borrowing forecasts, bills, TIPS, and buyback operations.",
+      "notes": "The source labels August–October figures as anticipated. Do not treat these monthly auction sizes as actual settled issuance without checking auction results; do not sum them as a complete measure of federal borrowing.",
+      "what_passage_establishes": "The Nominal Coupon and FRN Financing table records Treasury's anticipated monthly auction sizes for 2-, 3-, 5-, 7-, 10-, 20-, and 30-year securities and FRNs for August, September, and October 2026.",
+      "evidence_limits": "The table is a forward-looking schedule for these instrument categories, not a full borrowing ledger, final settlement record, total federal debt measure, or FY2026 deficit calculation. Bill, TIPS, cash-management bill, and other financing activity is addressed separately.",
+      "citation_record": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” press release SB0590, August 5, 2026, “Nominal Coupon and FRN Financing” table.",
+      "scholarly_references": [
+        "Primary government announcement; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-quarterly-refunding-august-2026",
+        "us-treasury-quarterly-buyback-plan-august-october-2026",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0590"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury auction-size table identified; anticipated future sizes are distinguished from completed auctions.",
+      "verification_status": "Monthly figures and the table's distinction between actual May–July sizes and anticipated August–October sizes checked against Treasury's August 5 statement.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official Treasury quarterly refunding statement checked.",
+        "locator": "Treasury press release SB0590, August 5, 2026, section “NOMINAL COUPON AND FRN FINANCING,” table listing May–July actual and August–October anticipated auction sizes.",
+        "evidence": "The table lists anticipated August, September, and October auction sizes by nominal coupon maturity and floating-rate notes, with figures such as $42 billion/$39 billion/$39 billion for 10-year notes and $28 billion/$28 billion/$30 billion for FRNs.",
+        "significance": "Documents the planned composition and monthly sizing of a specific segment of Treasury marketable issuance, separate from gross refunding totals and net borrowing estimates.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0590",
+        "checked": "2026-10-11",
+        "verification_note": "Anticipated sizes are plans, not proof of completed auctions or final settled issuance. The table does not cover every financing instrument."
+      },
+      "bn_title": "২০২৬ সালের আগস্ট–অক্টোবরে ট্রেজারির পরিকল্পিত নোট ও ফ্লোটিং-রেট নোট নিলামের পরিমাণ",
+      "bn_historical_claim": "২০২৬ সালের ৫ আগস্টের ত্রৈমাসিক অর্থায়ন বিবৃতিতে ট্রেজারি আগস্ট–অক্টোবরের জন্য নামমাত্র কুপন সিকিউরিটি ও ফ্লোটিং-রেট নোটের পরিকল্পিত নিলাম-পরিমাণ প্রকাশ করে। ১০ বছরের নোটের পরিমাণ আগস্টে ৪২ বিলিয়ন ডলার, সেপ্টেম্বরে ৩৯ বিলিয়ন এবং অক্টোবরে ৩৯ বিলিয়ন ডলার; ফ্লোটিং-রেট নোটের পরিমাণ যথাক্রমে ২৮, ২৮ ও ৩০ বিলিয়ন ডলার।",
+      "bn_context": "এগুলো ঘোষিত পরিকল্পিত নিলাম-পরিমাণ, সম্পন্ন নিলামের চূড়ান্ত হিসাব নয়। টেবিলটি ট্রেজারির সব ধরনের অর্থায়ন বা মোট ফেডারেল ঋণকে অন্তর্ভুক্ত করে না।",
+      "bn_interpretation": "টেবিলটি নির্দিষ্ট মেয়াদের ট্রেজারি সিকিউরিটি ও ফ্লোটিং-রেট নোটের মাসভিত্তিক পরিকল্পিত ইস্যুর পরিমাণ নথিভুক্ত করে।",
+      "bn_notes": "পরিকল্পিত পরিমাণকে সম্পন্ন ইস্যু হিসেবে দেখাবেন না; সম্পন্ন নিলাম যাচাই করতে পৃথক নিলাম-ফলাফল দেখতে হবে।",
+      "bn_verification_status": "সরকারি বিবৃতির Nominal Coupon and FRN Financing টেবিলের মাসভিত্তিক অঙ্ক ও পরিকল্পিত/প্রকৃত পার্থক্য যাচাই করা হয়েছে।",
+      "book": "book-1"
     }
   ]
 }
