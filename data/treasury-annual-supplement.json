@@ -6722,6 +6722,77 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances and explain the omitted uninvested principal; inspect PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2014",
+      "title": "Federal Reserve Financial Accounts, Fourth Quarter 2014 — Federal Debt and Debt-Limit Management",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2014-01-01",
+      "date_end": "2014-12-31",
+      "date_label": "Calendar-year 2014 debt-growth statistics; fiscal-year 2014 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's March 12, 2015 Z.1 release reports calendar-2014 domestic nonfinancial debt growth of 4.4 percent, household debt growth of 3.1 percent, nonfinancial business debt growth of 6.2 percent, state and local government debt declining 0.5 percent, and federal debt growth of 5.4 percent. GAO-15-157 reports federal debt managed by the Bureau of the Fiscal Service totaled $17.810 trillion at September 30, 2014, compared with $16.732 trillion at September 30, 2013. The 2014 total comprised approximately $12.785 trillion held by the public and $5.025 trillion in intragovernmental holdings. GAO reports that delays in raising the debt limit occurred for 16 business days during FY2014; the debt limit was suspended from October 17, 2013 through February 7, 2014, and again from February 15, 2014 through March 15, 2015.",
+      "translation": "ফেডারেল রিজার্ভের ২০১৫ সালের ১২ মার্চের Z.1 প্রকাশনা অনুযায়ী, ২০১৪ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৪.৪ শতাংশ, পারিবারিক ঋণ ৩.১ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৬.২ শতাংশ বেড়েছিল; অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ০.৫ শতাংশ কমেছিল এবং ফেডারেল ঋণ ৫.৪ শতাংশ বেড়েছিল। GAO-15-157 জানায়, Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০১৪ সালের ৩০ সেপ্টেম্বর ১৭.৮১০ ট্রিলিয়ন ডলারে পৌঁছায়; ২০১৩ সালের একই দিনে তা ছিল ১৬.৭৩২ ট্রিলিয়ন ডলার। ২০১৪ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল প্রায় ১২.৭৮৫ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৫.০২৫ ট্রিলিয়ন ডলার। GAO জানায়, ২০১৪ অর্থবছরে ঋণসীমা বাড়াতে বিলম্ব মোট ১৬ কর্মদিবস স্থায়ী হয়েছিল; ২০১৩ সালের ১৭ অক্টোবর থেকে ২০১৪ সালের ৭ ফেব্রুয়ারি পর্যন্ত এবং আবার ২০১৪ সালের ১৫ ফেব্রুয়ারি থেকে ২০১৫ সালের ১৫ মার্চ পর্যন্ত ঋণসীমা স্থগিত ছিল।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Financial Accounts of the United States, Z.1, March 12, 2015; GAO-15-157, Financial Audit: Bureau of the Fiscal Service's Fiscal Years 2014 and 2013 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2014",
+      "reference_number": "Federal Reserve Z.1, March 12, 2015; GAO-15-157",
+      "page": "Federal Reserve Z.1, March 12, 2015, Household Net Worth and Growth of Domestic Nonfinancial Debt summary table; GAO-15-157, Highlights and Schedules of Federal Debt",
+      "section": "Growth of Domestic Nonfinancial Debt; Total Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/Releases/z1/20150312/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve's March 12, 2015 Z.1 reports calendar-2014 domestic nonfinancial debt growth of 4.4 percent and federal debt growth of 5.4 percent. GAO-15-157 reports Fiscal Service-managed federal debt of $17.810 trillion at September 30, 2014, including $12.785 trillion held by the public and $5.025 trillion intragovernmental.",
+      "context": "Federal Reserve rates are calendar-year end-of-period changes, while GAO's balances are fiscal-year-end figures. GAO found the FY2014 debt schedules fairly presented in all material respects and reports 16 business days of delay in raising the debt limit, plus suspension periods that crossed fiscal years. These dates should not be presented as all occurring within calendar 2014 or as the sole cause of the annual debt increase.",
+      "interpretation": "Federal debt continued to increase during 2014. GAO's audited schedule shows a $1.078 trillion increase in Fiscal Service-managed federal debt between September 30, 2013 and September 30, 2014. The debt-limit chronology documents constraints on Treasury's borrowing operations, but does not establish that the limit dispute caused the full increase in debt.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a multi-sector aggregate, not a synonym for federal debt.",
+        "Calendar-year growth rates and fiscal-year-end balances cover different periods.",
+        "The debt-limit suspension periods straddle calendar and fiscal years; do not imply all dates fall within FY2014.",
+        "Do not infer that the debt-limit dispute caused the entire annual debt increase."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2013",
+        "us-treasury-debt-management-2012",
+        "us-treasury-debt-management-2011"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve official Z.1 release and GAO-15-157 audit text checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 summary reports calendar-2014 domestic nonfinancial debt growth of 4.4 percent, household 3.1 percent, business 6.2 percent, state/local -0.5 percent, and federal 5.4 percent. GAO-15-157 reports $17.810 trillion of Fiscal Service-managed federal debt at September 30, 2014: $12.785 trillion held by the public and $5.025 trillion intragovernmental. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/Releases/z1/20150312/z1.pdf",
+        "https://www.gao.gov/products/gao-15-157",
+        "https://www.gao.gov/assets/gao-15-157.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve Z.1 summary and GAO audited debt schedule support the annual growth and fiscal-year balance figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৪ — ফেডারেল ঋণ ও ঋণসীমা ব্যবস্থাপনা",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের ২০১৫ সালের ১২ মার্চের Z.1 তথ্য অনুযায়ী, ২০১৪ সালে দেশীয় অ-আর্থিক ঋণ ৪.৪ শতাংশ এবং ফেডারেল ঋণ ৫.৪ শতাংশ বেড়েছিল। GAO-15-157 জানায়, ২০১৪ অর্থবছরের শেষে Bureau of the Fiscal Service-এর ব্যবস্থাপনাধীন ঋণ ছিল ১৭.৮১০ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ১২.৭৮৫ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৫.০২৫ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১৪-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। GAO জানায়, ২০১৪ অর্থবছরে ঋণসীমা বাড়াতে বিলম্ব মোট ১৬ কর্মদিবস স্থায়ী হয়েছিল এবং ঋণসীমা স্থগিতের সময়সীমা একাধিক অর্থবছর জুড়ে ছিল।",
+      "bn_interpretation": "২০১৪ সালেও ফেডারেল ঋণ বেড়েছিল। GAO-র নিরীক্ষিত তফসিলে ২০১৩ সালের ৩০ সেপ্টেম্বর থেকে ২০১৪ সালের ৩০ সেপ্টেম্বর পর্যন্ত ব্যবস্থাপনাধীন ফেডারেল ঋণ ১.০৭৮ ট্রিলিয়ন ডলার বৃদ্ধির তথ্য রয়েছে। ঋণসীমা-সংক্রান্ত ঘটনাপঞ্জি ট্রেজারির ঋণগ্রহণের সীমাবদ্ধতা দেখায়, তবে তা পুরো ঋণবৃদ্ধির কারণ প্রমাণ করে না।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 ২০১৪ সালের ক্যালেন্ডার-বার্ষিক ঋণবৃদ্ধি দেখায়; GAO-15-157 ২০১৪ সালের ৩০ সেপ্টেম্বর ১৭.৮১০ ট্রিলিয়ন ডলার ঋণ নথিবদ্ধ করে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-15-157 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official Z.1 summary table and GAO audit text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 12, 2015, Household Net Worth and Growth of Domestic Nonfinancial Debt summary table; GAO-15-157, Highlights and Schedules of Federal Debt.",
+        "evidence": "Z.1 reports 4.4 percent domestic nonfinancial debt growth and 5.4 percent federal debt growth in calendar 2014. GAO reports $17.810 trillion Fiscal Service-managed debt at September 30, 2014 and 16 business days of FY2014 debt-limit delay.",
+        "significance": "Documents calendar-year sector debt growth alongside audited fiscal-year federal debt balances and the chronology of debt-limit disruption.",
+        "source_url": "https://www.federalreserve.gov/Releases/z1/20150312/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect original PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
