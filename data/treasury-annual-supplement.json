@@ -6506,6 +6506,79 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2011",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2011 — Federal Debt Growth Slows but Remains Substantial",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2011-01-01",
+      "date_end": "2011-12-31",
+      "date_label": "Calendar year 2011 debt-growth statistics; fiscal year 2011 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2011 reports domestic nonfinancial debt grew 3.7 percent in calendar 2011; household debt declined 0.9 percent, nonfinancial business debt rose 4.2 percent, state and local government debt declined 1.9 percent, and federal government debt rose 11.4 percent. GAO-12-164 reports federal debt managed by the Bureau of the Public Debt totaled $14.781 trillion at September 30, 2011, compared with $13.551 trillion at September 30, 2010. The 2011 total comprised $10.127 trillion held by the public and $4.654 trillion in intragovernmental holdings. The total increased by $1.230 trillion during fiscal 2011.",
+      "translation": "ফেডারেল রিজার্ভের ২০১১ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপ অনুযায়ী, ২০১১ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৩.৭ শতাংশ বেড়েছিল; পারিবারিক ঋণ ০.৯ শতাংশ কমে, অ-আর্থিক ব্যবসায়িক ঋণ ৪.২ শতাংশ বেড়েছিল, অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ১.৯ শতাংশ কমেছিল এবং ফেডারেল সরকারের ঋণ ১১.৪ শতাংশ বেড়েছিল। GAO-12-164 জানায়, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০১১ সালের ৩০ সেপ্টেম্বর ১৪.৭৮১ ট্রিলিয়ন ডলারে পৌঁছায়; ২০১০ সালের একই দিনে তা ছিল ১৩.৫৫১ ট্রিলিয়ন ডলার। ২০১১ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল ১০.১২৭ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.৬৫৪ ট্রিলিয়ন ডলার। ২০১১ অর্থবছরে মোট ঋণ ১.২৩ ট্রিলিয়ন ডলার বেড়েছিল।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2011, March 8, 2012; GAO-12-164, Financial Audit: Bureau of the Public Debt's Fiscal Years 2011 and 2010 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2011–2012",
+      "reference_number": "Federal Reserve Z.1, March 8, 2012; GAO-12-164",
+      "page": "Federal Reserve Z.1, Flow of Funds Summary Statistics — Fourth Quarter 2011, PDF p. 2; GAO-12-164, Highlights and Figure 1",
+      "section": "Growth of Domestic Nonfinancial Debt; Total Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/Z1/20120308/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "The Federal Reserve's March 8, 2012 Z.1 reports 2011 domestic nonfinancial debt growth of 3.7 percent and federal debt growth of 11.4 percent. GAO-12-164 reports BPD-managed federal debt of $14.781 trillion at September 30, 2011, consisting of $10.127 trillion held by the public and $4.654 trillion intragovernmental.",
+      "context": "Federal Reserve growth rates are calendar-year end-of-period changes, while GAO's debt balances are fiscal-year-end figures. GAO reports debt managed by BPD rose from $13.551 trillion at September 30, 2010 to $14.781 trillion at September 30, 2011. GAO also describes the debt-limit management challenge during FY2011, including a debt issuance suspension period from May 16 through August 2, 2011, and subsequent statutory debt-limit increases under the Budget Control Act of 2011.",
+      "interpretation": "Federal debt growth slowed relative to 2009 and 2010 but remained substantial in 2011. GAO's audited figures show a $1.230 trillion increase in BPD-managed debt, with both public-held and intragovernmental components included. The record documents the measured debt increase and the debt-limit pressures; it does not attribute the entire increase to a single program.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt aggregates sectors and is not the same as federal debt.",
+        "Calendar-year growth rates and fiscal-year balances cover different periods.",
+        "The statutory debt-limit episode describes debt-management constraints, not the sole cause of debt growth.",
+        "BPD's audited schedule has defined coverage and may differ from other gross-debt measures."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2010",
+        "us-treasury-debt-management-2009",
+        "us-treasury-debt-management-2008"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 PDF text and GAO-12-164 official audit summary checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1, Fourth Quarter 2011 (released March 8, 2012), reports domestic nonfinancial debt growth of 3.7 percent and federal debt growth of 11.4 percent for 2011. GAO-12-164 reports BPD-managed federal debt at $14.781 trillion on September 30, 2011: $10.127 trillion held by the public and $4.654 trillion intragovernmental. GAO describes debt-limit management challenges and extraordinary actions during FY2011. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/Z1/20120308/z1.pdf",
+        "https://www.federalreserve.gov/releases/z1/20121206/accessible/summary.htm",
+        "https://www.gao.gov/products/gao-12-164",
+        "https://www.gao.gov/assets/gao-12-164.pdf",
+        "https://www.gao.gov/assets/gao-12-164-highlights.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve Z.1 statistics and GAO audited schedules support the reported measures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official PDF text and GAO audit summary checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০১১ — ফেডারেল ঋণবৃদ্ধির গতি কমলেও বৃদ্ধি উল্লেখযোগ্য",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০১১ সালে দেশীয় অ-আর্থিক ঋণ ৩.৭ শতাংশ এবং ফেডারেল ঋণ ১১.৪ শতাংশ বেড়েছিল। GAO-12-164 জানায়, ২০১১ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ১৪.৭৮১ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ১০.১২৭ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.৬৫৪ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১১-এর; GAO-র ঋণ-স্থিতি ২০১১ অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ২০১০ সালের ১৩.৫৫১ ট্রিলিয়ন ডলার থেকে ২০১১ সালে ঋণ ১৪.৭৮১ ট্রিলিয়ন ডলারে পৌঁছায়। GAO ২০১১ অর্থবছরে ঋণসীমার কাছাকাছি থাকার কারণে ট্রেজারির ঋণ ব্যবস্থাপনার চ্যালেঞ্জও বর্ণনা করেছে।",
+      "bn_interpretation": "২০০৯ ও ২০১০ সালের তুলনায় ২০১১ সালে ফেডারেল ঋণবৃদ্ধির হার কমলেও বৃদ্ধির পরিমাণ উল্লেখযোগ্য ছিল। GAO-র নিরীক্ষিত হিসাবে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ১.২৩ ট্রিলিয়ন ডলার বেড়েছিল। এই রেকর্ড ঋণবৃদ্ধি ও ঋণসীমা-সংক্রান্ত চাপ নথিবদ্ধ করে; সম্পূর্ণ বৃদ্ধিকে কোনো একক কর্মসূচির ফল বলে না।",
+      "bn_notes": "ফেডারেল রিজার্ভের ২০১১ সালের Z.1 প্রকাশনা দেশীয় অ-আর্থিক ঋণ ৩.৭ শতাংশ ও ফেডারেল ঋণ ১১.৪ শতাংশ বৃদ্ধির তথ্য দেয়। GAO-12-164-এ ২০১১ সালের ৩০ সেপ্টেম্বর ঋণ ১৪.৭৮১ ট্রিলিয়ন ডলার বলা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 PDF-এর পাঠ্য ও GAO-12-164 নিরীক্ষা-সারাংশ যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official PDF text and audit summary checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 8, 2012, Flow of Funds Summary Statistics, PDF p. 2; GAO-12-164, Highlights and Figure 1.",
+        "evidence": "Federal Reserve reports 3.7 percent domestic nonfinancial debt growth and 11.4 percent federal debt growth in 2011. GAO reports $14.781 trillion BPD-managed federal debt at September 30, 2011, including $10.127 trillion held by the public and $4.654 trillion intragovernmental.",
+        "significance": "Documents slowing but still substantial federal debt growth and the Treasury's debt-limit management challenge in FY2011.",
+        "source_url": "https://www.federalreserve.gov/releases/Z1/20120308/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
