@@ -6288,6 +6288,79 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2008",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2008 — Financial Crisis and a Sharp Rise in Federal Debt",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2008-01-01",
+      "date_end": "2008-12-31",
+      "date_label": "Calendar year 2008 debt-growth statistics; fiscal year 2008 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2008 reports domestic nonfinancial debt rose 5¾ percent over 2008, about 2¾ percentage points below the 2007 pace. Household debt increased only ½ percent, nonfinancial business debt rose 4¾ percent, and state and local government debt rose 2¼ percent. Federal government debt rose more than 24 percent in 2008. GAO-09-44 reports federal debt managed by the Bureau of the Public Debt totaled about $10.011 trillion at September 30, 2008, compared with $8.993 trillion at September 30, 2007. The 2008 total consisted of approximately $5.809 trillion held by the public and $4.202 trillion in intragovernmental holdings. The increase of $1.018 trillion was the largest annual dollar increase then recorded, including about $760 billion in public-held debt and $258 billion in intragovernmental holdings.",
+      "translation": "ফেডারেল রিজার্ভের ২০০৮ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপ অনুযায়ী, ২০০৮ সালে দেশীয় অ-আর্থিক ঋণ ৫.৭৫ শতাংশ বেড়েছিল—২০০৭ সালের তুলনায় প্রায় ২.৭৫ শতাংশ-পয়েন্ট কম। পারিবারিক ঋণ মাত্র ০.৫ শতাংশ, অ-আর্থিক ব্যবসায়িক ঋণ ৪.৭৫ শতাংশ এবং অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ২.২৫ শতাংশ বেড়েছিল। ফেডারেল সরকারের ঋণ ২০০৮ সালে ২৪ শতাংশেরও বেশি বেড়ে যায়। GAO-09-44 জানায়, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০০৮ সালের ৩০ সেপ্টেম্বর প্রায় ১০.০১১ ট্রিলিয়ন ডলারে পৌঁছায়; ২০০৭ সালের একই দিনে তা ছিল ৮.৯৯৩ ট্রিলিয়ন ডলার। ২০০৮ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল প্রায় ৫.৮০৯ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.২০২ ট্রিলিয়ন ডলার। ১.০১৮ ট্রিলিয়ন ডলারের এই বৃদ্ধি তখন পর্যন্ত রেকর্ড করা বৃহত্তম বার্ষিক ডলার-পরিমাণ বৃদ্ধি ছিল; এর মধ্যে জনগণের হাতে থাকা ঋণ বেড়েছিল প্রায় ৭৬০ বিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ২৫৮ বিলিয়ন ডলার।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2008, March 12, 2009; GAO-09-44, Financial Audit: Bureau of the Public Debt's Fiscal Years 2008 and 2007 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2008–2009",
+      "reference_number": "Federal Reserve Z.1, March 12, 2009; GAO-09-44",
+      "page": "Federal Reserve Z.1, Flow of Funds Summary Statistics — Fourth Quarter 2008; GAO-09-44, Highlights and Overview on Federal Debt Managed by BPD",
+      "section": "Growth of Domestic Nonfinancial Debt; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/Z1/20090312/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve reports domestic nonfinancial debt grew 5.8 percent and federal debt 24.2 percent during calendar 2008. GAO reports BPD-managed federal debt reached $10.011 trillion at September 30, 2008, with $5.809 trillion held by the public and $4.202 trillion intragovernmental.",
+      "context": "Federal Reserve growth rates are calendar-year end-of-period changes; GAO debt balances are fiscal-year-end figures. GAO attributes the $1.018 trillion increase in fiscal 2008 to a $760 billion rise in debt held by the public and a $258 billion rise in intragovernmental holdings. Treasury issued $300 billion in cash-management bills in September 2008 through the Supplementary Financing Program initiated at the Federal Reserve's request.",
+      "interpretation": "The financial crisis coincided with a sharp reversal in the pattern of borrowing: household debt growth nearly stopped while federal debt accelerated sharply. Fiscal-year federal debt managed by BPD rose by $1.018 trillion, including both public-held and intragovernmental components. The record captures the measured change and the audit's explanation; it does not by itself assign all federal borrowing to any single crisis program.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt aggregates sectors and is not the same as federal debt.",
+        "Calendar-year growth rates and fiscal-year balances cover different periods.",
+        "The $300 billion in Supplementary Financing Program bills was one component of public debt growth, not the full increase.",
+        "BPD's audited debt schedule has defined coverage and may differ from other gross-debt measures."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2007",
+        "us-treasury-debt-management-2006",
+        "us-treasury-debt-management-2005"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 release and GAO-09-44 audit text checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 reports 2008 domestic nonfinancial debt growth of 5.8 percent and federal debt growth of 24.2 percent. GAO-09-44 reports $10.011 trillion of BPD-managed debt at September 30, 2008, including $5.809 trillion held by the public and $4.202 trillion intragovernmental. GAO states total debt rose $1.018 trillion in FY2008, the largest annual dollar increase then recorded, including $300 billion in cash-management bills issued under the Supplementary Financing Program. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/Z1/20090312/z1.pdf",
+        "https://www.federalreserve.gov/releases/Z1/20090312/accessible/summary.htm",
+        "https://www.gao.gov/products/gao-09-44",
+        "https://www.gao.gov/assets/a283118.html",
+        "https://www.gao.gov/assets/gao-09-44.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve statistics and GAO audited schedules support the figures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official text and locator checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০০৮ — আর্থিক সংকট ও ফেডারেল ঋণের তীব্র বৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০০৮ সালে দেশীয় অ-আর্থিক ঋণ ৫.৮ শতাংশ এবং ফেডারেল ঋণ ২৪.২ শতাংশ বেড়েছিল। GAO জানায়, ২০০৮ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ১০.০১১ ট্রিলিয়ন ডলার; এর মধ্যে জনগণের হাতে ৫.৮০৯ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৪.২০২ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০০৮-এর; GAO-র ঋণ-স্থিতি ২০০৮ অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। GAO-র হিসাবে ১.০১৮ ট্রিলিয়ন ডলারের বৃদ্ধির মধ্যে জনগণের হাতে থাকা ঋণ ৭৬০ বিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ২৫৮ বিলিয়ন ডলার বেড়েছিল।",
+      "bn_interpretation": "আর্থিক সংকটের সময় পারিবারিক ঋণবৃদ্ধি প্রায় থেমে যায়, অথচ ফেডারেল ঋণ দ্রুত বাড়ে। ২০০৮ অর্থবছরে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ১.০১৮ ট্রিলিয়ন ডলার বেড়েছিল। এই রেকর্ড পরিমাপ করা পরিবর্তন ও নিরীক্ষায় উল্লেখিত ব্যাখ্যা নথিবদ্ধ করে; এটি একাই প্রমাণ করে না যে ফেডারেল ঋণবৃদ্ধির সবটাই কোনো একটি সংকট-প্রকল্পের জন্য হয়েছিল।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 প্রকাশনায় ২০০৮ সালের দেশীয় অ-আর্থিক ঋণ ৫.৮ শতাংশ ও ফেডারেল ঋণ ২৪.২ শতাংশ বৃদ্ধির তথ্য রয়েছে। GAO-09-44-এ ২০০৮ সালের ৩০ সেপ্টেম্বর ঋণ ১০.০১১ ট্রিলিয়ন ডলার বলা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-09-44 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 12, 2009, Flow of Funds Summary Statistics — Fourth Quarter 2008; GAO-09-44, Highlights and Overview on Federal Debt Managed by BPD.",
+        "evidence": "Domestic nonfinancial debt grew 5.8 percent and federal debt 24.2 percent in 2008; BPD-managed debt reached $10.011 trillion at September 30, 2008. GAO reports the FY2008 increase was $1.018 trillion.",
+        "significance": "Documents the sharp increase in federal debt during the financial crisis while household debt growth nearly stalled.",
+        "source_url": "https://www.federalreserve.gov/releases/Z1/20090312/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
