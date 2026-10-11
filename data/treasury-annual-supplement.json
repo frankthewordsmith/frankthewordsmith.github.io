@@ -7409,9 +7409,9 @@
       "related_books": [
         "book-1"
       ],
-      "verification_status": "Federal Reserve official Z.1 release and GAO-24-106340 audit highlights checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Federal Reserve Z.1 March 7, 2024 table reports 2023 annual sector debt growth: total domestic nonfinancial 5.16%, households 2.73%, business 2.18%, federal government 9.76%, state/local 0.66%. GAO-24-106340 reports $33.2 trillion total federal debt at September 30, 2023, $2.2 trillion annual increase, and $875.5 billion interest expense. Treasury used extraordinary actions starting January 19, 2023, until the June debt-limit suspension. Original PDF page-image verification remains pending.",
+      "verification_status": "Federal Reserve Z.1 official release checked; GAO-24-106340 highlights and printed page 26 Schedule of Federal Debt verified against the original PDF page image.",
+      "last_verified": "2026-10-12",
+      "notes": "Federal Reserve Z.1 March 7, 2024 table reports 2023 calendar-year sector debt growth: total domestic nonfinancial 5.16%, households 2.73%, business 2.18%, federal government 9.76%, state/local 0.66%. GAO-24-106340, printed p. 26, Schedule of Federal Debt: principal debt held by the public increased from $24,299,193 million to $26,330,142 million; intragovernmental principal increased from $6,624,872 million to $6,831,699 million. Total federal debt including accrued interest and net unamortized premiums/discounts was $33,162 billion at September 30, 2023, versus $30,924 billion at September 30, 2022, a $2,238 billion total increase. GAO reports $875.5 billion total interest on debt and $678 billion interest on debt held by the public. The public-held debt increase exceeded the $1,695 billion deficit primarily because of the reduction in student-loan subsidy cost; the subsidy-cost change itself did not increase federal debt. Treasury used extraordinary actions starting January 19, 2023, and resumed normal operations June 5 after the June 3 debt-limit suspension. Original GAO schedule page image inspected.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20240307/html/introductory_text.htm",
         "https://www.federalreserve.gov/releases/z1/20240307/html/recent_developments.htm",
@@ -7421,8 +7421,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Federal Reserve Z.1 official tables and GAO audit report support the sector growth, fiscal-year debt balance, interest expense, and debt-limit chronology; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "Federal Reserve Z.1 official tables and GAO-24-106340 audited schedule and explanatory text support sector growth, fiscal-year debt balance, interest expense, and debt-limit chronology; original GAO schedule page image inspected.",
+      "publication_status": "Federal Reserve official statistical release and GAO audited schedules checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০২৩ — ফেডারেল ঋণবৃদ্ধি, সুদ ব্যয় ও ঋণসীমা-সংক্রান্ত পদক্ষেপ",
       "bn_historical_claim": "ফেডারেল রিজার্ভের ২০২৪ সালের ৭ মার্চের Z.1 তথ্য অনুযায়ী, ২০২৩ সালে দেশীয় অ-আর্থিক ঋণ ৫.১৬ শতাংশ এবং ফেডারেল সরকারের ঋণ ৯.৭৬ শতাংশ বেড়েছিল। GAO-24-106340 জানায়, ২০২৩ সালের ৩০ সেপ্টেম্বর মোট ব্যবস্থাপনাধীন ফেডারেল ঋণ ছিল প্রায় ৩৩.২ ট্রিলিয়ন ডলার—২০২২ অর্থবছরের তুলনায় প্রায় ২.২ ট্রিলিয়ন ডলার বেশি। ঋণের সুদ ব্যয় ছিল ৮৭৫.৫ বিলিয়ন ডলার।",
       "bn_context": "ফেডারেল রিজার্ভের বৃদ্ধির হার ক্যালেন্ডার বছর ২০২৩-এর; GAO-র ঋণ ও সুদ ব্যয়ের হিসাব অর্থবছর ২০২৩-এর। ১৯ জানুয়ারি ট্রেজারি ঋণসীমায় পৌঁছানোর কথা জানিয়ে অসাধারণ ব্যবস্থা শুরু করে। ৩ জুন আইন পাস হয়ে ২০২৫ সালের ১ জানুয়ারি পর্যন্ত ঋণসীমা স্থগিত করে; ৫ জুন স্বাভাবিক ঋণ কার্যক্রম পুনরায় শুরু হয়।",
@@ -7431,13 +7431,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 প্রকাশনা ও GAO-24-106340 নিরীক্ষার সারাংশ যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Federal Reserve Z.1 release and GAO audit highlights checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 7, 2024, introductory text and Debt Growth by Sector table; GAO-24-106340, Fast Facts and Highlights.",
-        "evidence": "Z.1 reports 5.16 percent domestic nonfinancial debt growth and 9.76 percent federal government debt growth in calendar 2023. GAO reports approximately $33.2 trillion federal debt at September 30, 2023, $875.5 billion interest expense, and extraordinary actions from January 19 until the June debt-limit suspension.",
+        "status": "Federal Reserve Z.1 release and GAO-24-106340 highlights verified; original GAO Schedule of Federal Debt page image inspected.",
+        "locator": "Federal Reserve Z.1, March 7, 2024, introductory text and Debt Growth by Sector table; GAO-24-106340, highlights page i; printed page 26, Schedule of Federal Debt; printed pp. 4–7 for debt-limit chronology and deficit explanation.",
+        "evidence": "Z.1 reports 5.16% domestic nonfinancial debt growth and 9.76% federal government debt growth in calendar 2023. GAO's printed p. 26 schedule shows public-held principal at $24,299,193 million on September 30, 2022 and $26,330,142 million on September 30, 2023; intragovernmental principal at $6,624,872 million and $6,831,699 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $30,924 billion in 2022 and $33,162 billion in 2023, a $2,238 billion increase. GAO reports $875.5 billion total interest on debt and $678 billion interest on debt held by the public.",
         "significance": "Connects annual sector debt growth with audited fiscal-year federal debt and interest costs, while preserving the distinction between deficit financing and debt-limit management.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20240307/html/introductory_text.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances and distinguish public debt from total federal debt; inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 26 original PDF image inspected. The schedule separates principal, accrued interest, and net unamortized premiums/discounts; do not calculate total-debt movement from principal balances alone. GAO says the public-held debt increase exceeded the $1,695 billion deficit primarily because of the reduction in student-loan subsidy cost, and notes that subsidy-cost changes did not themselves increase federal debt. Keep calendar-year Z.1 growth rates distinct from fiscal-year balances."
       }
     }
   ],
