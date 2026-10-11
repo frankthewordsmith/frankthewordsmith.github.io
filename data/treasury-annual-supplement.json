@@ -6579,6 +6579,77 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2012",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2012 — Federal Debt Growth and Debt-Limit Constraints",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2012-01-01",
+      "date_end": "2012-12-31",
+      "date_label": "Calendar-year debt-growth statistics; fiscal-year-end debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "Federal Reserve Z.1 Fourth Quarter 2012 reports domestic nonfinancial debt grew 4.8 percent in calendar 2012; household debt grew 0.2 percent, nonfinancial business debt 5.7 percent, state and local government debt declined 0.2 percent, and federal debt grew 10.9 percent. GAO-13-114 reports BPD-managed federal debt totaled $16.059 trillion at September 30, 2012, up from $14.781 trillion at September 30, 2011. GAO says Treasury took extraordinary actions during delays in raising the statutory debt limit; the limit increased by $1.2 trillion effective after close of business January 27, 2012.",
+      "translation": "ফেডারেল রিজার্ভের ২০১২ সালের চতুর্থ প্রান্তিকের Z.1 অনুযায়ী, ২০১২ সালে দেশীয় অ-আর্থিক ঋণ ৪.৮ শতাংশ বেড়েছিল; পারিবারিক ঋণ ০.২ শতাংশ, ব্যবসায়িক ঋণ ৫.৭ শতাংশ বেড়েছিল, অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ০.২ শতাংশ কমেছিল এবং ফেডারেল ঋণ ১০.৯ শতাংশ বেড়েছিল। GAO-13-114 জানায়, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ফেডারেল ঋণ ২০১২ সালের ৩০ সেপ্টেম্বর ১৬.০৫৯ ট্রিলিয়ন ডলারে পৌঁছায়, যা ২০১১ সালের ১৪.৭৮১ ট্রিলিয়ন ডলারের চেয়ে বেশি। ঋণসীমা বাড়াতে বিলম্বের সময় ট্রেজারি অসাধারণ ব্যবস্থাপনা পদক্ষেপ নেয়; ২০১২ সালের ২৭ জানুয়ারি ব্যবসা শেষ হওয়ার পর সীমা ১.২ ট্রিলিয়ন ডলার বাড়ানো হয়।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি ও অর্থবছরের ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2012, March 7, 2013; GAO-13-114, Financial Audit: Bureau of the Public Debt's Fiscal Years 2012 and 2011 Schedules of Federal Debt",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2012–2013",
+      "reference_number": "Federal Reserve Z.1, March 7, 2013; GAO-13-114",
+      "page": "Federal Reserve Z.1 Fourth Quarter 2012 Summary Statistics, Growth of Domestic Nonfinancial Debt table; GAO-13-114 Highlights and Figure 1",
+      "section": "Growth of Domestic Nonfinancial Debt; Total Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20130307/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited federal-debt schedules",
+      "historical_claim": "Federal Reserve reports 4.8 percent domestic nonfinancial debt growth and 10.9 percent federal debt growth in calendar 2012. GAO reports BPD-managed federal debt of $16.059 trillion at September 30, 2012, compared with $14.781 trillion in 2011.",
+      "context": "Federal Reserve growth rates are calendar-year changes; GAO balances are fiscal-year-end figures. GAO says Treasury took extraordinary actions to avoid exceeding the statutory debt limit during delays in raising it. The debt-limit episode is relevant context, not a complete explanation of annual debt growth.",
+      "interpretation": "Federal debt continued to rise substantially in 2012. GAO's audited total increased $1.278 trillion between September 2011 and September 2012. The audit also records Treasury's extraordinary debt-management actions during a debt-limit impasse, but does not show that the impasse itself caused the whole increase.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is not the same as federal debt.",
+        "Calendar-year growth rates and fiscal-year balances cover different periods.",
+        "Debt-limit actions describe legal and operational constraints, not the sole causes of debt growth."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2011",
+        "us-treasury-debt-management-2010",
+        "us-treasury-debt-management-2009"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 official text and GAO-13-114 audit highlights checked; original PDF page images remain pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Z.1 reports 2012 domestic nonfinancial debt growth of 4.8 percent and federal debt growth of 10.9 percent. GAO-13-114 reports $16.059 trillion BPD-managed debt at September 30, 2012. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20130307/z1.pdf",
+        "https://www.federalreserve.gov/releases/Z1/20130307/accessible/default.htm",
+        "https://www.gao.gov/products/gao-13-114",
+        "https://www.gao.gov/assets/gao-13-114.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Federal Reserve Z.1 statistics and GAO audited schedules support the measures; original PDF page images remain to be inspected.",
+      "publication_status": "Primary institutional evidence; official text checked, original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০১২ — ফেডারেল ঋণ বৃদ্ধি ও ঋণসীমা-সংক্রান্ত চাপ",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০১২ সালে দেশীয় অ-আর্থিক ঋণ ৪.৮ শতাংশ এবং ফেডারেল ঋণ ১০.৯ শতাংশ বেড়েছিল। GAO-13-114 জানায়, ২০১২ অর্থবছরের শেষে Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ১৬.০৫৯ ট্রিলিয়ন ডলার, যা ২০১১ সালের ১৪.৭৮১ ট্রিলিয়ন ডলারের চেয়ে বেশি।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০১২-এর; GAO-র ঋণ-স্থিতি অর্থবছরের শেষে, ৩০ সেপ্টেম্বরের। ঋণসীমা বাড়াতে বিলম্বের সময় ট্রেজারি অসাধারণ ব্যবস্থাপনা পদক্ষেপ নিয়েছিল।",
+      "bn_interpretation": "২০১২ সালে ফেডারেল ঋণ উল্লেখযোগ্যভাবে বেড়েছিল। GAO-র নিরীক্ষিত মোট ঋণ ২০১১ সালের সেপ্টেম্বর থেকে ২০১২ সালের সেপ্টেম্বর পর্যন্ত ১.২৭৮ ট্রিলিয়ন ডলার বেড়েছিল। ঋণসীমা-সংক্রান্ত চাপ নথিবদ্ধ হলেও সেটিই ঋণবৃদ্ধির একমাত্র কারণ—এমন প্রমাণ নেই।",
+      "bn_notes": "ফেডারেল রিজার্ভের ২০১২ সালের Z.1 প্রকাশনায় দেশীয় অ-আর্থিক ঋণ ৪.৮ শতাংশ ও ফেডারেল ঋণ ১০.৯ শতাংশ বৃদ্ধির তথ্য রয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 পাঠ্য ও GAO-13-114 নিরীক্ষার হাইলাইট যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 7, 2013, Fourth Quarter 2012 Summary Statistics, Growth of Domestic Nonfinancial Debt table; GAO-13-114 Highlights and Figure 1.",
+        "evidence": "Z.1 reports 4.8 percent domestic nonfinancial debt growth and 10.9 percent federal debt growth in 2012. GAO reports $16.059 trillion BPD-managed debt at September 30, 2012.",
+        "significance": "Documents continued federal debt growth and Treasury's debt-limit management actions in FY2012.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20130307/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Separate calendar-year rates from fiscal-year balances; inspect PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
