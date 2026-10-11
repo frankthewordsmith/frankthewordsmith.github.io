@@ -6002,6 +6002,78 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year debt growth separate from fiscal-year budget and debt balances; inspect original PDF page images before upgrading the evidence grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2004",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2004 — Broad Debt Growth and Rising Federal Obligations",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2004-01-01",
+      "date_end": "2004-12-31",
+      "date_label": "Calendar year 2004 debt-growth statistics; fiscal year 2004 budget and debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2004 reports that domestic nonfinancial debt increased 8.6 percent during calendar 2004. Federal debt grew 9.0 percent, while nonfederal debt grew 8.5 percent; household debt grew 11.2 percent and nonfinancial business debt 5.5 percent. GAO's audit of the Bureau of the Public Debt reports that debt managed by the bureau reached $7.379 trillion at September 30, 2004, up from $6.783 trillion at September 30, 2003. The 2004 total consisted of $4.307 trillion held by the public and $3.072 trillion in intragovernmental holdings. The unified federal budget deficit for fiscal 2004 was approximately $412.7 billion.",
+      "translation": "ফেডারেল রিজার্ভের ২০০৪ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপ অনুযায়ী, ২০০৪ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৮.৬ শতাংশ বেড়েছিল। ফেডারেল ঋণ বেড়েছিল ৯.০ শতাংশ এবং অ-ফেডারেল ঋণ ৮.৫ শতাংশ; পরিবারগুলোর ঋণ ১১.২ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৫.৫ শতাংশ বেড়েছিল। Bureau of the Public Debt-এর নিরীক্ষা নিয়ে GAO জানায়, সংস্থাটির ব্যবস্থাপনাধীন ঋণ ২০০৪ সালের ৩০ সেপ্টেম্বর ৭.৩৭৯ ট্রিলিয়ন ডলারে পৌঁছায়, যা ২০০৩ সালের একই দিনে ছিল ৬.৭৮৩ ট্রিলিয়ন ডলার। ২০০৪ সালের মোটের মধ্যে জনগণের হাতে থাকা ঋণ ছিল ৪.৩০৭ ট্রিলিয়ন ডলার এবং আন্তঃসরকারি ঋণধারণ ৩.০৭২ ট্রিলিয়ন ডলার। ২০০৪ অর্থবছরের সমন্বিত ফেডারেল বাজেট ঘাটতি ছিল প্রায় ৪১২.৭ বিলিয়ন ডলার।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধির হার ও অর্থবছরের বাজেট/ঋণ-স্থিতি পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2004, June 9, 2005; GAO-05-116, Financial Audit: Bureau of the Public Debt's Fiscal Years 2004 and 2003 Schedules of Federal Debt; GAO-04-485SP, Federal Debt: Answers to Frequently Asked Questions: An Update",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2004–2005",
+      "reference_number": "Federal Reserve Z.1 release, June 9, 2005; GAO-05-116; GAO-04-485SP",
+      "page": "Federal Reserve Z.1, “Flow of Funds Summary Statistics — Fourth Quarter 2004”; GAO-05-116, Highlights and Overview on Federal Debt Managed by the Bureau of the Public Debt",
+      "section": "Growth of Domestic Nonfinancial Debt; Gross Federal Debt Outstanding; Debt Held by the Public",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20050609/accessible/summary.htm",
+      "primary_or_secondary": "Primary institutional statistical release and audit; GAO retrospective budget summary",
+      "historical_claim": "Federal Reserve data report domestic nonfinancial debt grew 8.6 percent in calendar 2004, with federal debt up 9.0 percent and nonfederal debt up 8.5 percent. GAO reports debt managed by the Bureau of the Public Debt rose to $7.379 trillion at September 30, 2004, consisting of $4.307 trillion held by the public and $3.072 trillion in intragovernmental holdings. The fiscal 2004 unified budget deficit was about $412.7 billion.",
+      "context": "Federal Reserve rates are calendar-year end-of-period growth rates. The debt balances and budget deficit refer to fiscal 2004, which ended September 30. GAO explicitly notes that Bureau of the Public Debt figures can differ from gross federal debt reported in the federal government's consolidated financial statements because some agency and Federal Financing Bank securities are outside the bureau's schedules.",
+      "interpretation": "The 2004 evidence shows broad domestic nonfinancial debt continuing to expand while federal debt and debt held by the public rose during the deficit period. Intragovernmental holdings also increased, reflecting securities held by federal accounts. The series should be read as a sectoral comparison, not as proof that all domestic debt growth was federal borrowing.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a broad aggregate and is not equivalent to Treasury debt.",
+        "Calendar-year credit growth and fiscal-year deficits/debt balances use different periods.",
+        "The GAO audit covers debt managed by the Bureau of the Public Debt; its figures should not be silently substituted for every federal gross-debt series.",
+        "The simultaneous rise in federal and nonfederal debt does not establish a single cause for all borrowing."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2003",
+        "us-treasury-debt-management-2002",
+        "us-treasury-debt-management-2001"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Federal Reserve Z.1 official summary and GAO-05-116 audit text checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "The Federal Reserve's June 9, 2005 summary reports 2004 growth of 8.6 percent in total domestic nonfinancial debt, 9.0 percent in federal debt, 8.5 percent in nonfederal debt, 11.2 percent in household debt, and 5.5 percent in nonfinancial business debt. GAO-05-116 reports $7.379 trillion of debt managed by the Bureau of the Public Debt at September 30, 2004, including $4.307 trillion held by the public and $3.072 trillion intragovernmental. The fiscal 2004 unified deficit was about $412.7 billion. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20050609/accessible/summary.htm",
+        "https://www.gao.gov/assets/a244693.html",
+        "https://www.gao.gov/assets/gao-05-116.pdf",
+        "https://www.gao.gov/products/gao-04-485sp"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Official Federal Reserve statistical tables and GAO's audited federal-debt schedules substantiate the main values; original PDF page images still require inspection.",
+      "publication_status": "primary institutional evidence; official text and locator checked, original-page image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০০৪ সালের চতুর্থ প্রান্তিক — সামগ্রিক ঋণবৃদ্ধি ও ফেডারেল দায় বৃদ্ধি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০০৪ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৮.৬ শতাংশ বেড়েছিল; ফেডারেল ঋণ ৯.০ শতাংশ এবং অ-ফেডারেল ঋণ ৮.৫ শতাংশ বৃদ্ধি পায়। GAO জানায়, Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ২০০৪ অর্থবছরের শেষে ৭.৩৭৯ ট্রিলিয়ন ডলারে পৌঁছায়—এর মধ্যে জনগণের হাতে থাকা ঋণ ৪.৩০৭ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৩.০৭২ ট্রিলিয়ন ডলার। ২০০৪ অর্থবছরের সমন্বিত বাজেট ঘাটতি ছিল প্রায় ৪১২.৭ বিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হারগুলো ক্যালেন্ডার বছরের শেষ-সময়ের ঋণবৃদ্ধি। ঋণের স্থিতি ও বাজেট ঘাটতি ২০০৪ অর্থবছরের, যা ৩০ সেপ্টেম্বর শেষ হয়। GAO সতর্ক করে যে Bureau of the Public Debt-এর পরিসংখ্যান সরকারি সমন্বিত আর্থিক বিবৃতিতে দেখানো স্থূল ফেডারেল ঋণের সঙ্গে কিছুটা আলাদা হতে পারে।",
+      "bn_interpretation": "২০০৪ সালের তথ্য দেখায় যে ঘাটতির সময়ে সামগ্রিক দেশীয় অ-আর্থিক ঋণ বাড়তে থাকে এবং ফেডারেল ঋণ ও জনগণের হাতে থাকা ঋণও বৃদ্ধি পায়। আন্তঃসরকারি ঋণধারণও বেড়েছিল। এটি বিভিন্ন খাতের তুলনামূলক চিত্র; সব দেশীয় ঋণবৃদ্ধিকে ফেডারেল ঋণগ্রহণ বলা যায় না।",
+      "bn_notes": "ফেডারেল রিজার্ভের ৯ জুন ২০০৫-এর সারসংক্ষেপে ২০০৪ সালের মোট দেশীয় অ-আর্থিক ঋণ ৮.৬ শতাংশ, ফেডারেল ঋণ ৯.০ শতাংশ, অ-ফেডারেল ঋণ ৮.৫ শতাংশ, পারিবারিক ঋণ ১১.২ শতাংশ এবং অ-আর্থিক ব্যবসায়িক ঋণ ৫.৫ শতাংশ বৃদ্ধির তথ্য রয়েছে। GAO-05-116-এ ২০০৪ সালের ৩০ সেপ্টেম্বর ঋণ ৭.৩৭৯ ট্রিলিয়ন ডলার বলা হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারসংক্ষেপ ও GAO-05-116 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1 release, June 9, 2005, “Flow of Funds Summary Statistics — Fourth Quarter 2004”; GAO-05-116, Highlights and Overview on Federal Debt Managed by the Bureau of the Public Debt; GAO-04-485SP, fiscal 2004 budget table.",
+        "evidence": "Federal Reserve reports 8.6 percent domestic nonfinancial debt growth, 9.0 percent federal debt growth, and 8.5 percent nonfederal debt growth in 2004. GAO reports $7.379 trillion of debt managed by the Bureau of the Public Debt at September 30, 2004, including $4.307 trillion held by the public and $3.072 trillion intragovernmental; fiscal 2004 deficit was about $412.7 billion.",
+        "significance": "Documents continued expansion of broad domestic debt and federal obligations during the deficit period, while distinguishing public-held debt from intragovernmental holdings.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20050609/accessible/summary.htm",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year debt-growth rates distinct from fiscal-year budget and debt balances; inspect original PDF page images before upgrading the evidence grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
