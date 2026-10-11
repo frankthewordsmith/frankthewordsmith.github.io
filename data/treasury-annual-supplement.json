@@ -6219,6 +6219,75 @@
         "checked": "2026-10-11",
         "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect original PDF page images before upgrading the evidence grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2007",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2007 — Broad Debt Growth Slows as Household Borrowing Cools",
+      "source_type": "Federal Reserve statistical release and GAO federal-debt audit",
+      "date_start": "2007-01-01",
+      "date_end": "2007-12-31",
+      "date_label": "Calendar year 2007 growth; fiscal year 2007 debt balances",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; federal debt; debt held by the public; intragovernmental holdings",
+      "original_text": "Federal Reserve Z.1 reports domestic nonfinancial debt grew 8 percent over 2007; household debt grew 6.75 percent, nonfinancial business debt 11.5 percent, state and local government debt 9.25 percent, and federal debt 5 percent. GAO-08-168 reports Bureau of the Public Debt-managed debt of $8.993 trillion on September 30, 2007: $5.049 trillion held by the public and $3.944 trillion intragovernmental.",
+      "translation": "ফেডারেল রিজার্ভের Z.1 অনুযায়ী, ২০০৭ সালে দেশীয় অ-আর্থিক ঋণ ৮ শতাংশ বেড়েছিল; পরিবারগুলোর ঋণ ৬.৭৫ শতাংশ, অ-আর্থিক ব্যবসায়িক ঋণ ১১.৫ শতাংশ, অঙ্গরাজ্য ও স্থানীয় সরকারের ঋণ ৯.২৫ শতাংশ এবং ফেডারেল ঋণ ৫ শতাংশ বেড়েছিল। GAO-08-168 অনুযায়ী, ২০০৭ সালের ৩০ সেপ্টেম্বর Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ৮.৯৯৩ ট্রিলিয়ন ডলার: জনগণের হাতে ৫.০৪৯ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৩.৯৪৪ ট্রিলিয়ন ডলার।",
+      "translator": "বাংলা অনুবাদ",
+      "edition": "Federal Reserve Z.1, Fourth Quarter 2007; GAO-08-168",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. Government Accountability Office",
+      "publication_year": "2007–2008",
+      "reference_number": "Z.1, March 6, 2008; GAO-08-168",
+      "page": "Z.1, Flow of Funds Summary Statistics; GAO-08-168, Highlights and Overview",
+      "section": "Growth of Domestic Nonfinancial Debt; Gross Federal Debt Outstanding",
+      "source_url": "https://www.federalreserve.gov/Releases/z1/20080306/z1.pdf",
+      "primary_or_secondary": "Primary institutional statistical release and audited debt schedules",
+      "historical_claim": "Calendar-year domestic nonfinancial debt grew 8 percent and federal debt 5 percent; fiscal-year-end debt managed by BPD reached $8.993 trillion.",
+      "context": "Federal Reserve rates are calendar-year changes; GAO balances are as of September 30, 2007. The audit's BPD schedule has defined coverage.",
+      "interpretation": "Overall debt growth slowed modestly as household borrowing cooled, while business borrowing remained strong. Federal debt balances still increased in fiscal 2007.",
+      "counter_interpretations": [
+        "Broad nonfinancial debt is not Treasury debt alone.",
+        "Calendar-year rates differ from fiscal-year balances.",
+        "Slower growth does not mean the debt balance fell."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2006",
+        "us-treasury-debt-management-2005"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "book-1"
+      ],
+      "verification_status": "Official text checked; original PDF page-image inspection pending.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 reports 2007 domestic nonfinancial debt growth of 8 percent and federal debt growth of 5 percent. GAO-08-168 reports $8.993 trillion BPD-managed debt at September 30, 2007. Original PDF page images remain to be inspected.",
+      "web_sources": [
+        "https://www.federalreserve.gov/Releases/z1/20080306/z1.pdf",
+        "https://www.gao.gov/products/gao-08-168",
+        "https://www.gao.gov/assets/gao-08-168.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve statistics and GAO audited schedules support the figures; original PDF images pending.",
+      "publication_status": "Official text and locator checked; original-page image verification pending.",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০০৭ — পারিবারিক ঋণগ্রহণ কমায় সামগ্রিক ঋণবৃদ্ধি মন্থর",
+      "bn_historical_claim": "২০০৭ সালে দেশীয় অ-আর্থিক ঋণ ৮ শতাংশ এবং ফেডারেল ঋণ ৫ শতাংশ বেড়েছিল। ২০০৭ সালের ৩০ সেপ্টেম্বর Bureau of the Public Debt-এর ব্যবস্থাপনাধীন ঋণ ছিল ৮.৯৯৩ ট্রিলিয়ন ডলার; এর মধ্যে জনগণের হাতে ৫.০৪৯ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৩.৯৪৪ ট্রিলিয়ন ডলার।",
+      "bn_context": "ফেডারেল রিজার্ভের হার ক্যালেন্ডার বছর ২০০৭-এর; GAO-র ঋণ-স্থিতি ৩০ সেপ্টেম্বর ২০০৭-এর। নিরীক্ষিত হিসাবের নির্দিষ্ট আওতা রয়েছে।",
+      "bn_interpretation": "পারিবারিক ঋণবৃদ্ধি কমায় সামগ্রিক ঋণবৃদ্ধি মন্থর হয়, যদিও ব্যবসায়িক ঋণগ্রহণ জোরালো ছিল। অর্থবছরে ফেডারেল ঋণের মোট পরিমাণ বেড়েছিল।",
+      "bn_notes": "ফেডারেল রিজার্ভের Z.1 প্রকাশনা এবং GAO-08-168 ব্যবহৃত হয়েছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "সরকারি প্রকাশনার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1, March 6, 2008, Flow of Funds Summary Statistics; GAO-08-168, Highlights and Overview.",
+        "evidence": "2007 domestic nonfinancial debt grew 8 percent and federal debt 5 percent; BPD-managed debt totaled $8.993 trillion on September 30, 2007.",
+        "significance": "Captures slower overall debt growth alongside continuing increases in public-held and intragovernmental federal debt.",
+        "source_url": "https://www.federalreserve.gov/Releases/z1/20080306/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances; inspect PDF page images before upgrading grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
