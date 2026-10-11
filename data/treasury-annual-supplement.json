@@ -5785,6 +5785,78 @@
         "checked": "2026-10-11",
         "verification_note": "Calendar-year credit aggregates and fiscal-year budget/debt measures are distinct; inspect original printed pages before upgrading the evidence grade."
       }
+    },
+    {
+      "source_id": "us-treasury-debt-management-2001",
+      "title": "Federal Reserve Flow of Funds, Fourth Quarter 2001 — Slower Nonfederal Borrowing and the End of Public-Debt Paydown",
+      "source_type": "Contemporary official central-bank statistical release and GAO federal-debt audit",
+      "date_start": "2001-01-01",
+      "date_end": "2001-12-31",
+      "date_label": "Calendar year 2001 for domestic nonfinancial debt; fiscal year 2001 for budget and federal-debt balances; published 2002",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Domestic nonfinancial debt; unified budget surplus; debt held by the public; intragovernmental debt holdings",
+      "original_text": "The Federal Reserve's Flow of Funds Summary Statistics for the fourth quarter of 2001 reports that domestic nonfinancial debt increased 6 percent over calendar 2001, about one percentage point faster than in 2000. The pickup was attributed to federal debt, which had declined sharply in 2000 but leveled out in 2001; nonfederal debt growth slowed to 7½ percent, its lowest rate since 1997. Separately, the federal government's fiscal 2001 unified budget remained in surplus by $127.0 billion, and the Treasury paid down $90.1 billion of debt held by the public. GAO's audit found that total gross federal debt nevertheless increased by about $133 billion during fiscal 2001, because intragovernmental debt holdings rose by about $233 billion while debt held by the public fell by about $100 billion.",
+      "translation": "ফেডারেল রিজার্ভের ২০০১ সালের চতুর্থ প্রান্তিকের Flow of Funds সারসংক্ষেপে বলা হয়েছে, ২০০১ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক খাতের ঋণ ৬ শতাংশ বেড়েছিল—২০০০ সালের তুলনায় প্রায় এক শতাংশ-পয়েন্ট বেশি। এই বৃদ্ধি মূলত ফেডারেল ঋণের গতিপথের কারণে: ২০০০ সালে তা উল্লেখযোগ্যভাবে কমেছিল, কিন্তু ২০০১ সালে মোটামুটি স্থিতিশীল ছিল। অ-ফেডারেল ঋণবৃদ্ধি ৭.৫ শতাংশে নেমে আসে, যা ১৯৯৭ সালের পর সর্বনিম্ন। পৃথকভাবে, ২০০১ অর্থবছরে ফেডারেল সরকারের সমন্বিত বাজেট ১২৭.০ বিলিয়ন ডলার উদ্বৃত্তে ছিল এবং ট্রেজারি জনগণের হাতে থাকা ঋণ ৯০.১ বিলিয়ন ডলার পরিশোধ করে। তবু GAO-র নিরীক্ষায় দেখা যায়, ২০০১ অর্থবছরে মোট স্থূল ফেডারেল ঋণ প্রায় ১৩৩ বিলিয়ন ডলার বেড়েছিল, কারণ আন্তঃসরকারি ঋণধারণ প্রায় ২৩৩ বিলিয়ন ডলার বাড়ে, যখন জনগণের হাতে থাকা ঋণ প্রায় ১০০ বিলিয়ন ডলার কমে।",
+      "translator": "বাংলা অনুবাদ — ক্যালেন্ডার বছরের ঋণবৃদ্ধি, অর্থবছরের উদ্বৃত্ত, জনসাধারণের হাতে থাকা ঋণ ও আন্তঃসরকারি ঋণধারণ পৃথক রাখা হয়েছে",
+      "edition": "Federal Reserve Flow of Funds Summary Statistics, Fourth Quarter 2001, March 7, 2002; GAO-02-354, Financial Audit: Bureau of the Public Debt's Fiscal Years 2001 and 2000 Schedules of Federal Debt; Fiscal Year 2001 federal financial report",
+      "publisher": "Board of Governors of the Federal Reserve System; U.S. General Accounting Office",
+      "publication_year": "2002",
+      "reference_number": "Federal Reserve Z.1 release, March 7, 2002; GAO-02-354",
+      "page": "Federal Reserve Z.1, “Flow of Funds Summary Statistics — Fourth Quarter 2001,” annual debt summary; GAO-02-354, overview on federal debt managed by the Bureau of the Public Debt",
+      "section": "Flow of Funds Summary Statistics; Gross Federal Debt Outstanding; Debt Held by the Public",
+      "source_url": "https://www.federalreserve.gov/releases/z1/20020307/z1.pdf",
+      "primary_or_secondary": "Primary institutional sources",
+      "historical_claim": "Federal Reserve data report 6 percent growth in domestic nonfinancial debt and 7½ percent growth in nonfederal debt in calendar 2001. GAO and federal budget reporting record a $127.0 billion fiscal 2001 unified surplus and a roughly $100 billion reduction in debt held by the public, while gross federal debt rose about $133 billion because intragovernmental holdings increased.",
+      "context": "The 6 percent and 7½ percent rates are calendar-year debt-growth figures. The $127.0 billion surplus and debt balances are fiscal-year figures. Debt held by the public fell from about $3.439 trillion at September 30, 2000, to $3.339 trillion at September 30, 2001; intragovernmental holdings rose from about $2.220 trillion to $2.453 trillion, so gross federal debt rose from about $5.659 trillion to $5.792 trillion.",
+      "interpretation": "The 2001 record captures a key accounting distinction during the final surplus year: the unified budget was still in surplus and debt held by the public declined, but total gross federal debt increased because intragovernmental holdings grew faster than public-held debt declined. Meanwhile, broad domestic nonfinancial debt growth rose as federal debt stopped contracting, while nonfederal borrowing slowed.",
+      "counter_interpretations": [
+        "Domestic nonfinancial debt is a broad aggregate and not a measure of Treasury issuance alone.",
+        "A reduction in debt held by the public does not mean gross federal debt necessarily declined; intragovernmental holdings must be counted separately.",
+        "The fiscal 2001 surplus and calendar 2001 credit-growth rates use different reporting periods and should not be merged into one annual measure.",
+        "These observations document simultaneous trends but do not alone prove a single causal explanation for them."
+      ],
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-debt-management-2000",
+        "us-treasury-debt-management-1999",
+        "us-treasury-debt-management-1998"
+      ],
+      "related_articles": [],
+      "related_books": [
+        "Why Only Usury Invokes Allah's War?"
+      ],
+      "verification_status": "Federal Reserve Z.1 text and GAO-02-354 official audit text checked; original PDF page images remain to be inspected.",
+      "last_verified": "2026-10-11",
+      "notes": "Federal Reserve Z.1 release dated March 7, 2002 reports 6 percent growth in domestic nonfinancial debt and 7½ percent nonfederal debt growth in 2001. GAO-02-354 reports debt held by the public fell about $100 billion while gross federal debt rose about $133 billion due to a roughly $233 billion rise in intragovernmental holdings. Fiscal 2001 budget surplus was $127.0 billion and debt held by the public was paid down $90.1 billion in federal financial-report summaries. Original PDF page-image verification remains pending.",
+      "web_sources": [
+        "https://www.federalreserve.gov/releases/z1/20020307/z1.pdf",
+        "https://www.gao.gov/products/gao-02-354",
+        "https://www.gao.gov/assets/a233702.html",
+        "https://www.gao.gov/assets/2021-03/01frusg.pdf"
+      ],
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Federal Reserve statistical release and GAO debt audit provide explicit annual figures and distinguish public-held from intragovernmental debt; original PDF page images still need inspection.",
+      "publication_status": "primary institutional evidence; text and locator checked, original-page image verification pending",
+      "bn_title": "ফেডারেল রিজার্ভ Flow of Funds, ২০০১ সালের চতুর্থ প্রান্তিক — অ-ফেডারেল ঋণবৃদ্ধি মন্থর ও জনসাধারণের ঋণ পরিশোধের সমাপ্তি",
+      "bn_historical_claim": "ফেডারেল রিজার্ভের তথ্য অনুযায়ী, ২০০১ ক্যালেন্ডার বছরে দেশীয় অ-আর্থিক ঋণ ৬ শতাংশ এবং অ-ফেডারেল ঋণ ৭.৫ শতাংশ বেড়েছিল। GAO ও সরকারি বাজেট প্রতিবেদনে ২০০১ অর্থবছরের ১২৭ বিলিয়ন ডলারের উদ্বৃত্ত এবং জনগণের হাতে থাকা ঋণ প্রায় ১০০ বিলিয়ন ডলার কমার কথা রয়েছে; আন্তঃসরকারি ঋণধারণ বাড়ায় মোট স্থূল ফেডারেল ঋণ প্রায় ১৩৩ বিলিয়ন ডলার বেড়েছিল।",
+      "bn_context": "৬ শতাংশ ও ৭.৫ শতাংশ হলো ক্যালেন্ডার বছরের ঋণবৃদ্ধির হার। ১২৭ বিলিয়ন ডলারের উদ্বৃত্ত এবং ঋণ-স্থিতি অর্থবছরভিত্তিক। জনগণের হাতে থাকা ঋণ কমলেও আন্তঃসরকারি ঋণধারণ বেশি বাড়ায় মোট স্থূল ফেডারেল ঋণ বেড়েছিল।",
+      "bn_interpretation": "২০০১ সালের নথি উদ্বৃত্তের শেষ বছরে একটি গুরুত্বপূর্ণ হিসাবগত পার্থক্য দেখায়: বাজেট উদ্বৃত্ত ছিল এবং জনগণের হাতে থাকা ঋণ কমেছিল, কিন্তু আন্তঃসরকারি ঋণধারণ বৃদ্ধির কারণে মোট স্থূল ফেডারেল ঋণ বেড়েছিল। একই সময়ে সামগ্রিক দেশীয় অ-আর্থিক ঋণবৃদ্ধি বেড়েছিল, আর অ-ফেডারেল ঋণবৃদ্ধি মন্থর হয়েছিল।",
+      "bn_notes": "২০০২ সালের ৭ মার্চের Federal Reserve Z.1 প্রকাশনায় ২০০১ সালের দেশীয় অ-আর্থিক ঋণ ৬ শতাংশ এবং অ-ফেডারেল ঋণ ৭.৫ শতাংশ বৃদ্ধির কথা আছে। GAO-02-354-এ জনগণের হাতে থাকা ঋণ প্রায় ১০০ বিলিয়ন ডলার কমা, আন্তঃসরকারি ঋণধারণ প্রায় ২৩৩ বিলিয়ন ডলার বাড়া এবং মোট স্থূল ঋণ প্রায় ১৩৩ বিলিয়ন ডলার বাড়ার তথ্য আছে। মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "bn_verification_status": "ফেডারেল রিজার্ভের Z.1 পাঠ্য ও GAO-02-354 নিরীক্ষা যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি।",
+      "book": "book-1",
+      "passage_record": {
+        "status": "Official text checked; original PDF page images pending.",
+        "locator": "Federal Reserve Z.1 release, March 7, 2002, “Flow of Funds Summary Statistics — Fourth Quarter 2001”; GAO-02-354, “Gross Federal Debt Outstanding” and “Debt Held by the Public.”",
+        "evidence": "Federal Reserve reports 6 percent domestic nonfinancial debt growth and 7½ percent nonfederal growth in 2001. GAO reports public-held debt fell about $100 billion while gross federal debt rose about $133 billion as intragovernmental holdings rose about $233 billion.",
+        "significance": "Shows why public-held debt paydown and total gross federal debt growth can occur simultaneously, during a year with a unified budget surplus.",
+        "source_url": "https://www.federalreserve.gov/releases/z1/20020307/z1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Calendar-year credit aggregates and fiscal-year budget/debt balances are distinct; inspect original PDF page images before upgrading the evidence grade."
+      }
     }
   ],
   "last_updated": "2026-10-11"
