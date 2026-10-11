@@ -37,9 +37,9 @@
         "us-treasury-debt-management-2014",
         "us-treasury-debt-management-2013"
       ],
-      "verification_status": "Federal Reserve official Z.1 summary and D.1 tables and GAO-16-160 audit text checked; original PDF page images remain pending.",
-      "last_verified": "2026-10-11",
-      "notes": "Z.1 Table D.1 annual 2015 figures: domestic nonfinancial debt 4.5%; household 2.8%; total business 7.0%; state/local 1.8%; federal 5.0%. GAO-16-160 reports $18.138 trillion Fiscal Service-managed federal debt at September 30, 2015 ($13.124 trillion public-held; $5.014 trillion intragovernmental). $350 billion uninvested principal and $2 billion related interest were not reported on the FY2015 schedule and principal was restored after the November 2, 2015 law. Original PDF page-image verification remains pending.",
+      "verification_status": "GAO-16-160 highlights and original printed page 25 Schedule of Federal Debt image verified.",
+      "last_verified": "2026-10-12",
+      "notes": "GAO-16-160, printed p. 25 Schedule of Federal Debt, original page image inspected. Principal debt held by the public increased from $12,784,971 million at September 30, 2014 to $13,123,847 million at September 30, 2015; intragovernmental principal decreased from $5,024,994 million to $5,013,961 million. Total federal debt including accrued interest and net unamortized premiums/discounts rose from $17,810 billion to $18,138 billion, a net $328 billion increase. Debt held by the public increased $339 billion against a $439 billion FY2015 deficit. GAO explains that the smaller increase was due to extraordinary-action uninvested principal offset by increases in the government's cash balance and federal direct student loans. As of September 30, 2015, $350 billion in uninvested principal and $2 billion related interest were not reported on the schedule because Treasury had not issued securities to affected federal accounts; Treasury restored principal after the November 2, 2015 debt-limit suspension. Keep schedule-reported debt distinct from off-schedule uninvested principal.",
       "web_sources": [
         "https://www.federalreserve.gov/releases/z1/20160310/accessible/summary.htm",
         "https://www.federalreserve.gov/releases/z1/20160310/accessible/d1.htm",
@@ -49,8 +49,8 @@
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Official Federal Reserve Z.1 summary and GAO audit text support annual sector growth and Treasury debt-management events; original PDF page images remain to be inspected.",
-      "publication_status": "Primary institutional evidence; official summary table and audit text checked, original-page image verification pending.",
+      "evidence_grade_basis_6_4": "GAO-16-160 audited schedule and explanatory text support FY2015 balances, net annual movement, deficit, and off-schedule uninvested principal during extraordinary debt-limit actions; original schedule page image inspected.",
+      "publication_status": "Official GAO audited schedule and explanatory text checked; original GAO schedule page image verified.",
       "bn_title": "ফেডারেল রিজার্ভ Financial Accounts, ২০১৫ — ফেডারেল ঋণবৃদ্ধি ও ট্রেজারির বিশেষ ব্যবস্থা",
       "bn_historical_claim": "ফেডারেল রিজার্ভের Z.1 সারণি D.1 অনুযায়ী, ২০১৫ সালে দেশীয় অ-আর্থিক ঋণ ৪.৫ শতাংশ, মোট ব্যবসায়িক ঋণ ৭.০ শতাংশ এবং ফেডারেল ঋণ ৫.০ শতাংশ বেড়েছিল। GAO-16-160 জানায়, ২০১৫ সালের ৩০ সেপ্টেম্বর ব্যবস্থাপনাধীন ফেডারেল ঋণ ছিল ১৮.১৩৮ ট্রিলিয়ন ডলার—এর মধ্যে জনগণের হাতে ১৩.১২৪ ট্রিলিয়ন এবং আন্তঃসরকারি ঋণধারণ ৫.০১৪ ট্রিলিয়ন ডলার।",
       "bn_context": "Z.1-এর হার ক্যালেন্ডার বছরভিত্তিক; ট্রেজারির ঋণ-তফসিল অর্থবছরের শেষে তৈরি হয়। বিশেষ ব্যবস্থা চলাকালে নির্দিষ্ট সরকারি হিসাবের জন্য সিকিউরিটি ইস্যু না হওয়ায় উল্লিখিত মূলধন ও সুদ ৩০ সেপ্টেম্বরের তফসিলে ছিল না।",
@@ -59,13 +59,13 @@
       "bn_verification_status": "ফেডারেল রিজার্ভের সরকারি Z.1 সারণি ও GAO-16-160 নিরীক্ষার পাঠ্য যাচাই করা হয়েছে; মূল PDF পৃষ্ঠার ছবি যাচাই বাকি.",
       "book": "book-1",
       "passage_record": {
-        "status": "Official Z.1 summary and D.1 tables and GAO audit text checked; original PDF page images pending.",
-        "locator": "Federal Reserve Z.1, March 10, 2016, Table D.1 annual 2015 row; GAO-16-160, Highlights and Schedule of Federal Debt.",
-        "evidence": "Z.1 reports 4.5 percent domestic nonfinancial debt growth, 7.0 percent total business debt growth, and 5.0 percent federal debt growth in calendar 2015. GAO reports $18.138 trillion Fiscal Service-managed debt at September 30, 2015 and $350 billion in uninvested principal plus $2 billion interest omitted from the schedule due to extraordinary debt-limit actions.",
+        "status": "GAO-16-160 highlights and original Schedule of Federal Debt page image verified.",
+        "locator": "GAO-16-160, highlights page i; printed page 25, Schedule of Federal Debt; printed pp. 4–6 for FY2015 net debt movement, deficit, and uninvested principal.",
+        "evidence": "GAO's printed p. 25 schedule shows public-held principal at $12,784,971 million on September 30, 2014 and $13,123,847 million on September 30, 2015; intragovernmental principal at $5,024,994 million and $5,013,961 million, respectively. Total federal debt including accrued interest and net unamortized premiums/discounts was $17,810 billion in 2014 and $18,138 billion in 2015, a net $328 billion increase. GAO reports a $439 billion FY2015 deficit and a $339 billion increase in debt held by the public. $350 billion uninvested principal and $2 billion related interest were not reported on the FY2015 schedule.",
         "significance": "Documents calendar-year sector debt growth and the distinct fiscal-year-end accounting effects of Treasury's extraordinary debt-limit operations.",
         "source_url": "https://www.federalreserve.gov/releases/z1/20160310/accessible/d1.htm",
-        "checked": "2026-10-11",
-        "verification_note": "Keep calendar-year growth rates separate from fiscal-year balances and explain the omitted uninvested principal and interest; inspect original PDF page images before upgrading grade."
+        "checked": "2026-10-12",
+        "verification_note": "Printed p. 25 original PDF image inspected. GAO explains that the FY2015 public-held debt increase was below the reported deficit primarily because off-schedule uninvested principal was offset by increases in the government's cash balance and federal direct student loans. The $350 billion principal and $2 billion interest were not reported because securities had not been issued to affected accounts by September 30, 2015; Treasury restored the principal after the November 2, 2015 debt-limit suspension."
       }
     },
     {
