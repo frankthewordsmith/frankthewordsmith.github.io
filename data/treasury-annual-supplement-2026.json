@@ -407,6 +407,64 @@
       "bn_notes": "পরিকল্পিত পরিমাণকে সম্পন্ন ইস্যু হিসেবে দেখাবেন না; সম্পন্ন নিলাম যাচাই করতে পৃথক নিলাম-ফলাফল দেখতে হবে।",
       "bn_verification_status": "সরকারি বিবৃতির Nominal Coupon and FRN Financing টেবিলের মাসভিত্তিক অঙ্ক ও পরিকল্পিত/প্রকৃত পার্থক্য যাচাই করা হয়েছে।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-119-day-bill-auction-results-june-2026",
+      "title": "Treasury’s June 10, 2026 Auction of a 119-Day Bill Maturing October 13",
+      "source_type": "U.S. Treasury bill auction result",
+      "date_start": "2026-06-10",
+      "date_end": "2026-10-13",
+      "date_label": "Auction announced June 10, 2026; issue date June 16 and maturity date October 13, 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "119-day Treasury bill auction results",
+      "original_text": "The U.S. Treasury's June 10, 2026 auction announcement for a 119-day bill reported competitive tenders of $198,034,094,000 and accepted competitive tenders of $68,499,719,000. Noncompetitive tenders accepted were $500,448,700, bringing the subtotal before SOMA to $69,000,167,700. SOMA accepted $4,614,344,800, bringing total accepted tenders to $73,614,512,500. The bill was issued June 16, 2026 and matures October 13, 2026. The reported bid-to-cover ratio was 2.88.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, Treasury Auction Results, 119-Day Bill, June 10, 2026, TreasuryDirect auction-results PDF R_20260610_1.pdf",
+      "publisher": "U.S. Department of the Treasury / TreasuryDirect",
+      "publication_year": "2026",
+      "reference_number": "R_20260610_1",
+      "section": "Treasury Auction Results table; accepted tenders, issue date, maturity date, and bid-to-cover footnote",
+      "source_identity": "Official TreasuryDirect auction-results notice for a 119-day Treasury bill announced June 10, 2026.",
+      "historical_claim": "Treasury accepted $73,614,512,500 in total tenders including SOMA, of which $69,000,167,700 was the subtotal before SOMA, for a 119-day bill issued June 16 and maturing October 13, 2026.",
+      "context": "Auction acceptances are an issuance event for a specific bill, not a measure of net borrowing, total federal debt growth, or the federal budget deficit. The notice separately identifies the subtotal before SOMA and SOMA acceptance.",
+      "interpretation": "This primary-source record provides an actual auction outcome and shows the composition of accepted tenders, including the distinction between the subtotal before SOMA and total accepted tenders after SOMA.",
+      "notes": "Do not call the $73.615 billion acceptance amount net new borrowing. Preserve the source's distinction between the $69.000 billion subtotal before SOMA and the $4.614 billion SOMA acceptance. The bill's maturity does not establish that its principal was later repaid.",
+      "what_passage_establishes": "The official auction result reports the tendered and accepted amounts, the issue and maturity dates, and a 2.88 bid-to-cover ratio for the 119-day bill.",
+      "evidence_limits": "One bill auction only. It does not establish total Treasury borrowing, net marketable borrowing, total federal debt, a budget deficit, or the later repayment outcome at maturity.",
+      "citation_record": "U.S. Department of the Treasury, Treasury Auction Results, 119-Day Bill, June 10, 2026, TreasuryDirect PDF R_20260610_1.pdf.",
+      "scholarly_references": [
+        "Primary government auction record; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-marketable-borrowing-actual-2026-q2",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+        "us-treasury-quarterly-refunding-august-2026"
+      ],
+      "web_sources": [
+        "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20260610_1.pdf"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury auction-result notice identified; accepted auction amounts are reported as published.",
+      "verification_status": "Security term, auction date, accepted tender amounts, issue date, maturity date, and bid-to-cover ratio checked against the official TreasuryDirect auction-results notice.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official TreasuryDirect auction-result PDF checked.",
+        "locator": "Treasury Auction Results, 119-Day Bill, dated June 10, 2026; main results table and footnotes 5–6.",
+        "evidence": "Competitive tenders accepted: $68,499,719,000; noncompetitive accepted: $500,448,700; subtotal before SOMA: $69,000,167,700; SOMA accepted: $4,614,344,800; total accepted: $73,614,512,500; bid-to-cover: 2.88.",
+        "significance": "Documents an actual short-term Treasury issuance result and makes the SOMA component visible rather than conflating it with the subtotal before SOMA.",
+        "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20260610_1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "An auction acceptance total is not the same as net new borrowing or a measure of total federal debt growth."
+      },
+      "bn_title": "২০২৬ সালের ১০ জুন ট্রেজারির ১১৯ দিনের বিল নিলামের ফলাফল",
+      "bn_historical_claim": "যুক্তরাষ্ট্রের ট্রেজারির ১০ জুন ২০২৬-এর ১১৯ দিনের বিল নিলামে মোট গৃহীত দরপত্রের পরিমাণ ছিল ৭৩,৬১৪,৫১২,৫০০ ডলার, যার মধ্যে SOMA-এর বাইরে উপমোট ছিল ৬৯,০০০,১৬৭,৭০০ ডলার এবং SOMA-এর গৃহীত অংশ ছিল ৪,৬১৪,৩৪৪,৮০০ ডলার। বিলটি ১৬ জুন ইস্যু হয় এবং ১৩ অক্টোবর ২০২৬-এ মেয়াদপূর্তির জন্য নির্ধারিত ছিল।",
+      "bn_context": "এটি একটি নির্দিষ্ট বিল নিলামের ফলাফল; নিট নতুন ঋণগ্রহণ, মোট ফেডারেল ঋণ বৃদ্ধি বা বাজেট ঘাটতির পরিমাপ নয়।",
+      "bn_interpretation": "সরকারি নিলাম-রেকর্ডটি দরপত্রের গৃহীত অঙ্ক এবং SOMA-সহ ও SOMA-বহির্ভূত পরিমাণের পার্থক্য দেখায়।",
+      "bn_notes": "মোট গৃহীত দরপত্রকে নিট নতুন ঋণ হিসেবে দেখাবেন না। মেয়াদপূর্তির তারিখ একা প্রমাণ করে না যে পরে মূলধন পরিশোধ করা হয়েছে।",
+      "bn_verification_status": "সরকারি TreasuryDirect নিলাম-ফলাফলে বিলের মেয়াদ, গৃহীত দরপত্র, ইস্যু ও মেয়াদপূর্তির তারিখ যাচাই করা হয়েছে।",
+      "book": "book-1"
     }
   ]
 }
