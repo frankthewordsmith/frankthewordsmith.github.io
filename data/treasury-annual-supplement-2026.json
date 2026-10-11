@@ -465,6 +465,64 @@
       "bn_notes": "মোট গৃহীত দরপত্রকে নিট নতুন ঋণ হিসেবে দেখাবেন না। মেয়াদপূর্তির তারিখ একা প্রমাণ করে না যে পরে মূলধন পরিশোধ করা হয়েছে।",
       "bn_verification_status": "সরকারি TreasuryDirect নিলাম-ফলাফলে বিলের মেয়াদ, গৃহীত দরপত্র, ইস্যু ও মেয়াদপূর্তির তারিখ যাচাই করা হয়েছে।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-182-day-bill-auction-results-june-2026",
+      "title": "Treasury’s June 22, 2026 Auction of a 182-Day Bill Maturing December 24",
+      "source_type": "U.S. Treasury bill auction result",
+      "date_start": "2026-06-22",
+      "date_end": "2026-12-24",
+      "date_label": "Auction announced June 22, 2026; issued June 25; matures December 24, 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "182-day Treasury bill auction results",
+      "original_text": "The June 22, 2026 Treasury auction result for a 182-day bill (CUSIP 912797TC1) reports $191,769,576,000 in competitive tenders and $75,553,221,000 accepted. Noncompetitive tenders accepted were $1,418,582,200 and FIMA noncompetitive tenders accepted were $28,400,000, making the subtotal $77,000,203,200. SOMA accepted $5,287,580,700, bringing total accepted tenders to $82,287,783,900. The bill was issued June 25, 2026 and matures December 24, 2026. Bid-to-cover ratio: 2.51.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, Treasury Auction Results, 182-Day Bill, June 22, 2026, TreasuryDirect PDF R_20260622_1.pdf",
+      "publisher": "U.S. Department of the Treasury / TreasuryDirect",
+      "publication_year": "2026",
+      "reference_number": "R_20260622_1",
+      "section": "Main Treasury Auction Results table and bid-to-cover footnote",
+      "source_identity": "Official TreasuryDirect auction-results notice for a 182-day Treasury bill announced June 22, 2026.",
+      "historical_claim": "Total accepted tenders were $82,287,783,900 including SOMA; the subtotal before SOMA was $77,000,203,200. The bill was issued June 25 and matures December 24, 2026.",
+      "context": "This is an auction result for one bill, not a measure of net borrowing, total federal debt growth, or the budget deficit.",
+      "interpretation": "The primary source records an actual short-term Treasury auction and separates competitive, noncompetitive, FIMA, and SOMA amounts.",
+      "notes": "Do not treat total accepted tenders as net new borrowing. The pre-SOMA subtotal includes FIMA noncompetitive tenders; SOMA is separate. The maturity date alone does not establish later repayment.",
+      "what_passage_establishes": "Tendered and accepted amounts by category, issue and maturity dates, and a 2.51 bid-to-cover ratio.",
+      "evidence_limits": "One bill auction only; it does not establish total borrowing, net marketable borrowing, total federal debt, the deficit, or later repayment.",
+      "citation_record": "U.S. Department of the Treasury, Treasury Auction Results, 182-Day Bill, June 22, 2026, TreasuryDirect PDF R_20260622_1.pdf.",
+      "scholarly_references": [
+        "Primary government auction record; no separate secondary scholarly reference asserted."
+      ],
+      "related_sources": [
+        "us-treasury-marketable-borrowing-actual-2026-q2",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+        "us-treasury-119-day-bill-auction-results-june-2026"
+      ],
+      "web_sources": [
+        "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20260622_1.pdf"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury auction-result notice identified; amounts reported as published.",
+      "verification_status": "Auction date, CUSIP, accepted amounts, issue and maturity dates, and bid-to-cover ratio checked against official TreasuryDirect result.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official TreasuryDirect auction-results PDF checked.",
+        "locator": "Treasury Auction Results, 182-Day Bill, dated June 22, 2026; main table and footnote 5.",
+        "evidence": "Competitive accepted $75,553,221,000; noncompetitive accepted $1,418,582,200; FIMA accepted $28,400,000; subtotal before SOMA $77,000,203,200; SOMA accepted $5,287,580,700; total accepted $82,287,783,900; bid-to-cover 2.51.",
+        "significance": "Documents a specific actual bill issuance and separates pre-SOMA accepted tenders from SOMA.",
+        "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20260622_1.pdf",
+        "checked": "2026-10-11",
+        "verification_note": "Auction acceptance total is not net new borrowing or total federal debt growth."
+      },
+      "bn_title": "২০২৬ সালের ২২ জুন ট্রেজারির ১৮২ দিনের বিল নিলামের ফলাফল",
+      "bn_historical_claim": "২২ জুন ২০২৬-এর ১৮২ দিনের বিল নিলামে মোট গৃহীত দরপত্র ছিল ৮২,২৮৭,৭৮৩,৯০০ ডলার; SOMA-এর আগে উপমোট ছিল ৭৭,০০০,২০৩,২০০ ডলার এবং SOMA-এর গৃহীত অংশ ছিল ৫,২৮৭,৫৮০,৭০০ ডলার। বিলটি ২৫ জুন ইস্যু হয় এবং ২৪ ডিসেম্বর ২০২৬-এ মেয়াদপূর্তির জন্য নির্ধারিত ছিল।",
+      "bn_context": "এটি একটি নির্দিষ্ট বিল নিলামের ফলাফল; নিট ঋণগ্রহণ, মোট ফেডারেল ঋণ বৃদ্ধি বা বাজেট ঘাটতির পরিমাপ নয়।",
+      "bn_interpretation": "সরকারি নিলাম-রেকর্ডে প্রতিযোগিতামূলক, অপ্রতিযোগিতামূলক, FIMA এবং SOMA-এর গৃহীত অঙ্ক আলাদা করা হয়েছে।",
+      "bn_notes": "মোট গৃহীত দরপত্রকে নিট নতুন ঋণ হিসেবে দেখাবেন না। SOMA-এর আগের উপমোটে FIMA অপ্রতিযোগিতামূলক দরপত্র অন্তর্ভুক্ত।",
+      "bn_verification_status": "সরকারি TreasuryDirect ফলাফলে CUSIP, গৃহীত অঙ্ক, ইস্যু ও মেয়াদপূর্তির তারিখ যাচাই করা হয়েছে।",
+      "book": "book-1"
     }
   ]
 }
