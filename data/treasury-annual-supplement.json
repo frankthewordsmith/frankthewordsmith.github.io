@@ -3135,9 +3135,9 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3226. Printed pp. 21–22 establish the fiscal deficit and public-debt increase; pp. 38–39 provide the debt reconciliation and composition; p. 45 documents the first Treasury foreign borrowing since 1918 and nearly $1 billion of foreign certificates outstanding; p. 54 records the approach to the temporary $298 billion ceiling and its March 1962 increase to $300 billion. FRASER's text layer is automatically extracted; printed page labels are the controlling locators.",
+      "verification_status": "FRASER full-text OCR checked; Treasury Department Document No. 3226 identity recorded. Original page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER's 1962 annual report is identified as Treasury Department Document No. 3226. OCR text locates the fiscal deficit and public-debt increase at printed pp. 21–22, debt reconciliation at pp. 38–39, foreign borrowing at p. 45, and the debt-limit change at p. 54. These are useful locator leads, but the OCR layer is automatically extracted and may contain errors; original page images and the cited tables must be inspected before treating the exact figures as fully verified.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1962-5457/fulltext"
       ],
@@ -3145,19 +3145,19 @@
       "footnote_policy": "Every quotation or paraphrase on the public site should resolve to an exact source locator: section/verse/daf/fragment/article, and page only when edition-specific page numbering is stable.",
       "bibliography_entry": "United States Department of the Treasury, Annual Report of the Secretary of the Treasury on the State of the Finances for the Fiscal Year Ended June 30, 1962, Treasury Department Document No. 3226 (Washington: U.S. Government Printing Office, 1963), pp. 21–22, 38–39, 45, 54.",
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER full-text OCR checked; original scan page images pending.",
         "locator": "Printed pp. 21–22, 38–39, 45, 54",
         "evidence": "The report records the $6.4 billion FY1962 administrative budget deficit, $9.2 billion public-debt increase, $298.2 billion public debt, $9.4 billion increase in public debt plus guaranteed obligations, first Treasury foreign borrowing since 1918, nearly $1 billion of foreign certificates outstanding, and the temporary increase of the debt ceiling to $300 billion.",
         "significance": "Primary institutional evidence connecting defense-driven fiscal expansion, domestic debt growth, foreign Treasury borrowing, and statutory debt-limit pressure.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1962-5457/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "The cited claims are tied to the report's printed page labels. FRASER's OCR layer contains extraction errors, so numerical quotations should be checked against the scan."
+        "checked": "2026-10-12",
+        "verification_note": "The source is identified as Treasury Department Document No. 3226. Printed-page locators come from FRASER's OCR/text layer; original scan images have not yet been inspected in this pass. Keep grade B pending visual reconciliation of the fiscal totals, debt schedule, foreign-certificate claim, and statutory debt-limit passage."
       },
       "evidence_grade_6_4": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt composition, foreign borrowing, defense financing, and statutory debt-limit pressure.",
+      "evidence_grade_basis_6_4": "Contemporary Treasury annual report identified by Treasury Department Document No. 3226 and FRASER full-text OCR; printed-page locators cover fiscal totals, debt reconciliation, foreign borrowing, and debt-limit pressure, but original page images have not yet been checked. Retain B pending scan reconciliation.",
       "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade": "B",
+      "publication_status": "Primary institutional evidence; report identity and OCR locators checked; original page-image verification pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬২ — প্রতিরক্ষা-চালিত ঘাটতি, ঋণবৃদ্ধি, বৈদেশিক ঋণগ্রহণ ও ঋণসীমার চাপ",
       "bn_historical_claim": "১৯৬২ অর্থবছরে ৬.৪ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৯.২ বিলিয়ন ডলারের সরকারি ঋণ বৃদ্ধি ঘটে। সরকারি ঋণ ২৯৮.২ বিলিয়ন ডলারে এবং সরকারি ঋণ ও গ্যারান্টিযুক্ত দায় মিলিয়ে ২৯৮.৬ বিলিয়ন ডলারে পৌঁছায়। প্রতিবেদনটি ঋণবৃদ্ধির বড় অংশকে বার্লিন সংকটের কারণে বাড়তি প্রতিরক্ষা ব্যয়ের সঙ্গে যুক্ত করে। ১৯১৮ সালের পর প্রথমবার ট্রেজারি বৈদেশিক ঋণগ্রহণ করে এবং প্রায় ১ বিলিয়ন ডলারের foreign certificates of indebtedness বকেয়া রাখে।",
       "bn_context": "এই প্রতিবেদন বাজেট ঘাটতি, নগদ ভারসাম্য, ঋণ-রিফান্ডিং, প্রতিরক্ষা ব্যয়, বৈদেশিক অর্থায়ন এবং আইনগত ঋণসীমাকে একই ঋণ-ব্যবস্থাপনা কাঠামোর অংশ হিসেবে দেখায়। মার্চ ১৯৬২-এ সাময়িক ঋণসীমা ৩০০ বিলিয়ন ডলারে বাড়ানো হয়।",
