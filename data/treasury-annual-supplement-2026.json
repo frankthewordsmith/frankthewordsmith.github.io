@@ -291,6 +291,64 @@
       "bn_interpretation": "ঘোষণাটি ট্রেজারির দীর্ঘমেয়াদি সিকিউরিটির বাজার-তারল্য ব্যবস্থাপনায় নির্দিষ্ট পরিবর্তন নথিবদ্ধ করে।",
       "bn_notes": "সর্বোচ্চ অপারেশন-সীমাকে বাস্তবে কেনা সিকিউরিটির পরিমাণ বা মোট ঋণ হ্রাস হিসেবে গণ্য করবেন না।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-quarterly-buyback-plan-august-october-2026",
+      "title": "Treasury’s August–October 2026 Quarterly Buyback Plan",
+      "source_type": "U.S. Treasury quarterly refunding / debt-management announcement",
+      "date_start": "2026-08-05",
+      "date_end": "2026-10-31",
+      "date_label": "Announced August 5, 2026; planned operations for the August–October 2026 refunding quarter",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Liquidity-support and cash-management buybacks",
+      "original_text": "In its August 5, 2026 quarterly refunding statement, the U.S. Treasury said it anticipated purchasing up to $38 billion in off-the-run securities for liquidity-support purposes and up to $25 billion in the 1-month to 2-year maturity bucket for cash-management purposes during the August–October 2026 quarter.",
+      "translation": "",
+      "edition": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” press release SB0590, August 5, 2026",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "reference_number": "SB0590",
+      "section": "BUYBACKS section",
+      "source_identity": "Official Treasury quarterly refunding statement describing anticipated buyback amounts by purpose for the August–October 2026 quarter.",
+      "historical_claim": "Treasury anticipated up to $38 billion in off-the-run securities purchases for liquidity support and up to $25 billion in the 1-month to 2-year maturity bucket for cash-management purposes during the quarter.",
+      "context": "These are planned upper amounts stated in a debt-management announcement. They are not a report of completed purchases and should not be added to issuance totals as if they were new borrowing.",
+      "interpretation": "The statement documents two distinct planned buyback programs: off-the-run purchases intended to support market liquidity and short-maturity purchases for cash management. Their purposes and limits should remain separate from gross issuance, net marketable borrowing, and the budget deficit.",
+      "notes": "Use “up to” and “anticipated”; do not claim Treasury actually purchased the full amounts. This is a distinct operational evidence layer from the same statement’s gross quarterly refunding offer and from the later long-end per-operation size change.",
+      "what_passage_establishes": "The BUYBACKS section of Treasury's August 5, 2026 statement gives anticipated quarterly ceilings of up to $38 billion for off-the-run liquidity-support purchases and up to $25 billion in the 1-month to 2-year bucket for cash-management purposes.",
+      "evidence_limits": "The announcement establishes plans and maximum anticipated amounts, not executed purchase totals, market effects, net debt reduction, or the FY2026 deficit.",
+      "citation_record": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” press release SB0590, August 5, 2026, BUYBACKS section.",
+      "scholarly_references": [
+        "Primary government announcement; no separate secondary scholarly reference is asserted in this record."
+      ],
+      "related_sources": [
+        "us-treasury-quarterly-refunding-august-2026",
+        "us-treasury-long-end-liquidity-buybacks-september-2026",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0590"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury plan identified; anticipated ceilings are not represented as executed purchases.",
+      "verification_status": "The buyback purposes, maturity bucket, and announced upper amounts checked against Treasury's August 5, 2026 statement.",
+      "last_verified": "2026-10-11",
+      "passage_record": {
+        "status": "Official Treasury quarterly refunding statement checked.",
+        "locator": "Treasury press release SB0590, August 5, 2026, section headed “BUYBACKS”.",
+        "evidence": "Treasury anticipated up to $38 billion in off-the-run securities purchases for liquidity support and up to $25 billion in the 1-month to 2-year maturity bucket for cash-management purposes during the August–October 2026 quarter.",
+        "significance": "Documents planned buyback operations by purpose, separate from gross refunding issuance and marketable borrowing estimates.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0590",
+        "checked": "2026-10-11",
+        "verification_note": "These are anticipated upper amounts, not proof of actual purchases. Do not infer net debt reduction or new borrowing from the ceilings."
+      },
+      "bn_title": "ট্রেজারির আগস্ট–অক্টোবর ২০২৬ ত্রৈমাসিক বাইব্যাক পরিকল্পনা",
+      "bn_historical_claim": "২০২৬ সালের ৫ আগস্টের ত্রৈমাসিক ঋণ পুনঃঅর্থায়ন বিবৃতিতে ট্রেজারি জানায়, ২০২৬ সালের আগস্ট–অক্টোবর প্রান্তিকে বাজারে কম লেনদেন হওয়া বিদ্যমান সিকিউরিটি পুনঃক্রয়ের জন্য সর্বোচ্চ ৩৮ বিলিয়ন ডলার এবং ১ মাস থেকে ২ বছর মেয়াদি সিকিউরিটির নগদ-ব্যবস্থাপনা বাইব্যাকের জন্য সর্বোচ্চ ২৫ বিলিয়ন ডলার পর্যন্ত কেনার পরিকল্পনা ছিল।",
+      "bn_context": "এগুলো পরিকল্পিত সর্বোচ্চ পরিমাণ, বাস্তবে সম্পন্ন ক্রয়ের হিসাব নয়। এগুলোকে নতুন ঋণ বা মোট ঋণ হ্রাস হিসেবে গণ্য করা যাবে না।",
+      "bn_interpretation": "ঘোষণাটি বাজারের তারল্য সহায়তা এবং নগদ-ব্যবস্থাপনার জন্য পরিকল্পিত দুটি পৃথক বাইব্যাক কর্মসূচি নথিভুক্ত করে।",
+      "bn_notes": "‘সর্বোচ্চ’ ও ‘পরিকল্পিত’ শব্দ বজায় রাখতে হবে; পূর্ণ অঙ্ক বাস্তবে কেনা হয়েছে—এমন দাবি করা যাবে না।",
+      "bn_verification_status": "সরকারি ট্রেজারি বিবৃতির BUYBACKS অংশে উল্লিখিত উদ্দেশ্য, মেয়াদসীমা ও সর্বোচ্চ পরিকল্পিত অঙ্ক যাচাই করা হয়েছে।",
+      "book": "book-1"
     }
   ]
 }
