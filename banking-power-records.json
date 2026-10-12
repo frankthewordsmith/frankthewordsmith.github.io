@@ -718,18 +718,18 @@
     },
     {
       "source_id": "rothschild-neapolitan-loan-1824",
-      "title": "Neapolitan Government Loan / Rothschild, 1824",
-      "date_label": "1824",
-      "historical_claim": "Nathan Mayer Rothschild was documented as contractor for a Neapolitan Government loan and marketed the resulting Neapolitan stock through scrip receipts.",
+      "title": "Neapolitan Government Loan and Scrip Receipts, 1822–1824",
+      "date_label": "1822–1824",
+      "historical_claim": "Contemporary judicial evidence and a surviving Rothschild Archive scrip receipt document the marketing of Neapolitan Government stock through deposit/scrip receipts; the precise contract date and complete terms require reconciliation between the surviving instrument and the later court report.",
       "verification_status": "Contemporary judicial report verifies the underlying 1823 contract and Rothschild's role; direct original loan contract has not yet been locked.",
       "evidence_grade": "B",
-      "source_url": "https://vlex.co.uk/vid/doloret-v-rothschild-803500249",
-      "bn_title": "নেপলস সরকারের ঋণ / রথসচাইল্ড, ১৮২৪",
-      "bn_historical_claim": "সমকালীন বিচারিক প্রতিবেদনে নেপলস সরকারের একটি ঋণচুক্তিতে রথসচাইল্ডের ভূমিকা এবং বাজারে নেপলস স্টক বিক্রির জন্য সিক্রিপ ব্যবহারের তথ্য নথিভুক্ত হয়েছে।",
-      "notes": "The High Court of Chancery report in Doloret v Rothschild records that in September 1823 the defendant contracted to grant a loan to the Neapolitan Government in consideration of Neapolitan rentes/stock, and that the stock was brought into the market through scrip receipts. The report is contemporary legal evidence, but it is not the original government-loan contract.",
+      "source_url": "https://www.rothschildarchive.org/materials/ar2007.pdf",
+      "bn_title": "নেপলস সরকারের ঋণ ও সিক্রিপ রসিদ, ১৮২২–১৮২৪",
+      "bn_historical_claim": "সমকালীন বিচারিক প্রমাণ এবং রথসচাইল্ড আর্কাইভে সংরক্ষিত একটি সিক্রিপ রসিদ নেপলস সরকারের স্টক সিক্রিপ/আমানত-রসিদের মাধ্যমে বাজারজাত করার তথ্য নথিভুক্ত করে; চুক্তির সুনির্দিষ্ট তারিখ ও সম্পূর্ণ শর্তের জন্য দলিল দুটির মিল যাচাই প্রয়োজন।",
+      "notes": "The High Court of Chancery report in Doloret v Rothschild records that in September 1823 the defendant contracted to grant a loan to the Neapolitan Government in consideration of Neapolitan rentes/stock, and that the stock was brought into the market through scrip receipts. The report is contemporary legal evidence, but it is not the original government-loan contract. Additional primary-source lead checked 2026-10-13: The Rothschild Archive's 2007 Annual Review, p. 27, reproduces an image captioned as a scrip receipt issued for a deposit paid on a bond from the Neapolitan Government loan; the visible receipt is dated London, 14 October 1822. The Archive describes the loan as a 20,000,000-ducat issue. This surviving instrument strengthens the documentary trail but does not, without direct inspection of the complete receipt and contract, resolve the date discrepancy with the September 1823 contract described in Doloret v. Rothschild. Grade B is retained.",
       "primary_passage": "In the month of September 1823 the Defendant contracted to grant a loan to the Neapolitan Government, in consideration of a certain annual sum to be paid by that Government, called Neapolitan rentes, or Neapolitan stock.",
-      "passage_locator": "Doloret v. Rothschild, High Court of Chancery, 4 February 1824, English Reports 57 E.R. 233, report of the September 1823 contract and subsequent Neapolitan scrip transactions.",
-      "passage_status": "Qualified passage locked — contemporary judicial report located; direct original loan contract still pending.",
+      "passage_locator": "Primary documentary lead: surviving scrip receipt associated with the 20,000,000-ducat Neapolitan Government loan, described in The Rothschild Archive, Annual Review 2007, p. 27 (image caption identifies the scrip receipt as issued for a deposit paid on a bond; the image shows 'London 14 October 1822'). Related contemporary judicial report: Doloret v. Rothschild, High Court of Chancery, 4 February 1824, English Reports 57 E.R. 233, which describes a government-loan contract and subsequent scrip transactions. The date/contract relationship must be reconciled against the original instruments before a stronger conclusion is made.",
+      "passage_status": "Grade B — contemporary judicial report and a surviving scrip-receipt image are identified, but the original contract and date relationship have not yet been fully reconciled; do not upgrade or claim complete loan terms yet.",
       "passage_source_url": "https://vlex.co.uk/vid/doloret-v-rothschild-803500249",
       "passage_type": "contemporary-judicial-report",
       "language": "English",
@@ -769,7 +769,8 @@
           "sovereign_debt",
           "global_power_network"
         ]
-      }
+      },
+      "archive_catalogue_url": "https://www.rothschildarchive.org/materials/ar2007.pdf"
     },
     {
       "source_id": "rothschild-brazil-loan-1825",
