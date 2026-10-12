@@ -5041,7 +5041,7 @@
       "region": "United States",
       "language": "English",
       "original_term": "Federal budget deficit; domestic nonfinancial-sector debt; federal-sector borrowing",
-      "original_text": "The Federal Reserve's 1991 annual report records that the federal budget deficit rose to $220 billion in fiscal year 1990, $67 billion above fiscal 1989. Its discussion of credit markets also states that total domestic nonfinancial-sector debt grew about 7 percent in 1990, with federal borrowing contributing to that growth, including borrowing to fund Resolution Trust Corporation acquisitions of thrift assets.",
+      "original_text": "The Federal Reserve’s 1991 Annual Report states: “the federal budget deficit increased to $220 billion, up $67 billion from the 1989 fiscal year” (printed p. 48, February 1991 Monetary Policy Report to the Congress embedded in the report). Its credit-market discussion states: “Borrowing for the RTC accounted for about 1/2 percentage point of the 7 percent growth of total debt in 1990” (printed p. 63). These are transcriptions from FRASER’s searchable text layer; the scanned page images have not yet been independently inspected.",
       "translation": "ফেডারেল রিজার্ভের ১৯৯১ সালের বার্ষিক প্রতিবেদনে বলা হয়েছে, ১৯৯০ অর্থবছরে ফেডারেল বাজেট ঘাটতি বেড়ে ২২০ বিলিয়ন ডলারে পৌঁছায়—১৯৮৯ অর্থবছরের তুলনায় ৬৭ বিলিয়ন ডলার বেশি। ঋণবাজারের আলোচনায় আরও বলা হয়েছে, ১৯৯০ সালে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৭ শতাংশ বেড়েছিল; ফেডারেল সরকারের ধারগ্রহণও এই বৃদ্ধিতে ভূমিকা রাখে, যার মধ্যে Resolution Trust Corporation-এর মাধ্যমে ব্যর্থ সঞ্চয়-ঋণ প্রতিষ্ঠানের সম্পদ অধিগ্রহণের অর্থায়ন অন্তর্ভুক্ত ছিল।",
       "translator": "বাংলা অনুবাদ — বাজেট ঘাটতি ও ঋণবৃদ্ধির পরিমাপ পৃথক রাখা হয়েছে",
       "edition": "Seventy-eighth Annual Report of the Board of Governors of the Federal Reserve System, 1991",
@@ -5052,7 +5052,7 @@
       "section": "Monetary Policy Reports to the Congress; credit-market developments",
       "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1991-2448/fulltext",
       "primary_or_secondary": "Primary institutional source",
-      "historical_claim": "The Federal Reserve's report documents a marked rise in the federal budget deficit to $220 billion in fiscal 1990 and identifies federal borrowing, including RTC-related financing, as a contributor to growth in total domestic nonfinancial-sector debt during 1990.",
+      "historical_claim": "The Federal Reserve's 1991 Annual Report records a $220 billion federal budget deficit for FY1990, $67 billion above FY1989, and states that RTC borrowing accounted for about half a percentage point of the 7 percent growth in total domestic nonfinancial-sector debt during calendar 1990.",
       "context": "The $220 billion figure is the federal budget deficit for fiscal year 1990. The approximately 7 percent figure concerns total domestic nonfinancial-sector debt over 1990, a broader aggregate. Neither figure should be treated as a direct measure of Treasury net market borrowing or gross securities issuance.",
       "interpretation": "The record captures a transition into the early-1990s period in which the federal deficit widened and federal-sector borrowing supported debt growth, including costs associated with thrift resolution. It provides contextual evidence of financing pressure, not proof that the deficit alone determined interest rates or that total sectoral debt equals Treasury debt.",
       "counter_interpretations": [
@@ -5070,17 +5070,17 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passages and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
-      "last_verified": "2026-10-11",
-      "notes": "The $220 billion deficit appears in the February 1991 Monetary Policy Report to Congress embedded in the 1991 annual report (printed p. 48). The credit-market discussion identifies about 7 percent growth in total domestic nonfinancial-sector debt in 1990 and RTC-related federal borrowing (printed p. 63). Text-layer verification only; inspect the original page images before upgrading the grade.",
+      "verification_status": "Exact wording and printed-page locators checked in FRASER text layer; original page images not yet independently inspected.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER full-text OCR supports the exact short passages: “the federal budget deficit increased to $220 billion, up $67 billion from the 1989 fiscal year” (printed p. 48 in the embedded February 1991 Monetary Policy Report to Congress) and “Borrowing for the RTC accounted for about 1/2 percentage point of the 7 percent growth of total debt in 1990” (printed p. 63). The original PDF could not be opened for page-image inspection in this verification pass, so keep grade B and the image check pending. Fiscal-year deficit and calendar-year domestic nonfinancial debt growth are distinct measures.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1991-2448/fulltext"
       ],
       "evidence_grade_6_4": "B",
       "evidence_grade_6_6": "B",
       "evidence_grade": "B",
-      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve report with specific printed-page locators and searchable text; original page images not independently checked.",
-      "publication_status": "primary institutional evidence; text-layer and printed-page locators checked, image verification pending",
+      "evidence_grade_basis_6_4": "Contemporary official Federal Reserve report with exact wording and printed-page locators confirmed in FRASER's searchable text layer; original scanned page images remain pending, so grade B is retained.",
+      "publication_status": "Primary institutional evidence; exact wording checked in FRASER searchable text layer; original scanned page-image verification pending.",
       "bn_title": "ফেডারেল রিজার্ভের বার্ষিক প্রতিবেদন — ১৯৯০ সালের ফেডারেল ঘাটতি ও ঋণবৃদ্ধি",
       "bn_historical_claim": "ফেডারেল রিজার্ভের প্রতিবেদনে ১৯৯০ অর্থবছরে ফেডারেল বাজেট ঘাটতি ২২০ বিলিয়ন ডলারে বেড়ে যাওয়ার তথ্য রয়েছে। প্রতিবেদনের ঋণবাজার-সংক্রান্ত আলোচনায় ১৯৯০ সালে দেশীয় অ-আর্থিক খাতের মোট ঋণ প্রায় ৭ শতাংশ বৃদ্ধির কথা বলা হয়েছে; ফেডারেল ধারগ্রহণ, যার মধ্যে RTC-র মাধ্যমে সঞ্চয়-ঋণ প্রতিষ্ঠানের সম্পদ অধিগ্রহণের অর্থায়ন ছিল, এতে ভূমিকা রাখে।",
       "bn_context": "২২০ বিলিয়ন ডলারের অঙ্কটি ১৯৯০ অর্থবছরের ফেডারেল বাজেট ঘাটতি। প্রায় ৭ শতাংশ হলো ১৯৯০ সালের দেশীয় অ-আর্থিক খাতের মোট ঋণবৃদ্ধি, যা ফেডারেল ঋণের চেয়ে বিস্তৃত পরিমাপ। কোনো অঙ্ককেই সরাসরি ট্রেজারির নিট বাজার-ঋণগ্রহণ হিসেবে ধরা যাবে না।",
@@ -5089,13 +5089,13 @@
       "bn_verification_status": "FRASER-এর পাঠস্তর ও মুদ্রিত পৃষ্ঠার অবস্থান যাচাই করা হয়েছে; মূল পৃষ্ঠার ছবি আলাদাভাবে যাচাই করা হয়নি।",
       "book": "book-1",
       "passage_record": {
-        "status": "Text layer and printed-page locators checked; original page images pending.",
+        "status": "Exact wording and printed-page locators checked in FRASER text layer; original page images pending.",
         "locator": "78th Annual Report (1991), embedded February 1991 Monetary Policy Report to Congress, printed p. 48; credit-market discussion of 1990, printed p. 63.",
-        "evidence": "The report gives the fiscal 1990 federal budget deficit as $220 billion, $67 billion above fiscal 1989. Its credit-market discussion describes total domestic nonfinancial-sector debt growth of about 7 percent in 1990 and notes federal borrowing for RTC acquisitions of thrift assets.",
+        "evidence": "The report says “the federal budget deficit increased to $220 billion, up $67 billion from the 1989 fiscal year” and “Borrowing for the RTC accounted for about 1/2 percentage point of the 7 percent growth of total debt in 1990.” These passages describe a fiscal-year federal deficit and the RTC contribution to calendar-year domestic nonfinancial-sector debt growth.",
         "significance": "Contemporary official evidence that the federal deficit widened in fiscal 1990 and that federal borrowing contributed to broader domestic debt growth.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-board-governors-federal-reserve-system-117/1991-2448/fulltext",
-        "checked": "2026-10-11",
-        "verification_note": "Fiscal-year deficit and calendar-year sectoral debt growth are distinct measures. Text layer checked; original page images remain to be inspected."
+        "checked": "2026-10-12",
+        "verification_note": "Quoted wording is transcribed from FRASER's OCR text layer. Original scanned page images were not independently inspected; retain grade B and do not treat the OCR as image-verified. Keep fiscal-year and calendar-year measures distinct."
       }
     },
     {
