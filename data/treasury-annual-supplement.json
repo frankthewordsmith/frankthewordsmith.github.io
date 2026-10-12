@@ -3413,32 +3413,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3239. Printed pp. 3–4 establish fiscal totals; pp. 29–33 document financing, maturity structure, and the statutory interest ceiling; p. 288 reproduces the legislation extending Federal Reserve direct-purchase authority. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and named Treasury annual-report edition checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies Treasury Department Document No. 3239. Printed pp. 3–4 establish fiscal totals; pp. 29–33 document financing, maturity structure, and the statutory interest ceiling; p. 288 reproduces the legislation extending Federal Reserve direct-purchase authority. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1966-5600/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 29–33, 288",
         "evidence": "$2.3B administrative deficit; $319.9B gross public debt; $45.4B new marketable securities excluding regular bill rollovers; $10.5B new cash; $30B refinancing; $4.8B advance refunding; 4.25% statutory bond ceiling; extension of Federal Reserve direct-purchase authority.",
         "significance": "Primary institutional evidence connecting Vietnam-era fiscal pressure, Treasury maturity engineering, statutory interest-rate constraints, and exceptional Federal Reserve financing authority.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1966-5600/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels and extracted text are grounded in FRASER OCR, but original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt financing, maturity structure, statutory interest-rate limits, and Federal Reserve authority.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators in FRASER OCR. Original scan images for the cited fiscal summary and debt-management passages have not yet been visually reconciled; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; FRASER OCR locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৬ — ভিয়েতনাম-যুগের ঘাটতি, ঋণবৃদ্ধি, মুদ্রানীতি-চাপ ও ফেডারেল রিজার্ভের অর্থায়ন ক্ষমতা",
       "bn_historical_claim": "১৯৬৬ অর্থবছরে ২.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১৯.৯ বিলিয়ন ডলারের মোট সরকারি ঋণ ছিল। ট্রেজারি ৪৫.৪ বিলিয়ন ডলারের নতুন marketable securities ইস্যু করে, যার মধ্যে ১০.৫ বিলিয়ন নতুন নগদ সংগ্রহে এবং ৩০ বিলিয়ন মেয়াদপূর্তির ঋণ প্রতিস্থাপনে ব্যবহৃত হয়। ৪.২৫ শতাংশের statutory interest ceiling দীর্ঘমেয়াদি bond ইস্যু সীমিত করে।",
       "bn_context": "প্রতিবেদনটি Vietnam-সম্পর্কিত balance-of-payments চাপ, কঠোর আর্থিক বাজার, Treasury maturity restructuring এবং statutory interest-rate ceiling-কে একই অর্থায়ন কাঠামোর অংশ হিসেবে নথিভুক্ত করে।",
       "bn_interpretation": "১৯৬৬ সালে তুলনামূলকভাবে ছোট প্রশাসনিক ঘাটতির সত্ত্বেও সরকারি ঋণ বাড়ে। একই সঙ্গে statutory interest ceiling Treasury-র maturity choices-কে প্রভাবিত করে এবং কংগ্রেস Federal Reserve-এর Treasury obligations সরাসরি কেনার ক্ষমতা আরও দুই বছর বাড়ায়।",
       "bn_notes": "Treasury Department Document No. 3239-এর মুদ্রিত pp. 3–4, 29–33 ও 288 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "FRASER OCR and report identity checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
@@ -3482,32 +3482,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3242. Printed pp. 3–4 establish fiscal and debt totals; pp. 12–16 cover public debt management, ownership and Federal credit-market analysis; pp. 192–193 contain debt-limit legislation. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and named Treasury annual-report edition checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies Treasury Department Document No. 3242. Printed pp. 3–4 establish fiscal and debt totals; pp. 12–16 cover public debt management, ownership and Federal credit-market analysis; pp. 192–193 contain debt-limit legislation. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1967-5601/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 12–16, 192–193",
         "evidence": "$2.3B administrative deficit; $326.2B gross public debt; $6.3B debt increase; Federal Government investment-account holdings +$11.6B; Federal Reserve holdings +$4.5B; more than $6B net credit supplied to private markets according to Treasury's Federal credit-market analysis; temporary debt-limit increases.",
         "significance": "Primary institutional evidence connecting deficit/debt reconciliation with Federal-sector credit-market operations and statutory debt-limit management.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1967-5601/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels and extracted text are grounded in FRASER OCR, but original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, public debt management, Federal credit-market analysis, and debt-limit legislation.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators in FRASER OCR. Original scan images for the cited fiscal summary and debt-management passages have not yet been visually reconciled; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; FRASER OCR locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৭ — ঘাটতি অর্থায়ন, ঋণবৃদ্ধি, ফেডারেল ক্রেডিট সরবরাহ ও ঋণসীমা ব্যবস্থাপনা",
       "bn_historical_claim": "১৯৬৭ অর্থবছরে ২.৩ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩২৬.২ বিলিয়ন ডলারের মোট সরকারি ঋণ ছিল, যা ৬.৩ বিলিয়ন ডলার বেড়েছিল। ট্রেজারির নিজস্ব credit-market বিশ্লেষণ অনুযায়ী সরকারি বিনিয়োগ হিসাব ও Federal Reserve-এর holdings বৃদ্ধির ফলে Federal credit operations বেসরকারি বাজারে ৬ বিলিয়ন ডলারের বেশি নেট credit সরবরাহ করে।",
       "bn_context": "প্রতিবেদনটি বাজেট ঘাটতি, নগদ কার্যক্রম, সরকারি ঋণ এবং Federal-sector credit-market transactions আলাদা করে বিশ্লেষণ করে।",
       "bn_interpretation": "১৯৬৭ গুরুত্বপূর্ণ কারণ Treasury নিজেই দেখায় যে gross public debt বাড়লেও Federal-sector holdings-এর পরিবর্তনের কারণে private credit markets-এ Federal operations-এর net প্রভাব credit supply বৃদ্ধির দিকে যেতে পারে।",
       "bn_notes": "Treasury Department Document No. 3242-এর মুদ্রিত pp. 3–4, 12–16 ও 192–193 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "FRASER OCR and report identity checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
@@ -3551,32 +3551,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3245. Printed pp. 3–4 establish the unified-budget deficit and financing; pp. 15–24 cover debt financing, ownership and foreign monetary holdings; p. 41 records international credit facilities; p. 48 records the March 1968 IMF drawing. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and named Treasury annual-report edition checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies Treasury Department Document No. 3245. Printed pp. 3–4 establish the unified-budget deficit and financing; pp. 15–24 cover debt financing, ownership and foreign monetary holdings; p. 41 records international credit facilities; p. 48 records the March 1968 IMF drawing. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1968-5602/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 15–24, 41, 48",
         "evidence": "$25.2B unified-budget deficit; $23.1B borrowing from the public; $347.6B Treasury debt securities; $2.2B increase in special nonmarketable securities held by foreign monetary authorities; $1.7404B foreign-currency securities; $200M IMF drawing in March 1968; late-June fiscal restraint.",
         "significance": "Primary institutional evidence connecting large-scale deficit financing, Treasury debt expansion, foreign official financing, IMF liquidity operations, and fiscal restraint.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1968-5602/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels and extracted text are grounded in FRASER OCR, but original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, foreign official financing, IMF operations, and fiscal restraint.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators in FRASER OCR. Original scan images for the cited fiscal summary and debt-management passages have not yet been visually reconciled; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; FRASER OCR locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৮ — বৃহৎ ঘাটতি অর্থায়ন, ঋণবৃদ্ধি, বৈদেশিক সরকারি অর্থায়ন ও fiscal restraint",
       "bn_historical_claim": "নতুন unified-budget পদ্ধতিতে ১৯৬৮ অর্থবছরের ঘাটতি ছিল ২৫.২ বিলিয়ন ডলার। ট্রেজারি ঋণ-সিকিউরিটি ২১.৪ বিলিয়ন ডলার বেড়ে ৩৪৭.৬ বিলিয়ন ডলারে পৌঁছায় এবং foreign monetary authorities-এর কাছে special nonmarketable securities ২.২ বিলিয়ন ডলার বাড়ে। মার্চ ১৯৬৮-এ যুক্তরাষ্ট্র IMF থেকে ২০০ মিলিয়ন ডলার সমমূল্যের বৈদেশিক মুদ্রা উত্তোলন করে।",
       "bn_context": "প্রতিবেদনটি দেশীয় ঋণবাজার, বৈদেশিক সরকারি অর্থায়ন, IMF liquidity এবং fiscal policy-কে একই আন্তর্জাতিক আর্থিক কাঠামোর অংশ হিসেবে নথিভুক্ত করে।",
       "bn_interpretation": "১৯৬৮ একটি বড় রূপান্তর-বিন্দু: ঘাটতি অর্থায়ন, বৈদেশিক monetary financing এবং আন্তর্জাতিক liquidity operations একই সময়ে ব্যাপক আকার ধারণ করে।",
       "bn_notes": "Treasury Department Document No. 3245-এর মুদ্রিত pp. 3–4, 15–24, 41 ও 48 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "FRASER OCR and report identity checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
@@ -3620,32 +3620,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3248. Printed pp. 3–4 establish the unified-budget surplus and financing reconciliation; pp. 11–23 cover Treasury financing operations and debt management; p. 16 provides ownership data. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and named Treasury annual-report edition checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies Treasury Department Document No. 3248. Printed pp. 3–4 establish the unified-budget surplus and financing reconciliation; pp. 11–23 cover Treasury financing operations and debt management; p. 16 provides ownership data. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1969-5605/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 11–23",
         "evidence": "$3.2B unified-budget surplus; $11.1B decrease in borrowing from the public; $2.2B increase in cash balance; $10.1B increase in other means of financing; $368B Federal securities outstanding, including $354B public debt and $14B agency securities; $279B borrowing from the public.",
         "significance": "Primary institutional evidence of the fiscal reversal from FY1968 deficit to FY1969 surplus while accumulated Federal securities remained at a very high level and continued debt management was required.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1969-5605/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels and extracted text are grounded in FRASER OCR, but original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, financing, debt management and securities ownership.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators in FRASER OCR. Original scan images for the cited fiscal summary and debt-management passages have not yet been visually reconciled; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; FRASER OCR locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৯ — Unified-budget উদ্বৃত্ত, অব্যাহত ঋণ ব্যবস্থাপনা ও Federal securities-এর বিস্তার",
       "bn_historical_claim": "১৯৬৯ অর্থবছরে unified-budget ভিত্তিতে ৩.২ বিলিয়ন ডলারের উদ্বৃত্ত হয়, যেখানে ১৯৬৮ সালে ২৫.২ বিলিয়ন ডলারের ঘাটতি ছিল। জনসাধারণের কাছ থেকে ঋণগ্রহণ ১১.১ বিলিয়ন ডলার কমলেও ৩০ জুন ১৯৬৯-এ মোট Federal securities outstanding ছিল ৩৬৮ বিলিয়ন ডলার।",
       "bn_context": "ঘাটতি থেকে উদ্বৃত্তে দ্রুত পরিবর্তন হলেও পূর্ববর্তী ঋণের বিশাল stock পরিচালনা ও refinancing চালিয়ে যেতে হয়েছিল।",
       "bn_interpretation": "১৯৬৯ দেখায় যে বার্ষিক fiscal balance এবং accumulated Federal debt management একই বিষয় নয়; উদ্বৃত্তের বছরেও বিপুল পরিমাণ securities পরিচালনা ও পুনঃঅর্থায়ন চলতে থাকে।",
       "bn_notes": "Treasury Department Document No. 3248-এর মুদ্রিত pp. 3–4 ও 11–23 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "FRASER OCR and report identity checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
@@ -3689,32 +3689,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3251. Printed pp. 3–4 establish fiscal operations and financing; pp. 11–14 cover debt management, maturity structure and Federal securities; p. 24 and related international-finance pages document the SDR development. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and named Treasury annual-report edition checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies Treasury Department Document No. 3251. Printed pp. 3–4 establish fiscal operations and financing; pp. 11–14 cover debt management, maturity structure and Federal securities; p. 24 and related international-finance pages document the SDR development. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1970-5607/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 11–14, 24–25",
         "evidence": "$2.8B unified-budget deficit; $5.4B borrowing from the public; $383.4B Federal securities outstanding; $370.9B Treasury public debt; $17.2B increase in Treasury public debt; under-one-year privately held marketable debt +$7.1B; average maturity -6 months to 3y8m; January 1970 SDR allocation and accounting systems.",
         "significance": "Primary institutional evidence connecting renewed deficit financing, short-term debt expansion, Federal credit-market pressures, and the emergence of SDRs as a new reserve asset.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1970-5607/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels and extracted text are grounded in FRASER OCR, but original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, maturity structure and international reserve developments.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators in FRASER OCR. Original scan images for the cited fiscal summary and debt-management passages have not yet been visually reconciled; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; FRASER OCR locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭০ — ঘাটতি অর্থায়ন, স্বল্পমেয়াদি ঋণবৃদ্ধি, Federal credit বৃদ্ধি ও নতুন SDR reserve operations",
       "bn_historical_claim": "১৯৭০ অর্থবছরে unified-budget ভিত্তিতে ২.৮ বিলিয়ন ডলারের ঘাটতি হয়। Treasury public debt ১৭.২ বিলিয়ন ডলার বাড়ে এবং এক বছরের কম মেয়াদি privately held marketable debt ৬৯.৩ বিলিয়ন থেকে ৭৬.৪ বিলিয়ন ডলারে বাড়ে; গড় maturity ছয় মাস কমে ৩ বছর ৮ মাস হয়। জানুয়ারি ১৯৭০-এ IMF-এর প্রথম Special Drawing Rights allocation-এর ব্যবস্থাও শুরু হয়।",
       "bn_context": "১৯৭০ সালে মূল্যস্ফীতি, কঠোর monetary policy, উচ্চ সুদের হার এবং private credit demand-এর মধ্যে Treasury-কে একই সঙ্গে deficit financing ও debt refinancing পরিচালনা করতে হয়।",
       "bn_interpretation": "১৯৭০ দশকের শেষভাগের মুদ্রাব্যবস্থা পরিবর্তনের দিকে একটি গুরুত্বপূর্ণ সেতু: domestic deficit financing, short-term Treasury debt expansion, federally sponsored credit এবং SDR reserve asset একই institutional record-এ উপস্থিত।",
       "bn_notes": "Treasury Department Document No. 3251-এর মুদ্রিত pp. 3–4, 11–14 ও 24–25 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "FRASER OCR and report identity checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
