@@ -1,7 +1,7 @@
 {
   "site": "Frank the Wordsmith",
   "version": 1,
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "sources": [
     {
       "source_id": "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
@@ -638,6 +638,62 @@
       "bn_notes": "সময়সূচিকে সম্ভাব্য হিসেবে চিহ্নিত রাখতে হবে। শুধু নির্ধারিত তারিখ থেকে প্রকৃত ইস্যু, গৃহীত অঙ্ক বা ঋণগ্রহণের পরিমাণ অনুমান করা যাবে না।",
       "bn_verification_status": "সরকারি ট্রেজারি PDF-এর অক্টোবর ২০২৬-এর সারিগুলোতে ঘোষণার, নিলামের ও নিষ্পত্তির তারিখ যাচাই করা হয়েছে।",
       "book": "book-1"
+    },
+    {
+      "source_id": "us-treasury-tips-auction-sizes-2026-aug-oct",
+      "title": "Treasury’s Planned TIPS Auction Sizes, August–October 2026",
+      "source_type": "U.S. Treasury quarterly refunding statement / debt-management announcement",
+      "date_start": "2026-08-01",
+      "date_end": "2026-10-31",
+      "date_label": "Announcement dated August 5, 2026; planned TIPS auction sizes for August–October 2026",
+      "civilization": "United States",
+      "region": "United States",
+      "language": "English",
+      "original_term": "Treasury Inflation-Protected Securities (TIPS) auction sizes",
+      "original_text": "“Over the August to October 2026 quarter, Treasury plans to maintain TIPS auction sizes at current levels: the August 30-year TIPS reopening auction size at $8 billion, the September 10-year TIPS reopening auction size at $19 billion, and the October 5-year TIPS new issue auction size at $26 billion.”",
+      "translation": "২০২৬ সালের আগস্ট থেকে অক্টোবর প্রান্তিকে ট্রেজারি টিআইপিএস নিলামের আকার বর্তমান স্তরে রাখার পরিকল্পনা করেছে: আগস্টে ৩০-বছরের TIPS পুনরায় খোলার নিলাম ৮ বিলিয়ন ডলার, সেপ্টেম্বরে ১০-বছরের TIPS পুনরায় খোলার নিলাম ১৯ বিলিয়ন ডলার এবং অক্টোবরে নতুন ৫-বছরের TIPS ইস্যু ২৬ বিলিয়ন ডলার।",
+      "edition": "Treasury press release SB0590, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” August 5, 2026, TIPS Financing section",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": "2026",
+      "reference_number": "SB0590",
+      "section": "TIPS Financing",
+      "source_identity": "Official U.S. Treasury quarterly refunding statement dated August 5, 2026; planned TIPS auction sizes for the August–October quarter.",
+      "historical_claim": "Treasury announced planned TIPS auction sizes of $8 billion for the August 30-year reopening, $19 billion for the September 10-year reopening, and $26 billion for the October 5-year new issue.",
+      "context": "This is a forward-looking financing plan for three TIPS auctions. It is distinct from the nominal coupon/FRN schedule and from the realized results of individual auctions.",
+      "interpretation": "The statement documents planned auction sizes for selected inflation-protected securities during the August–October 2026 quarter, not completed issuance.",
+      "notes": "Verify each auction against its individual announcement and result before treating the planned amount as issued or settled.",
+      "what_passage_establishes": "Treasury's August 5 statement specifies planned TIPS auction sizes for three named auctions: $8 billion, $19 billion, and $26 billion.",
+      "evidence_limits": "Planned auction sizes do not establish final auction results, accepted tenders, settlement, net borrowing, total federal debt, or the FY2026 deficit.",
+      "citation_record": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” press release SB0590, August 5, 2026, TIPS Financing section.",
+      "scholarly_references": [],
+      "related_sources": [
+        "us-treasury-quarterly-refunding-august-2026",
+        "us-treasury-nominal-coupon-frn-auction-sizes-2026-aug-oct",
+        "us-treasury-tentative-auction-schedule-october-2026"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0590",
+        "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/most-recent-quarterly-refunding-documents/"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Published source record",
+      "verification_status": "Exact sentence, dates, instrument types, and planned amounts checked against Treasury's official August 5, 2026 quarterly refunding statement; planned sizes are not represented as completed issuance.",
+      "last_verified": "2026-10-12",
+      "passage_record": {
+        "status": "Exact sentence checked against official Treasury quarterly refunding statement.",
+        "locator": "Treasury press release SB0590, August 5, 2026, section headed “TIPS FINANCING.”",
+        "evidence": "“Over the August to October 2026 quarter, Treasury plans to maintain TIPS auction sizes at current levels: the August 30-year TIPS reopening auction size at $8 billion, the September 10-year TIPS reopening auction size at $19 billion, and the October 5-year TIPS new issue auction size at $26 billion.”",
+        "significance": "Provides a distinct primary-source record of planned inflation-protected Treasury issuance, separate from nominal coupon and FRN auction sizes.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0590",
+        "checked": "2026-10-12",
+        "verification_note": "Planned sizes only; confirm actual auction results separately."
+      },
+      "bn_title": "২০২৬ সালের আগস্ট–অক্টোবরের জন্য ট্রেজারির পরিকল্পিত TIPS নিলামের আকার",
+      "bn_historical_claim": "ট্রেজারি আগস্টের ৩০-বছরের TIPS পুনরায় খোলার নিলামের জন্য ৮ বিলিয়ন ডলার, সেপ্টেম্বরের ১০-বছরের TIPS পুনরায় খোলার নিলামের জন্য ১৯ বিলিয়ন ডলার এবং অক্টোবরে নতুন ৫-বছরের TIPS ইস্যুর জন্য ২৬ বিলিয়ন ডলার নির্ধারণের পরিকল্পনা জানায়।",
+      "bn_context": "এটি আগস্ট–অক্টোবর প্রান্তিকের তিনটি TIPS নিলামের আগাম পরিকল্পনা। এটি প্রকৃত নিলাম ফলাফল বা সম্পন্ন ঋণগ্রহণের হিসাব নয়।",
+      "bn_interpretation": "ঘোষণাটি নির্দিষ্ট মুদ্রাস্ফীতি-সুরক্ষিত ট্রেজারি সিকিউরিটির পরিকল্পিত নিলাম-আকার নথিভুক্ত করে; সম্পন্ন ইস্যুর পরিমাণ নয়।",
+      "bn_notes": "পরিকল্পিত অঙ্ককে সম্পন্ন ইস্যু হিসেবে গণ্য করবেন না; প্রতিটি নিলামের পৃথক ঘোষণা ও ফলাফল যাচাই করুন।",
+      "bn_verification_status": "ট্রেজারির ৫ আগস্ট ২০২৬-এর সরকারি ত্রৈমাসিক রিফান্ডিং বিবৃতির TIPS Financing অংশে বাক্য, তারিখ, সিকিউরিটির ধরন ও পরিকল্পিত অঙ্ক যাচাই করা হয়েছে।"
     }
   ]
 }
