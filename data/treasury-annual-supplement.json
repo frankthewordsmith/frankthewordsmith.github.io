@@ -3344,32 +3344,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3236. Printed pp. 3–4 establish fiscal totals; pp. 27–29 document financing and maturity restructuring; p. 32 documents foreign official securities; p. 274 reproduces Public Law 89-49 raising the temporary debt limit to $328 billion. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and Treasury Department Document No. 3236 identity checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies the report as the Annual Report of the Secretary of the Treasury for the fiscal year ended June 30, 1965, issued by GPO in 1966 as Treasury Department Document No. 3236. OCR supports the $3.4 billion administrative budget deficit, $317.3 billion public debt, $5.8 billion seasonal tax-anticipation borrowing plus $3.8 billion new cash, $19 billion of advance refundings, $1.1 billion increase in securities issued directly to foreign official agencies, and temporary $328 billion debt limit for FY1966. Printed-page locators from FRASER OCR are pp. 3–4, 27–29, 32, and 274. Original scan images for these pages have not been visually reconciled in this pass; keep grade B pending image-level checks.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1965-5458/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 27–29, 32, 274",
         "evidence": "$3.4B administrative budget deficit; $317.3B public debt; $5.8B seasonal tax-anticipation borrowing plus $3.8B new cash; $19B advance refundings; $1.1B increase in securities issued directly to foreign official agencies; temporary $328B debt limit for FY1966.",
         "significance": "Primary institutional evidence connecting deficit financing, seasonal Treasury bills, maturity restructuring, foreign official financing, and statutory debt-limit expansion.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1965-5458/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels and text are grounded in FRASER OCR, but original scan images for pp. 3–4, 27–29, 32, and 274 have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, foreign official securities, and debt-limit legislation.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified GPO edition and printed-page locators in FRASER OCR. Original scan images for the cited fiscal summary, debt-management discussion, foreign-official securities, and debt-limit legislation remain pending.",
+      "publication_status": "Primary institutional evidence; FRASER OCR locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৫ — ঘাটতি অর্থায়ন, ঋণ পুনর্গঠন, বৈদেশিক সরকারি সিকিউরিটি ও ঋণসীমা সম্প্রসারণ",
       "bn_historical_claim": "১৯৬৫ অর্থবছরে ৩.৪ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১৭.৩ বিলিয়ন ডলারের সরকারি ঋণ ছিল। ঋণবৃদ্ধির পাশাপাশি ট্রেজারি seasonal tax-anticipation bills, নতুন নগদ সংগ্রহ, advance refunding এবং বিদেশি সরকারি সংস্থার কাছে সরাসরি সিকিউরিটি ইস্যু ব্যবহার করে অর্থায়ন কাঠামো পরিচালনা করে।",
       "bn_context": "প্রতিবেদনটি দেখায় যে ঘাটতি, ঋণবৃদ্ধি, স্বল্পমেয়াদি বিল, দীর্ঘমেয়াদি maturity restructuring, বিদেশি সরকারি অর্থায়ন এবং কংগ্রেসের ঋণসীমা একই ঋণ-ব্যবস্থাপনা ব্যবস্থার অংশ ছিল।",
       "bn_interpretation": "১৯৬৫ সালে ট্রেজারির ঋণ-ব্যবস্থাপনা আরও বহুমাত্রিক হয়ে ওঠে—seasonal borrowing, নতুন নগদ সংগ্রহ, maturity engineering, foreign-official financing এবং statutory debt-limit management একসঙ্গে কাজ করে।",
       "bn_notes": "Treasury Department Document No. 3236-এর মুদ্রিত pp. 3–4, 27–29, 32 ও 274 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "FRASER OCR and report identity checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
