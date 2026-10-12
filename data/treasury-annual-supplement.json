@@ -3758,32 +3758,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3254. Printed pp. 3–4 establish fiscal operations; pp. 11–16 cover debt structure, ownership and Federal Reserve acquisitions; p. 41 covers SDRs; p. 323 contains the debt-limit/interest-ceiling legislation. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Verified against Treasury Department Document No. 3254. Printed pp. 3–4 establish fiscal operations; pp. 11–16 cover debt structure, ownership and Federal Reserve acquisitions; p. 41 covers SDRs; p. 323 contains the debt-limit/interest-ceiling legislation. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1971-5610/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 11–16, 41, 323",
         "evidence": "$23.0B unified-budget deficit; $19.4B borrowing from public; $410.3B Federal securities; $27.2B public-debt increase; $7.8B Federal Reserve acquisition; 4.25% ceiling relief up to $10B; second SDR allocation $2.949B.",
         "significance": "Primary institutional evidence linking large deficit financing, Federal Reserve Treasury-security acquisitions, maturity shortening, statutory interest-rate ceiling relief, and SDR expansion.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1971-5610/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, Federal Reserve holdings, legislation, and SDR operations.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭১ — বৃহৎ ঘাটতি অর্থায়ন, Federal Reserve ক্রয়, স্বল্পমেয়াদি ঋণ ও SDR সম্প্রসারণ",
       "bn_historical_claim": "১৯৭১ অর্থবছরে unified-budget ঘাটতি ছিল ২৩.০ বিলিয়ন ডলার এবং public debt ২৭.২ বিলিয়ন ডলার বাড়ে। Federal Reserve ৭.৮ বিলিয়ন ডলারের Treasury obligations অধিগ্রহণ করে। Congress ৪.২৫ শতাংশ interest-rate ceiling-এর বাইরে সর্বোচ্চ ১০ বিলিয়ন ডলারের Treasury bonds ইস্যুর অনুমতি দেয়, যদিও ওই বছরে এমন bond ইস্যু হয়নি। ১ জানুয়ারি ১৯৭১-এ দ্বিতীয় SDR allocation ২.৯৪৯ বিলিয়ন ডলার ছিল।",
       "bn_context": "১৯৭১ সালে deficit financing, Federal Reserve holdings, Treasury maturity structure এবং আন্তর্জাতিক reserve asset SDR একই পরিবর্তনশীল monetary environment-এর মধ্যে নথিভুক্ত হয়।",
       "bn_interpretation": "১৯৭১ early-1970s monetary break-এর দিকে একটি গুরুত্বপূর্ণ institutional bridge; fiscal deficit, Federal Reserve acquisition, interest-rate ceiling relief এবং SDR expansion একসঙ্গে দেখা যায়।",
       "bn_notes": "Treasury Department Document No. 3254-এর মুদ্রিত pp. 3–4, 11–16, 41 ও 323 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
@@ -3827,32 +3827,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3257. Printed pp. 3–4 establish fiscal operations; pp. 18–19 cover debt structure and ownership; p. 26 documents the August 15 convertibility suspension and Smithsonian realignment; p. 61 contains the fiscal-1972 balance-of-payments table; p. 217 contains the temporary public-debt-limit legislation. FRASER OCR is automatically extracted; printed page labels control.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Verified against Treasury Department Document No. 3257. Printed pp. 3–4 establish fiscal operations; pp. 18–19 cover debt structure and ownership; p. 26 documents the August 15 convertibility suspension and Smithsonian realignment; p. 61 contains the fiscal-1972 balance-of-payments table; p. 217 contains the temporary public-debt-limit legislation. FRASER OCR is automatically extracted; printed page labels control. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1972-5611/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 18–19, 26, 61, 217",
         "evidence": "$23.2B unified-budget deficit; $19.4B borrowing from public; $427.3B public debt securities; $438.2B Federal securities; $17.3B increase in foreign investor holdings; $5.8B Federal Reserve Treasury-security acquisition; August 15, 1971 suspension of dollar convertibility; December 18 Smithsonian realignment and approximately 12% average dollar devaluation.",
         "significance": "Primary institutional evidence for the 1971–72 monetary transition, linking domestic Treasury financing with the end of dollar-gold convertibility, foreign official accumulation of U.S. debt, and exchange-rate realignment.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1972-5611/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3257, with verified printed pages covering fiscal operations, debt ownership, the August 15 convertibility suspension, Smithsonian exchange-rate realignment, balance-of-payments data, and debt-limit legislation.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭২ — ডলার convertibility স্থগিত, Smithsonian realignment, foreign official holdings ও Treasury financing সম্প্রসারণ",
       "bn_historical_claim": "১৯৭২ অর্থবছরে unified-budget ঘাটতি ছিল ২৩.২ বিলিয়ন ডলার এবং public debt securities ২৯.১ বিলিয়ন ডলার বেড়ে ৪২৭.৩ বিলিয়ন ডলারে পৌঁছায়। Foreign official accounts-এর public-debt holdings ১৭.৩ বিলিয়ন ডলার বেড়ে ৫০.০ বিলিয়ন ডলারে পৌঁছায় এবং Federal Reserve-এর Treasury-security holdings ৫.৮ বিলিয়ন ডলার বাড়ে। Treasury প্রতিবেদন ১৫ আগস্ট ১৯৭১-এ dollar-এর gold convertibility স্থগিত এবং ১৮ ডিসেম্বর Smithsonian realignment-কে আন্তর্জাতিক monetary system-এর প্রধান পরিবর্তন হিসেবে নথিভুক্ত করে।",
       "bn_context": "১৯৭২ সালের Treasury record domestic deficit financing, foreign official dollar accumulation এবং Bretton Woods-এর শেষ পর্যায়ের exchange-rate realignment-কে একই institutional framework-এ দেখায়।",
       "bn_interpretation": "Reserve-currency transition গবেষণার জন্য ১৯৭২ একটি কেন্দ্রীয় chronology marker: dollar-gold convertibility-এর অবসান, foreign official debt accumulation এবং নতুন exchange-rate regime একই primary record-এ নথিভুক্ত।",
       "bn_notes": "Treasury Department Document No. 3257-এর মুদ্রিত pp. 3–4, 18–19, 26, 61 ও 217 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1"
     },
     {
@@ -3896,32 +3896,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3260. Printed pp. 3–4 establish fiscal operations and financing reconciliation; pp. 11–16 cover Federal debt structure, ownership, Federal Reserve acquisitions, foreign investors, and Treasury financing. Printed page labels control over OCR.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Verified against Treasury Department Document No. 3260. Printed pp. 3–4 establish fiscal operations and financing reconciliation; pp. 11–16 cover Federal debt structure, ownership, Federal Reserve acquisitions, foreign investors, and Treasury financing. Printed page labels control over OCR. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1973.pdf"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3260, with verified printed pages covering fiscal operations, Federal debt, ownership, Federal Reserve acquisitions, and foreign investor holdings.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৩ — কম ঘাটতি, Treasury borrowing, foreign investor demand ও Federal Reserve acquisitions",
       "bn_historical_claim": "১৯৭৩ অর্থবছরে unified-budget ঘাটতি ১৪.৩ বিলিয়ন ডলারে নেমে আসে, কিন্তু public borrowing ছিল ১৯.৩ বিলিয়ন ডলার। Federal securities ছিল ৪৬৯ বিলিয়ন ডলার। Private investors-এর holdings ১৫.৫ বিলিয়ন ডলার বাড়ে, যার ১০.৩ বিলিয়ন foreign investors-এর; Federal Reserve ৩.৮ বিলিয়ন ডলারের Treasury obligations অধিগ্রহণ করে।",
       "bn_context": "১৯৭১–৭২-এর monetary break-এর পর ১৯৭৩ সালে fiscal deficit কমলেও Treasury borrowing এবং U.S. debt-এর foreign investor demand গুরুত্বপূর্ণ ছিল।",
       "bn_interpretation": "১৯৭৩ একটি গুরুত্বপূর্ণ transition marker: deficit কমলেও public borrowing প্রায় আগের দুই বছরের স্তরে থাকে; private holdings বৃদ্ধির বড় অংশ foreign investors-এর মাধ্যমে আসে এবং Federal Reserve-এর Treasury holdings-ও বাড়ে।",
       "bn_notes": "Treasury Department Document No. 3260-এর মুদ্রিত pp. 3–4 ও 11–16 দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 11–16",
         "evidence": "$14.3B unified-budget deficit; $19.3B borrowing from public; $469B Federal securities; $458B public debt securities; $343B borrowing from public; $3.8B Federal Reserve acquisition of Treasury obligations; $15.5B increase in private holdings, including $10.3B foreign and $5.2B domestic.",
         "significance": "Primary institutional evidence of fiscal financing and ownership patterns during the post-1971 monetary transition.",
         "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1973.pdf",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       }
     },
     {
@@ -3966,32 +3966,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3263. Printed pp. 3–4 establish fiscal operations; pp. 12–19 cover financing, debt structure, ownership, foreign investor holdings and Federal Reserve acquisitions; the report's introductory international/federal-finance discussion on printed page xxvi records the Federal Financing Bank's creation and mandate. Printed page labels control over OCR.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Verified against Treasury Department Document No. 3263. Printed pp. 3–4 establish fiscal operations; pp. 12–19 cover financing, debt structure, ownership, foreign investor holdings and Federal Reserve acquisitions; the report's introductory international/federal-finance discussion on printed page xxvi records the Federal Financing Bank's creation and mandate. Printed page labels control over OCR. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1974-5615/fulltext"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3263, with verified printed pages covering fiscal operations, debt structure, investor ownership, Federal Reserve acquisitions, foreign redemptions, and Federal Financing Bank creation.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৪ — ঘাটতির তীব্র হ্রাস, foreign redemptions, Federal Reserve acquisitions ও Federal Financing Bank-এর সৃষ্টি",
       "bn_historical_claim": "১৯৭৪ অর্থবছরে unified-budget ঘাটতি ৩.৫ বিলিয়ন ডলারে নেমে আসে এবং public borrowing ছিল ৩.০ বিলিয়ন ডলার। Foreign investors-এর public debt holdings ২.৬ বিলিয়ন ডলার কমে, Federal Reserve ৫.৫ বিলিয়ন ডলারের public debt securities অধিগ্রহণ করে এবং Federal Financing Bank গঠিত হয়।",
       "bn_context": "১৯৭৪ সালে উচ্চ inflation, restrictive Federal Reserve policy, rising interest rates, oil shock এবং আন্তর্জাতিক monetary reform-এর মধ্যে Treasury financing কাঠামো পরিবর্তিত হয়।",
       "bn_interpretation": "১৯৭৪ দেখায় যে budget deficit কমে গেলেও Treasury financing operations অব্যাহত থাকে; foreign-held special nonmarketable issues-এর net redemption market financing-এর প্রয়োজন বাড়ায়, আর Federal Financing Bank federally assisted borrowing সমন্বয়ের নতুন institutional layer তৈরি করে।",
       "bn_notes": "Treasury Department Document No. 3263-এর মুদ্রিত pp. 3–4, 12–19 এবং xxvi দিয়ে যাচাই করা হয়েছে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 12–19, xxvi",
         "evidence": "$3.5B unified-budget deficit; $3.0B borrowing from public; $487B Federal securities; $475B public debt securities; $346B borrowing from public; foreign public-debt holdings -$2.6B; special nonmarketable -$3.4B; marketables +$0.8B; Federal Reserve +$5.5B to $80.5B; Federal Financing Bank created to coordinate Federal and federally assisted borrowing.",
         "significance": "Primary institutional evidence of financing, ownership, Federal Reserve holdings, foreign redemptions, and the creation of the Federal Financing Bank during the post-1971 monetary transition.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1974-5615/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Printed pages control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       }
     },
     {
@@ -4036,32 +4036,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Printed-page locator checked against the FRASER Treasury annual report; the OCR text may contain errors, and this record's prose is an archive synthesis rather than a verbatim quotation.",
-      "last_verified": "2026-10-10",
-      "notes": "FRASER's report identifies Treasury Department Document No. 3266. Printed pp. 3–4 give the unified-budget and borrowing-from-public figures; pp. 9–15 cover debt management, security changes and ownership; p. 7 discusses agency borrowing and the Federal Financing Bank. The report's OCR warns that text extraction may contain errors. The record summarizes the cited pages and does not present its original_text field as a verbatim quotation.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER's report identifies Treasury Department Document No. 3266. Printed pp. 3–4 give the unified-budget and borrowing-from-public figures; pp. 9–15 cover debt management, security changes and ownership; p. 7 discusses agency borrowing and the Federal Financing Bank. The report's OCR warns that text extraction may contain errors. The record summarizes the cited pages and does not present its original_text field as a verbatim quotation. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1975-5617/fulltext"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3266, with printed-page locators for budget financing, debt expansion, security ownership and Federal Financing Bank lending.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৫ — যুদ্ধ-পরবর্তী সময়ের বৃহৎ ঘাটতি, Federal debt বৃদ্ধি, বাজারভিত্তিক অর্থায়ন ও Federal Financing Bank ঋণ",
       "bn_historical_claim": "১৯৭৫ অর্থবছরে unified-budget ঘাটতি ছিল ৪৩.৬ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫০.৯ বিলিয়ন ডলার। Treasury public debt securities প্রায় ৫৯.০ বিলিয়ন ডলার বাড়ে। Federal Reserve ৪.৩ বিলিয়ন ডলারের securities অধিগ্রহণ করে, foreign investors-এর holdings ৯.২ বিলিয়ন বাড়ে এবং Federal Financing Bank Federal agencies-কে ১৫.৮ বিলিয়ন ডলার ঋণ দেয়।",
       "bn_context": "১৯৭৫ সালের প্রতিবেদন মন্দা ও উচ্চ মূল্যস্ফীতির মধ্যে বৃহৎ Federal deficit, বাজারযোগ্য Treasury securities-এর ব্যাপক ইস্যু এবং Federal Financing Bank-এর প্রথম পূর্ণ বছরের কার্যক্রম নথিভুক্ত করে।",
       "bn_interpretation": "প্রতিবেদনটি Treasury debt ও market financing-এর তীব্র বৃদ্ধি, Federal Reserve holdings বৃদ্ধি, foreign holdings বৃদ্ধি এবং Federal Financing Bank-এর agency lending একই সময়ে নথিভুক্ত করে। এসব সমসাময়িক ঘটনা একক সমন্বিত উদ্দেশ্যের প্রমাণ নয়।",
       "bn_notes": "Treasury Department Document No. 3266-এর মুদ্রিত pp. 3–4, 7 এবং 9–15 ব্যবহার করা হয়েছে। FRASER সতর্ক করে যে OCR পাঠে ভুল থাকতে পারে; original_text হলো উৎসের সারাংশ, হুবহু উদ্ধৃতি নয়।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Printed-page locator checked; summary is not a verbatim quotation",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 7, 9–15",
         "evidence": "$43.6B unified-budget deficit; $50.9B borrowing from the public; $544.1B Federal securities; $533.2B public debt securities; $59.0B increase in Treasury public debt securities; $49.0B marketable-security increase; Federal Reserve holdings +$4.3B; foreign public-debt holdings +$9.2B; $15.8B Federal Financing Bank loans.",
         "significance": "Primary institutional evidence for the scale and composition of Federal financing during fiscal 1975.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1975-5617/fulltext",
-        "checked": "2026-10-10",
-        "verification_note": "Printed page labels control over OCR; no paraphrase should be presented as a verbatim quotation."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       }
     },
     {
@@ -4105,32 +4105,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Figures and locator checked against the Treasury annual report's Financial Operations summary; the source is a scanned PDF and the cited summary is not a verbatim quotation.",
-      "last_verified": "2026-10-10",
-      "notes": "The FRASER-hosted Treasury annual report for fiscal 1976 gives the unified-budget and financing reconciliation on printed p. 3 and reports Federal securities outstanding at June 30 and September 30, 1976. Fiscal 1976 and the July–September transition quarter must remain separate. Summary wording is paraphrase, not a verbatim quotation.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "The FRASER-hosted Treasury annual report for fiscal 1976 gives the unified-budget and financing reconciliation on printed p. 3 and reports Federal securities outstanding at June 30 and September 30, 1976. Fiscal 1976 and the July–September transition quarter must remain separate. Summary wording is paraphrase, not a verbatim quotation. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1976.pdf"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with fiscal-operations and financing figures, plus distinct year-end and transition-quarter totals.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৬ — বৃহত্তর ঘাটতি, জনসাধারণের কাছ থেকে ব্যাপক ঋণগ্রহণ ও অর্থবছর পরিবর্তনের অন্তর্বর্তী ত্রৈমাসিক",
       "bn_historical_claim": "১৯৭৬ অর্থবছরে unified-budget ঘাটতি ছিল ৬৫.৬ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৮২.৮ বিলিয়ন ডলার। ৩০ জুনে Federal securities outstanding ছিল ৬৩১.৩ বিলিয়ন ডলার। অর্থবছর পরিবর্তনের কারণে জুলাই–সেপ্টেম্বর ১৯৭৬ transition quarter আলাদাভাবে দেখানো হয়েছে।",
       "bn_context": "প্রতিবেদনটি উচ্চ Federal financing needs এবং ১ জুলাইয়ের বদলে ১ অক্টোবর থেকে Federal fiscal year শুরু করার পরিবর্তন নথিভুক্ত করে; এর ফলে তিন মাসের transition quarter তৈরি হয়।",
       "bn_interpretation": "১৯৭৬ সালের প্রতিবেদন ঘাটতি ও জনসাধারণের কাছ থেকে ঋণগ্রহণ বৃদ্ধির পাশাপাশি অর্থবছরের ক্যালেন্ডার পরিবর্তনের ফলে সৃষ্ট হিসাবগত সীমারেখা দেখায়। জুন ৩০-এর হিসাব এবং সেপ্টেম্বর ৩০-এর transition-quarter figures আলাদা রাখতে হবে।",
       "bn_notes": "Treasury annual report-এর Financial Operations summary, printed p. 3–4 ব্যবহার করা হয়েছে। FY1976 এবং July–September transition quarter একত্র করা হয়নি; সারাংশটি হুবহু উদ্ধৃতি নয়।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Printed-page locator checked; summary is not a verbatim quotation",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4",
         "evidence": "$65.6B fiscal-1976 unified-budget deficit; $82.8B borrowing from the public; $631.3B Federal securities at June 30, 1976; separate $12.7B transition-quarter deficit and $18.0B borrowing from the public; $645.7B Federal securities at September 30, 1976.",
         "significance": "Primary institutional evidence of Federal financing in fiscal 1976 and the separate three-month transition quarter caused by the fiscal-year calendar change.",
         "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1976.pdf",
-        "checked": "2026-10-10",
-        "verification_note": "Keep fiscal-1976 and transition-quarter totals separate; source summary is paraphrase, not a verbatim quotation."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       }
     },
     {
@@ -4174,32 +4174,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Figures and printed-page locator checked against the Treasury annual report; FRASER warns that its OCR text may contain errors, and this record's prose is a summary rather than a verbatim quotation.",
-      "last_verified": "2026-10-10",
-      "notes": "Treasury Department Document No. 3273. Printed pp. 3–4 give fiscal operations and borrowing from the public; pp. 9–12 cover financing, security changes, marketable debt and ownership. Fiscal 1977 ended September 30, 1977, under the revised Federal fiscal-year calendar. Summary wording is not a verbatim quotation.",
+      "verification_status": "Treasury annual-report edition and printed-page locators checked in FRASER text/OCR; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Treasury Department Document No. 3273. Printed pp. 3–4 give fiscal operations and borrowing from the public; pp. 9–12 cover financing, security changes, marketable debt and ownership. Fiscal 1977 ended September 30, 1977, under the revised Federal fiscal-year calendar. Summary wording is not a verbatim quotation. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1977-5620/fulltext"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3273, with printed-page locators for fiscal operations, debt totals and marketable financing.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with identified edition and printed-page locators. The current pass has not visually reconciled the original scan images for the cited fiscal summary and debt-management passages; retain grade B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; edition and printed-page locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৭ — ঘাটতি অর্থায়ন, বাজারভিত্তিক নতুন ঋণ হ্রাস ও Federal debt বৃদ্ধি",
       "bn_historical_claim": "১৯৭৭ অর্থবছরে unified-budget ঘাটতি ছিল ৪৫.০ বিলিয়ন ডলার এবং জনসাধারণের কাছ থেকে ঋণগ্রহণ ছিল ৫৩.৫ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৭৭-এ Federal securities outstanding ছিল ৭০৯.১ বিলিয়ন ডলার। Marketable debt থেকে নতুন নগদ সংগ্রহ ১৯৭৬ অর্থবছরের ৭৯.৬ বিলিয়ন থেকে কমে ৩৮.৩ বিলিয়ন ডলারে আসে; privately held marketable debt-এর গড় maturity কিছুটা বাড়ে।",
       "bn_context": "নতুন অর্থবছর ১ অক্টোবর থেকে ৩০ সেপ্টেম্বর পর্যন্ত হওয়ায় ১৯৭৭ সালের প্রতিবেদনটি আগের জুন-শেষ অর্থবছরের সঙ্গে সরাসরি তুলনা করার আগে ক্যালেন্ডার পরিবর্তন বিবেচনা করতে হয়।",
       "bn_interpretation": "প্রতিবেদনটি মোট Federal debt বৃদ্ধি অব্যাহত থাকার পাশাপাশি marketable debt থেকে নতুন নগদ সংগ্রহ কমে যাওয়া এবং গড় maturity সামান্য দীর্ঘ হওয়া নথিভুক্ত করে। নতুন নগদ সংগ্রহ কমা মোট ঋণ কমে যাওয়ার সমান নয়।",
       "bn_notes": "Treasury Department Document No. 3273-এর মুদ্রিত pp. 3–4 এবং 9–12 ব্যবহার করা হয়েছে। FRASER-এর OCR পাঠে ভুল থাকতে পারে; এই record-এর মূল বিবরণ হুবহু উদ্ধৃতি নয়।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Treasury annual-report edition and printed-page locators checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Printed-page locator checked; summary is not a verbatim quotation",
+        "status": "Treasury annual-report edition and printed-page locators checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 9–12",
         "evidence": "$45.0B unified-budget deficit; $53.5B borrowing from the public; $709.1B Federal securities; $698.8B public debt securities; $38.3B new cash raised through marketable debt vs. $79.6B in FY1976; average privately held marketable debt maturity rose from 2y9m to 2y11m.",
         "significance": "Primary institutional evidence of fiscal-1977 financing and the changed Federal fiscal calendar.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1977-5620/fulltext",
-        "checked": "2026-10-10",
-        "verification_note": "Fiscal 1977 ended September 30; summary is paraphrase and printed page labels control over OCR."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page locators are recorded, but the original scan images for the cited pages have not been visually inspected in this pass. Retain grade B; do not describe this as image-verified."
       }
     },
     {
