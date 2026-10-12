@@ -3275,26 +3275,26 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Passage verified — printed pages",
-      "last_verified": "2026-10-05",
-      "notes": "Verified against Treasury Department Document No. 3233. Printed pp. 3–4 establish the fiscal totals; pp. 18–20 cover debt management and foreign borrowing; pp. 60–61 and p. 131 document debt-limit legislation and financing authority. FRASER's OCR is automatically extracted; printed page labels control.",
+      "verification_status": "FRASER OCR and Treasury Department Document No. 3233 identity checked; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "FRASER identifies the report as the Annual Report of the Secretary of the Treasury for the fiscal year ended June 30, 1964, issued by GPO in 1965 as Treasury Department Document No. 3233. OCR locates fiscal operations at printed pp. 3–4, debt-management discussion at pp. 18–20, debt-limit material at pp. 60–61 and 131, and public-debt tables beginning at printed p. 460. Reported figures include an $8.2 billion administrative budget deficit, $311.7 billion public debt, $312.5 billion total gross public debt and guaranteed debt, and $4.8 billion excess of cash payments over receipts. The text layer is accessible but the original scan page images have not been visually reconciled in this pass. Keep grade B; do not describe this as image-verified.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1964-5456/fulltext"
       ],
       "passage_record": {
-        "status": "Passage verified — printed pages",
+        "status": "FRASER OCR and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 3–4, 18–20, 60–61, 131",
         "evidence": "The report records the $8.2 billion FY1964 administrative budget deficit, $311.7 billion public debt, debt-management use in support of balance-of-payments objectives, continued foreign official borrowing, Treasury-bill expansion in support of Federal Reserve policy, and repeated temporary debt-limit increases culminating in a $324 billion limit for FY1965.",
         "significance": "Primary institutional evidence connecting deficit financing, monetary/debt-management policy, international balance-of-payments pressures, foreign official borrowing, and congressional debt-limit authority.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-ended-june-30-1964-5456/fulltext",
-        "checked": "2026-10-05",
-        "verification_note": "Claims are tied to printed page labels; numerical quotations should be checked against the original scan because FRASER's OCR layer can contain extraction errors."
+        "checked": "2026-10-12",
+        "verification_note": "Printed-page labels are grounded in FRASER's OCR table of contents and extracted text, but original scan images for pp. 3–4, 18–20, 60–61, and 131 have not been visually inspected in this pass. Retain grade B and do not upgrade until the figures and exact locators are checked against the original scan."
       },
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report with named GPO edition/document number and verified printed pages covering fiscal operations, debt management, foreign borrowing, monetary coordination, and debt-limit legislation.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary Treasury annual report with identified GPO edition and printed-page locators in FRASER OCR. Since original scan images for the cited fiscal summary and debt tables have not been visually reconciled in this verification pass, retain B pending image-level checks.",
+      "publication_status": "Primary institutional evidence; printed-page locators checked in FRASER OCR; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৬৪ — ঘাটতি অর্থায়ন, balance-of-payments ঋণ-ব্যবস্থাপনা, বৈদেশিক ঋণগ্রহণ ও ঋণসীমা সম্প্রসারণ",
       "bn_historical_claim": "১৯৬৪ অর্থবছরে ৮.২ বিলিয়ন ডলারের প্রশাসনিক বাজেট ঘাটতি এবং ৩১১.৭ বিলিয়ন ডলারের সরকারি ঋণ ছিল। প্রতিবেদনটি মার্কিন balance-of-payments ঘাটতি মোকাবিলায় ঋণ-ব্যবস্থাপনা ব্যবহার এবং ফেডারেল রিজার্ভের নীতিকে সমর্থন করতে Treasury bill-এর সরবরাহ বাড়ানোর কথা স্পষ্টভাবে নথিভুক্ত করে। ১৯৬২ সালে শুরু হওয়া বৈদেশিক সরকারি সংস্থার কাছ থেকে সরাসরি ঋণগ্রহণও অব্যাহত থাকে।",
       "bn_context": "প্রতিবেদনটি ঘাটতি অর্থায়ন, ঋণ-ব্যবস্থাপনা, স্বল্পমেয়াদি সুদের হার, বৈদেশিক সরকারি অর্থায়ন এবং কংগ্রেসের অস্থায়ী ঋণসীমা বৃদ্ধিকে একই আর্থিক কাঠামোর মধ্যে দেখায়।",
