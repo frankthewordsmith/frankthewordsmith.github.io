@@ -698,6 +698,64 @@
       "bn_interpretation": "ঘোষণাটি নির্দিষ্ট মুদ্রাস্ফীতি-সুরক্ষিত ট্রেজারি সিকিউরিটির পরিকল্পিত নিলাম-আকার নথিভুক্ত করে; সম্পন্ন ইস্যুর পরিমাণ নয়।",
       "bn_notes": "পরিকল্পিত অঙ্ককে সম্পন্ন ইস্যু হিসেবে গণ্য করবেন না; প্রতিটি নিলামের পৃথক ঘোষণা ও ফলাফল যাচাই করুন।",
       "bn_verification_status": "ট্রেজারির ৫ আগস্ট ২০২৬-এর সরকারি ত্রৈমাসিক রিফান্ডিং বিবৃতির TIPS Financing অংশে বাক্য, তারিখ, সিকিউরিটির ধরন ও পরিকল্পিত অঙ্ক যাচাই করা হয়েছে।"
+    },
+    {
+      "source_id": "us-treasury-cash-balance-forecast-2026-q3-q4",
+      "title": "Treasury’s Cash-Balance Forecast for Late September and October 2026",
+      "source_type": "U.S. Treasury quarterly refunding statement",
+      "date_start": "2026-08-05",
+      "date_end": "2026-10-31",
+      "date_label": "August 5, 2026 statement; forecast for September–October 2026",
+      "civilization": "United States",
+      "region": "North America",
+      "language": "English",
+      "original_term": "Treasury General Account (TGA)",
+      "original_text": "Treasury is assuming a $950 billion cash balance at the end of September. However, based on current projections for the upcoming refunding quarter, Treasury estimates that the size of the Treasury General Account (TGA) could peak at $1.05 trillion (plus or minus $50 billion) in late October.",
+      "translation": "ট্রেজারি সেপ্টেম্বরের শেষে ৯৫০ বিলিয়ন ডলারের নগদ স্থিতি ধরে নিচ্ছে। তবে আসন্ন ঋণপত্র-সংক্রান্ত ত্রৈমাসিকের বর্তমান পূর্বাভাস অনুযায়ী, অক্টোবরের শেষ দিকে ট্রেজারি জেনারেল অ্যাকাউন্টের (TGA) পরিমাণ ১.০৫ ট্রিলিয়ন ডলারে পৌঁছাতে পারে (৫০ বিলিয়ন ডলার কম-বেশি)।",
+      "edition": "Official Treasury press release SB0590",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": 2026,
+      "reference_number": "SB0590",
+      "section": "CASH BALANCE",
+      "source_identity": "U.S. Department of the Treasury, Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith, August 5, 2026, “CASH BALANCE” section.",
+      "historical_claim": "On August 5, 2026, Treasury assumed a $950 billion TGA cash balance at the end of September and projected that the TGA could peak at $1.05 trillion, plus or minus $50 billion, in late October.",
+      "context": "This statement accompanies Treasury’s August–October 2026 quarterly refunding plans. It documents Treasury’s stated cash-balance assumptions and forecast, not the balance later realized.",
+      "interpretation": "The passage shows that Treasury’s debt-management planning explicitly incorporated an end-September cash assumption and a higher potential late-October TGA peak. It should be read as a forecast used in planning rather than an observed cash balance.",
+      "notes": "Keep the September end-of-month assumption separate from the late-October projected peak. The ±$50 billion range is Treasury’s stated forecast range.",
+      "what_passage_establishes": "Treasury’s August 5 statement assumed $950 billion in the TGA at the end of September and estimated a possible late-October peak of $1.05 trillion ± $50 billion.",
+      "evidence_limits": "This is a dated forecast, not proof of the realized TGA balance in September or October. It does not independently establish borrowing actually issued, cash receipts, outlays, or the eventual peak date and amount.",
+      "citation_record": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” August 5, 2026, “CASH BALANCE” section, press release SB0590.",
+      "scholarly_references": [
+        "Primary source: official U.S. Treasury quarterly refunding statement, SB0590. No separate secondary scholarly source is required to establish this forecast."
+      ],
+      "related_sources": [
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+        "us-treasury-quarterly-refunding-august-2026",
+        "us-treasury-quarterly-buyback-plan-august-october-2026"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0590",
+        "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf?mod=article_inline"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury forecast; forecast status explicitly retained.",
+      "verification_status": "Official Treasury statement checked; end-September assumption distinguished from late-October projected peak.",
+      "last_verified": "2026-10-13",
+      "passage_record": {
+        "status": "Official Treasury statement checked; figures recorded as forecasts, not realized balances.",
+        "locator": "Treasury press release SB0590, August 5, 2026, section headed “CASH BALANCE.”",
+        "evidence": "Treasury states it is assuming a $950 billion cash balance at the end of September and estimates the TGA could peak at $1.05 trillion (±$50 billion) in late October.",
+        "significance": "Provides a distinct debt-management cash-balance forecast that complements, but does not duplicate, the quarter’s marketable-borrowing estimate.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0590",
+        "checked": "2026-10-13",
+        "verification_note": "Exact wording and amounts checked against the official Treasury statement. Treat as forecast only."
+      },
+      "bn_title": "২০২৬ সালের সেপ্টেম্বরের শেষ ও অক্টোবরের জন্য ট্রেজারির নগদ-স্থিতির পূর্বাভাস",
+      "bn_historical_claim": "২০২৬ সালের ৫ আগস্ট ট্রেজারি সেপ্টেম্বরের শেষে TGA-তে ৯৫০ বিলিয়ন ডলারের নগদ স্থিতি ধরে নেয় এবং অক্টোবরের শেষ দিকে তা ১.০৫ ট্রিলিয়ন ডলারে পৌঁছাতে পারে বলে পূর্বাভাস দেয় (৫০ বিলিয়ন ডলার কম-বেশি)।",
+      "bn_context": "এই বিবৃতিটি ট্রেজারির আগস্ট–অক্টোবর ২০২৬ ত্রৈমাসিক ঋণপত্র পরিকল্পনার অংশ। এটি ঘোষিত নগদ-স্থিতির অনুমান ও পূর্বাভাস নথিভুক্ত করে, পরে বাস্তবে কত ছিল তা নয়।",
+      "bn_interpretation": "উদ্ধৃতিটি দেখায় যে ট্রেজারির ঋণ-ব্যবস্থাপনা পরিকল্পনায় সেপ্টেম্বরের শেষের নগদ অনুমান এবং অক্টোবরের শেষের সম্ভাব্য উচ্চতর TGA স্থিতি অন্তর্ভুক্ত ছিল। একে পরিকল্পনায় ব্যবহৃত পূর্বাভাস হিসেবে পড়তে হবে, পর্যবেক্ষিত নগদ স্থিতি হিসেবে নয়।",
+      "bn_notes": "সেপ্টেম্বরের শেষের অনুমানকে অক্টোবরের শেষের সম্ভাব্য সর্বোচ্চ স্থিতি থেকে আলাদা রাখুন। ±৫০ বিলিয়ন ডলারের সীমাটি ট্রেজারির ঘোষিত পূর্বাভাস-পরিসর।",
+      "bn_verification_status": "ট্রেজারির সরকারি বিবৃতি যাচাই করা হয়েছে; সেপ্টেম্বরের শেষের অনুমানকে অক্টোবরের শেষের সম্ভাব্য সর্বোচ্চ স্থিতি থেকে আলাদা রাখা হয়েছে।"
     }
   ]
 }
