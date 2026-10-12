@@ -756,6 +756,65 @@
       "bn_interpretation": "উদ্ধৃতিটি দেখায় যে ট্রেজারির ঋণ-ব্যবস্থাপনা পরিকল্পনায় সেপ্টেম্বরের শেষের নগদ অনুমান এবং অক্টোবরের শেষের সম্ভাব্য উচ্চতর TGA স্থিতি অন্তর্ভুক্ত ছিল। একে পরিকল্পনায় ব্যবহৃত পূর্বাভাস হিসেবে পড়তে হবে, পর্যবেক্ষিত নগদ স্থিতি হিসেবে নয়।",
       "bn_notes": "সেপ্টেম্বরের শেষের অনুমানকে অক্টোবরের শেষের সম্ভাব্য সর্বোচ্চ স্থিতি থেকে আলাদা রাখুন। ±৫০ বিলিয়ন ডলারের সীমাটি ট্রেজারির ঘোষিত পূর্বাভাস-পরিসর।",
       "bn_verification_status": "ট্রেজারির সরকারি বিবৃতি যাচাই করা হয়েছে; সেপ্টেম্বরের শেষের অনুমানকে অক্টোবরের শেষের সম্ভাব্য সর্বোচ্চ স্থিতি থেকে আলাদা রাখা হয়েছে।"
+    },
+    {
+      "source_id": "us-treasury-bill-issuance-outlook-2026-aug-oct",
+      "title": "Treasury’s Bill-Issuance Outlook for August–October 2026",
+      "source_type": "U.S. Treasury quarterly refunding statement",
+      "date_start": "2026-08-05",
+      "date_end": "2026-10-31",
+      "date_label": "August 5, 2026 statement; outlook for August–October 2026",
+      "civilization": "United States",
+      "region": "North America",
+      "language": "English",
+      "original_term": "Benchmark Treasury bills; cash management bills (CMBs)",
+      "original_text": "Based on current forecasts, Treasury expects to maintain current auction sizes in benchmark bills in the coming weeks and anticipates potentially issuing a short-dated CMB to meet its cash management needs around the end of August. Given projections for receipts associated with the mid-September corporate and non-withheld tax date, Treasury expects to implement reductions to shorter-dated bill auction sizes during the month of September. In October, Treasury anticipates increasing auction sizes across the bill curve based on expected seasonal fiscal outflows.",
+      "translation": "বর্তমান পূর্বাভাস অনুযায়ী, ট্রেজারি আগামী কয়েক সপ্তাহে বেঞ্চমার্ক বিলের বর্তমান নিলাম-আকার বজায় রাখার আশা করছে এবং আগস্টের শেষ দিকে নগদ ব্যবস্থাপনার প্রয়োজনে স্বল্প-মেয়াদি CMB ইস্যু করার সম্ভাবনা বিবেচনা করছে। সেপ্টেম্বরের মাঝামাঝি কর্পোরেট ও withholding tax-এর তারিখে প্রত্যাশিত রাজস্বের কারণে সেপ্টেম্বরে স্বল্প-মেয়াদি বিলের নিলাম-আকার কমানোর পরিকল্পনা রয়েছে। অক্টোবর মাসে মৌসুমি সরকারি ব্যয়প্রবাহের প্রত্যাশায় বিভিন্ন মেয়াদের বিলের নিলাম-আকার বাড়ানোর সম্ভাবনা রয়েছে।",
+      "edition": "Official Treasury press release SB0590",
+      "publisher": "U.S. Department of the Treasury",
+      "publication_year": 2026,
+      "reference_number": "SB0590",
+      "section": "BILL ISSUANCE",
+      "source_identity": "U.S. Department of the Treasury, Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith, August 5, 2026, “BILL ISSUANCE” section.",
+      "historical_claim": "Treasury’s August 5, 2026 statement forecast stable benchmark bill auction sizes in the near term, a possible short-dated cash management bill around late August, reductions to shorter-dated bill auction sizes in September, and increases across the bill curve in October.",
+      "context": "This is a prospective bill-issuance plan tied to Treasury’s stated cash-management needs, tax receipts, and seasonal fiscal outflows. It is separate from the statement’s nominal coupon/FRN and TIPS auction-size tables.",
+      "interpretation": "The passage documents the planned use of short-term bills as a flexible adjustment margin in Treasury financing. The stated drivers are expected timing of receipts and outflows; the statement does not prove that every anticipated auction-size adjustment was subsequently implemented.",
+      "notes": "Preserve forecast wording: 'expects', 'anticipates', and 'potentially'. Do not treat the late-August CMB as confirmed issuance or September/October changes as realized auction sizes without later auction announcements/results.",
+      "what_passage_establishes": "As of August 5, Treasury expected to keep benchmark bill sizes stable in the near term, might issue a short-dated CMB around late August, expected to reduce shorter-dated bill sizes during September, and anticipated increasing bill sizes across maturities in October.",
+      "evidence_limits": "This is a dated outlook, not a record of completed auctions. It does not specify exact future bill auction sizes or confirm whether the possible CMB was issued. Actual changes require subsequent auction announcements and results.",
+      "citation_record": "U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith,” August 5, 2026, “BILL ISSUANCE” section, press release SB0590.",
+      "scholarly_references": [
+        "Primary source: official U.S. Treasury quarterly refunding statement, SB0590. Later auction announcements/results should be consulted to test whether the forecast was implemented."
+      ],
+      "related_sources": [
+        "us-treasury-quarterly-refunding-august-2026",
+        "us-treasury-marketable-borrowing-estimates-2026-q3-q4",
+        "us-treasury-cash-balance-forecast-2026-q3-q4",
+        "us-treasury-tentative-auction-schedule-october-2026"
+      ],
+      "web_sources": [
+        "https://home.treasury.gov/news/press-releases/sb0590",
+        "https://www.treasurydirect.gov/auctions/announcements-data-results/"
+      ],
+      "evidence_grade": "B",
+      "publication_status": "Official Treasury outlook; forecast status explicitly retained.",
+      "verification_status": "Official Treasury statement checked; expected changes distinguished from actual auction issuance.",
+      "last_verified": "2026-10-13",
+      "passage_record": {
+        "status": "Official Treasury statement checked; bill-size changes are forecasts/plans, not verified realized outcomes.",
+        "locator": "Treasury press release SB0590, August 5, 2026, section headed “BILL ISSUANCE.”",
+        "evidence": "Treasury describes expected near-term benchmark bill sizes, a possible short-dated CMB around late August, September reductions to shorter-dated bills, and October increases across the bill curve.",
+        "significance": "Distinct short-term financing-management evidence that is not interchangeable with coupon/FRN or TIPS auction-size schedules.",
+        "source_url": "https://home.treasury.gov/news/press-releases/sb0590",
+        "checked": "2026-10-13",
+        "verification_note": "Exact section and wording checked against the official statement. Later auction notices/results are needed to confirm implementation."
+      },
+      "bn_title": "২০২৬ সালের আগস্ট–অক্টোবরের জন্য ট্রেজারির বিল-ইস্যু পূর্বাভাস",
+      "bn_historical_claim": "২০২৬ সালের ৫ আগস্টের বিবৃতিতে ট্রেজারি নিকট ভবিষ্যতে বেঞ্চমার্ক বিলের নিলাম-আকার অপরিবর্তিত রাখার, আগস্টের শেষ দিকে সম্ভাব্য স্বল্প-মেয়াদি CMB ইস্যুর, সেপ্টেম্বরে স্বল্প-মেয়াদি বিলের আকার কমানোর এবং অক্টোবরে বিভিন্ন মেয়াদের বিলের আকার বাড়ানোর পূর্বাভাস দেয়।",
+      "bn_context": "এটি ট্রেজারির নগদ ব্যবস্থাপনা, কর-রাজস্বের সময় এবং মৌসুমি সরকারি ব্যয়প্রবাহের সঙ্গে যুক্ত ভবিষ্যৎ বিল-ইস্যু পরিকল্পনা। এটি nominal coupon/FRN এবং TIPS নিলাম-আকারের সারণি থেকে আলাদা।",
+      "bn_interpretation": "উদ্ধৃতিটি দেখায় যে ট্রেজারি অর্থায়নে স্বল্প-মেয়াদি বিলকে পরিবর্তনশীল সমন্বয়-উপায় হিসেবে ব্যবহার করার পরিকল্পনা করেছিল। বিবৃতিতে রাজস্ব ও ব্যয়ের প্রত্যাশিত সময়কে কারণ হিসেবে বলা হয়েছে; তবে প্রত্যাশিত প্রতিটি পরিবর্তন বাস্তবে কার্যকর হয়েছিল—এটি প্রমাণিত হয় না।",
+      "bn_notes": "‘আশা করছে’, ‘সম্ভাবনা রয়েছে’ এবং ‘বিবেচনা করছে’—এ ধরনের পূর্বাভাসমূলক ভাষা বজায় রাখুন। পরবর্তী নিলাম-ঘোষণা বা ফলাফল ছাড়া সম্ভাব্য CMB-কে নিশ্চিত ইস্যু, কিংবা সেপ্টেম্বর/অক্টোবরের পরিবর্তনকে বাস্তবায়িত নিলাম-আকার হিসেবে দেখাবেন না।",
+      "bn_verification_status": "ট্রেজারির সরকারি বিবৃতি যাচাই করা হয়েছে; প্রত্যাশিত পরিবর্তনকে বাস্তব নিলাম-ইস্যু থেকে আলাদা রাখা হয়েছে।"
     }
   ]
 }
