@@ -4243,33 +4243,33 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Debt-balance figures checked against the Treasury statistical appendix; narrative annual-report pages not independently inspected. Summary wording is not a verbatim quotation.",
-      "last_verified": "2026-10-10",
-      "notes": "Treasury Department Document No. 3276 A, Statistical Appendix. The tables list Federal securities outstanding and securities held by the public for September 30, 1977 and 1978. The approximate $48.8B deficit is contextual and should be cross-checked against the report's fiscal-operations tables before treating it as a page-locked exact figure. FRASER warns that OCR text may contain errors.",
+      "verification_status": "Treasury annual-report figures checked against text/transcription; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Treasury Department Document No. 3276 A, Statistical Appendix. The tables list Federal securities outstanding and securities held by the public for September 30, 1977 and 1978. The approximate $48.8B deficit is contextual and should be cross-checked against the report's fiscal-operations tables before treating it as a page-locked exact figure. FRASER warns that OCR text may contain errors. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5623/fulltext",
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5622"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury statistical appendix, Treasury Department Document No. 3276 A, with debt and ownership tables for September 30, 1977 and September 30, 1978. The narrative report was not independently page-checked for this entry.",
-      "publication_status": "primary institutional evidence with named edition and verified printed-page lock",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report/statistical appendix with printed-page locators, but cited original scan images have not been visually reconciled in this pass. Retain grade B pending image-level verification.",
+      "publication_status": "Primary institutional evidence; text-layer figures and locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৮ — Federal securities ও জনসাধারণের হাতে থাকা সরকারি সিকিউরিটির ধারাবাহিক বৃদ্ধি",
       "bn_historical_claim": "ট্রেজারির ১৯৭৮ সালের statistical appendix অনুযায়ী, ৩০ সেপ্টেম্বর ১৯৭৮-এ মোট Federal securities outstanding ছিল প্রায় ৭৮০.৪ বিলিয়ন ডলার, যা এক বছর আগে প্রায় ৭০৯.১ বিলিয়ন ডলার ছিল। জনসাধারণের হাতে থাকা Federal securities প্রায় ৬১০.৯ বিলিয়ন ডলারে পৌঁছায়।",
       "bn_context": "প্রতিবেদনটি অক্টোবর–সেপ্টেম্বর Federal fiscal year অনুসরণ করে এবং মোট Federal securities ও জনসাধারণের হাতে থাকা securities-এর জন্য পৃথক debt ও ownership table দেয়।",
       "bn_interpretation": "প্রাথমিক পরিসংখ্যান সরকারি securities-এর মোট পরিমাণ এবং জনসাধারণের হাতে থাকা অংশের বৃদ্ধি নথিভুক্ত করে। এসব aggregate balance একা issuance-এর উদ্দেশ্য বা কোনো প্রতিষ্ঠানের একক causal ভূমিকা প্রমাণ করে না।",
       "bn_notes": "Treasury Department Document No. 3276 A-এর statistical appendix-এর debt ও ownership table ব্যবহার করা হয়েছে। Narrative report-এর পৃষ্ঠাগুলো আলাদাভাবে যাচাই করা হয়নি; ৪৮.৮ বিলিয়ন ডলারের deficit-কে নির্দিষ্ট পৃষ্ঠায় যাচাইকৃত সংখ্যা হিসেবে ব্যবহার করার আগে fiscal-operations table পুনরায় পরীক্ষা করতে হবে।",
-      "bn_verification_status": "Passage verified — printed pages",
+      "bn_verification_status": "Text/transcription and report identity checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Debt-balance tables checked; narrative report not independently page-checked",
+        "status": "Text/transcription and report identity checked; original scan page images pending.",
         "locator": "Statistical Appendix, tables 1 and 17–18",
         "evidence": "Federal securities outstanding: about $780.4B at Sep. 30, 1978 vs. $709.1B in 1977; Federal securities held by the public: about $610.9B vs. $551.8B.",
         "significance": "Primary statistical evidence for the continued expansion of Federal securities and the public-held portion.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1978-5623/fulltext",
-        "checked": "2026-10-10",
-        "verification_note": "Aggregate debt balances are distinct from budget deficits; this summary is not a verbatim quotation."
+        "checked": "2026-10-12",
+        "verification_note": "The cited text/table is available in a text/transcription layer, but the original scan image has not been visually inspected in this pass. Retain grade B and do not call the record image-verified."
       }
     },
     {
@@ -4313,32 +4313,32 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Figures and claims checked against the Treasury annual report's printed-page sections; summary wording is not a verbatim quotation.",
-      "last_verified": "2026-10-10",
-      "notes": "Treasury Department Document No. 3279. The report is for the fiscal year ended September 30, 1979, not June 30. Summary figures are on the opening financial-operations pages; Federal debt and ownership discussion is on printed pp. 12–15; foreign-currency and dollar-stabilization operations are discussed on printed pp. 75–77. FRASER warns that its OCR text may contain errors; consult page images for any future verbatim quotation.",
+      "verification_status": "Treasury annual-report figures checked against text/transcription; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Treasury Department Document No. 3279. The report is for the fiscal year ended September 30, 1979, not June 30. Summary figures are on the opening financial-operations pages; Federal debt and ownership discussion is on printed pp. 12–15; foreign-currency and dollar-stabilization operations are discussed on printed pp. 75–77. FRASER warns that its OCR text may contain errors; consult page images for any future verbatim quotation. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1979-5624/fulltext"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report, Treasury Department Document No. 3279, with named printed-page sections for fiscal operations, federal debt and ownership, and foreign-currency operations. The record summarizes the report rather than presenting a purported verbatim quotation.",
-      "publication_status": "primary institutional evidence with named edition and printed-page locators",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report/statistical appendix with printed-page locators, but cited original scan images have not been visually reconciled in this pass. Retain grade B pending image-level verification.",
+      "publication_status": "Primary institutional evidence; text-layer figures and locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৭৯ — ঘাটতি অর্থায়ন, Federal securities বৃদ্ধি, foreign-currency operations ও ডলার স্থিতিশীলকরণ",
       "bn_historical_claim": "১৯৭৯ অর্থবছরে unified-budget ঘাটতি ছিল ২৭.৩ বিলিয়ন ডলার এবং public borrowing ছিল ৩৩.৬ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৭৯-এ Federal securities outstanding ছিল ৮৩৩.৮ বিলিয়ন ডলার। প্রতিবেদনে private-investor ও Federal Reserve holdings আলাদা করে দেখানো হয়েছে এবং foreign-currency securities ও dollar-stabilization operations নথিভুক্ত হয়েছে।",
       "bn_context": "পরিবর্তিত fiscal calendar-এ ৩০ সেপ্টেম্বর শেষ হওয়া প্রথম অর্থবছরে বড় federal borrowing-এর পাশাপাশি বিদেশি holdings-এর অস্থিরতা, foreign-currency Treasury issuance এবং ডলার সমর্থনে Treasury/Federal Reserve পদক্ষেপ নথিভুক্ত হয়।",
       "bn_interpretation": "প্রতিবেদনটি ১৯৭৯ সালে fiscal financing, federal-securities ownership এবং foreign-exchange operations-এর প্রাথমিক প্রাতিষ্ঠানিক প্রমাণ দেয়। সমসাময়িকতা নিজে থেকে কোনো একক causal explanation প্রমাণ করে না।",
       "bn_notes": "Treasury Department Document No. 3279। অর্থবছরটি ৩০ সেপ্টেম্বর ১৯৭৯-এ শেষ হয়, ৩০ জুন নয়। Financial operations-এর প্রারম্ভিক পৃষ্ঠা, printed pp. 12–15 এবং pp. 75–77 ব্যবহার করা হয়েছে। সারাংশটি হুবহু উদ্ধৃতি নয়; OCR-এ ভুল থাকতে পারে।",
-      "bn_verification_status": "Figures and claims checked against printed-page sections; summary is not a verbatim quotation.",
+      "bn_verification_status": "Text/transcription and report identity checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Printed-page sections checked; summary is not a verbatim quotation",
+        "status": "Text/transcription and report identity checked; original scan page images pending.",
         "locator": "Printed pp. 1–2, 12–15, 75–77",
         "evidence": "$27.3B unified-budget deficit; $33.6B borrowing from the public; $833.8B Federal securities outstanding; $33.5B increase in private-investor holdings; $0.6B net decline in Federal Reserve holdings; foreign-currency securities and dollar-support operations.",
         "significance": "Primary institutional evidence for fiscal financing, debt ownership, and foreign-currency operations during fiscal 1979.",
         "source_url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1979-5624/fulltext",
-        "checked": "2026-10-10",
-        "verification_note": "The annual report covers the fiscal year ended September 30, 1979. Do not present the synthesis as a verbatim quote; use page images for exact quotations."
+        "checked": "2026-10-12",
+        "verification_note": "The cited text/table is available in a text/transcription layer, but the original scan image has not been visually inspected in this pass. Retain grade B and do not call the record image-verified."
       }
     },
     {
@@ -4382,33 +4382,33 @@
       "related_books": [
         "Why Only Usury Invokes Allah's War?"
       ],
-      "verification_status": "Key figures checked against the report's Financial Operations summary and the statistical appendix's debt/ownership tables; summary is not a verbatim quotation.",
-      "last_verified": "2026-10-10",
-      "notes": "Fiscal year ended September 30, 1980, not June 30. The main report's opening Financial Operations summary gives the $59.0B deficit, $520.1B receipts, $579.0B outlays, $70.5B public borrowing, and $914.3B Federal securities total. Statistical Appendix Document No. 3282A, tables 17–18 and 51–52, supplies the debt and ownership series. FRASER OCR may contain errors; consult the page images before quoting verbatim.",
+      "verification_status": "Treasury annual-report figures checked against text/transcription; original scan page-image verification remains pending.",
+      "last_verified": "2026-10-12",
+      "notes": "Fiscal year ended September 30, 1980, not June 30. The main report's opening Financial Operations summary gives the $59.0B deficit, $520.1B receipts, $579.0B outlays, $70.5B public borrowing, and $914.3B Federal securities total. Statistical Appendix Document No. 3282A, tables 17–18 and 51–52, supplies the debt and ownership series. FRASER OCR may contain errors; consult the page images before quoting verbatim. Original scan page-image verification remains pending; evidence grade held at B.",
       "web_sources": [
         "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1980.pdf",
         "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-fiscal-year-1980-5627/fulltext"
       ],
-      "evidence_grade_6_4": "A",
-      "evidence_grade_6_6": "A",
-      "evidence_grade": "A",
-      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report and statistical appendix, Treasury Department Documents Nos. 3282 and 3282A, with identified fiscal-operations and debt/ownership tables. The record is an evidence summary, not a purported verbatim quotation.",
-      "publication_status": "primary institutional evidence with named edition and printed-page/table locators",
+      "evidence_grade_6_4": "B",
+      "evidence_grade_6_6": "B",
+      "evidence_grade": "B",
+      "evidence_grade_basis_6_4": "Contemporary primary Treasury annual report/statistical appendix with printed-page locators, but cited original scan images have not been visually reconciled in this pass. Retain grade B pending image-level verification.",
+      "publication_status": "Primary institutional evidence; text-layer figures and locators checked; original scan page images pending.",
       "bn_title": "মার্কিন ট্রেজারি বার্ষিক প্রতিবেদন ১৯৮০ — বড় ঘাটতি অর্থায়ন, Federal securities বৃদ্ধি ও public borrowing",
       "bn_historical_claim": "১৯৮০ অর্থবছরে unified-budget ঘাটতি ছিল ৫৯.০ বিলিয়ন ডলার এবং public borrowing ছিল ৭০.৫ বিলিয়ন ডলার। ৩০ সেপ্টেম্বর ১৯৮০-এ Federal securities outstanding ছিল ৯১৪.৩ বিলিয়ন ডলার, যার মধ্যে ৭১৫.১ বিলিয়ন ডলার ছিল borrowing from the public।",
       "bn_context": "১৯৮০ অর্থবছরে receipts ও outlays উভয়ই উল্লেখযোগ্যভাবে বাড়ে এবং অর্থায়নের প্রয়োজনও বাড়ে। Statistical appendix মোট securities, public-held securities এবং public debt-এর মধ্যে পার্থক্য দেখায়।",
       "bn_interpretation": "এই রেকর্ড ১৯৮০ সালে বড় fiscal financing ও Federal securities বৃদ্ধির প্রমাণ দেয়; তবে একা এটি ঘাটতির কারণ, বিনিয়োগকারীর উদ্দেশ্য বা monetary conditions-এর ওপর debt issuance-এর causal effect প্রমাণ করে না।",
       "bn_notes": "অর্থবছরটি ৩০ সেপ্টেম্বর ১৯৮০-এ শেষ হয়। মূল প্রতিবেদনের Financial Operations summary এবং Statistical Appendix Document No. 3282A-এর tables 17–18 ও 51–52 ব্যবহার করা হয়েছে। সারাংশটি হুবহু উদ্ধৃতি নয়; OCR ভুল থাকতে পারে।",
-      "bn_verification_status": "Key figures checked against printed-page/table locators; summary is not a verbatim quotation.",
+      "bn_verification_status": "Text/transcription and report identity checked; original scan page-image verification pending.",
       "book": "book-1",
       "passage_record": {
-        "status": "Key figures checked against report summary and statistical tables; summary is not a verbatim quotation",
+        "status": "Text/transcription and report identity checked; original scan page images pending.",
         "locator": "Financial Operations summary; Statistical Appendix tables 17–18 and 51–52",
         "evidence": "$59.0B unified-budget deficit; $520.1B receipts; $579.0B outlays; $70.5B borrowing from the public; $914.3B Federal securities outstanding; $907.7B public debt securities; $6.6B agency securities; $715.1B borrowing from the public.",
         "significance": "Primary institutional evidence for fiscal financing, Federal securities expansion, and distinctions between total securities and public-held debt in FY1980.",
         "source_url": "https://fraser.stlouisfed.org/files/docs/publications/treasar/AR_TREASURY_1980.pdf",
-        "checked": "2026-10-10",
-        "verification_note": "The fiscal year ended September 30, 1980. Use page images before making verbatim quotations."
+        "checked": "2026-10-12",
+        "verification_note": "The cited text/table is available in a text/transcription layer, but the original scan image has not been visually inspected in this pass. Retain grade B and do not call the record image-verified."
       }
     },
     {
