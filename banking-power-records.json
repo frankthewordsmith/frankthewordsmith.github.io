@@ -944,35 +944,36 @@
       "source_id": "rothschild-brazil-debt-service-loan-1829",
       "title": "Rothschild Brazilian Debt-Service Loan, 1829",
       "date_label": "1829",
-      "historical_claim": "Nathan Mayer Rothschild arranged a £400,000 Brazilian loan in 1829 specifically to service Brazil's existing debts.",
-      "verification_status": "The Rothschild Archive identifies the 1829 debt-service loan and surviving bond documentation; direct original contract transcription remains to be locked",
+      "historical_claim": "Brazilian parliamentary archive records a Treasury Minister's 6 August 1829 letter about a loan made with N. M. Rothschild and T. Wilson & Co.; the letter says the government could not provide further particulars because the deed and other transaction papers were absent. The Rothschild Archive separately describes a £400,000 1829 loan specifically intended to service existing debts. The two records are related evidence, but the missing contract prevents full terms from being established.",
+      "verification_status": "Contemporary Brazilian parliamentary archival record identified with exact archival reference and session citation; official catalogue explicitly says the deed and other transaction documents were unavailable. Original letter scan/transcription and reconciliation with the Rothschild Archive's £400,000 debt-service description remain pending.",
       "evidence_grade": "B",
-      "source_url": "https://www.rothschildarchive.org/exhibitions/brazil/financing_the_new_nation",
+      "source_url": "https://arquivohistorico.camara.leg.br/index.php/br-dfcd-cd1-1-ofi-1829-40106-0298",
       "bn_title": "রথসচাইল্ডের ব্রাজিলীয় ঋণ-পরিশোধ ঋণ, ১৮২৯",
       "bn_historical_claim": "১৮২৯ সালে নাথান মেয়ার রথসচাইল্ড ব্রাজিলের বিদ্যমান ঋণ পরিশোধের জন্য £৪ লক্ষের একটি ঋণ ব্যবস্থা করেন।",
-      "notes": "The Rothschild Archive states that Brazil's solvency in the late-1820s crisis was supported in large part by Nathan's financial innovation in raising a £400,000 loan in 1829 specifically to service existing Brazilian debts, and describes the bond as an early example of this type. The current deployment remains Grade B because the direct original 1829 contract/bond text has not yet been transcribed and page-level archival evidence has not been locked.",
+      "notes": "Primary-source lead strengthened 2026-10-18. The Arquivo Histórico da Câmara dos Deputados catalogue identifies a two-page handwritten item dated 6 August 1829, presented in the Chamber session of 8 August 1829. Its title states that the Finance Minister forwarded a copy of a decree concerning a loan made with N. M. Rothschild and T. Wilson & Company, and could not provide further information because the deed and other operation documents were absent. The same archive links the published parliamentary annals, 8 August 1829, p. 24, col. 1. This is direct contemporary evidence for the named parties and the documentary gap, not proof of the loan's full terms. The Rothschild Archive separately describes a £400,000 loan in 1829 for debt service; the exact relationship between that account and the parliamentary item needs direct text comparison.",
       "primary_passage": "raising a loan of £400,000 in 1829 specifically to service Brazil's existing debts",
-      "passage_locator": "The Rothschild Archive, 'Rothschilds & Brazil: Financing the new nation'; discussion of the 1829 £400,000 debt-service loan. Direct original contract/bond locator pending.",
-      "passage_status": "Provisional passage — wording is from the Rothschild Archive's published archival account; direct primary-document transcription is required before A-grade upgrade.",
-      "passage_source_url": "https://www.rothschildarchive.org/materials/ar2003.pdf",
-      "passage_type": "archival-account-of-primary-document",
+      "passage_locator": "Arquivo Histórico da Câmara dos Deputados, item BR DFCD CD1-1-OFI-1829-40106-0298; original dated 6 August 1829; presented in Annaes do Parlamento Brazileiro, Câmara dos Senhores Deputados, 4th year of the 1st legislature, session of 8 August 1829, vol. 5, p. 24, col. 1. The official catalogue describes the item as a two-page handwritten Finance Minister's letter and states the deed and other transaction documents were unavailable. Catalogue record: https://arquivohistorico.camara.leg.br/index.php/br-dfcd-cd1-1-ofi-1829-40106-0298",
+      "passage_status": "Grade B retained — contemporary official record and exact archive locator now identified. Direct transcription of the two-page handwritten letter remains pending; the archive catalogue itself says the deed and other transaction papers were unavailable, so full contract terms cannot be reconstructed from this item alone.",
+      "passage_source_url": "https://arquivohistorico.camara.leg.br/index.php/br-dfcd-cd1-1-ofi-1829-40106-0298",
+      "passage_type": "contemporary-official-archival-catalogue-for-handwritten-letter",
       "language": "English",
-      "last_verified": "2026-10-05",
-      "source_identity": "1829 Brazilian debt-service loan associated with N M Rothschild; Rothschild Archive materials.",
-      "edition": "The Rothschild Archive, Rothschilds & Brazil; archival discussion and surviving loan documentation.",
-      "publisher": "The Rothschild Archive",
+      "last_verified": "2026-10-18",
+      "source_identity": "Ofício do Ministro da Fazenda à Câmara dos Deputados, 6 August 1829; Arquivo Histórico da Câmara dos Deputados, BR DFCD CD1-1-OFI-1829-40106-0298; presented in Annaes do Parlamento Brazileiro, session of 8 August 1829, vol. 5, p. 24, col. 1.",
+      "edition": "Annaes do Parlamento Brazileiro, Câmara dos Senhores Deputados, 4º anno da 1ª legislatura, sessão de 8 de agosto de 1829, Tomo quinto, p. 24, 1ª coluna (1982 edition cited by archive catalogue).",
+      "publisher": "Arquivo Histórico da Câmara dos Deputados; Câmara dos Deputados",
       "publication_year": 1829,
-      "what_passage_establishes": "The passage establishes the Rothschild Archive's documented account that Nathan raised a £400,000 Brazilian loan in 1829 specifically to service existing debts.",
-      "evidence_limits": "It does not yet establish the exact original contractual wording, complete security terms, or whether Rothschild supplied capital from its own balance sheet. Those points require direct primary-document transcription.",
+      "what_passage_establishes": "The official catalogue identifies a contemporary Finance Minister's letter as concerning a loan made with N. M. Rothschild and T. Wilson & Company, and records that further details were unavailable because the deed and other transaction documents were absent. The Rothschild Archive's £400,000 debt-service description is a separate archival account and should not be treated as text from this letter until the original is transcribed.",
+      "evidence_limits": "The original letter has not yet been transcribed from its scan, and the underlying deed and other transaction papers were reported missing from the government file. The catalogue alone does not establish the loan's exact amount, interest, maturity, security, issue price, syndicate allocation, or whether the loan is identical in every respect to the £400,000 debt-service loan described by The Rothschild Archive. It does not establish Rothschild supplied the entire capital from its own balance sheet.",
       "related_banking_power_records": [
         "rothschild-brazil-loan-1825",
         "rothschild-portuguese-loan-1823",
         "baring-mexican-debt-agency-1829"
       ],
       "scholarly_references": [
-        "The Rothschild Archive, Rothschilds & Brazil: Financing the new nation."
+        "The Rothschild Archive, Rothschilds & Brazil: Financing the new nation.",
+        "The Rothschild Archive, “Rothschilds & Brazil: Financing the new nation,” https://www.rothschildarchive.org/exhibitions/brazil/financing_the_new_nation."
       ],
-      "publication_status": "B-grade — strong archival lead with surviving documentation identified; direct primary scan transcription remains the upgrade requirement.",
+      "publication_status": "B-grade — contemporary official archival item identified; transcribe the 6 August 1829 letter and compare with the Rothschild Archive account before any upgrade.",
       "year": 1829,
       "book_1_integration": {
         "status": "Provisional chronology mapping",
@@ -996,7 +997,8 @@
           "global_power_network"
         ]
       },
-      "deployment_note": "Added as a qualified Sovereign Debt candidate; upgrade only after direct 1829 primary-document transcription."
+      "deployment_note": "Qualified Sovereign Debt / Banking Dynasties evidence. The official archive confirms the named banking houses but explicitly records the absence of the deed and related operation documents; do not invent terms.",
+      "primary_document_text_status": "Original handwritten text not yet transcribed; only official catalogue metadata and parliamentary citation checked."
     },
     {
       "source_id": "greek-loan-guarantee-convention-1832",
