@@ -1,6 +1,6 @@
 {
   "book": "book-1",
-  "source_note": "200-record master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
+  "source_note": "Master database for the Global Banking Power Timeline, 1600–2026. Grade A is reserved for primary legal documents or sufficiently direct official/contemporary archival records; Grade B records remain explicitly qualified until their primary passages are locked.",
   "sources": [
     {
       "source_id": "wisselbank-1609",
@@ -10620,6 +10620,59 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-railway-concession-inquiry-pending-1896",
+      "title": "Indian Railway Concession Applications: Inquiry Still Awaiting Government of India Reply, 1896",
+      "date_label": "11 August 1896",
+      "year": 1896,
+      "evidence_grade": "A",
+      "historical_claim": "The Secretary of State for India reported that an inquiry into applications for railway-building concessions under the Government of India's 1893 scheme had been initiated by letter on 26 June 1896, but the Government of India's reply had not yet arrived and the promised return therefore remained pending.",
+      "verification_status": "Exact official Hansard answer verified; it records the inquiry's status and the pending return, not the underlying applications or final decisions.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1896/aug/11/railways-in-india",
+      "bn_title": "ভারতে রেলওয়ে ছাড়ের আবেদন: ১৮৯৬ সালে তদন্তের উত্তর এখনও অপেক্ষমাণ",
+      "bn_historical_claim": "ভারতসচিব জানান যে ১৮৯৩ সালের রেলপথ নির্মাণ-ছাড় প্রকল্পের আবেদন নিয়ে ২৬ জুন ১৮৯৬ তারিখে ভারত সরকারের কাছে চিঠি দিয়ে তদন্ত শুরু করা হয়েছিল; ১১ আগস্টেও উত্তর আসেনি, ফলে প্রতিশ্রুত বিবরণী সংসদে পেশ করা যায়নি।",
+      "notes": "This is a process/status record. It shows that concession applications under the 1893 scheme were subject to an inquiry and that the promised return was delayed as of 11 August 1896. It does not identify applicants, concession terms, guarantees, capital amounts, approved routes, or the eventual outcome. Do not infer that the delay proves wrongdoing or a particular financing arrangement.",
+      "primary_passage": "The promised Inquiry was duly made by a letter addressed to the Government of India on the 26th June, but sufficient time has not yet elapsed for receipt of a reply. As soon as the Return is received it will be laid upon the Table.",
+      "passage_locator": "House of Commons Debates, 11 August 1896, 4th series, vol. 44, col. 485; Lord George Hamilton's answer to Mr. Mancherjee Bhownaggree.",
+      "passage_status": "Exact passage and Hansard column locator verified against the official Hansard transcript.",
+      "passage_type": "official-parliamentary-transcript",
+      "language": "English",
+      "last_verified": "2026-10-25",
+      "source_identity": "House of Commons question by Mr. Mancherjee Bhownaggree and answer by the Secretary of State for India, Lord George Hamilton, concerning the inquiry into railway concession applications under the Government of India's 1893 scheme.",
+      "edition": "Hansard, House of Commons Debates, 11 August 1896, 4th series, vol. 44, col. 485.",
+      "publisher": "UK Parliament / Hansard",
+      "publication_year": 1896,
+      "what_passage_establishes": "By 11 August 1896, the Secretary of State said he had written to the Government of India on 26 June to conduct the promised inquiry into applications for railway-building concessions under the 1893 scheme. The reply had not yet arrived; the promised return would be tabled after receipt.",
+      "evidence_limits": "The answer is a ministerial statement about procedural status. It is not the promised return and supplies no applicant list, concession agreement, guarantee, financial terms, route-level decision, or outcome. It cannot alone establish favoritism, private banking involvement, or the ultimate cost to Indian revenues.",
+      "related_banking_power_records": [
+        "india-railway-extension-three-year-programme-1896",
+        "india-railway-traffic-receipts-decline-short-crops-1896"
+      ],
+      "scholarly_references": [
+        "House of Commons Debates, 11 August 1896, vol. 44, col. 485."
+      ],
+      "publication_status": "A-grade official parliamentary passage; inquiry status locked. Follow-up needed: locate the promised return or subsequent answer identifying the applications and decisions.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: National banking and nineteenth-century state finance",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1896
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12306,7 +12359,7 @@
       }
     }
   },
-  "next_priority": "Next: continue 1896 primary-source screening for Indian railway earnings, railway finance, and fiscal obligations. The 31 July traffic-receipts record reports a 619,950-tens-of-rupees decrease in gross earnings for 1 January–6 June 1896 compared with 1895; treat the stated crop/scarcity explanation as the Secretary of State's attribution, not independently proven causation. Seek the underlying railway traffic returns if accessible, then screen the 11 August 1896 'Railways in India' answer for distinct evidence.",
+  "next_priority": "Next: follow the promised return on Indian railway concession applications under the Government of India's 1893 scheme. The 11 August 1896 answer says the inquiry letter was sent on 26 June but the reply had not arrived. Search later Hansard sittings and official returns for the applicant list and decisions; do not infer concession terms from this procedural answer. Continue 1896 railway finance screening only where new passages add distinct evidence.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -13906,7 +13959,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 206,
+  "source_count": 207,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
@@ -14529,5 +14582,13 @@
       "B": 5
     },
     "notes": "Added distinct 1921 refinancing evidence: £103m maturing domestic Exchequer Bonds and £80m external debt, mostly US/Canada, provided for through new loan issues; the Chancellor stated the external debt was thereby converted into internal debt. Kept separate from the February Indian exchange crisis and June Indian sterling loan."
+  },
+  "structural_audit_2026_10_25_v125": {
+    "audit_date": "2026-10-25",
+    "record_count": 207,
+    "duplicate_source_ids": [],
+    "missing_year_fields": [],
+    "chronological_order": "not asserted; records are maintained in deployment order rather than strict array chronology",
+    "notes": "Added a distinct 11 August 1896 official parliamentary process record on the inquiry into railway-concession applications under the 1893 Government of India scheme. Exact answer and printed Hansard locator (vol. 44, col. 485) verified. Record does not claim the promised return or underlying applications were obtained."
   }
 }
