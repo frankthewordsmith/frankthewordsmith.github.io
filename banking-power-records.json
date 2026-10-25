@@ -10567,6 +10567,59 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-railway-traffic-receipts-decline-short-crops-1896",
+      "title": "Indian Railway Traffic Receipts: Decline During Short Crops, 1896",
+      "date_label": "31 July 1896",
+      "year": 1896,
+      "evidence_grade": "A",
+      "historical_claim": "The Secretary of State for India told the Commons that gross earnings of Indian railways had decreased by 619,950 tens of rupees between 1 January and 6 June 1896 compared with the same period in 1895, attributing the decrease to short crops and consequent scarcity rather than, so far as he knew, permanent causes.",
+      "verification_status": "Official Hansard transcript inspected; exact passage and printed volume/column locator verified.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1896/jul/31/indian-railways-traffic-receipts",
+      "primary_passage": "The latest returns show a decrease of 619,950 tens of rupees in the gross earnings of Indian railways from the 1st January to 6th June 1896, as compared with the corresponding period of 1895. This decrease is attributable to short crops and some consequent scarcity—but not, so far as I am aware, to causes of a permanent nature.",
+      "passage_locator": "House of Commons, Hansard, “INDIAN RAILWAYS (TRAFFIC RECEIPTS),” 31 July 1896, vol. 43, cols. 1252–1253; Lord George Hamilton’s answer at col. 1253.",
+      "passage_status": "Passage checked against official Hansard transcript. The figure concerns gross earnings over a stated comparison period; the explanation is the Secretary of State’s attribution, not an independent causal analysis.",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "source_identity": "Official House of Commons Hansard report of a parliamentary question to the Secretary of State for India and Lord George Hamilton’s answer.",
+      "edition": "Hansard, House of Commons, 31 July 1896, vol. 43, cols. 1252–1253.",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1896,
+      "what_passage_establishes": "By 31 July 1896, the Secretary of State reported a year-on-year fall of 619,950 tens of rupees in gross Indian railway earnings for 1 January–6 June and attributed it to short crops and associated scarcity, while disclaiming knowledge of permanent causes.",
+      "evidence_limits": "This is a ministerial report of the latest returns, not the underlying railway return itself. It establishes the figure and official explanation stated in Parliament, not that the explanation is independently proven, that net profits fell by the same amount, or that the fall changed the full-year fiscal outcome.",
+      "bn_title": "ভারতীয় রেলপথের আয় হ্রাস: ১৮৯৬ সালের স্বল্প ফসলের প্রভাব",
+      "bn_historical_claim": "ভারতবিষয়ক সচিব ১৮৯৬ সালের ৩১ জুলাই কমন্সসভায় জানান, ১৮৯৫ সালের একই সময়ের তুলনায় ১৮৯৬ সালের ১ জানুয়ারি থেকে ৬ জুন পর্যন্ত ভারতীয় রেলপথের মোট আয় ৬১৯,৯৫০ দশ-রুপি কমেছিল। তাঁর মতে, হ্রাসটি স্বল্প ফসল ও তার ফলে সৃষ্ট অভাবের সঙ্গে সম্পর্কিত; তাঁর জানা মতে এটি স্থায়ী কোনো কারণের ফল ছিল না।",
+      "notes": "The figure is expressed in 'tens of rupees' as in the parliamentary transcript; do not silently convert it to ordinary rupees without noting the unit. The reported amount therefore equals 6,199,500 rupees if the accounting unit is interpreted literally as ten rupees per unit. Preserve the original unit in the evidence quotation.",
+      "related_banking_power_records": [
+        "india-railway-extension-three-year-programme-1896",
+        "east-india-revenue-accounts-exchange-costs-and-borrowing-policy-1896",
+        "east-india-railway-finance-1861-home-treasury"
+      ],
+      "scholarly_references": [
+        "Primary source: House of Commons, Hansard, “INDIAN RAILWAYS (TRAFFIC RECEIPTS),” 31 July 1896, vol. 43, cols. 1252–1253."
+      ],
+      "publication_status": "A-grade — official parliamentary statement with exact passage and printed column locator; causal attribution remains attributed to the minister.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1896
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12253,7 +12306,7 @@
       }
     }
   },
-  "next_priority": "Next: continue 1896 primary-source screening, prioritizing distinct documents on Indian railway finance, public borrowing, and fiscal obligations. New 20 July 1896 Hansard railway-extension record is A-grade for the Government's stated three-year programme (27 crore rupees) and separate private branch-line capital, but only as a plan/forecast—not proof of actual expenditure or financing. Keep the 1896–97 realized account cross-check linked to the 1898–99 official explanatory memorandum.",
+  "next_priority": "Next: continue 1896 primary-source screening for Indian railway earnings, railway finance, and fiscal obligations. The 31 July traffic-receipts record reports a 619,950-tens-of-rupees decrease in gross earnings for 1 January–6 June 1896 compared with 1895; treat the stated crop/scarcity explanation as the Secretary of State's attribution, not independently proven causation. Seek the underlying railway traffic returns if accessible, then screen the 11 August 1896 'Railways in India' answer for distinct evidence.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -13853,7 +13906,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 205,
+  "source_count": 206,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
