@@ -10513,6 +10513,60 @@
       "corroborating_primary_passage": "“Surplus (+) or Deficit (-) ... -1,705,022” for the 1896–97 account; the memorandum also states “In 1896-97 the gold value of the rupee was 14·458d., and the charge for Exchange Rx 12,116,399.”",
       "corroborating_passage_locator": "Explanatory Memorandum by the Secretary of State for India, East India: Accounts and Estimates, 1898–99, HMSO, 1898, C.-8882; scan PDF page 2 (printed p. 4), gross revenue and expenditure table; scan PDF page 3 (printed p. 5), 1896–97 comparison table; scan PDF page 7 (printed p. 8), “Exchange” section. Digitized scan: https://dspace.gipe.ac.in/xmlui/bitstream/handle/10973/37765/GIPE-014885-09.pdf?isAllowed=y&sequence=3",
       "corroborating_source_identity": "Official Explanatory Memorandum by the Secretary of State for India, East India: Accounts and Estimates, 1898–99, HMSO, 1898, parliamentary paper C.-8882; includes final Government of India accounts for 1896–97 and exchange-cost discussion."
+    },
+    {
+      "source_id": "india-railway-extension-three-year-programme-1896",
+      "title": "India’s Three-Year Railway Extension Programme and Public/Private Capital, 1896",
+      "date_label": "20 July 1896",
+      "year": 1896,
+      "evidence_grade": "A",
+      "historical_claim": "In a Commons answer, Secretary of State for India Lord George Hamilton stated that provision had been made for 27 crores of rupees of railway-extension expenditure over the three years ending March 1899, and that private branch-line capital would be additional to that limit. He estimated about 12½ crores would be spent on extension during the current financial year.",
+      "verification_status": "Official historic Hansard transcript inspected; exact passage and volume/column locator checked. No duplicate matching this specific exchange was found in the current 204-record dataset.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1896/jul/20/extension-of-railways-india",
+      "bn_title": "ভারতে তিন বছরের রেলপথ সম্প্রসারণ কর্মসূচি ও সরকারি-বেসরকারি মূলধন, ১৮৯৬",
+      "bn_historical_claim": "হাউস অব কমন্সে এক উত্তরে ভারতবিষয়ক সচিব লর্ড জর্জ হ্যামিল্টন জানান, ১৮৯৯ সালের মার্চে শেষ হওয়া তিন বছরে রেলপথ সম্প্রসারণে ২৭ কোটি রুপি ব্যয়ের ব্যবস্থা করা হয়েছে। তিনি আরও বলেন, বেসরকারি উদ্যোগে শাখা রেলপথ নির্মাণের মূলধনী ব্যয় এই সীমার অতিরিক্ত হবে এবং চলতি অর্থবছরে বিদ্যমান ভারতীয় রেলব্যবস্থা সম্প্রসারণে প্রায় সাড়ে ১২ কোটি রুপি ব্যয় হবে বলে অনুমান করা হয়েছিল।",
+      "notes": "This is a distinct primary-source statement about a planned railway extension programme and the treatment of private branch-line capital. The figures describe provision and forecast expenditure, not audited final expenditure or proof that all the planned capital was spent. The answer does not specify the financing mix for the full 27-crore programme; do not infer that the whole amount was borrowed or privately financed.",
+      "primary_passage": "Since the date of the speech referred to by my hon. Friend considerable progress has been made in extending and accelerating schemes of railway construction in India, and, among other measures, provision has been made for an expenditure during the three years ending March 1899, of 27 crores of rupees on railway extension—a sum much in excess of the expenditure of the last three years. In addition to this, favourable terms have been offered to the public for the further extension of Indian railways, by private agency, by the construction of branch lines forming feeders to the existing main systems. Any capital expenditure in connection with such branch lines will be outside the limit of 27 crores before-mentioned. Under both these combined heads of expenditure works of construction are in progress, and a sum of about 12½ crores of rupees will have been expended on the extension of the existing Indian railway system during the present financial year.",
+      "passage_locator": "House of Commons, Hansard, “EXTENSION OF RAILWAYS (INDIA),” 20 July 1896, vol. 43, cols. 146–147; Lord George Hamilton’s answer, col. 147.",
+      "passage_status": "Passage locked — wording checked against official Hansard transcript. The statement concerns planned/provisioned expenditure and a forecast, not final audited spending.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1896/jul/20/extension-of-railways-india",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-25",
+      "source_identity": "Official Hansard report of a House of Commons question on extension of railways in India; answer by Lord George Hamilton, Secretary of State for India.",
+      "edition": "Hansard, House of Commons, 20 July 1896, vol. 43, cols. 146–147, “EXTENSION OF RAILWAYS (INDIA).”",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1896,
+      "what_passage_establishes": "The Secretary of State told Parliament that provision had been made for 27 crores of rupees of railway-extension expenditure over three years to March 1899; private branch-line capital was to be additional to that programme limit; and roughly 12½ crores was forecast for railway extension in the current financial year.",
+      "evidence_limits": "This is an official statement of planned expenditure and forecast, not an audited outcome. It does not establish that all projected spending occurred, how the entire programme was financed, or that all railway capital was debt-funded. The statement is the Secretary of State’s account to Parliament, not an independent audit.",
+      "related_banking_power_records": [
+        "east-india-revenue-accounts-exchange-costs-and-borrowing-policy-1896",
+        "east-india-railway-finance-1861-home-treasury"
+      ],
+      "scholarly_references": [
+        "Primary source: House of Commons, Hansard, “EXTENSION OF RAILWAYS (INDIA),” 20 July 1896, vol. 43, cols. 146–147."
+      ],
+      "publication_status": "A-grade — official parliamentary statement with exact passage and column locator; financial figures are stated as planned/provisioned expenditure and forecast.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1896
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12199,7 +12253,7 @@
       }
     }
   },
-  "next_priority": "Next 1896 screening: use the newly inspected 1898–99 official explanatory memorandum only to cross-check realized 1896–97 accounts (deficit Rx 1,705,022; exchange charge Rx 12,116,399; rupee gold value 14.458d). Do not conflate this later realized account with estimates or the 1896 speech. Resume searching for a distinct 1896 primary source not duplicated by the August budget debate, March bimetallism debate, June exchange-compensation question, or 1895 records; retain exact passage and printed locator standard.",
+  "next_priority": "Next: continue 1896 primary-source screening, prioritizing distinct documents on Indian railway finance, public borrowing, and fiscal obligations. New 20 July 1896 Hansard railway-extension record is A-grade for the Government's stated three-year programme (27 crore rupees) and separate private branch-line capital, but only as a plan/forecast—not proof of actual expenditure or financing. Keep the 1896–97 realized account cross-check linked to the 1898–99 official explanatory memorandum.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -13799,7 +13853,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 204,
+  "source_count": 205,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
