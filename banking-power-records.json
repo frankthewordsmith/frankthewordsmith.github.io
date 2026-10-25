@@ -10449,6 +10449,66 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "east-india-revenue-accounts-exchange-costs-and-borrowing-policy-1896",
+      "title": "East India Revenue Accounts: Exchange Losses, Indian Surpluses and Borrowing Policy, 1896",
+      "date_label": "13 August 1896",
+      "year": 1896,
+      "evidence_grade": "A",
+      "historical_claim": "In the 1896 Indian Budget statement, Secretary of State for India Lord George Hamilton attributed major year-to-year changes in Indian fiscal results to rupee exchange movements, reported that the last two years' expenditure in Britain had been met without a loan, and described a policy of borrowing for future railway investment first in India before turning to foreign borrowing. He also reported that India’s recent sterling loan had been issued at 3 per cent and taken up at 103⅛.",
+      "verification_status": "Exact official historic Hansard text inspected; passage and column locator checked against the 13 August 1896 debate.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1896/aug/13/east-india-revenue-accounts-indian-budget",
+      "bn_title": "ভারতের রাজস্ব হিসাব: বিনিময়জনিত ক্ষতি, উদ্বৃত্ত ও ঋণনীতি, ১৮৯৬",
+      "bn_historical_claim": "১৮৯৬ সালের ভারতীয় বাজেট-বক্তব্যে ভারতবিষয়ক সচিব লর্ড জর্জ হ্যামিল্টন রুপির বিনিময় হারের ওঠানামাকে ভারতীয় অর্থবছরের ফলাফলের বড় পরিবর্তনের একটি কারণ হিসেবে তুলে ধরেন। তিনি বলেন, আগের দুই বছরের ব্রিটেনে হওয়া ব্যয় ঋণ ছাড়াই মেটানো হয়েছে এবং ভবিষ্যৎ রেলপথ বিনিয়োগের জন্য প্রথমে ভারতে ঋণ সংগ্রহ করে পরে প্রয়োজনে বিদেশি ঋণের দিকে যাওয়ার নীতি গ্রহণ করা হয়েছে। তিনি আরও জানান, সাম্প্রতিক ভারতীয় স্টার্লিং ঋণ ৩ শতাংশে ইস্যু হয়ে ১০৩⅛ দরে গ্রহণ করা হয়েছিল।",
+      "notes": "This is a distinct annual fiscal statement, not merely a repetition of the 1895 London-obligations figures or the March 1896 bimetallism policy debate. The statement is by the Secretary of State and reflects the Government's presentation of the accounts; its claims should be attributed to him. His description of exchange as speculative and difficult to predict is an official characterization, not a neutral measure of market behavior.",
+      "primary_passage": "I think I can congratulate the House on the fact that for the first time since 1891, the Secretary of State for India is able to show a surplus for each year, and that which makes those surpluses more satisfactory is the fact that they are honest surpluses, and the total expenditure in this country for the last two years has been defrayed without a loan. Whenever loans are raised in this country they affect exchange in two ways—namely, by diminishing the amount of bills on India, and by their being sold at a higher rate. ... This improvement in Indian finance has greatly improved the borrowing power of the Indian Government, and the credit of the Indian Government to-day stands in an unparalleled position. ... this year we made the experiment of raising a 3 per cent. loan in England, and it was covered three times over and taken up at 103⅛. ... The obligations in gold, which year by year have to be met, mainly arise in connection with home charges, and there is no possibility of their being diminished. ... The fall in the value of the rupee of one-tenth of a penny causes a loss of 22 lakhs; or, in other words, a fall in exchange of a penny means a loss in the revenue of the year of 220 lakhs of rupees.",
+      "passage_locator": "House of Commons, Hansard, “EAST INDIA REVENUE ACCOUNTS (INDIAN BUDGET),” 13 August 1896, vol. 44, cols. 758–811; Lord George Hamilton's financial statement, especially cols. 764–766, online transcript paragraphs 50–57.",
+      "passage_status": "Passage locked — wording checked against official Hansard. Excerpts are separated by ellipses; use the column locator to inspect the surrounding argument. Financial figures and policy positions are attributed to Lord George Hamilton.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1896/aug/13/east-india-revenue-accounts-indian-budget",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-25",
+      "source_identity": "Official historic Hansard report of the House of Commons debate on the East India Revenue Accounts (Indian Budget), with the opening financial statement by Lord George Hamilton, Secretary of State for India.",
+      "edition": "Hansard, House of Commons, 13 August 1896, vol. 44, cols. 758–811, “EAST INDIA REVENUE ACCOUNTS (INDIAN BUDGET).”",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1896,
+      "what_passage_establishes": "The Secretary of State presented Indian fiscal outcomes as highly sensitive to exchange movements; reported surpluses for recent years and no borrowing to meet British expenditure in the preceding two years; described the terms achieved on a recent sterling loan; and stated that future railway borrowing should first draw on the Indian loan market before resorting to foreign loans. He quantified the reported fiscal effect of a one-penny rupee exchange movement as 220 lakhs of rupees for the year.",
+      "evidence_limits": "This establishes what the Secretary of State told Parliament, not an independent audit of every figure or proof that exchange changes alone determined the fiscal position. The stated policy of borrowing first in India does not mean foreign borrowing ended permanently. The passage does not by itself establish the full distributional impact on Indian taxpayers, traders, or workers.",
+      "related_banking_power_records": [
+        "india-london-obligations-exchange-burden-1895",
+        "india-four-percent-rupee-loan-conversion-3-half-1895",
+        "east-india-loan-10000000-1893",
+        "british-government-currency-policy-international-bimetallism-1896",
+        "india-exchange-compensation-allowance-legal-dispute-1896",
+        "india-treasure-imports-mint-closure-aftermath-1895"
+      ],
+      "scholarly_references": [
+        "Primary source: House of Commons, Hansard, “EAST INDIA REVENUE ACCOUNTS (INDIAN BUDGET),” 13 August 1896. The underlying explanatory memorandum and gross statutory accounts should be consulted to independently check the figures."
+      ],
+      "publication_status": "A-grade — official parliamentary financial statement with exact passage and column locator; figures and interpretations remain attributed to the Secretary of State.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1896
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "sovereign_debt",
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12135,7 +12195,7 @@
       }
     }
   },
-  "next_priority": "Continue 1896 screening for distinct primary-source layers on Indian currency administration and exchange compensation; distinguish official financial accounts from policy debate, avoid duplicating the March 1896 bimetallism debate or 1895 treasure-import figures, then advance chronologically when no distinct record remains.",
+  "next_priority": "Continue 1896 screening for any distinct primary record not already represented by the August Indian Budget debate, March bimetallism debate, June exchange-compensation question, or 1895 revenue/currency records. Prioritize the underlying explanatory memorandum/statutory accounts for independent verification; avoid duplicate debate summaries.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -13735,7 +13795,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 203,
+  "source_count": 204,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
