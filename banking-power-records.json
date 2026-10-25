@@ -10391,6 +10391,64 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-exchange-compensation-allowance-legal-dispute-1896",
+      "title": "India’s Exchange Compensation Allowance and the Legal Status of Salary Protection, 1896",
+      "date_label": "16 June 1896",
+      "year": 1896,
+      "evidence_grade": "A",
+      "historical_claim": "In a Commons question about Indian civil servants whose salaries were fixed by statute, Sir Seymour King described exchange-compensation payments as compensation for losses caused by the fall in exchange. Secretary of State for India Lord George Hamilton replied that the legal question was still under consideration and that no decision on repayment of previously paid allowances would be taken until it was settled.",
+      "verification_status": "Exact question and ministerial answer checked against the official historic Hansard transcript for 16 June 1896.",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1896/jun/16/exchange-compensation-allowance-india",
+      "bn_title": "ভারতে বিনিময়-ক্ষতিপূরণ ভাতা ও বেতন-সুরক্ষার আইনি প্রশ্ন, ১৮৯৬",
+      "bn_historical_claim": "১৮৯৬ সালের ১৬ জুন কমন্সে আইন দ্বারা নির্ধারিত বেতনের ভারতীয় সরকারি কর্মচারীদের বিনিময়-ক্ষতিপূরণ ভাতা নিয়ে প্রশ্ন ওঠে। স্যার সেমুর কিং বলেন, বিনিময় হার পতনের ক্ষতির ক্ষতিপূরণ হিসেবে ভাতা দেওয়া হচ্ছিল। ভারতবিষয়ক সচিব লর্ড জর্জ হ্যামিল্টন জানান, বিষয়টির আইনি দিক তখনও বিবেচনাধীন এবং তা নিষ্পত্তি না হওয়া পর্যন্ত আগে দেওয়া অর্থ ফেরত নেওয়ার সিদ্ধান্ত হবে না।",
+      "notes": "Distinct from the March 1896 debate over international bimetallism: this is a specific administrative/legal dispute over compensation allowances for Indian officials affected by exchange depreciation. The questioner's description of the policy and the Secretary of State's reply must remain attributed to their speakers.",
+      "primary_passage": "The questioner asked whether officers whose salaries were regulated by statute would be barred from receiving the allowance and required to refund sums already received, describing the allowance as compensation for losses caused by the fall in exchange. Lord George Hamilton replied: “The question as to the possibility of granting exchange allowance to officers whose salaries are regulated by statute is a legal one; and I believe that the Government of India are now giving their attention to it. Until the legal question shall have been finally settled, no decision on the question of refunding will be taken.”",
+      "passage_locator": "House of Commons, Hansard, “EXCHANGE COMPENSATION ALLOWANCE (INDIA),” 16 June 1896, vol. 41, col. 1153; question by Sir Seymour King and answer by Secretary of State for India Lord George Hamilton, online transcript paragraphs 10–13.",
+      "passage_status": "Passage locked — exact official parliamentary wording checked. The claim about exchange losses is attributed to the questioner; the minister's answer establishes only the government's stated legal position at that date.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1896/jun/16/exchange-compensation-allowance-india",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-25",
+      "source_identity": "Official historic Hansard record of a House of Commons question and answer on exchange compensation allowances for Indian officers; question by Sir Seymour King, answer by Lord George Hamilton, Secretary of State for India.",
+      "edition": "Hansard, House of Commons, 16 June 1896, vol. 41, col. 1153, “EXCHANGE COMPENSATION ALLOWANCE (INDIA).”",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1896,
+      "what_passage_establishes": "The exchange-compensation allowance for certain Indian officers raised a legal question where salaries were regulated by statute. The Secretary of State stated that the Government of India was considering the legal issue and that repayment would not be decided before that issue was resolved.",
+      "evidence_limits": "This brief exchange does not establish the final legal outcome, the total amounts paid or potentially recoverable, how many officers were affected, or the actual economic incidence of rupee depreciation. The claim that allowances compensated losses from falling exchange is stated by the questioner, not independently demonstrated in this passage.",
+      "related_banking_power_records": [
+        "british-government-currency-policy-international-bimetallism-1896",
+        "india-mints-closed-free-silver-coinage-1893",
+        "india-currency-commission-report-exchange-1888",
+        "india-currency-question-international-agreement-1889",
+        "india-treasure-imports-mint-closure-aftermath-1895"
+      ],
+      "scholarly_references": [
+        "Primary source: House of Commons, Hansard, “EXCHANGE COMPENSATION ALLOWANCE (INDIA),” 16 June 1896. Follow-up research should locate the Government of India legal decision and salary/allowance rules before asserting the outcome."
+      ],
+      "publication_status": "A-grade — exact official parliamentary question and ministerial answer with column locator; establishes the stated legal position, not the final outcome.",
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1896
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "global_power_network",
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
@@ -12077,7 +12135,7 @@
       }
     }
   },
-  "next_priority": "Complete 1895 screening for any remaining distinct primary layer, then advance to the next chronological year rather than duplicating the 1895 currency, Council-bill, debt, conversion, or London-obligation records.",
+  "next_priority": "Continue 1896 screening for distinct primary-source layers on Indian currency administration and exchange compensation; distinguish official financial accounts from policy debate, avoid duplicating the March 1896 bimetallism debate or 1895 treasure-import figures, then advance chronologically when no distinct record remains.",
   "structural_audit_2026_10_05_v33": {
     "status": "Completed after 1871 Lahore–Peshawur State railway implementation deployment",
     "records_audited": 103,
@@ -13677,7 +13735,7 @@
     },
     "notes": "Added distinct 1895 parliamentary evidence describing Indian borrowing credit as having reached its highest point yet; no numerical rating or individual loan terms are inferred."
   },
-  "source_count": 200,
+  "source_count": 203,
   "structural_audit_2026_10_07_v91": {
     "audit_date": "2026-10-07",
     "record_count": 167,
