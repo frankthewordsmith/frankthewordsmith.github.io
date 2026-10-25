@@ -10335,6 +10335,62 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "british-government-currency-policy-international-bimetallism-1896",
+      "title": "British Government’s Position on International Bimetallism and Currency Change, 1896",
+      "date_label": "17 March 1896",
+      "historical_claim": "In the House of Commons currency debate, Chancellor of the Exchequer Sir Michael Hicks Beach argued that fixing a gold–silver ratio by international agreement faced substantial uncertainty and risk, and said he saw no general condition in Britain that justified changing its currency system at that time.",
+      "verification_status": "Exact passage and locator checked against the official historic Hansard transcript for 17 March 1896, volume 38, columns 1181–1253.",
+      "evidence_grade": "A",
+      "source_url": "https://api.parliament.uk/historic-hansard/commons/1896/mar/17/currency",
+      "bn_title": "আন্তর্জাতিক দ্বিধাতব মুদ্রাব্যবস্থা ও মুদ্রানীতি পরিবর্তন সম্পর্কে ব্রিটিশ সরকারের অবস্থান, ১৮৯৬",
+      "bn_historical_claim": "১৮৯৬ সালের ১৭ মার্চ হাউস অব কমন্সের মুদ্রা-বিষয়ক বিতর্কে অর্থমন্ত্রী স্যার মাইকেল হিক্স বিচ বলেন, আন্তর্জাতিক চুক্তির মাধ্যমে স্বর্ণ ও রূপার নির্দিষ্ট বিনিময় অনুপাত স্থাপন করা অনিশ্চয়তা ও ঝুঁকিতে পূর্ণ; সে সময় ব্রিটেনের সামগ্রিক পরিস্থিতি তার মুদ্রাব্যবস্থা পরিবর্তনের পক্ষে যথেষ্ট কারণ দেয় না বলে তিনি মত দেন।",
+      "notes": "This is a government policy-position record, distinct from the 1893 mint-closure implementation and the 1895 Indian revenue-account figures. It records the Chancellor's stated argument, not an objective finding that bimetallism was impossible or that all economic groups agreed with the government.",
+      "primary_passage": "As far as I am able to understand the matter, it seems quite impossible to fix a ratio—which shall be absolutely independent of the market fluctuations between two articles like gold and silver, both of them used for other purposes besides the coinage for which that ratio would be fixed, and one of them capable of being produced in almost unlimited quantities. But, on the other hand, I do not by any means imply that, if an international agreement of the kind suggested by my hon. Friend were undertaken by a sufficient number of nations for the purpose of fixing a ratio between gold and silver for coinage purposes, that agreement would not influence the market fluctuations between the two metals, and possibly bring these two metals nearer together in value than they are at present. ... What I really wish to impress upon the House is its extreme difficulty and complexity, its vast importance to the country ... and the extreme danger of altering the currency without we are absolutely sure that the circumstances warrant it.",
+      "passage_locator": "House of Commons, Hansard, “CURRENCY,” 17 March 1896, vol. 38, cols. 1181–1253; Chancellor of the Exchequer Sir Michael Hicks Beach's speech, online transcript paragraphs around 92–100.",
+      "passage_status": "Passage locked — exact official parliamentary wording checked. This record captures the speaker’s policy position and should not be treated as neutral economic proof.",
+      "passage_source_url": "https://api.parliament.uk/historic-hansard/commons/1896/mar/17/currency",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-25",
+      "source_identity": "Official historic Hansard report of the House of Commons debate on currency on 17 March 1896; statement by Chancellor of the Exchequer Sir Michael Hicks Beach.",
+      "edition": "Hansard, House of Commons, 17 March 1896, vol. 38, cols. 1181–1253, “CURRENCY.”",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1896,
+      "what_passage_establishes": "The Chancellor publicly argued that an international fixed gold–silver ratio would be difficult to insulate from market forces, while acknowledging that an agreement might influence relative market values. He stressed the complexity and risks of currency alteration and said the existing British currency system did not then warrant change.",
+      "evidence_limits": "This establishes the Chancellor's stated policy argument in a parliamentary debate. It does not establish that international bimetallism could never work, quantify the impact of the Indian rupee regime, or represent a consensus among all speakers or affected populations.",
+      "related_banking_power_records": [
+        "india-mints-closed-free-silver-coinage-1893",
+        "india-currency-commission-report-exchange-1888",
+        "india-currency-question-international-agreement-1889",
+        "india-treasure-imports-mint-closure-aftermath-1895"
+      ],
+      "scholarly_references": [
+        "Primary source: House of Commons, Hansard, “CURRENCY,” 17 March 1896. The 1893 Gold and Silver Commission report is cited within the debate and is a useful companion primary document."
+      ],
+      "publication_status": "A-grade — official parliamentary policy statement with exact passage and locator; attributed argument, not neutral causal evidence.",
+      "year": 1896,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1896
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "global_power_network"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
