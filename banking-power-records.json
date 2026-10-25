@@ -10279,6 +10279,62 @@
           "global_power_network"
         ]
       }
+    },
+    {
+      "source_id": "india-treasure-imports-mint-closure-aftermath-1895",
+      "title": "India’s Treasure Imports and Rupee Circulation After Mint Closure, 1895",
+      "date_label": "4 September 1895",
+      "historical_claim": "In a House of Commons statement on Indian finance, the Secretary of State for India reported that after the mints ceased silver coinage in 1894–95, recorded treasure imports into India fell to Rx. 1,355,000 while older rupees were reportedly returning to circulation.",
+      "verification_status": "Exact passage checked against the official Hansard transcript for 4 September 1895, in the debate “East India Revenue Accounts,” paragraphs discussing treasure imports, mint coinage, and the rupee census.",
+      "evidence_grade": "A",
+      "source_url": "https://hansard.parliament.uk/Commons/1895-09-04/debates/5d14c3cd-7e22-492c-8679-f469e1c98bb7/EastIndiaRevenueAccounts",
+      "bn_title": "টাকশাল বন্ধের পর ভারতে ধনসম্পদ আমদানি ও রুপির প্রচলন, ১৮৯৫",
+      "bn_historical_claim": "১৮৯৫ সালের ৪ সেপ্টেম্বর ব্রিটিশ পার্লামেন্টে ভারতের অর্থনীতি নিয়ে আলোচনায় ভারতের সেক্রেটারি অব স্টেট জানান, ১৮৯৪–৯৫ সালে টাকশালগুলোতে রূপার মুদ্রা তৈরি বন্ধ হওয়ার পর ভারতে নথিভুক্ত ধনসম্পদ আমদানি কমে ১,৩৫৫,০০০ রুপি-সমমূল্যে নেমে আসে; একই সময়ে পুরোনো রুপি আবার প্রচলনে ফিরছিল বলে জানানো হয়।",
+      "notes": "Distinct currency/treasure-flow layer, separate from the 1893 mint-closure implementation record and the 1895 Council-bill sales records. The speech reports concurrent changes; it does not by itself prove mint closure was the sole cause of the fall in treasure imports or the expansion of old-rupee circulation.",
+      "primary_passage": "In the middle of the next year the mints were closed, but the import of treasure had not then ceased, and it amounted to Rx. 14,361,064, while the amount of silver coined in Calcutta and Bombay was Rx. 4,902,000. In 1894–5 the mints altogether ceased to coin, and for the first time there is a great falling-off in the import of treasure, which only amounts to Rx. 1,355,000. Simultaneously with this there is a movement which shows that more rupees are coming into circulation. There is a curious institution called the rupee census, a subject to which Mr. Harrison has paid special attention, and he came to the conclusion last year that there had been a smaller return of old rupees into circulation than was supposed; but this year there is evidence of a distinct expansion of the circulation of old rupees, and he estimates this at about three crores. Assuming that to be correct, of course its effect on the currency is the same as if the mints during this year had coined that amount.",
+      "passage_locator": "House of Commons, Hansard, “East India Revenue Accounts,” 4 September 1895, vol. 36, paragraphs 114–116 in the online transcript (discussion of treasure imports, Calcutta and Bombay coinage, and the rupee census).",
+      "passage_status": "Passage locked — exact official Hansard wording checked. Causal interpretation remains limited to what the speaker explicitly reports.",
+      "passage_source_url": "https://hansard.parliament.uk/Commons/1895-09-04/debates/5d14c3cd-7e22-492c-8679-f469e1c98bb7/EastIndiaRevenueAccounts",
+      "passage_type": "english-primary-text",
+      "language": "English",
+      "last_verified": "2026-10-25",
+      "source_identity": "Official House of Commons Hansard transcript of the Secretary of State for India's statement in the 4 September 1895 debate on East India Revenue Accounts.",
+      "edition": "Hansard, House of Commons, 4 September 1895, vol. 36, “East India Revenue Accounts.”",
+      "publisher": "UK Parliament / House of Commons",
+      "publication_year": 1895,
+      "what_passage_establishes": "The speaker reported that in 1893–94 treasure imports were Rx. 14,361,064 and silver coinage in Calcutta and Bombay was Rx. 4,902,000; for 1894–95, after the mints ceased coinage, treasure imports were Rx. 1,355,000 and the circulation of older rupees was reportedly expanding, estimated at about three crores.",
+      "evidence_limits": "This is a parliamentary report of figures and the speaker's interpretation, not an independent causal analysis. It does not establish that mint closure alone caused the change in treasure imports, nor independently verify the rupee-census estimate.",
+      "related_banking_power_records": [
+        "india-mints-closed-free-silver-coinage-1893",
+        "india-council-bills-record-sales-1894-95",
+        "india-london-obligations-exchange-burden-1895"
+      ],
+      "scholarly_references": [
+        "Primary source: House of Commons, Hansard, “East India Revenue Accounts,” 4 September 1895. For context, consult scholarship on the Indian currency transition, but retain the distinction between this parliamentary report and later interpretation."
+      ],
+      "publication_status": "A-grade primary-source report; exact passage and locator recorded, with causal limits stated.",
+      "year": 1895,
+      "book_1_integration": {
+        "status": "Provisional chronology mapping",
+        "part": "part_2",
+        "part_label": "Book 1 — Part II: Monetary and banking power consolidation",
+        "chapter_assignment": "Pending final chapter-wise manuscript structure",
+        "sequence_year": 1895
+      },
+      "book_1_chapter_mapping": {
+        "status": "Pending authoritative chapter assignment",
+        "candidate_research_clusters": [
+          "monetary_regimes",
+          "sovereign_debt"
+        ],
+        "chapter_number": null,
+        "chapter_title": null,
+        "research_maps": [
+          "monetary_regimes",
+          "sovereign_debt",
+          "global_power_network"
+        ]
+      }
     }
   ],
   "passage_methodology": "Grade A indicates that a primary legal document or sufficiently direct contemporary official record has been identified. Passage status is tracked separately; a record is not treated as passage-locked until the exact wording and document location have been verified.",
